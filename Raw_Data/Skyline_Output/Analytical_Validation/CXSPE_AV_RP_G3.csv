@@ -1,0 +1,1888 @@
+Protein Name,Replicate Name,Precursor Ion Name,Retention Time,Area,Background,Height,Mass Error PPM,Protein
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine,14.29,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine,14.43,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine,14.4,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine,14.36,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine,14.45,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine,14.43,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine,14.47,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine,14.24,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine,14.29,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine,14.17,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_B,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine,14.43,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_C,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine,14.36,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_A,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine,14.5,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_B,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine,14.5,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine,15.29,946,0,1534,4.9,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine,15.73,691409,0,30843,0.7,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine,15.7,135692,0,8359,1.2,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,1-stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine,14.03,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,1-stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine,13.72,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,1-stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine,13.67,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,1-stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine,13.86,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,1-stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine,13.86,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,1-stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine,13.65,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,1-stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine,13.76,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,1-stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine,13.88,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,1-stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine,13.9,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,1-stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine,13.93,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_B,1-stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine,13.79,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_C,1-stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine,13.98,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_A,1-stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine,14.1,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_B,1-stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine,13.9,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,1-stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine,13.65,0,0,0,#N/A,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,1-stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine,13.84,280704,0,28593,0.7,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,1-stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine,13.86,60812,0,8749,0.8,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,"2,4 decadienal",9.8,28080,111859,7433,-2.8,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,"2,4 decadienal",9.84,18235,134206,7283,-2.8,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,"2,4 decadienal",9.62,14868,132915,6073,-3.3,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,"2,4 decadienal",9.94,70725,34296,8826,-2.6,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,"2,4 decadienal",10.04,39179,126116,4593,-2.5,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,"2,4 decadienal",10.11,66274,95389,9179,-2.7,Standards_pos
+Standards_pos,Smp_PS_NS_A,"2,4 decadienal",9.88,20505,78289,6823,-2.1,Standards_pos
+Standards_pos,Smp_PS_NS_B,"2,4 decadienal",9.86,41457,120793,8613,-2.6,Standards_pos
+Standards_pos,Smp_PS_NS_C,"2,4 decadienal",9.66,25823,130901,7378,-2.5,Standards_pos
+Standards_pos,Smp_PS_SAf_A,"2,4 decadienal",9.64,21699,121142,5713,-2.6,Standards_pos
+Standards_pos,Smp_PS_SAf_B,"2,4 decadienal",9.92,69675,87745,8125,-2.2,Standards_pos
+Standards_pos,Smp_PS_SAf_C,"2,4 decadienal",9.88,40583,113812,7936,-2.7,Standards_pos
+Standards_pos,Smp_PS_SBe_A,"2,4 decadienal",9.84,25970,175792,5864,-3.1,Standards_pos
+Standards_pos,Smp_PS_SBe_B,"2,4 decadienal",9.62,162360,45871,12862,-2.8,Standards_pos
+Standards_pos,Smp_PS_SBe_C,"2,4 decadienal",9.87,20270,94179,4626,-2.8,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,"2,4 decadienal",9.42,9522517,414792,2219454,-2.6,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,"2,4 decadienal",9.41,2267531,281404,501044,-2.2,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,"2,4 octadienal",7.21,52607,72184,13074,-2.5,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,"2,4 octadienal",7.28,41171,97465,9157,-2.6,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,"2,4 octadienal",7.26,23070,28083,8994,-2.9,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,"2,4 octadienal",7.2,79806,16212,18099,-2.4,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,"2,4 octadienal",7.25,24774,4169,14065,-2.2,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,"2,4 octadienal",7.25,50933,0,16201,-2.3,Standards_pos
+Standards_pos,Smp_PS_NS_A,"2,4 octadienal",7.2,48600,43525,11967,-2.3,Standards_pos
+Standards_pos,Smp_PS_NS_B,"2,4 octadienal",7.22,21065,21591,11291,-2.6,Standards_pos
+Standards_pos,Smp_PS_NS_C,"2,4 octadienal",7.19,24606,47367,7038,-2.4,Standards_pos
+Standards_pos,Smp_PS_SAf_A,"2,4 octadienal",7.19,28842,27810,9634,-2.2,Standards_pos
+Standards_pos,Smp_PS_SAf_B,"2,4 octadienal",7.03,102063,209350,11760,-2.2,Standards_pos
+Standards_pos,Smp_PS_SAf_C,"2,4 octadienal",7.19,26350,45013,12515,-2.3,Standards_pos
+Standards_pos,Smp_PS_SBe_A,"2,4 octadienal",7.12,93476,109329,14518,-2.5,Standards_pos
+Standards_pos,Smp_PS_SBe_B,"2,4 octadienal",7.18,30992,44230,8984,-2.5,Standards_pos
+Standards_pos,Smp_PS_SBe_C,"2,4 octadienal",7.22,26895,37181,10517,-2.7,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,"2,4 octadienal",7.04,7439907,376969,1440717,-2.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,"2,4 octadienal",7.03,2272563,439225,462041,-2,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,3 Indolebutyric Acid,7.41,1211,0,1808,2.8,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,3 Indolebutyric Acid,7.21,1356,0,3779,0.3,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,3 Indolebutyric Acid,7.01,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,3 Indolebutyric Acid,7.08,2970,0,4039,0.3,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,3 Indolebutyric Acid,6.96,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,3 Indolebutyric Acid,6.96,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,3 Indolebutyric Acid,7.05,152782,0,31060,0.8,Standards_pos
+Standards_pos,Smp_PS_NS_B,3 Indolebutyric Acid,7.03,98940,0,25687,1.4,Standards_pos
+Standards_pos,Smp_PS_NS_C,3 Indolebutyric Acid,7.06,5427,13050,4908,0.1,Standards_pos
+Standards_pos,Smp_PS_SAf_A,3 Indolebutyric Acid,7.25,107864,0,42358,0.8,Standards_pos
+Standards_pos,Smp_PS_SAf_B,3 Indolebutyric Acid,7.25,280054,0,114444,1.5,Standards_pos
+Standards_pos,Smp_PS_SAf_C,3 Indolebutyric Acid,7.26,158023,0,65950,1.3,Standards_pos
+Standards_pos,Smp_PS_SBe_A,3 Indolebutyric Acid,6.66,160935,0,60179,1.4,Standards_pos
+Standards_pos,Smp_PS_SBe_B,3 Indolebutyric Acid,7.15,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,3 Indolebutyric Acid,7.03,146165,0,51815,1.2,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,3 Indolebutyric Acid,7.24,9914661,0,3696274,1.4,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,3 Indolebutyric Acid,7.25,9948472,0,3767475,2,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,3 Indolepropionic Acid,6.09,1705,0,4557,0.1,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,3 Indolepropionic Acid,6.04,4345,0,3628,-0.1,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,3 Indolepropionic Acid,6.25,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,3 Indolepropionic Acid,6.12,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,3 Indolepropionic Acid,6.03,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,3 Indolepropionic Acid,6.07,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,3 Indolepropionic Acid,6.32,2998,0,3397,0.7,Standards_pos
+Standards_pos,Smp_PS_NS_B,3 Indolepropionic Acid,6.16,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,3 Indolepropionic Acid,6.25,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,3 Indolepropionic Acid,6.36,175037,15416,65306,1.2,Standards_pos
+Standards_pos,Smp_PS_SAf_B,3 Indolepropionic Acid,6.37,446738,0,165941,1.3,Standards_pos
+Standards_pos,Smp_PS_SAf_C,3 Indolepropionic Acid,6.36,232453,0,81824,1.2,Standards_pos
+Standards_pos,Smp_PS_SBe_A,3 Indolepropionic Acid,6.37,24439,0,12435,0.4,Standards_pos
+Standards_pos,Smp_PS_SBe_B,3 Indolepropionic Acid,6.29,5021,0,5169,0,Standards_pos
+Standards_pos,Smp_PS_SBe_C,3 Indolepropionic Acid,6.04,135961,0,27182,0.7,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,3 Indolepropionic Acid,6.35,9889899,0,3445438,1,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,3 Indolepropionic Acid,6.35,9542729,213383,3233292,1.6,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,3-Indoleacetonitrile,6.83,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,3-Indoleacetonitrile,6.83,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,3-Indoleacetonitrile,6.78,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,3-Indoleacetonitrile,6.92,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,3-Indoleacetonitrile,6.72,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,3-Indoleacetonitrile,6.74,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,3-Indoleacetonitrile,7.21,1582,0,3544,-1.9,Standards_pos
+Standards_pos,Smp_PS_NS_B,3-Indoleacetonitrile,6.92,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,3-Indoleacetonitrile,6.97,1441,0,2348,-0.8,Standards_pos
+Standards_pos,Smp_PS_SAf_A,3-Indoleacetonitrile,7.07,40379,0,17669,-1.9,Standards_pos
+Standards_pos,Smp_PS_SAf_B,3-Indoleacetonitrile,7.07,44405,0,20080,-1.9,Standards_pos
+Standards_pos,Smp_PS_SAf_C,3-Indoleacetonitrile,7.1,12284,0,5868,-1.3,Standards_pos
+Standards_pos,Smp_PS_SBe_A,3-Indoleacetonitrile,6.83,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_B,3-Indoleacetonitrile,6.69,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,3-Indoleacetonitrile,6.83,0,0,0,#N/A,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,3-Indoleacetonitrile,7.07,130571,0,38301,-2.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,3-Indoleacetonitrile,7.06,114259,0,42350,-1.7,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,3OC10-HSL,8.26,8332,0,4808,1.5,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,3OC10-HSL,7.64,1858,0,2729,0.2,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,3OC10-HSL,7.66,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,3OC10-HSL,7.65,1552,0,2900,0.9,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,3OC10-HSL,7.7,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,3OC10-HSL,7.48,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,3OC10-HSL,7.72,1399,0,3266,1.4,Standards_pos
+Standards_pos,Smp_PS_NS_B,3OC10-HSL,7.66,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,3OC10-HSL,7.5,1703,0,3659,-0.6,Standards_pos
+Standards_pos,Smp_PS_SAf_A,3OC10-HSL,7.85,24881870,243616,7103714,-0.7,Standards_pos
+Standards_pos,Smp_PS_SAf_B,3OC10-HSL,7.86,26355178,554609,7540749,-0.8,Standards_pos
+Standards_pos,Smp_PS_SAf_C,3OC10-HSL,7.85,19385324,231307,5890790,-1,Standards_pos
+Standards_pos,Smp_PS_SBe_A,3OC10-HSL,7.86,13025,0,8038,0.3,Standards_pos
+Standards_pos,Smp_PS_SBe_B,3OC10-HSL,7.85,46366,0,18266,-1.3,Standards_pos
+Standards_pos,Smp_PS_SBe_C,3OC10-HSL,7.86,56480,0,24164,-0.9,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,3OC10-HSL,7.85,87242656,0,22918848,-1.2,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,3OC10-HSL,7.84,81218424,0,22898970,-0.6,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,3OC12-HSL,9.96,8891,0,6124,-7.6,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,3OC12-HSL,9.46,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,3OC12-HSL,9.96,1275,0,2079,-3.2,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,3OC12-HSL,9.97,3181,0,4382,-9,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,3OC12-HSL,9.95,3410,0,2907,-3.7,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,3OC12-HSL,9.96,8144,0,4509,-2.6,Standards_pos
+Standards_pos,Smp_PS_NS_A,3OC12-HSL,9.46,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,3OC12-HSL,9.97,9058,0,8932,-7.6,Standards_pos
+Standards_pos,Smp_PS_NS_C,3OC12-HSL,9.97,2498,0,5941,-1.5,Standards_pos
+Standards_pos,Smp_PS_SAf_A,3OC12-HSL,9.41,259725,0,90971,0.1,Standards_pos
+Standards_pos,Smp_PS_SAf_B,3OC12-HSL,9.4,11464,0,7689,-0.2,Standards_pos
+Standards_pos,Smp_PS_SAf_C,3OC12-HSL,9.41,690000,0,236286,-0.2,Standards_pos
+Standards_pos,Smp_PS_SBe_A,3OC12-HSL,9.97,7696,0,5546,-2.2,Standards_pos
+Standards_pos,Smp_PS_SBe_B,3OC12-HSL,9.55,3212,0,3234,-1.4,Standards_pos
+Standards_pos,Smp_PS_SBe_C,3OC12-HSL,8.97,0,0,0,#N/A,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,3OC12-HSL,9.39,65052564,0,20526820,-0.7,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,3OC12-HSL,9.39,58669800,0,18776004,-0.5,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,3OC6-HSL,2.13,598396,0,93847,5.4,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,3OC6-HSL,2.4,365188,0,64972,4.7,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,3OC6-HSL,1.72,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,3OC6-HSL,1.72,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,3OC6-HSL,1.85,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,3OC6-HSL,2.02,23827,0,59722,9.7,Standards_pos
+Standards_pos,Smp_PS_NS_A,3OC6-HSL,1.76,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,3OC6-HSL,1.63,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,3OC6-HSL,1.72,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,3OC6-HSL,1.91,26591662,0,7140210,-6,Standards_pos
+Standards_pos,Smp_PS_SAf_B,3OC6-HSL,1.91,30837208,0,7839400,-5.3,Standards_pos
+Standards_pos,Smp_PS_SAf_C,3OC6-HSL,1.91,34898312,0,8771688,-5.5,Standards_pos
+Standards_pos,Smp_PS_SBe_A,3OC6-HSL,1.76,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_B,3OC6-HSL,1.72,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,3OC6-HSL,1.71,0,0,0,#N/A,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,3OC6-HSL,1.9,63117648,0,13259282,-4.6,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,3OC6-HSL,1.91,57609940,0,12390157,-4.4,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,3OC8-HSL,5.41,9620,0,3602,0.1,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,3OC8-HSL,5.08,8589,0,5455,0.3,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,3OC8-HSL,4.95,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,3OC8-HSL,5.17,4779,0,4700,-0.8,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,3OC8-HSL,4.95,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,3OC8-HSL,5.43,4318,0,3938,-0.4,Standards_pos
+Standards_pos,Smp_PS_NS_A,3OC8-HSL,5.14,3211,0,3970,-0.4,Standards_pos
+Standards_pos,Smp_PS_NS_B,3OC8-HSL,5.31,3522,0,5164,-7.3,Standards_pos
+Standards_pos,Smp_PS_NS_C,3OC8-HSL,5.38,11194,0,6085,-0.2,Standards_pos
+Standards_pos,Smp_PS_SAf_A,3OC8-HSL,5.11,15235313,0,2903941,-1.2,Standards_pos
+Standards_pos,Smp_PS_SAf_B,3OC8-HSL,5.13,28257300,0,5299447,-0.9,Standards_pos
+Standards_pos,Smp_PS_SAf_C,3OC8-HSL,5.11,13367563,0,2510052,-0.9,Standards_pos
+Standards_pos,Smp_PS_SBe_A,3OC8-HSL,5.15,16223,0,6841,-0.7,Standards_pos
+Standards_pos,Smp_PS_SBe_B,3OC8-HSL,5.15,36678,0,9746,-0.6,Standards_pos
+Standards_pos,Smp_PS_SBe_C,3OC8-HSL,5.12,78809,0,17193,-0.7,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,3OC8-HSL,5.1,32191154,0,5737634,-1.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,3OC8-HSL,5.1,30291774,0,5738617,-0.8,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,3OHC12-HSL,8.97,45185,0,7787,-0.3,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,3OHC12-HSL,8.97,50469,925,7700,-0.1,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,3OHC12-HSL,9,43201,0,8252,-0.7,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,3OHC12-HSL,9.02,49651,0,9424,-0.3,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,3OHC12-HSL,9,23160,83710,7796,-0.4,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,3OHC12-HSL,8.75,94663,0,9656,-0.2,Standards_pos
+Standards_pos,Smp_PS_NS_A,3OHC12-HSL,8.99,58305,0,9897,-0.3,Standards_pos
+Standards_pos,Smp_PS_NS_B,3OHC12-HSL,9.01,41820,0,7515,-0.2,Standards_pos
+Standards_pos,Smp_PS_NS_C,3OHC12-HSL,8.98,47392,0,7597,-0.6,Standards_pos
+Standards_pos,Smp_PS_SAf_A,3OHC12-HSL,8.95,304222,0,97549,-0.1,Standards_pos
+Standards_pos,Smp_PS_SAf_B,3OHC12-HSL,9.01,47192,0,7880,-0.1,Standards_pos
+Standards_pos,Smp_PS_SAf_C,3OHC12-HSL,8.96,1146007,87850,451508,-0.2,Standards_pos
+Standards_pos,Smp_PS_SBe_A,3OHC12-HSL,9.02,7486,70366,6201,-0.8,Standards_pos
+Standards_pos,Smp_PS_SBe_B,3OHC12-HSL,8.81,58850,0,7602,-0.9,Standards_pos
+Standards_pos,Smp_PS_SBe_C,3OHC12-HSL,8.47,112777,0,8725,-0.5,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,3OHC12-HSL,8.94,62609348,0,25180690,-1.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,3OHC12-HSL,8.94,60657884,0,25192434,-0.6,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,7-dehydrocholesterol,13.71,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,7-dehydrocholesterol,13.41,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,7-dehydrocholesterol,13.41,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,7-dehydrocholesterol,13.5,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,7-dehydrocholesterol,13.42,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,7-dehydrocholesterol,13.5,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,7-dehydrocholesterol,13.64,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,7-dehydrocholesterol,13.5,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,7-dehydrocholesterol,13.5,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,7-dehydrocholesterol,13.54,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_B,7-dehydrocholesterol,13.58,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_C,7-dehydrocholesterol,13.67,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_A,7-dehydrocholesterol,13.58,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_B,7-dehydrocholesterol,13.58,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,7-dehydrocholesterol,13.63,0,0,0,#N/A,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,7-dehydrocholesterol,13.54,706407,0,273020,0.1,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,7-dehydrocholesterol,13.54,189626,0,76359,1,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Abscisic Acid,6.62,4053,0,5776,-1.5,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Abscisic Acid,6.81,8658,0,9887,-2.3,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Abscisic Acid,6.52,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Abscisic Acid,6.77,2007,0,3798,-0.8,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Abscisic Acid,6.39,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Abscisic Acid,6.43,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Abscisic Acid,6.65,2224,0,5398,2.2,Standards_pos
+Standards_pos,Smp_PS_NS_B,Abscisic Acid,6.44,6698,0,5637,-2.6,Standards_pos
+Standards_pos,Smp_PS_NS_C,Abscisic Acid,6.42,3344,0,3740,-0.3,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Abscisic Acid,6.57,19904816,97163,8225256,-1,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Abscisic Acid,6.57,30314046,203695,12362208,-1.1,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Abscisic Acid,6.57,22189050,115883,10043468,-0.8,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Abscisic Acid,6.57,1478102,0,645826,-1.1,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Abscisic Acid,6.57,632424,0,308812,-1,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Abscisic Acid,6.57,1243472,0,540536,-0.8,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Abscisic Acid,6.56,29910094,200609,12866787,-0.9,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Abscisic Acid,6.56,29261082,277126,12835659,-0.6,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Acetosyringone,5.74,9366,0,5846,-1,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Acetosyringone,5.74,6075,0,5356,-0.4,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Acetosyringone,5.7,3805,0,3430,-0.6,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Acetosyringone,5.75,7574,0,4572,-1.1,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Acetosyringone,5.54,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Acetosyringone,5.5,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Acetosyringone,5.63,29972,0,5330,-1,Standards_pos
+Standards_pos,Smp_PS_NS_B,Acetosyringone,5.75,5881,0,5075,-0.3,Standards_pos
+Standards_pos,Smp_PS_NS_C,Acetosyringone,5.72,4222,0,2744,-0.7,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Acetosyringone,5.34,13524426,0,4342585,-1.5,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Acetosyringone,5.35,18505844,0,5936104,-0.9,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Acetosyringone,5.34,11453576,0,3773923,-1.5,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Acetosyringone,5.34,852931,0,284013,-1.7,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Acetosyringone,5.34,380875,0,126857,-1.2,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Acetosyringone,5.35,1336221,0,425878,-1.5,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Acetosyringone,5.33,31658672,0,10259446,-1.5,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Acetosyringone,5.33,33454164,0,10818644,-1.1,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Acetovanillone,4.84,95322,50927,7459,-1.8,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Acetovanillone,4.61,66016,183599,10238,-1.1,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Acetovanillone,5.13,9420,184350,3963,-1.9,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Acetovanillone,5.51,12426,104430,4859,-2.2,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Acetovanillone,4.87,131802,0,12687,-1.5,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Acetovanillone,4.92,113161,0,9327,-1.9,Standards_pos
+Standards_pos,Smp_PS_NS_A,Acetovanillone,5.52,122949,0,20621,-2.1,Standards_pos
+Standards_pos,Smp_PS_NS_B,Acetovanillone,4.95,18372,0,5543,-1.3,Standards_pos
+Standards_pos,Smp_PS_NS_C,Acetovanillone,4.87,119514,0,32415,-2.1,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Acetovanillone,4.87,3154845,0,856406,-2.1,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Acetovanillone,4.88,12158963,93288,3281449,-2,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Acetovanillone,4.88,2806011,171450,746926,-2.1,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Acetovanillone,4.87,1193743,169733,337360,-2.5,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Acetovanillone,4.89,450785,130380,135687,-2.3,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Acetovanillone,4.88,2235617,218215,653577,-2.2,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Acetovanillone,4.86,39067704,29192,10339025,-2.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Acetovanillone,4.86,40452768,0,11290304,-2,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Acetyl-L-carnitine,0.81,106039,0,50706,-0.6,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Acetyl-L-carnitine,0.8,132805,0,34261,0.9,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Acetyl-L-carnitine,0.82,106918,0,29141,4.5,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Acetyl-L-carnitine,0.8,141156,0,53289,-0.7,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Acetyl-L-carnitine,0.8,46533,0,21737,3.5,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Acetyl-L-carnitine,0.83,109824,0,37873,3.5,Standards_pos
+Standards_pos,Smp_PS_NS_A,Acetyl-L-carnitine,0.8,248768,0,96267,-0.9,Standards_pos
+Standards_pos,Smp_PS_NS_B,Acetyl-L-carnitine,0.76,521499,0,140613,-1.3,Standards_pos
+Standards_pos,Smp_PS_NS_C,Acetyl-L-carnitine,0.79,245410,28316,92576,-0.8,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Acetyl-L-carnitine,0.83,38804532,547448,14687991,-1.3,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Acetyl-L-carnitine,0.83,40693584,416438,17130916,-1.3,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Acetyl-L-carnitine,0.83,50392120,610798,20149898,-1.1,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Acetyl-L-carnitine,0.83,206186,336388,124965,-1.7,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Acetyl-L-carnitine,0.83,24130,81953,34170,-1.9,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Acetyl-L-carnitine,0.79,606342,0,125411,-1.8,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Acetyl-L-carnitine,0.83,156728000,1672237,42626980,-1.5,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Acetyl-L-carnitine,0.84,139362112,782304,30762518,-0.9,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Adenosyl Homocysteine,0.64,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Adenosyl Homocysteine,0.75,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Adenosyl Homocysteine,0.82,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Adenosyl Homocysteine,0.71,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Adenosyl Homocysteine,0.73,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Adenosyl Homocysteine,0.82,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Adenosyl Homocysteine,1.1,5346,0,7911,-11.8,Standards_pos
+Standards_pos,Smp_PS_NS_B,Adenosyl Homocysteine,1.11,4072,0,7638,-3.7,Standards_pos
+Standards_pos,Smp_PS_NS_C,Adenosyl Homocysteine,0.71,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Adenosyl Homocysteine,0.99,19550684,169858,11342870,0.2,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Adenosyl Homocysteine,1,20584546,135384,12538240,0.3,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Adenosyl Homocysteine,0.99,28500684,456274,16860862,0.3,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Adenosyl Homocysteine,1,5229163,0,3096634,0,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Adenosyl Homocysteine,1,346585,0,222234,0.3,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Adenosyl Homocysteine,1.01,386200,0,184965,0,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Adenosyl Homocysteine,0.98,5747850,0,2060077,0.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Adenosyl Homocysteine,0.99,5759661,0,2859855,0.9,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Adenosyl Methionine,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Adenosyl Methionine,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Adenosyl Methionine,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Adenosyl Methionine,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Adenosyl Methionine,0.64,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Adenosyl Methionine,0.69,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Adenosyl Methionine,0.82,6712,0,12565,-5.4,Standards_pos
+Standards_pos,Smp_PS_NS_B,Adenosyl Methionine,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,Adenosyl Methionine,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Adenosyl Methionine,0.79,10233106,0,4690832,0.3,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Adenosyl Methionine,0.8,9633442,0,3734325,0.2,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Adenosyl Methionine,0.8,5317933,0,2019092,0.5,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Adenosyl Methionine,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Adenosyl Methionine,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Adenosyl Methionine,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Adenosyl Methionine,0.79,4991354,0,2907702,0.4,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Adenosyl Methionine,0.78,5392489,0,3751995,0.9,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Agmatine,0.63,7290,0,16285,-0.4,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Agmatine,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Agmatine,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Agmatine,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Agmatine,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Agmatine,0.62,21330,0,36097,-1.1,Standards_pos
+Standards_pos,Smp_PS_NS_A,Agmatine,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,Agmatine,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,Agmatine,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Agmatine,0.7,943900,0,853345,-2.4,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Agmatine,0.71,1042110,0,1128140,-2.3,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Agmatine,0.7,1503974,0,1348539,-2,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Agmatine,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Agmatine,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Agmatine,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Agmatine,0.68,62776560,92083,38576224,-2.5,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Agmatine,0.67,80444888,269599,44242480,-2.1,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Aminobenzoic Acid,1.89,241494,186018,80425,-2.5,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Aminobenzoic Acid,1.9,176077,177036,65181,-2.5,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Aminobenzoic Acid,1.89,431625,159490,116573,-3.1,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Aminobenzoic Acid,1.89,106445,106794,33629,-2.7,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Aminobenzoic Acid,1.89,190601,100497,50830,-2.8,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Aminobenzoic Acid,1.9,553025,98423,185058,-2.9,Standards_pos
+Standards_pos,Smp_PS_NS_A,Aminobenzoic Acid,1.89,485833,266101,121341,-3,Standards_pos
+Standards_pos,Smp_PS_NS_B,Aminobenzoic Acid,1.89,349441,185999,94306,-2.5,Standards_pos
+Standards_pos,Smp_PS_NS_C,Aminobenzoic Acid,1.89,655628,254477,199593,-2.5,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Aminobenzoic Acid,1.96,6375449,655394,2277473,-2.8,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Aminobenzoic Acid,1.96,7838592,717551,2775223,-2.5,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Aminobenzoic Acid,1.96,8085072,576194,2599158,-2.7,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Aminobenzoic Acid,1.96,3480674,400982,1046448,-3,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Aminobenzoic Acid,1.96,1555834,403084,397389,-2.7,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Aminobenzoic Acid,1.96,3947756,473840,820746,-3.2,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Aminobenzoic Acid,1.94,37043380,713323,10687256,-3.1,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Aminobenzoic Acid,1.95,38199348,501728,11492086,-2.4,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Betaine,0.73,364039712,6835475,133754312,-2.3,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Betaine,0.73,333996672,7347340,120417744,-2.1,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Betaine,0.72,245838528,4158202,89757696,-2.7,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Betaine,0.73,325620864,8296676,116954528,-2.1,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Betaine,0.73,356910080,6808253,124595968,-2.2,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Betaine,0.74,49656588,4959053,11369926,-2,Standards_pos
+Standards_pos,Smp_PS_NS_A,Betaine,0.72,348661856,5073506,109423632,-2,Standards_pos
+Standards_pos,Smp_PS_NS_B,Betaine,0.72,362107424,5347555,117285712,-2.2,Standards_pos
+Standards_pos,Smp_PS_NS_C,Betaine,0.72,463114368,5709625,149469472,-2.3,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Betaine,0.71,397960736,7409789,124180896,-2.2,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Betaine,0.72,487778976,8169737,186042736,-2.2,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Betaine,0.71,474819008,6776929,155089136,-1.9,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Betaine,0.71,864496512,14610634,261710192,-2.6,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Betaine,0.72,803600384,10094394,252592240,-2.3,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Betaine,0.72,995063040,5354395,319783328,-2.6,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Betaine,0.73,90084184,3923184,32143936,-1.8,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Betaine,0.72,79081008,13266910,27438984,-1.5,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Butyryl-L-carnitine,1.39,34783,0,21008,-0.8,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Butyryl-L-carnitine,1.39,71410,25293,23891,-0.9,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Butyryl-L-carnitine,1.41,47861,0,16740,-1.6,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Butyryl-L-carnitine,1.39,35647,60051,15035,-1.5,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Butyryl-L-carnitine,1.17,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Butyryl-L-carnitine,1.4,83577,0,22424,-1.5,Standards_pos
+Standards_pos,Smp_PS_NS_A,Butyryl-L-carnitine,1.09,100347,85481,25995,-0.7,Standards_pos
+Standards_pos,Smp_PS_NS_B,Butyryl-L-carnitine,1.24,27699,0,8197,-0.4,Standards_pos
+Standards_pos,Smp_PS_NS_C,Butyryl-L-carnitine,1.41,53320,129978,11421,-1.3,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Butyryl-L-carnitine,1.4,1012501504,2418069,205617696,-2.2,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Butyryl-L-carnitine,1.4,1053876608,8193359,205255712,-2,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Butyryl-L-carnitine,1.4,1101004416,8359333,225352656,-2,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Butyryl-L-carnitine,1.36,317151808,94202,77897976,-2.3,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Butyryl-L-carnitine,1.36,162003984,0,43959004,-1.6,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Butyryl-L-carnitine,1.36,155130912,278523,39599276,-1.9,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Butyryl-L-carnitine,1.37,333218720,1965562,62213828,-2,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Butyryl-L-carnitine,1.38,305488160,831109,59461572,-1.4,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,C10-HSL,9.25,3124,0,3166,0,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,C10-HSL,9.16,1807,0,4264,-3.2,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,C10-HSL,9.1,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,C10-HSL,9.05,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,C10-HSL,9.22,1668,0,3680,-0.2,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,C10-HSL,9.22,1775,0,3047,0.5,Standards_pos
+Standards_pos,Smp_PS_NS_A,C10-HSL,9.01,693,0,4050,0,Standards_pos
+Standards_pos,Smp_PS_NS_B,C10-HSL,9.43,4053,0,6558,-0.6,Standards_pos
+Standards_pos,Smp_PS_NS_C,C10-HSL,8.97,851,0,0,-2.2,Standards_pos
+Standards_pos,Smp_PS_SAf_A,C10-HSL,9.05,11427216,0,4697350,-0.7,Standards_pos
+Standards_pos,Smp_PS_SAf_B,C10-HSL,9.05,1454372,0,593974,-0.5,Standards_pos
+Standards_pos,Smp_PS_SAf_C,C10-HSL,9.05,18475770,0,7200649,-1,Standards_pos
+Standards_pos,Smp_PS_SBe_A,C10-HSL,9.06,31583,0,16582,-1,Standards_pos
+Standards_pos,Smp_PS_SBe_B,C10-HSL,9.06,28066,0,13407,-1.4,Standards_pos
+Standards_pos,Smp_PS_SBe_C,C10-HSL,9.06,28856,0,16874,-0.6,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,C10-HSL,9.04,75008456,374148,31912862,-1.5,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,C10-HSL,9.04,72500536,596648,29727148,-0.7,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,C12-HSL,10.23,1355,0,3007,0.8,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,C12-HSL,10.21,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,C12-HSL,10.47,3947,0,3078,0.5,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,C12-HSL,10.31,1258,0,2082,-0.7,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,C12-HSL,9.94,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,C12-HSL,10.3,2763,0,2720,-0.4,Standards_pos
+Standards_pos,Smp_PS_NS_A,C12-HSL,10.08,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,C12-HSL,9.99,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,C12-HSL,10.3,1261,0,3626,0,Standards_pos
+Standards_pos,Smp_PS_SAf_A,C12-HSL,10.17,2896,0,2648,-0.1,Standards_pos
+Standards_pos,Smp_PS_SAf_B,C12-HSL,10.08,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_C,C12-HSL,10.23,4192,0,6173,0.2,Standards_pos
+Standards_pos,Smp_PS_SBe_A,C12-HSL,10.13,1602,0,4506,-1.7,Standards_pos
+Standards_pos,Smp_PS_SBe_B,C12-HSL,10.17,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,C12-HSL,10.08,0,0,0,#N/A,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,C12-HSL,10.21,131743992,0,55042308,-1.7,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,C12-HSL,10.2,107983472,0,43274240,-1.1,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,C14-HSL,11.63,1258,0,3090,0.5,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,C14-HSL,11.24,1247,0,3210,-0.1,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,C14-HSL,11.24,1707,0,3984,2.9,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,C14-HSL,11.24,5,0,0,0.5,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,C14-HSL,11.24,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,C14-HSL,11.37,2503,0,2482,-0.1,Standards_pos
+Standards_pos,Smp_PS_NS_A,C14-HSL,11.24,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,C14-HSL,11.57,1420,0,3314,0.2,Standards_pos
+Standards_pos,Smp_PS_NS_C,C14-HSL,11.1,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,C14-HSL,11.24,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_B,C14-HSL,11.28,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_C,C14-HSL,11.19,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_A,C14-HSL,11.14,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_B,C14-HSL,11.19,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,C14-HSL,11.33,0,0,0,#N/A,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,C14-HSL,11.08,26391674,0,11327395,-1.1,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,C14-HSL,11.08,10691738,0,4483661,-0.2,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,C4-HSL,1.39,245673,0,56922,-2.2,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,C4-HSL,1.47,22719,75195,13445,-2.3,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,C4-HSL,1.4,144857,0,36746,-2.7,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,C4-HSL,1.39,212842,0,51591,-2.5,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,C4-HSL,1.38,40568,45353,19848,-2.5,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,C4-HSL,1.41,68923,107422,17035,-2.5,Standards_pos
+Standards_pos,Smp_PS_NS_A,C4-HSL,1.51,21700,62008,7329,-1.7,Standards_pos
+Standards_pos,Smp_PS_NS_B,C4-HSL,1.41,35950,91116,15200,-2.5,Standards_pos
+Standards_pos,Smp_PS_NS_C,C4-HSL,1.43,32327,194291,25985,-2.2,Standards_pos
+Standards_pos,Smp_PS_SAf_A,C4-HSL,1.46,19154966,285803,7557934,-2.2,Standards_pos
+Standards_pos,Smp_PS_SAf_B,C4-HSL,1.46,22158672,299190,8541010,-2.4,Standards_pos
+Standards_pos,Smp_PS_SAf_C,C4-HSL,1.46,24326166,532253,10120657,-2.3,Standards_pos
+Standards_pos,Smp_PS_SBe_A,C4-HSL,1.46,36308,71833,11391,-2.6,Standards_pos
+Standards_pos,Smp_PS_SBe_B,C4-HSL,1.38,420499,108835,54140,-2.3,Standards_pos
+Standards_pos,Smp_PS_SBe_C,C4-HSL,1.38,322816,0,61179,-2.8,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,C4-HSL,1.45,31171510,162170,8853607,-2.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,C4-HSL,1.45,30830160,215401,8817676,-1.9,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,C6-HSL,3.89,32977,64841,8432,-2,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,C6-HSL,3.92,20319,43698,4936,-1.6,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,C6-HSL,3.89,15263,0,6911,-1.8,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,C6-HSL,3.99,4482,42249,4478,-2.3,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,C6-HSL,3.96,21784,0,9579,-1.6,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,C6-HSL,3.92,68874,0,11057,-2,Standards_pos
+Standards_pos,Smp_PS_NS_A,C6-HSL,4.03,17144,94418,6926,-1.9,Standards_pos
+Standards_pos,Smp_PS_NS_B,C6-HSL,3.92,48278,0,10174,-2,Standards_pos
+Standards_pos,Smp_PS_NS_C,C6-HSL,3.9,33868,57978,7009,-2.2,Standards_pos
+Standards_pos,Smp_PS_SAf_A,C6-HSL,3.85,32134994,658554,8106333,-1.8,Standards_pos
+Standards_pos,Smp_PS_SAf_B,C6-HSL,3.86,32593770,478582,8225553,-1.4,Standards_pos
+Standards_pos,Smp_PS_SAf_C,C6-HSL,3.85,34283064,556314,8525519,-1.5,Standards_pos
+Standards_pos,Smp_PS_SBe_A,C6-HSL,3.85,229298,39492,29807,-2.7,Standards_pos
+Standards_pos,Smp_PS_SBe_B,C6-HSL,3.86,243614,0,45114,-2,Standards_pos
+Standards_pos,Smp_PS_SBe_C,C6-HSL,3.87,139499,101231,30697,-2.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,C6-HSL,3.84,49978476,1692872,11209318,-1.6,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,C6-HSL,3.84,51319344,0,11119520,-1,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,C8-HSL,7.15,5732,0,6205,-0.2,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,C8-HSL,7.39,1395,0,2277,-0.5,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,C8-HSL,6.99,2251,0,5942,-1,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,C8-HSL,7.07,4725,0,5794,-0.1,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,C8-HSL,7.23,2130,0,4556,0.1,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,C8-HSL,7.15,1503,0,3123,0.3,Standards_pos
+Standards_pos,Smp_PS_NS_A,C8-HSL,7.11,10060,0,5826,-0.7,Standards_pos
+Standards_pos,Smp_PS_NS_B,C8-HSL,7.14,4681,0,7519,0,Standards_pos
+Standards_pos,Smp_PS_NS_C,C8-HSL,7.17,6301,0,6654,-0.1,Standards_pos
+Standards_pos,Smp_PS_SAf_A,C8-HSL,7.19,67011516,0,22866172,-1.3,Standards_pos
+Standards_pos,Smp_PS_SAf_B,C8-HSL,7.19,62423548,65166,21430444,-1,Standards_pos
+Standards_pos,Smp_PS_SAf_C,C8-HSL,7.19,70618512,0,24502890,-1.2,Standards_pos
+Standards_pos,Smp_PS_SBe_A,C8-HSL,7.19,361640,0,119349,-1.1,Standards_pos
+Standards_pos,Smp_PS_SBe_B,C8-HSL,7.19,386061,0,138524,-0.8,Standards_pos
+Standards_pos,Smp_PS_SBe_C,C8-HSL,7.19,375107,0,125444,-0.6,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,C8-HSL,7.18,112684232,0,40337520,-1.9,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,C8-HSL,7.18,109979928,0,37887020,-1.4,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Caffeine,3.85,78528,0,29851,-1.3,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Caffeine,3.84,112081,0,38043,-0.6,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Caffeine,3.85,125919,0,30402,-1.4,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Caffeine,3.85,271605,18514,80690,-1.3,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Caffeine,3.85,144109,1028,40900,-0.8,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Caffeine,3.85,178340,0,46656,-0.8,Standards_pos
+Standards_pos,Smp_PS_NS_A,Caffeine,3.84,258874,42110,86000,-1.1,Standards_pos
+Standards_pos,Smp_PS_NS_B,Caffeine,3.85,131959,0,40469,-1.1,Standards_pos
+Standards_pos,Smp_PS_NS_C,Caffeine,3.84,258119,20411,75777,-0.9,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Caffeine,3.84,38303556,177995,10008623,-1.6,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Caffeine,3.85,37892000,244552,10185070,-1.2,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Caffeine,3.84,46387664,0,12623995,-1.3,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Caffeine,3.84,4894445,128982,1346435,-1.9,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Caffeine,3.84,5243072,36450,1352991,-1.2,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Caffeine,3.85,6426257,0,1704451,-1.5,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Caffeine,3.82,47446680,66636,11565837,-1.4,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Caffeine,3.84,49187504,0,12365169,-0.7,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Camalexin,7.81,170186,0,62623,3.3,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Camalexin,7.79,192020,0,75525,3.3,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Camalexin,7.78,19884,0,30669,1.4,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Camalexin,7.8,153795,0,90960,2.1,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Camalexin,6.72,5419,0,4424,1.9,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Camalexin,6.78,1208,0,2438,2.2,Standards_pos
+Standards_pos,Smp_PS_NS_A,Camalexin,6.9,20985,0,6797,-0.9,Standards_pos
+Standards_pos,Smp_PS_NS_B,Camalexin,6.62,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,Camalexin,7.11,3091,0,4458,0.6,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Camalexin,6.84,89330736,0,22785560,-1.7,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Camalexin,6.84,78735072,0,20010750,-1.6,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Camalexin,6.84,108814184,0,29057578,-1.8,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Camalexin,7.35,2838,0,6340,0.8,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Camalexin,7.38,9394,0,6191,2.7,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Camalexin,7.79,66594,0,56879,1.8,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Camalexin,6.82,447535008,0,117971240,-2.2,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Camalexin,6.82,436707872,0,111633288,-1.7,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Carotene,16.16,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Carotene,16.14,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Carotene,16.09,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Carotene,16.09,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Carotene,16.14,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Carotene,16.22,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Carotene,15.93,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,Carotene,16.3,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,Carotene,16.26,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Carotene,16.16,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Carotene,16.16,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Carotene,16.18,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Carotene,16.21,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Carotene,16.39,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Carotene,16.11,0,0,0,#N/A,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Carotene,16.43,13,2068,74,0.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Carotene,16.49,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Choline,0.73,792359,0,314886,-0.4,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Choline,0.73,688171,0,310424,-0.3,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Choline,0.73,458807,0,182432,-1,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Choline,0.74,352642,0,105345,-0.4,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Choline,0.74,466774,0,169321,-0.4,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Choline,0.75,1858547,0,642038,-0.9,Standards_pos
+Standards_pos,Smp_PS_NS_A,Choline,0.72,786270,11101,322008,-0.3,Standards_pos
+Standards_pos,Smp_PS_NS_B,Choline,0.72,298118,69525,74079,-0.5,Standards_pos
+Standards_pos,Smp_PS_NS_C,Choline,0.72,194661,13687,82730,-0.5,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Choline,0.71,236524400,0,115534528,-1.1,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Choline,0.72,231389136,0,114283568,-1,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Choline,0.72,245894288,2517109,115396000,-0.7,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Choline,0.72,580728,29813,233809,-1,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Choline,0.72,495266,0,235306,-0.7,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Choline,0.72,603555,0,314620,-1.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Choline,0.71,148164208,0,56595456,-0.8,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Choline,0.71,133180256,0,51552228,-0.4,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,cinnamoyl-HSL,6.03,33912,0,15312,-0.8,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,cinnamoyl-HSL,6.03,48591,0,15790,-0.9,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,cinnamoyl-HSL,6.05,8004,0,6296,-0.2,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,cinnamoyl-HSL,6.01,28035,0,9284,-0.8,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,cinnamoyl-HSL,6.05,1959,0,3871,0,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,cinnamoyl-HSL,6.03,3690,0,6003,-0.4,Standards_pos
+Standards_pos,Smp_PS_NS_A,cinnamoyl-HSL,6.1,32238,0,10424,-0.8,Standards_pos
+Standards_pos,Smp_PS_NS_B,cinnamoyl-HSL,6.11,48001,0,18021,-0.4,Standards_pos
+Standards_pos,Smp_PS_NS_C,cinnamoyl-HSL,6.04,51081,0,14886,-0.7,Standards_pos
+Standards_pos,Smp_PS_SAf_A,cinnamoyl-HSL,6.03,16202180,164641,5910688,-1.3,Standards_pos
+Standards_pos,Smp_PS_SAf_B,cinnamoyl-HSL,6.03,16767783,190942,6256868,-0.9,Standards_pos
+Standards_pos,Smp_PS_SAf_C,cinnamoyl-HSL,6.03,19366762,190545,7314342,-0.8,Standards_pos
+Standards_pos,Smp_PS_SBe_A,cinnamoyl-HSL,6.03,84478,0,26232,-1.2,Standards_pos
+Standards_pos,Smp_PS_SBe_B,cinnamoyl-HSL,6.03,104345,0,29158,-1,Standards_pos
+Standards_pos,Smp_PS_SBe_C,cinnamoyl-HSL,6.04,139219,0,38770,-1.1,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,cinnamoyl-HSL,6.01,30888540,245273,11849601,-1.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,cinnamoyl-HSL,6.02,30390272,204607,11203283,-0.7,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Coenzyme B12,5.15,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Coenzyme B12,5.31,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Coenzyme B12,5.27,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Coenzyme B12,5.31,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Coenzyme B12,5.15,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Coenzyme B12,5.1,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Coenzyme B12,5.31,1340,0,2986,-12.7,Standards_pos
+Standards_pos,Smp_PS_NS_B,Coenzyme B12,5.22,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,Coenzyme B12,5.1,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Coenzyme B12,5.18,1650,0,4755,-0.2,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Coenzyme B12,5.15,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Coenzyme B12,5.18,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Coenzyme B12,5.1,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Coenzyme B12,5.19,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Coenzyme B12,5.24,0,0,0,#N/A,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Coenzyme B12,5.47,11048696,47146,4427690,0.8,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Coenzyme B12,5.47,10486476,100922,4634333,1.3,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Coenzyme Q1,9.03,26328,30398,5967,-0.4,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Coenzyme Q1,8.93,49535,0,11975,-0.1,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Coenzyme Q1,8.97,37600,0,9116,-0.7,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Coenzyme Q1,8.94,29367,0,10119,0,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Coenzyme Q1,9,23923,13498,7110,-0.1,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Coenzyme Q1,8.97,31590,628,7976,0.1,Standards_pos
+Standards_pos,Smp_PS_NS_A,Coenzyme Q1,8.97,47601,0,9833,-0.2,Standards_pos
+Standards_pos,Smp_PS_NS_B,Coenzyme Q1,9.04,32599,0,9294,-0.3,Standards_pos
+Standards_pos,Smp_PS_NS_C,Coenzyme Q1,9.05,47263,0,9992,-0.5,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Coenzyme Q1,9.2,23292,7897,11199,-0.3,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Coenzyme Q1,8.98,40150,0,12795,-0.4,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Coenzyme Q1,9.2,78286,0,27192,-0.6,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Coenzyme Q1,9.02,26347,4828,7206,-0.6,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Coenzyme Q1,8.98,39284,0,10811,-0.7,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Coenzyme Q1,9.05,9107,24466,6584,-0.6,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Coenzyme Q1,9.18,9923951,194639,3456139,-0.9,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Coenzyme Q1,9.18,8949545,230479,3087351,-0.3,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Coenzyme Q10,16.27,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Coenzyme Q10,16.32,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Coenzyme Q10,16.44,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Coenzyme Q10,16.49,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Coenzyme Q10,16.16,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Coenzyme Q10,16.26,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Coenzyme Q10,16.44,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,Coenzyme Q10,16.35,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,Coenzyme Q10,16.39,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Coenzyme Q10,16.35,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Coenzyme Q10,16.4,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Coenzyme Q10,16.39,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Coenzyme Q10,16.27,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Coenzyme Q10,16.44,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Coenzyme Q10,16.53,0,0,0,#N/A,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Coenzyme Q10,16.35,575775,0,134388,0.7,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Coenzyme Q10,16.35,152335,0,32292,1.4,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Cys-Gly,0.62,1963,0,3355,-3.2,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Cys-Gly,0.62,13763,0,23153,-4.2,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Cys-Gly,1.29,1742,0,3781,0.5,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Cys-Gly,0.85,2134,0,4041,1.3,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Cys-Gly,0.77,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Cys-Gly,0.64,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Cys-Gly,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,Cys-Gly,0.69,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,Cys-Gly,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Cys-Gly,0.76,50438,0,50602,-2.5,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Cys-Gly,0.75,41207,0,52856,-1.6,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Cys-Gly,0.75,220784,0,173554,-2,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Cys-Gly,0.75,855470,0,422266,-3.2,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Cys-Gly,0.75,1179176,0,402841,-3.1,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Cys-Gly,0.75,606970,0,291765,-3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Cys-Gly,0.73,4356452,0,1968898,-1.8,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Cys-Gly,0.73,2647557,8841,1173990,-1.5,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Decarboxylated S-Adenosylmethionine,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Decarboxylated S-Adenosylmethionine,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Decarboxylated S-Adenosylmethionine,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Decarboxylated S-Adenosylmethionine,0.64,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Decarboxylated S-Adenosylmethionine,0.66,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Decarboxylated S-Adenosylmethionine,0.82,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Decarboxylated S-Adenosylmethionine,1.1,329474,0,24396,-11.9,Standards_pos
+Standards_pos,Smp_PS_NS_B,Decarboxylated S-Adenosylmethionine,1.08,185060,0,20384,-11.5,Standards_pos
+Standards_pos,Smp_PS_NS_C,Decarboxylated S-Adenosylmethionine,0.96,273056,0,25451,-11.8,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Decarboxylated S-Adenosylmethionine,0.96,347914,0,72941,-11.4,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Decarboxylated S-Adenosylmethionine,0.96,1339049,0,265875,-12.6,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Decarboxylated S-Adenosylmethionine,0.96,276176,0,53891,-10.8,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Decarboxylated S-Adenosylmethionine,0.99,277089,0,29049,-11.7,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Decarboxylated S-Adenosylmethionine,1,91513,0,19782,-8.2,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Decarboxylated S-Adenosylmethionine,1.15,315870,60090,53889,-13.2,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Decarboxylated S-Adenosylmethionine,1.39,89328024,0,2612659,0.1,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Decarboxylated S-Adenosylmethionine,0.98,109669544,759418,7097638,0.7,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Desthiobiotin,4.35,5621,0,6121,-0.1,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Desthiobiotin,4.38,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Desthiobiotin,4.34,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Desthiobiotin,4.4,7544,0,7456,0,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Desthiobiotin,4.32,4099,0,5670,0,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Desthiobiotin,4.29,4503,0,4351,0,Standards_pos
+Standards_pos,Smp_PS_NS_A,Desthiobiotin,4.4,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,Desthiobiotin,4.34,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,Desthiobiotin,4.3,1565,0,3300,-0.5,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Desthiobiotin,4.4,28995502,0,10005966,-1.7,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Desthiobiotin,4.4,31795072,0,10611594,-1.8,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Desthiobiotin,4.39,31147712,0,10792137,-1.8,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Desthiobiotin,4.4,18967570,0,6310102,-2.2,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Desthiobiotin,4.4,10785634,0,3900681,-1.7,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Desthiobiotin,4.4,18698502,0,6661077,-2,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Desthiobiotin,4.38,61382172,0,19369718,-1.8,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Desthiobiotin,4.39,59989492,0,19476006,-1.4,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Dimethyl glycine,0.72,4308373,0,2508517,-0.7,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Dimethyl glycine,0.72,3933485,0,2161721,-0.7,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Dimethyl glycine,0.71,2308170,0,1269090,-1.3,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Dimethyl glycine,0.72,7157921,68888,3835703,-0.3,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Dimethyl glycine,0.73,4922868,99865,2465690,-0.4,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Dimethyl glycine,0.73,2211466,16142,1037194,-0.9,Standards_pos
+Standards_pos,Smp_PS_NS_A,Dimethyl glycine,0.71,5392975,0,2442675,-0.3,Standards_pos
+Standards_pos,Smp_PS_NS_B,Dimethyl glycine,0.71,7232019,97296,4301925,-0.5,Standards_pos
+Standards_pos,Smp_PS_NS_C,Dimethyl glycine,0.71,8966488,142844,5119698,-0.5,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Dimethyl glycine,0.7,65752604,880564,41552636,-0.5,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Dimethyl glycine,0.71,86134264,380795,43979192,-0.6,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Dimethyl glycine,0.7,77706664,640155,44783320,-0.1,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Dimethyl glycine,0.7,108550440,466814,69729688,-1.1,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Dimethyl glycine,0.7,123358560,2074055,81056480,-0.9,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Dimethyl glycine,0.7,136535376,637162,83607632,-1.2,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Dimethyl glycine,0.71,15408392,144553,5792568,0.1,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Dimethyl glycine,0.71,15801641,261832,5917534,0.4,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Dimethyl-benzimidazole,3.37,507675,0,98957,-2.7,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Dimethyl-benzimidazole,3.36,254973,35669,55748,-2.8,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Dimethyl-benzimidazole,3.36,393996,0,80838,-3.2,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Dimethyl-benzimidazole,3.36,947001,0,192826,-2.9,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Dimethyl-benzimidazole,3.37,1236874,16599,264377,-2.8,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Dimethyl-benzimidazole,3.35,21199,0,7360,-2,Standards_pos
+Standards_pos,Smp_PS_NS_A,Dimethyl-benzimidazole,3.36,774730,11022,163247,-3,Standards_pos
+Standards_pos,Smp_PS_NS_B,Dimethyl-benzimidazole,3.36,716731,0,149623,-2.6,Standards_pos
+Standards_pos,Smp_PS_NS_C,Dimethyl-benzimidazole,3.36,511753,0,106294,-2.8,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Dimethyl-benzimidazole,3.35,96133480,1151636,22205714,-3.1,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Dimethyl-benzimidazole,3.36,91575024,1085648,20360402,-3,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Dimethyl-benzimidazole,3.35,122526152,1727695,27593244,-3.1,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Dimethyl-benzimidazole,3.36,473237,5087,109735,-3.1,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Dimethyl-benzimidazole,3.36,323040,0,79825,-3,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Dimethyl-benzimidazole,3.36,521963,0,124846,-2.9,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Dimethyl-benzimidazole,3.33,215781104,2911433,46503720,-3.4,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Dimethyl-benzimidazole,3.35,214409008,2339744,47248176,-2.8,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Domoic Acid,2.2,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Domoic Acid,2.23,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Domoic Acid,2.38,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Domoic Acid,2.28,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Domoic Acid,2.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Domoic Acid,2.29,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Domoic Acid,2.63,2054,0,6210,-0.5,Standards_pos
+Standards_pos,Smp_PS_NS_B,Domoic Acid,2.63,2460,0,4909,-0.2,Standards_pos
+Standards_pos,Smp_PS_NS_C,Domoic Acid,2.59,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Domoic Acid,2.63,8845754,0,2364445,-0.2,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Domoic Acid,2.63,13623394,183603,3444087,0,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Domoic Acid,2.62,17066580,258892,4612364,-0.1,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Domoic Acid,2.61,3165600,0,810202,-0.8,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Domoic Acid,2.63,2386553,0,685265,-0.3,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Domoic Acid,2.62,5161113,57797,1516318,-0.6,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Domoic Acid,2.6,40963500,444030,8487729,-0.6,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Domoic Acid,2.62,42996864,484883,9668493,0,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Ergosterol,13.44,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Ergosterol,13.62,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Ergosterol,13.53,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Ergosterol,13.55,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Ergosterol,13.53,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Ergosterol,13.94,1036,0,2445,-5,Standards_pos
+Standards_pos,Smp_PS_NS_A,Ergosterol,13.46,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,Ergosterol,13.68,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,Ergosterol,13.55,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Ergosterol,13.57,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Ergosterol,13.58,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Ergosterol,13.57,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Ergosterol,13.62,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Ergosterol,13.8,1083,0,1878,4.6,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Ergosterol,13.66,0,0,0,#N/A,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Ergosterol,13.53,1568259,0,331847,0.1,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Ergosterol,13.53,397328,0,92787,0.7,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Ethyl 3 aminobenzoate,3.01,79381,467014,9666,-2,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Ethyl 3 aminobenzoate,3.02,18454,289708,10533,-2.4,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Ethyl 3 aminobenzoate,2.95,28474,126789,6135,-2.5,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Ethyl 3 aminobenzoate,3.13,31993,169540,6945,-2.2,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Ethyl 3 aminobenzoate,3.1,64436,59386,11223,-2,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Ethyl 3 aminobenzoate,3.1,58853,10872,9392,-1.6,Standards_pos
+Standards_pos,Smp_PS_NS_A,Ethyl 3 aminobenzoate,3.08,88655,68962,20615,-2.3,Standards_pos
+Standards_pos,Smp_PS_NS_B,Ethyl 3 aminobenzoate,3.09,9641,115095,10914,-2.3,Standards_pos
+Standards_pos,Smp_PS_NS_C,Ethyl 3 aminobenzoate,3.1,32619,58884,9960,-2.3,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Ethyl 3 aminobenzoate,3.1,34240724,485839,8639060,-2.3,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Ethyl 3 aminobenzoate,3.1,39518404,629078,9586534,-2.2,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Ethyl 3 aminobenzoate,3.1,28493320,680765,7259057,-2.1,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Ethyl 3 aminobenzoate,3.11,39233,107812,18423,-2.9,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Ethyl 3 aminobenzoate,3.31,15162,160020,5865,-2,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Ethyl 3 aminobenzoate,2.91,328227,387772,26368,-2.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Ethyl 3 aminobenzoate,3.09,398268160,268437,89184048,-3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Ethyl 3 aminobenzoate,3.09,420377728,113709,93185560,-2.5,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Ferulic Acid,5.46,1566,12827,1818,-2,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Ferulic Acid,5.45,35,12112,200,0,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Ferulic Acid,5.53,11747,0,4473,-1.3,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Ferulic Acid,5.44,3428,16239,3684,-0.9,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Ferulic Acid,5.5,6270,0,5600,0,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Ferulic Acid,5.58,8693,0,4979,-0.6,Standards_pos
+Standards_pos,Smp_PS_NS_A,Ferulic Acid,5.54,13343,23451,3710,-1.1,Standards_pos
+Standards_pos,Smp_PS_NS_B,Ferulic Acid,5.43,11404,1711,5461,-0.7,Standards_pos
+Standards_pos,Smp_PS_NS_C,Ferulic Acid,5.5,2223,30858,1820,-1.6,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Ferulic Acid,5.52,2128302,5514,863359,-1.4,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Ferulic Acid,5.52,2213940,25413,895148,-1.2,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Ferulic Acid,5.51,1209783,4357,519858,-1.5,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Ferulic Acid,5.51,33338,0,10937,-1.4,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Ferulic Acid,5.52,13934,0,7587,-0.4,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Ferulic Acid,5.52,75896,0,25063,-1.8,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Ferulic Acid,5.5,5044103,0,1953639,-1.4,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Ferulic Acid,5.51,5372070,0,2214804,-0.9,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Glutathione,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Glutathione,0.73,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Glutathione,0.69,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Glutathione,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Glutathione,0.77,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Glutathione,0.73,314,0,1836,0,Standards_pos
+Standards_pos,Smp_PS_NS_A,Glutathione,0.69,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,Glutathione,0.73,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,Glutathione,1.06,4242,0,6411,-4.7,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Glutathione,0.92,287077,0,147443,-2.8,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Glutathione,0.91,830683,0,156338,0,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Glutathione,0.91,467356,0,136513,0.2,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Glutathione,0.72,988264,0,256705,-1.1,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Glutathione,0.73,1348699,0,351634,-0.7,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Glutathione,0.72,1228266,0,389652,-1.1,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Glutathione,0.77,7168595,76773,3012185,-0.8,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Glutathione,0.77,5904580,46911,2287273,-0.1,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Glutathione Disulfide,0.7,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Glutathione Disulfide,0.7,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Glutathione Disulfide,0.78,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Glutathione Disulfide,0.8,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Glutathione Disulfide,0.73,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Glutathione Disulfide,0.66,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Glutathione Disulfide,0.71,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,Glutathione Disulfide,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,Glutathione Disulfide,0.73,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Glutathione Disulfide,0.91,14648141,0,9239795,0.6,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Glutathione Disulfide,0.77,17229760,0,8034358,0.7,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Glutathione Disulfide,0.76,13522920,0,9200796,0.8,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Glutathione Disulfide,0.66,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Glutathione Disulfide,0.75,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Glutathione Disulfide,0.84,0,0,0,#N/A,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Glutathione Disulfide,0.77,4049719,0,1738670,0.9,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Glutathione Disulfide,0.76,3760218,0,1472779,1.5,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,HHQ,10.48,19214,0,10574,-0.8,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,HHQ,10.48,41454,0,17297,-0.9,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,HHQ,9.99,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,HHQ,9.99,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,HHQ,10.52,2787,0,2944,0.2,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,HHQ,10.24,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,HHQ,10.51,21789,0,14623,-0.7,Standards_pos
+Standards_pos,Smp_PS_NS_B,HHQ,10.2,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,HHQ,10.48,14953,0,11426,-0.7,Standards_pos
+Standards_pos,Smp_PS_SAf_A,HHQ,10.49,635573,0,190665,-0.7,Standards_pos
+Standards_pos,Smp_PS_SAf_B,HHQ,10.5,233912,0,86832,-0.8,Standards_pos
+Standards_pos,Smp_PS_SAf_C,HHQ,10.5,27275996,0,8757377,-1.2,Standards_pos
+Standards_pos,Smp_PS_SBe_A,HHQ,10.26,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_B,HHQ,10.38,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,HHQ,10.64,2016,0,4937,-1.1,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,HHQ,10.48,746121792,0,237247296,-2.4,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,HHQ,10.48,748272256,0,243247408,-1.9,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Homoserine lactone,0.81,1679031,0,198575,-0.4,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Homoserine lactone,0.9,3256479,0,265966,-0.3,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Homoserine lactone,0.9,3029313,0,232316,-1.1,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Homoserine lactone,0.7,770934,236283,341124,-0.2,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Homoserine lactone,0.9,1761873,1159288,147071,-0.6,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Homoserine lactone,0.8,2320964,935854,174254,-0.8,Standards_pos
+Standards_pos,Smp_PS_NS_A,Homoserine lactone,0.89,1678331,963909,141682,-0.3,Standards_pos
+Standards_pos,Smp_PS_NS_B,Homoserine lactone,0.71,1885945,0,222242,-0.7,Standards_pos
+Standards_pos,Smp_PS_NS_C,Homoserine lactone,0.71,898736,261876,334877,-0.5,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Homoserine lactone,0.76,11136735,0,1972383,-0.5,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Homoserine lactone,0.77,11925860,0,2044924,-0.6,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Homoserine lactone,0.76,10190771,2331779,1342568,-0.3,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Homoserine lactone,0.7,5253623,0,647658,-1.1,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Homoserine lactone,0.7,4549154,0,1328286,-0.5,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Homoserine lactone,0.7,4646681,0,1487442,-0.8,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Homoserine lactone,0.71,12853477,0,4847798,-0.2,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Homoserine lactone,0.71,12262897,164624,4774910,0.1,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Hydroxo B12,4.16,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Hydroxo B12,4.33,1390,0,3100,4.6,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Hydroxo B12,4.12,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Hydroxo B12,4.04,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Hydroxo B12,4.12,1215,0,3461,-0.1,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Hydroxo B12,4.16,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Hydroxo B12,4.22,10451,0,6895,0,Standards_pos
+Standards_pos,Smp_PS_NS_B,Hydroxo B12,4.59,1826,0,3201,1.3,Standards_pos
+Standards_pos,Smp_PS_NS_C,Hydroxo B12,3.93,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Hydroxo B12,4.49,33400596,346039,6814013,0.9,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Hydroxo B12,4.5,21693498,76143,4111210,1.2,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Hydroxo B12,4.49,30042014,108253,6143084,0.6,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Hydroxo B12,4.5,391550,0,104283,-0.1,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Hydroxo B12,4.52,225030,0,47076,0.5,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Hydroxo B12,4.5,442596,0,91512,0.5,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Hydroxo B12,4.47,52428404,482157,10219690,0.7,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Hydroxo B12,4.48,54598520,756777,10394856,1.3,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,IAA,5.12,33693,0,6367,-1,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,IAA,5.13,20737,0,9002,-0.9,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,IAA,5.15,6764,0,5701,-2.6,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,IAA,5.11,22231,0,5972,-3.5,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,IAA,5,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,IAA,5.31,13073,0,4152,-0.8,Standards_pos
+Standards_pos,Smp_PS_NS_A,IAA,5.12,23686,0,7044,-1.6,Standards_pos
+Standards_pos,Smp_PS_NS_B,IAA,4.97,9194,0,5667,-1,Standards_pos
+Standards_pos,Smp_PS_NS_C,IAA,4.99,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,IAA,5.05,924284,32719,184670,-2.3,Standards_pos
+Standards_pos,Smp_PS_SAf_B,IAA,5.09,621638,125864,154171,-2,Standards_pos
+Standards_pos,Smp_PS_SAf_C,IAA,5.09,478458,210847,130359,-2.1,Standards_pos
+Standards_pos,Smp_PS_SBe_A,IAA,5.07,131443,0,35971,-2.8,Standards_pos
+Standards_pos,Smp_PS_SBe_B,IAA,5.07,19028,50865,7809,-2.4,Standards_pos
+Standards_pos,Smp_PS_SBe_C,IAA,5.09,81732,13890,11567,-2.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,IAA,5.05,5485684,27015,1675205,-2.2,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,IAA,5.06,5415904,78403,1722431,-1.7,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Indole 3 acetamide,3.89,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Indole 3 acetamide,3.42,75216,0,9432,-1.6,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Indole 3 acetamide,3.63,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Indole 3 acetamide,4.03,7125,0,6069,-1.5,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Indole 3 acetamide,3.85,1509,0,4285,-0.1,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Indole 3 acetamide,3.84,2920,0,4061,-2.1,Standards_pos
+Standards_pos,Smp_PS_NS_A,Indole 3 acetamide,3.85,7382,0,6513,-6.3,Standards_pos
+Standards_pos,Smp_PS_NS_B,Indole 3 acetamide,3.89,1395,0,3272,0.4,Standards_pos
+Standards_pos,Smp_PS_NS_C,Indole 3 acetamide,4.17,1532,0,3731,-1.8,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Indole 3 acetamide,3.79,3758045,15544,1058758,-2,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Indole 3 acetamide,3.8,7250962,109461,2038644,-1.7,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Indole 3 acetamide,3.79,5286704,69806,1459108,-1.8,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Indole 3 acetamide,3.78,42146,0,15240,-2.1,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Indole 3 acetamide,3.85,25529,0,7108,-3.3,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Indole 3 acetamide,3.79,2778,2698,4645,-3.5,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Indole 3 acetamide,3.78,50536888,0,11271453,-2.2,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Indole 3 acetamide,3.79,47456756,0,10821941,-1.4,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Indole 3 carboxylic acid,5,8966,0,8554,-0.4,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Indole 3 carboxylic acid,5.19,17043,0,8141,-1.6,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Indole 3 carboxylic acid,4.99,7184,0,5761,-0.5,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Indole 3 carboxylic acid,5.19,8618,0,9134,-2.1,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Indole 3 carboxylic acid,5.19,13416,0,8652,-2.5,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Indole 3 carboxylic acid,5.18,17575,0,8111,-1.4,Standards_pos
+Standards_pos,Smp_PS_NS_A,Indole 3 carboxylic acid,5.19,76048,0,20908,-2.4,Standards_pos
+Standards_pos,Smp_PS_NS_B,Indole 3 carboxylic acid,4.92,57820,0,12408,-1.5,Standards_pos
+Standards_pos,Smp_PS_NS_C,Indole 3 carboxylic acid,5.18,57817,0,13256,-2.1,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Indole 3 carboxylic acid,5.19,3299405,251840,1182480,-2.4,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Indole 3 carboxylic acid,5.19,3235200,116517,1113471,-2.2,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Indole 3 carboxylic acid,5.19,3095306,10998,1055557,-2.2,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Indole 3 carboxylic acid,5.19,1512734,0,488444,-2.9,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Indole 3 carboxylic acid,5.19,874990,93170,268062,-2.4,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Indole 3 carboxylic acid,5.2,1727959,72740,573068,-2.5,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Indole 3 carboxylic acid,5.18,5949074,0,1814749,-2.4,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Indole 3 carboxylic acid,5.18,5870957,0,1917931,-2,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Indole 3 Lactic Acid,4.62,5720,17304,6832,0.9,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Indole 3 Lactic Acid,4.68,23413,38554,11129,0.3,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Indole 3 Lactic Acid,4.6,2442,28898,2491,0.1,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Indole 3 Lactic Acid,4.7,50915,0,9713,0.3,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Indole 3 Lactic Acid,4.61,18455,0,9593,1.1,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Indole 3 Lactic Acid,4.61,25825,15030,9438,0.9,Standards_pos
+Standards_pos,Smp_PS_NS_A,Indole 3 Lactic Acid,4.61,40150,0,12365,0.4,Standards_pos
+Standards_pos,Smp_PS_NS_B,Indole 3 Lactic Acid,4.64,32227,0,8372,0.2,Standards_pos
+Standards_pos,Smp_PS_NS_C,Indole 3 Lactic Acid,4.53,20433,107962,18967,1.3,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Indole 3 Lactic Acid,4.58,2283643,225752,769053,-1,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Indole 3 Lactic Acid,4.58,2160378,303375,708433,-0.9,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Indole 3 Lactic Acid,4.57,2228640,186979,721468,-1.2,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Indole 3 Lactic Acid,4.49,943758,0,192550,0.7,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Indole 3 Lactic Acid,4.4,1237386,0,216072,0.2,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Indole 3 Lactic Acid,4.49,678779,52912,172161,1.1,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Indole 3 Lactic Acid,4.56,1655078,143366,475758,-1,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Indole 3 Lactic Acid,4.57,1490132,154886,438853,-0.4,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Indole 3 methyl acetate,7.24,5452,0,3899,-1.6,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Indole 3 methyl acetate,6.48,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Indole 3 methyl acetate,7.19,1338,0,3459,-0.2,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Indole 3 methyl acetate,6.88,2985,0,2543,0.1,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Indole 3 methyl acetate,7.39,2743,0,3198,-1.1,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Indole 3 methyl acetate,6.43,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Indole 3 methyl acetate,6.56,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,Indole 3 methyl acetate,6.78,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,Indole 3 methyl acetate,6.92,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Indole 3 methyl acetate,7.01,346729,0,87614,-1.7,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Indole 3 methyl acetate,7.01,1013160,0,292629,-1.5,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Indole 3 methyl acetate,7.02,394308,0,114784,-1.9,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Indole 3 methyl acetate,6.79,2011,0,2879,-1.5,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Indole 3 methyl acetate,6.62,13104,0,7539,-0.9,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Indole 3 methyl acetate,6.63,8054,0,6388,-2,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Indole 3 methyl acetate,7,14380954,706465,4161956,-1.9,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Indole 3 methyl acetate,6.99,14945762,1163704,4004275,-1.5,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Indoleacrylic acid,6.53,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Indoleacrylic acid,6.48,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Indoleacrylic acid,6.39,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Indoleacrylic acid,6.35,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Indoleacrylic acid,6.43,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Indoleacrylic acid,6.44,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Indoleacrylic acid,6.43,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,Indoleacrylic acid,6.43,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,Indoleacrylic acid,6.48,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Indoleacrylic acid,6.83,317034,0,133395,-1.9,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Indoleacrylic acid,6.83,1185590,0,455973,-1.8,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Indoleacrylic acid,6.82,253337,0,93172,-1.9,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Indoleacrylic acid,6.83,8766,0,12669,-2.3,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Indoleacrylic acid,6.57,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Indoleacrylic acid,6.84,8651,0,12708,-2.1,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Indoleacrylic acid,6.81,28592008,0,10303348,-1.9,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Indoleacrylic acid,6.81,26176910,0,9350472,-1.4,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Isobutyryl-L-carnitine,1.56,312552,0,51416,-1.1,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Isobutyryl-L-carnitine,1.39,79565,27536,24154,-0.9,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Isobutyryl-L-carnitine,1.41,30054,0,16740,-1.5,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Isobutyryl-L-carnitine,1.56,162964,0,30525,-1.6,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Isobutyryl-L-carnitine,1.21,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Isobutyryl-L-carnitine,1.4,18824,27962,16313,-1.8,Standards_pos
+Standards_pos,Smp_PS_NS_A,Isobutyryl-L-carnitine,1.39,2362,45325,2500,-1.3,Standards_pos
+Standards_pos,Smp_PS_NS_B,Isobutyryl-L-carnitine,1.24,9187,0,8197,-0.6,Standards_pos
+Standards_pos,Smp_PS_NS_C,Isobutyryl-L-carnitine,1.29,15605,0,12442,-0.5,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Isobutyryl-L-carnitine,1.4,1012501504,2418069,205617696,-2.2,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Isobutyryl-L-carnitine,1.4,1053876608,8193359,205255712,-2,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Isobutyryl-L-carnitine,1.4,1101004416,8359333,225352656,-2,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Isobutyryl-L-carnitine,1.36,317151808,94202,77897976,-2.3,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Isobutyryl-L-carnitine,1.36,159941872,842592,43882012,-1.6,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Isobutyryl-L-carnitine,1.36,157403184,0,39626424,-1.9,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Isobutyryl-L-carnitine,1.37,333218720,1965562,62213828,-2,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Isobutyryl-L-carnitine,1.38,308061376,0,59525524,-1.4,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Kinetin,2.94,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Kinetin,2.97,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Kinetin,3.14,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Kinetin,2.99,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Kinetin,3.06,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Kinetin,3.12,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Kinetin,2.88,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,Kinetin,3.11,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,Kinetin,3.06,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Kinetin,3.31,5791782,0,1924769,-6.6,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Kinetin,3.33,6344862,0,1976469,-4.6,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Kinetin,3.32,5252023,0,1890707,-5.5,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Kinetin,3.17,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Kinetin,3.11,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Kinetin,3.09,0,0,0,#N/A,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Kinetin,3.28,42519064,461435,9859344,-3.1,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Kinetin,3.3,44735132,0,10167283,-3.3,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Kynurenine,1.28,26685,0,10977,-2.4,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Kynurenine,1.25,40109,0,21379,-2.2,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Kynurenine,1.26,35042,0,16572,-1.9,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Kynurenine,1.27,72504,0,23920,-1.6,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Kynurenine,1.26,26493,0,12985,-1.9,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Kynurenine,1.27,51842,0,16775,-2,Standards_pos
+Standards_pos,Smp_PS_NS_A,Kynurenine,1.32,127034,0,42327,-1.9,Standards_pos
+Standards_pos,Smp_PS_NS_B,Kynurenine,1.28,95125,0,22304,-1.8,Standards_pos
+Standards_pos,Smp_PS_NS_C,Kynurenine,1.27,83353,101133,20421,-1.9,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Kynurenine,1.26,14455368,212982,5214501,-1.3,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Kynurenine,1.27,12404924,467795,4593830,-1,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Kynurenine,1.26,9757069,167057,3560933,-1.1,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Kynurenine,1.27,2070178,293710,753506,-1.8,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Kynurenine,1.27,3602712,45582,1387378,-1.5,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Kynurenine,1.27,4328529,319309,1650465,-1.6,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Kynurenine,1.25,25213256,165072,6357209,-1.2,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Kynurenine,1.26,26708974,207654,7739946,-0.8,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Melatonin,6.59,2415,0,6019,10.8,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Melatonin,6.09,1633,0,3067,0.7,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Melatonin,6.52,132644,0,93297,9.1,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Melatonin,6.57,12259,0,21063,8.1,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Melatonin,6.38,1818,0,4077,0.3,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Melatonin,6.52,28238,0,11890,0.3,Standards_pos
+Standards_pos,Smp_PS_NS_A,Melatonin,5.76,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,Melatonin,6.5,7050,0,7722,1.8,Standards_pos
+Standards_pos,Smp_PS_NS_C,Melatonin,6.38,6158,0,5854,-0.2,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Melatonin,6.17,1714133,0,753362,-0.8,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Melatonin,6.18,8163997,0,3286729,-0.9,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Melatonin,6.17,6513355,0,2649704,-0.8,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Melatonin,6.17,17765,0,11913,-0.9,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Melatonin,6.07,1845,0,3690,0.1,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Melatonin,6.17,11183,0,5070,-0.7,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Melatonin,6.15,108708408,0,43496356,-1.5,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Melatonin,6.16,94126472,1157227,36725476,-1.3,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Methyl B12,6.07,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Methyl B12,5.94,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Methyl B12,5.85,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Methyl B12,6.07,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Methyl B12,6.03,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Methyl B12,5.98,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Methyl B12,5.89,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,Methyl B12,5.93,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,Methyl B12,5.84,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Methyl B12,5.94,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Methyl B12,6.03,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Methyl B12,6.07,1402,0,3564,-0.5,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Methyl B12,5.93,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Methyl B12,5.93,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Methyl B12,6,1323,0,2014,8.9,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Methyl B12,6.32,36167576,540372,15127381,1.8,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Methyl B12,6.33,35837852,209775,14553983,2.2,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Methyl indole 3 carboxylate,7.08,25019,0,8433,-1.4,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Methyl indole 3 carboxylate,7.07,12786,0,6203,-2.1,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Methyl indole 3 carboxylate,7.52,6522,0,4313,-1.4,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Methyl indole 3 carboxylate,7.09,7238,0,6221,-0.7,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Methyl indole 3 carboxylate,7.05,9462,0,4862,-0.8,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Methyl indole 3 carboxylate,7.09,14632,0,6091,-1.1,Standards_pos
+Standards_pos,Smp_PS_NS_A,Methyl indole 3 carboxylate,7.07,59164,0,18924,-1.8,Standards_pos
+Standards_pos,Smp_PS_NS_B,Methyl indole 3 carboxylate,7.08,31507,0,13131,-1.5,Standards_pos
+Standards_pos,Smp_PS_NS_C,Methyl indole 3 carboxylate,7.09,21223,0,7796,-1.1,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Methyl indole 3 carboxylate,7.07,8707469,0,2283138,-1.6,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Methyl indole 3 carboxylate,7.08,9292824,246446,2243032,-1.8,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Methyl indole 3 carboxylate,7.07,4586173,0,1263251,-1.7,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Methyl indole 3 carboxylate,7.76,8559,0,5903,-0.8,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Methyl indole 3 carboxylate,7.55,8232,0,4290,-1.4,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Methyl indole 3 carboxylate,7.08,27065,0,8380,-1.6,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Methyl indole 3 carboxylate,7.06,19394116,438130,5784923,-2.1,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Methyl indole 3 carboxylate,7.06,20176226,529644,5243423,-1.8,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Methylthioadenosine,1.93,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Methylthioadenosine,1.93,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Methylthioadenosine,2.24,2296,0,4219,-0.3,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Methylthioadenosine,1.98,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Methylthioadenosine,1.89,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Methylthioadenosine,1.98,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Methylthioadenosine,1.89,3452,0,5018,0.2,Standards_pos
+Standards_pos,Smp_PS_NS_B,Methylthioadenosine,1.84,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,Methylthioadenosine,1.84,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Methylthioadenosine,2.24,83305000,0,26495948,-0.8,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Methylthioadenosine,2.24,92253432,0,29948200,-0.7,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Methylthioadenosine,2.23,121145224,137864,36784332,-0.8,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Methylthioadenosine,2.24,6715525,0,2205600,-0.7,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Methylthioadenosine,2.24,225831,0,87281,-0.5,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Methylthioadenosine,2.24,176356,0,63719,-0.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Methylthioadenosine,2.21,87314912,8913983,23173338,-0.9,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Methylthioadenosine,2.23,78457808,2520682,23127658,-0.4,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Monesin,11.53,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Monesin,11.5,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Monesin,11.67,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Monesin,11.72,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Monesin,11.72,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Monesin,11.41,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Monesin,11.83,1512,0,3005,2.4,Standards_pos
+Standards_pos,Smp_PS_NS_B,Monesin,11.65,1550,0,3131,-5.9,Standards_pos
+Standards_pos,Smp_PS_NS_C,Monesin,11.72,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Monesin,11.72,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Monesin,11.58,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Monesin,12.1,3912,0,6086,7,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Monesin,11.69,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Monesin,11.58,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Monesin,11.54,0,0,0,#N/A,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Monesin,11.63,98610352,1178451,34254544,-0.2,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Monesin,11.63,64356612,844844,21406262,0.7,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Ophthalmic Acid,0.72,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Ophthalmic Acid,0.73,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Ophthalmic Acid,0.73,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Ophthalmic Acid,0.78,8851,0,16644,0.2,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Ophthalmic Acid,0.73,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Ophthalmic Acid,0.75,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Ophthalmic Acid,0.76,63508,0,41234,0.2,Standards_pos
+Standards_pos,Smp_PS_NS_B,Ophthalmic Acid,0.77,43950,0,39983,0,Standards_pos
+Standards_pos,Smp_PS_NS_C,Ophthalmic Acid,0.77,81566,0,42972,-0.5,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Ophthalmic Acid,0.78,30712776,0,13817261,-0.8,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Ophthalmic Acid,0.78,28961984,138500,21795432,-0.9,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Ophthalmic Acid,0.77,31609578,0,24749814,-0.7,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Ophthalmic Acid,0.77,39374856,0,31404014,-1.2,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Ophthalmic Acid,0.78,37217900,0,11275583,-0.9,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Ophthalmic Acid,0.77,45709152,0,30715884,-1.1,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Ophthalmic Acid,0.63,3949,0,12305,3.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Ophthalmic Acid,0.73,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,p-Coumaric Acid,4.83,14557,0,6774,-1.7,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,p-Coumaric Acid,5.14,1289,0,3222,-0.1,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,p-Coumaric Acid,4.86,5519,0,3407,-1.4,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,p-Coumaric Acid,4.67,8812,0,4250,-0.6,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,p-Coumaric Acid,4.9,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,p-Coumaric Acid,5.02,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,p-Coumaric Acid,5.02,3790,0,8825,-0.6,Standards_pos
+Standards_pos,Smp_PS_NS_B,p-Coumaric Acid,4.98,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,p-Coumaric Acid,5.18,1430,0,2471,-0.9,Standards_pos
+Standards_pos,Smp_PS_SAf_A,p-Coumaric Acid,5.05,1146734,0,426649,-2.1,Standards_pos
+Standards_pos,Smp_PS_SAf_B,p-Coumaric Acid,5.05,1352418,0,492582,-1.6,Standards_pos
+Standards_pos,Smp_PS_SAf_C,p-Coumaric Acid,5.06,1190002,0,400968,-1.7,Standards_pos
+Standards_pos,Smp_PS_SBe_A,p-Coumaric Acid,5.05,243696,0,81959,-2.5,Standards_pos
+Standards_pos,Smp_PS_SBe_B,p-Coumaric Acid,5.05,122540,0,43706,-2,Standards_pos
+Standards_pos,Smp_PS_SBe_C,p-Coumaric Acid,5.06,310768,0,102895,-2.1,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,p-Coumaric Acid,5.04,2326442,20124,831480,-2,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,p-Coumaric Acid,5.05,2316266,0,872193,-1.6,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,p-Coumoroyl-HSL,4.87,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,p-Coumoroyl-HSL,4.91,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,p-Coumoroyl-HSL,5.01,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,p-Coumoroyl-HSL,5.4,1420,0,2394,-0.7,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,p-Coumoroyl-HSL,5.29,1440,0,3624,1.1,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,p-Coumoroyl-HSL,4.87,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,p-Coumoroyl-HSL,5.13,3140,0,3667,-1,Standards_pos
+Standards_pos,Smp_PS_NS_B,p-Coumoroyl-HSL,4.96,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,p-Coumoroyl-HSL,4.74,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,p-Coumoroyl-HSL,5.13,11163029,39508,4670364,-1.1,Standards_pos
+Standards_pos,Smp_PS_SAf_B,p-Coumoroyl-HSL,5.14,10990461,0,4420784,-0.7,Standards_pos
+Standards_pos,Smp_PS_SAf_C,p-Coumoroyl-HSL,5.13,15339518,0,6289331,-0.7,Standards_pos
+Standards_pos,Smp_PS_SBe_A,p-Coumoroyl-HSL,5.14,35436,0,16718,-1.1,Standards_pos
+Standards_pos,Smp_PS_SBe_B,p-Coumoroyl-HSL,5.14,35173,0,18786,-1,Standards_pos
+Standards_pos,Smp_PS_SBe_C,p-Coumoroyl-HSL,5.14,70231,0,26474,-0.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,p-Coumoroyl-HSL,5.12,24899906,0,10014285,-1.1,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,p-Coumoroyl-HSL,5.13,23922366,0,9773009,-0.7,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Phenylalanine,1.16,2034498,249379,802764,-1.6,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Phenylalanine,1.16,2345022,590587,881696,-1.8,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Phenylalanine,1.15,2560519,107372,1059150,-2.4,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Phenylalanine,1.16,7660626,269270,3084471,-1.8,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Phenylalanine,1.16,2743503,14572,1082402,-1.7,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Phenylalanine,1.16,4774795,152080,1946416,-2.2,Standards_pos
+Standards_pos,Smp_PS_NS_A,Phenylalanine,1.15,5759207,253090,2186828,-1.7,Standards_pos
+Standards_pos,Smp_PS_NS_B,Phenylalanine,1.16,1853821,213335,755184,-1.9,Standards_pos
+Standards_pos,Smp_PS_NS_C,Phenylalanine,1.15,5506829,358168,2192606,-2,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Phenylalanine,1.15,103431512,939129,39558168,-2.1,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Phenylalanine,1.15,102270120,483746,39938076,-2.1,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Phenylalanine,1.15,107764784,589476,41569480,-2.2,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Phenylalanine,1.15,136233792,1166402,51299660,-2.9,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Phenylalanine,1.15,107447456,1057373,42133928,-2.3,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Phenylalanine,1.16,129229048,1387106,50488984,-2.7,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Phenylalanine,1.14,34395440,194739,9185856,-2,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Phenylalanine,1.15,35745332,238828,10537067,-1.6,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Propionyl-L-carnitine,0.95,66747,0,10721,1.6,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Propionyl-L-carnitine,1.05,24418,34768,10167,4.4,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Propionyl-L-carnitine,1.06,31817,0,14167,1.2,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Propionyl-L-carnitine,0.98,106504,0,28259,2,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Propionyl-L-carnitine,1.09,31006,12372,9039,2.5,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Propionyl-L-carnitine,1.06,13922,50742,5657,3.3,Standards_pos
+Standards_pos,Smp_PS_NS_A,Propionyl-L-carnitine,0.98,46443,58092,14775,2.1,Standards_pos
+Standards_pos,Smp_PS_NS_B,Propionyl-L-carnitine,0.98,16707,35136,15904,-0.5,Standards_pos
+Standards_pos,Smp_PS_NS_C,Propionyl-L-carnitine,0.96,75590,39541,24889,-1.5,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Propionyl-L-carnitine,1.02,340124448,1483222,161836160,-2,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Propionyl-L-carnitine,1.03,365051072,753333,168400816,-2.2,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Propionyl-L-carnitine,1.03,369652704,4372070,163740976,-1.9,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Propionyl-L-carnitine,1.02,13410725,190570,6415575,-1.6,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Propionyl-L-carnitine,1.03,3277227,174239,1546634,-1.5,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Propionyl-L-carnitine,1.04,1984882,186259,1227629,-1.8,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Propionyl-L-carnitine,1.01,101475848,425910,28700646,-1.8,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Propionyl-L-carnitine,1.01,89689144,235575,31068912,-1.2,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Pyridoxal,0.91,569730,0,77162,-1.8,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Pyridoxal,0.91,849393,0,152413,-1.8,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Pyridoxal,0.82,366196,0,30702,-2.5,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Pyridoxal,0.91,676890,0,75588,-1.9,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Pyridoxal,0.78,204938,0,37014,-1.7,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Pyridoxal,0.91,795329,0,98731,-2.3,Standards_pos
+Standards_pos,Smp_PS_NS_A,Pyridoxal,1.1,717309,602708,86508,-2,Standards_pos
+Standards_pos,Smp_PS_NS_B,Pyridoxal,0.91,609950,0,71437,-2,Standards_pos
+Standards_pos,Smp_PS_NS_C,Pyridoxal,0.91,310530,261135,116013,-2.5,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Pyridoxal,0.91,19679138,670620,17999028,-2.3,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Pyridoxal,0.91,17987044,988519,17664962,-2,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Pyridoxal,0.91,16178308,438421,15908026,-1.9,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Pyridoxal,0.91,5126752,0,3248660,-2.8,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Pyridoxal,0.91,3609126,23445,3121662,-2.4,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Pyridoxal,0.91,1295911,280382,1046451,-2.9,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Pyridoxal,0.83,78202056,1164752,31334050,-2.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Pyridoxal,0.83,75643000,389019,23124070,-1.7,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Pyridoxal Phosphate,0.98,17334,0,8681,5.8,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Pyridoxal Phosphate,0.66,31507,0,54749,7.5,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Pyridoxal Phosphate,0.67,102354,0,36211,7.9,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Pyridoxal Phosphate,1.56,27186,0,10014,5.8,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Pyridoxal Phosphate,1.99,49492,0,8397,8.5,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Pyridoxal Phosphate,0.64,38764,0,21097,1.6,Standards_pos
+Standards_pos,Smp_PS_NS_A,Pyridoxal Phosphate,1.79,16051,0,7896,9,Standards_pos
+Standards_pos,Smp_PS_NS_B,Pyridoxal Phosphate,1.03,32566,0,12578,9.5,Standards_pos
+Standards_pos,Smp_PS_NS_C,Pyridoxal Phosphate,1.26,10895,0,5772,1.3,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Pyridoxal Phosphate,0.82,20919760,0,5491481,-0.7,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Pyridoxal Phosphate,0.82,16739885,0,4971326,-0.7,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Pyridoxal Phosphate,0.82,8486713,0,706070,-0.7,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Pyridoxal Phosphate,0.82,1446106,57184,139402,-1.4,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Pyridoxal Phosphate,0.82,517284,0,129971,-1.1,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Pyridoxal Phosphate,0.82,131877,0,78603,-1,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Pyridoxal Phosphate,0.8,8182862,0,3584083,-0.7,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Pyridoxal Phosphate,0.8,7738608,0,2983047,-0.2,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Pyridoxamine,0.61,665703,194100,1446355,-1.8,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Pyridoxamine,0.61,573534,394260,1031749,-0.6,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Pyridoxamine,0.61,354139,273729,833554,-2.6,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Pyridoxamine,0.61,801581,433838,1518387,-1.5,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Pyridoxamine,0.61,691576,212069,1253333,-0.7,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Pyridoxamine,0.61,1059614,377840,1389095,-2,Standards_pos
+Standards_pos,Smp_PS_NS_A,Pyridoxamine,0.61,716420,384113,1568474,-1.7,Standards_pos
+Standards_pos,Smp_PS_NS_B,Pyridoxamine,0.61,863449,153068,1874051,-1.9,Standards_pos
+Standards_pos,Smp_PS_NS_C,Pyridoxamine,0.61,489377,389451,1330536,-1.3,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Pyridoxamine,0.71,4206138,502972,3436215,-2.3,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Pyridoxamine,0.72,3205070,1253180,2217387,-1.9,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Pyridoxamine,0.71,4106019,948714,3060204,-1.7,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Pyridoxamine,0.61,1475972,704158,1414092,-2.4,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Pyridoxamine,0.71,244420,202641,272978,-2.5,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Pyridoxamine,0.71,891972,346307,565937,-2.6,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Pyridoxamine,0.7,48567728,1228299,22032546,-2.1,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Pyridoxamine,0.7,40265344,2642084,17814594,-1.7,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Retinoic Acid,11.9,4950,0,3602,-0.1,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Retinoic Acid,11.9,8015,0,4308,0.2,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Retinoic Acid,11.91,6244,0,7000,-0.9,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Retinoic Acid,11.94,5571,0,3861,-0.2,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Retinoic Acid,11.94,5135,0,3962,-0.1,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Retinoic Acid,11.96,6721,0,3980,-0.1,Standards_pos
+Standards_pos,Smp_PS_NS_A,Retinoic Acid,11.91,5040,0,4224,-0.8,Standards_pos
+Standards_pos,Smp_PS_NS_B,Retinoic Acid,11.88,10568,0,6065,0,Standards_pos
+Standards_pos,Smp_PS_NS_C,Retinoic Acid,11.95,8047,0,4921,-0.5,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Retinoic Acid,11.9,7100,0,5516,-0.3,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Retinoic Acid,11.91,7216,0,5457,-0.1,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Retinoic Acid,11.91,5635,0,4005,-0.5,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Retinoic Acid,11.93,3345,0,5572,-1.1,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Retinoic Acid,11.98,8025,0,5489,-0.3,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Retinoic Acid,11.83,11083,0,4545,-0.9,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Retinoic Acid,11.82,2810378,47138,1085273,-0.7,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Retinoic Acid,11.82,435203,26396,170621,-0.2,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,RP B12,4.82,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,RP B12,4.87,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,RP B12,4.73,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,RP B12,4.78,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,RP B12,4.82,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,RP B12,4.82,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,RP B12,5.06,6324,0,6756,2.7,Standards_pos
+Standards_pos,Smp_PS_NS_B,RP B12,4.78,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,RP B12,4.82,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,RP B12,5.11,7219142,0,2718929,4,Standards_pos
+Standards_pos,Smp_PS_SAf_B,RP B12,5.11,4764539,0,1785375,4.2,Standards_pos
+Standards_pos,Smp_PS_SAf_C,RP B12,5.11,7131234,0,2568701,4.2,Standards_pos
+Standards_pos,Smp_PS_SBe_A,RP B12,5.11,918536,0,328529,3.3,Standards_pos
+Standards_pos,Smp_PS_SBe_B,RP B12,5.11,306974,0,105658,3.6,Standards_pos
+Standards_pos,Smp_PS_SBe_C,RP B12,5.11,1144637,0,406166,3.7,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,RP B12,5.08,15622187,0,5813600,3.8,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,RP B12,5.1,16098527,0,5963282,4.4,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,S-Farnesyl-L-cysteine Methyl Ester,10.3,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,S-Farnesyl-L-cysteine Methyl Ester,10.19,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,S-Farnesyl-L-cysteine Methyl Ester,10.15,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,S-Farnesyl-L-cysteine Methyl Ester,10.3,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,S-Farnesyl-L-cysteine Methyl Ester,10.34,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,S-Farnesyl-L-cysteine Methyl Ester,10.35,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,S-Farnesyl-L-cysteine Methyl Ester,10.16,1504,0,4072,0.1,Standards_pos
+Standards_pos,Smp_PS_NS_B,S-Farnesyl-L-cysteine Methyl Ester,10.3,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,S-Farnesyl-L-cysteine Methyl Ester,10.33,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,S-Farnesyl-L-cysteine Methyl Ester,10.19,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_B,S-Farnesyl-L-cysteine Methyl Ester,10.21,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_C,S-Farnesyl-L-cysteine Methyl Ester,10.19,1289,0,3353,1.2,Standards_pos
+Standards_pos,Smp_PS_SBe_A,S-Farnesyl-L-cysteine Methyl Ester,10.34,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_B,S-Farnesyl-L-cysteine Methyl Ester,10.33,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,S-Farnesyl-L-cysteine Methyl Ester,10.21,0,0,0,#N/A,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,S-Farnesyl-L-cysteine Methyl Ester,10.46,29647144,0,11277151,-0.6,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,S-Farnesyl-L-cysteine Methyl Ester,10.46,12407929,241041,4709043,0,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Sinapic Acid,5.76,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Sinapic Acid,5.81,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Sinapic Acid,5.76,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Sinapic Acid,5.8,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Sinapic Acid,5.71,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Sinapic Acid,5.76,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Sinapic Acid,5.67,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,Sinapic Acid,5.67,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,Sinapic Acid,5.67,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Sinapic Acid,5.78,222082,0,97584,-1.1,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Sinapic Acid,5.78,31956,0,16560,-1.1,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Sinapic Acid,5.78,217982,0,107096,-1.4,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Sinapic Acid,5.67,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Sinapic Acid,5.8,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Sinapic Acid,5.76,0,0,0,#N/A,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Sinapic Acid,5.76,6694182,0,2848130,-1.4,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Sinapic Acid,5.76,5951681,0,2498692,-0.9,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Squalene,14.64,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Squalene,14.76,1081,0,2357,-5.5,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Squalene,14.91,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Squalene,14.88,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Squalene,14.79,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Squalene,14.82,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Squalene,14.73,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,Squalene,14.82,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,Squalene,14.78,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Squalene,14.78,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Squalene,14.73,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Squalene,14.82,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Squalene,14.63,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Squalene,14.68,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Squalene,14.63,0,0,0,#N/A,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Squalene,14.79,53448,0,20900,0.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Squalene,14.79,9988,0,5223,1.4,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Sulfurol,1.13,2988,0,5665,-0.9,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Sulfurol,0.8,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Sulfurol,0.95,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Sulfurol,1.13,61461,0,35546,-2.2,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Sulfurol,1.14,3452,0,5223,-1.6,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Sulfurol,1.15,13092,0,10689,-2.2,Standards_pos
+Standards_pos,Smp_PS_NS_A,Sulfurol,1.13,141331,139925,22234,-2.2,Standards_pos
+Standards_pos,Smp_PS_NS_B,Sulfurol,1.14,23546,22105,18770,-2.6,Standards_pos
+Standards_pos,Smp_PS_NS_C,Sulfurol,1.12,130906,0,56123,-2.3,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Sulfurol,1.12,82264384,0,38281064,-2.8,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Sulfurol,1.13,101507400,221031,47856856,-2.8,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Sulfurol,1.12,123233088,267125,55389760,-3,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Sulfurol,1.13,11368670,0,5814504,-3.2,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Sulfurol,1.13,16916402,0,8327919,-2.9,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Sulfurol,1.14,19162160,0,9343024,-3.1,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Sulfurol,1.12,165579648,479115,65664296,-3.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Sulfurol,1.12,162848528,384308,70444624,-2.6,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Syringaldehyde,5.67,8923,0,4342,4.3,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Syringaldehyde,5.13,5249,0,3169,-0.7,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Syringaldehyde,5.11,6691,0,3620,2.7,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Syringaldehyde,5.11,2821,0,4129,1,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Syringaldehyde,5.2,1342,0,3266,2.2,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Syringaldehyde,5.84,4191,0,2422,1,Standards_pos
+Standards_pos,Smp_PS_NS_A,Syringaldehyde,5.2,18626,0,6315,-1.7,Standards_pos
+Standards_pos,Smp_PS_NS_B,Syringaldehyde,5.38,3642,0,4188,-0.8,Standards_pos
+Standards_pos,Smp_PS_NS_C,Syringaldehyde,5.36,5206,0,3280,-0.2,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Syringaldehyde,5.02,6318435,0,1676655,-1.8,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Syringaldehyde,5.02,11259770,0,3082358,-1.5,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Syringaldehyde,5.01,6197407,78740,1807993,-1.4,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Syringaldehyde,5.02,766849,0,212110,-2.1,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Syringaldehyde,5.02,459261,0,119771,-2,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Syringaldehyde,5.02,1052394,0,280242,-1.7,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Syringaldehyde,5,22269002,0,6157645,-1.8,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Syringaldehyde,5.01,23458594,0,6123844,-1.5,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Syringic Acid,4.33,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Syringic Acid,4.55,1634,0,4425,10.7,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Syringic Acid,4.25,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Syringic Acid,4.12,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Syringic Acid,4.2,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Syringic Acid,4.27,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Syringic Acid,4.42,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,Syringic Acid,4.16,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,Syringic Acid,4.25,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Syringic Acid,4.44,305039,0,129955,-1,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Syringic Acid,4.44,330695,0,118237,-1.2,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Syringic Acid,4.45,221817,0,92518,-1.1,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Syringic Acid,4.2,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Syringic Acid,4.34,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Syringic Acid,4.45,0,0,0,#N/A,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Syringic Acid,4.42,632399,0,207968,-1.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Syringic Acid,4.43,575540,0,211071,-0.8,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Thiamine monophosphate,0.77,51155,0,29217,-9,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Thiamine monophosphate,0.76,178198,0,63228,-14.3,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Thiamine monophosphate,0.74,135312,0,69061,-9.7,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Thiamine monophosphate,0.76,167348,0,53223,-13.6,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Thiamine monophosphate,0.74,229175,0,65249,-14.4,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Thiamine monophosphate,0.75,271010,0,111644,-12.6,Standards_pos
+Standards_pos,Smp_PS_NS_A,Thiamine monophosphate,0.72,18959,0,29422,-10.8,Standards_pos
+Standards_pos,Smp_PS_NS_B,Thiamine monophosphate,0.73,11671,0,22741,-9.9,Standards_pos
+Standards_pos,Smp_PS_NS_C,Thiamine monophosphate,0.71,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Thiamine monophosphate,0.73,1087808,0,275284,-0.2,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Thiamine monophosphate,0.74,315987,0,111846,-0.7,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Thiamine monophosphate,0.73,586241,0,174486,0,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Thiamine monophosphate,0.89,10633,0,20469,-3.5,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Thiamine monophosphate,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Thiamine monophosphate,0.98,7226,0,9437,1.6,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Thiamine monophosphate,0.7,10721778,0,2758599,0.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Thiamine monophosphate,0.7,10266232,0,2635164,0.6,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,thiamine pyrophosphate,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,thiamine pyrophosphate,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,thiamine pyrophosphate,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,thiamine pyrophosphate,0.92,18730,0,34941,2.3,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,thiamine pyrophosphate,0.75,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,thiamine pyrophosphate,0.8,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,thiamine pyrophosphate,0.71,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,thiamine pyrophosphate,0.75,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,thiamine pyrophosphate,0.75,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,thiamine pyrophosphate,0.78,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_B,thiamine pyrophosphate,0.82,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_C,thiamine pyrophosphate,0.98,8603,0,10703,-0.4,Standards_pos
+Standards_pos,Smp_PS_SBe_A,thiamine pyrophosphate,0.78,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_B,thiamine pyrophosphate,0.8,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,thiamine pyrophosphate,0.8,0,0,0,#N/A,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,thiamine pyrophosphate,0.73,0,0,0,#N/A,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,thiamine pyrophosphate,0.64,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Tocopherol (Vit E),12.75,145398,0,27726,-8,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Tocopherol (Vit E),12.76,139423,0,26824,-7.8,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Tocopherol (Vit E),12.77,150152,0,26387,-8.4,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Tocopherol (Vit E),12.77,104377,0,24734,-8.1,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Tocopherol (Vit E),12.76,138282,0,29144,-8.5,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Tocopherol (Vit E),12.78,126266,0,27819,-7.9,Standards_pos
+Standards_pos,Smp_PS_NS_A,Tocopherol (Vit E),12.79,97524,0,25168,-8.3,Standards_pos
+Standards_pos,Smp_PS_NS_B,Tocopherol (Vit E),12.77,95891,0,17523,-8,Standards_pos
+Standards_pos,Smp_PS_NS_C,Tocopherol (Vit E),12.77,110207,0,22971,-7.6,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Tocopherol (Vit E),12.77,105912,0,27047,-7.9,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Tocopherol (Vit E),12.78,112943,0,24514,-6.9,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Tocopherol (Vit E),12.79,107362,0,26318,-8.7,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Tocopherol (Vit E),12.78,123723,0,24987,-8.5,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Tocopherol (Vit E),12.77,121456,0,27734,-8.5,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Tocopherol (Vit E),12.77,100762,0,22930,-7.8,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Tocopherol (Vit E),14.19,227326,0,89399,-9.6,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Tocopherol (Vit E),14.19,82713,0,31437,-7.5,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Tocotrienol,13.94,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Tocotrienol,13.67,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Tocotrienol,13.46,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Tocotrienol,13.6,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Tocotrienol,13.39,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Tocotrienol,13.74,1040,0,2091,-0.3,Standards_pos
+Standards_pos,Smp_PS_NS_A,Tocotrienol,13.62,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,Tocotrienol,13.6,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,Tocotrienol,13.57,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Tocotrienol,13.76,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Tocotrienol,13.71,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Tocotrienol,13.77,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Tocotrienol,13.53,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Tocotrienol,13.5,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Tocotrienol,13.38,0,0,0,#N/A,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Tocotrienol,13.52,204653,0,76777,-10.8,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Tocotrienol,13.53,56788,0,27987,-10.8,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,trans Retinal,11.79,77858,0,37313,-0.8,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,trans Retinal,11.79,62456,0,23957,-0.3,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,trans Retinal,11.81,26512,0,11592,-1.3,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,trans Retinal,11.81,32723,0,10732,-0.5,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,trans Retinal,11.8,47783,0,19568,-0.8,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,trans Retinal,11.82,40816,0,16486,-1.1,Standards_pos
+Standards_pos,Smp_PS_NS_A,trans Retinal,11.8,59813,0,25395,-0.3,Standards_pos
+Standards_pos,Smp_PS_NS_B,trans Retinal,11.8,44944,0,18334,-0.3,Standards_pos
+Standards_pos,Smp_PS_NS_C,trans Retinal,11.8,26968,0,13978,-0.2,Standards_pos
+Standards_pos,Smp_PS_SAf_A,trans Retinal,11.8,45275,0,22641,-0.4,Standards_pos
+Standards_pos,Smp_PS_SAf_B,trans Retinal,11.81,45607,0,20874,-0.2,Standards_pos
+Standards_pos,Smp_PS_SAf_C,trans Retinal,11.81,30148,0,13169,-1.1,Standards_pos
+Standards_pos,Smp_PS_SBe_A,trans Retinal,11.81,38763,0,14570,-1.1,Standards_pos
+Standards_pos,Smp_PS_SBe_B,trans Retinal,11.81,61744,0,24822,-0.8,Standards_pos
+Standards_pos,Smp_PS_SBe_C,trans Retinal,11.81,36652,0,16573,-0.7,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,trans Retinal,12.34,4076413,0,1330645,-0.8,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,trans Retinal,12.34,566004,0,181079,-0.1,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Tropodithietic acid,5.7,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Tropodithietic acid,5.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Tropodithietic acid,6.82,1312,0,3412,3.9,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Tropodithietic acid,5.8,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Tropodithietic acid,5.94,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Tropodithietic acid,5.76,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Tropodithietic acid,5.76,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,Tropodithietic acid,5.52,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,Tropodithietic acid,5.98,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Tropodithietic acid,6.36,3379871,0,72696,-1.5,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Tropodithietic acid,6.39,1453248,0,33617,-1.5,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Tropodithietic acid,6.31,3082822,0,60757,-1.5,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Tropodithietic acid,5.89,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Tropodithietic acid,7.92,2321,0,4777,3.5,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Tropodithietic acid,6.26,0,0,0,#N/A,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Tropodithietic acid,6.43,17695724,0,298932,-1.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Tropodithietic acid,6.36,16666976,0,292606,-0.9,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Tryptamine,2.35,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Tryptamine,2.35,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Tryptamine,2.31,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Tryptamine,2.39,1291,0,3279,-0.7,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Tryptamine,2.3,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Tryptamine,2.35,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Tryptamine,2.67,1287,0,2202,-1.3,Standards_pos
+Standards_pos,Smp_PS_NS_B,Tryptamine,2.31,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,Tryptamine,2.31,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Tryptamine,2.45,685255,0,209498,-1.8,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Tryptamine,2.46,864898,0,285621,-1.9,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Tryptamine,2.45,1034842,0,310151,-2.1,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Tryptamine,2.35,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Tryptamine,2.31,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Tryptamine,2.26,0,0,0,#N/A,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Tryptamine,2.44,15393968,0,4154537,-2.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Tryptamine,2.45,17155692,0,4876894,-1.9,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Tryptophan,1.86,19943,0,5412,-0.6,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Tryptophan,1.98,1618,0,3064,-0.1,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Tryptophan,2.11,11061,0,5860,-0.6,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Tryptophan,2.02,69394,0,17892,-1.3,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Tryptophan,2.02,118833,0,35516,-1.7,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Tryptophan,2.02,69371,0,20521,-1.5,Standards_pos
+Standards_pos,Smp_PS_NS_A,Tryptophan,2.01,94318,0,18898,-1.4,Standards_pos
+Standards_pos,Smp_PS_NS_B,Tryptophan,2.01,32405,0,11733,-0.8,Standards_pos
+Standards_pos,Smp_PS_NS_C,Tryptophan,2.02,55475,0,17643,-1,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Tryptophan,2,9672692,59109,3129118,-1.2,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Tryptophan,2.01,10519607,149645,3329049,-1,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Tryptophan,2,9852333,128178,3098037,-1.1,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Tryptophan,2,3769517,38752,1176475,-1.5,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Tryptophan,2,742250,63333,249471,-1.1,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Tryptophan,2.01,5946845,78310,1893756,-1.7,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Tryptophan,2,21024682,281498,5037703,-1.4,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Tryptophan,2,22117184,338235,5975978,-0.8,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Tryptophol,5.38,18740,0,6340,-2.4,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Tryptophol,5.38,28384,0,7480,-1.3,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Tryptophol,5.4,33347,0,9843,-3,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Tryptophol,4.95,5564,0,4254,-1.3,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Tryptophol,5.16,14895,0,5490,-2.4,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Tryptophol,4.85,9985,0,3121,-1.3,Standards_pos
+Standards_pos,Smp_PS_NS_A,Tryptophol,5.4,43142,0,19127,-2.3,Standards_pos
+Standards_pos,Smp_PS_NS_B,Tryptophol,5.09,8705,0,4004,-0.8,Standards_pos
+Standards_pos,Smp_PS_NS_C,Tryptophol,5.41,65802,0,25400,-2.1,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Tryptophol,5.02,273497,760,74096,-2.7,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Tryptophol,5.02,637488,40864,155422,-2.4,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Tryptophol,5.02,561842,0,119332,-2.5,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Tryptophol,5.26,23327,0,5620,-2.4,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Tryptophol,5.4,33016,0,9495,-2.1,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Tryptophol,5.24,24583,0,6408,-1.5,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Tryptophol,5.01,13357061,0,3211366,-2.4,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Tryptophol,5.02,13795667,0,3364736,-2,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Tyrosine,1.01,2207558,0,862847,-1.5,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Tyrosine,1.01,2833666,0,932707,-1.2,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Tyrosine,1,1841937,0,764328,-2,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Tyrosine,1,5579169,0,2790583,-1.4,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Tyrosine,1.01,1739633,0,862993,-1.4,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Tyrosine,1.01,4026586,87919,2006952,-1.5,Standards_pos
+Standards_pos,Smp_PS_NS_A,Tyrosine,1,2939014,0,1251760,-1.2,Standards_pos
+Standards_pos,Smp_PS_NS_B,Tyrosine,1,1138483,773821,519580,-1.3,Standards_pos
+Standards_pos,Smp_PS_NS_C,Tyrosine,1,4142381,681013,1736570,-1.6,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Tyrosine,1,42513148,339511,22847210,-1.7,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Tyrosine,1,42806548,203064,23516604,-1.7,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Tyrosine,1,43351004,297239,22327704,-1.5,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Tyrosine,1,56676760,573725,28667070,-2.2,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Tyrosine,1,40540280,178883,21538016,-1.8,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Tyrosine,1.01,52773176,644979,22885162,-2.1,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Tyrosine,1.1,1442951,0,428307,-1.4,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Tyrosine,1.11,1407777,0,523637,-0.8,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Vanillic Acid,3.67,13200,0,4359,-0.9,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Vanillic Acid,3.83,20139,0,6902,-0.8,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Vanillic Acid,3.77,17011,0,3946,-0.8,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Vanillic Acid,3.96,8492,0,4390,-1.3,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Vanillic Acid,3.73,5442,0,4012,-0.1,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Vanillic Acid,3.91,10696,0,4545,-0.5,Standards_pos
+Standards_pos,Smp_PS_NS_A,Vanillic Acid,3.87,49413,0,7063,-1.5,Standards_pos
+Standards_pos,Smp_PS_NS_B,Vanillic Acid,3.92,9103,2108,4527,-0.6,Standards_pos
+Standards_pos,Smp_PS_NS_C,Vanillic Acid,3.96,27041,0,7969,-1,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Vanillic Acid,3.76,1345586,205850,349401,-2.2,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Vanillic Acid,3.77,2248114,242305,648596,-1.8,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Vanillic Acid,3.77,1774415,184319,512160,-2,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Vanillic Acid,3.77,174167,7631,15456,-2.2,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Vanillic Acid,3.78,82634,61184,10021,-1.8,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Vanillic Acid,3.78,199371,0,18150,-1.9,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Vanillic Acid,3.77,717925,0,108543,-2,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Vanillic Acid,3.78,695771,12157,114910,-1.4,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Vanillin,4.35,104339,183826,23920,-2.2,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Vanillin,4.35,90019,122264,26974,-2.3,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Vanillin,4.36,193809,246398,46807,-2.9,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Vanillin,4.36,72338,210565,22749,-2.2,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Vanillin,4.35,470950,14531,72864,-2.3,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Vanillin,4.36,255999,0,34044,-2.5,Standards_pos
+Standards_pos,Smp_PS_NS_A,Vanillin,4.34,212803,0,64928,-2.3,Standards_pos
+Standards_pos,Smp_PS_NS_B,Vanillin,4.36,166176,115209,47553,-2.3,Standards_pos
+Standards_pos,Smp_PS_NS_C,Vanillin,4.35,637444,229878,125910,-2.5,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Vanillin,4.36,1641139,331002,322808,-2.5,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Vanillin,4.36,3459879,280428,721200,-2.4,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Vanillin,4.37,1416176,316375,324601,-2.6,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Vanillin,4.35,728821,357607,227667,-3,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Vanillin,4.35,500323,83217,89605,-2.5,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Vanillin,4.35,1735144,426419,496468,-2.7,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Vanillin,4.34,21722272,266804,4386150,-2.6,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Vanillin,4.34,21794368,180762,4609284,-2.2,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Vitamin B1,0.63,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Vitamin B1,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Vitamin B1,0.62,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Vitamin B1,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Vitamin B1,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Vitamin B1,0.66,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Vitamin B1,0.73,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,Vitamin B1,0.66,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,Vitamin B1,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Vitamin B1,0.63,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Vitamin B1,0.61,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Vitamin B1,0.62,5825,0,10040,-3.9,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Vitamin B1,0.71,22863,0,27867,-3.7,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Vitamin B1,0.7,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Vitamin B1,0.62,5418,0,11917,2.7,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Vitamin B1,0.77,43381420,173111,16220305,-0.7,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Vitamin B1,0.74,32823194,0,14172396,-0.2,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Vitamin B2,4.17,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Vitamin B2,4.33,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Vitamin B2,4.33,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Vitamin B2,4.21,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Vitamin B2,4.3,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Vitamin B2,4.24,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Vitamin B2,4.3,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,Vitamin B2,4.37,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,Vitamin B2,4.33,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Vitamin B2,4.37,12166470,98557,5488638,0,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Vitamin B2,4.37,5154208,0,2348629,0.1,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Vitamin B2,4.36,13568990,95859,6657372,-0.1,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Vitamin B2,4.3,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Vitamin B2,4.27,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Vitamin B2,4.33,0,0,0,#N/A,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Vitamin B2,4.34,29143026,0,12500402,-0.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Vitamin B2,4.36,29998898,0,13899037,0.2,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Vitamin B3,0.91,7863121,1558744,4806454,-1.9,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Vitamin B3,0.91,9517447,816229,7318770,-1.8,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Vitamin B3,0.9,4601647,0,2100240,-2.6,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Vitamin B3,0.91,2472706,792626,1038682,-1.9,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Vitamin B3,0.91,2769173,0,615431,-2,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Vitamin B3,0.91,3146485,0,1026765,-2.3,Standards_pos
+Standards_pos,Smp_PS_NS_A,Vitamin B3,0.91,4916418,0,1467591,-1.9,Standards_pos
+Standards_pos,Smp_PS_NS_B,Vitamin B3,0.91,6178737,0,2478658,-2,Standards_pos
+Standards_pos,Smp_PS_NS_C,Vitamin B3,0.91,5743808,408867,2428856,-2.1,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Vitamin B3,0.91,162952480,1027837,121787888,-2.3,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Vitamin B3,0.91,165164192,2059365,128044152,-2,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Vitamin B3,0.91,163658720,8712316,124070896,-2.1,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Vitamin B3,0.91,244418816,2304764,187525024,-2.8,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Vitamin B3,0.91,199747648,2974647,156730656,-2.5,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Vitamin B3,0.91,211458576,5981831,165917312,-2.9,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Vitamin B3,0.86,66782496,1431812,28799116,-2.2,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Vitamin B3,0.87,62317788,1034664,21750312,-1.6,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Vitamin B5,1.19,6711,23659,3330,-1,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Vitamin B5,1.01,37078,7667,12280,4.3,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Vitamin B5,1.07,20276,0,9083,0.6,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Vitamin B5,1.07,4766,24905,3792,0.3,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Vitamin B5,1.12,27457,0,10271,3.7,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Vitamin B5,1.18,114708,0,37432,-1.2,Standards_pos
+Standards_pos,Smp_PS_NS_A,Vitamin B5,1.08,76998,0,18007,3.7,Standards_pos
+Standards_pos,Smp_PS_NS_B,Vitamin B5,1.04,15720,0,9728,0.6,Standards_pos
+Standards_pos,Smp_PS_NS_C,Vitamin B5,1.16,60382,0,17534,-0.9,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Vitamin B5,1.18,17621508,40870,7667369,-1.2,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Vitamin B5,1.18,17943408,14023,7378681,-1.3,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Vitamin B5,1.18,18491804,964689,7910365,-1.2,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Vitamin B5,1.18,180144,0,69103,-1.3,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Vitamin B5,1.18,55677,47508,37370,-1,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Vitamin B5,1.18,105976,0,53177,-1.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Vitamin B5,1.16,20000770,100478,5810084,-1.2,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Vitamin B5,1.16,18556822,122627,5817822,-0.9,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Vitamin B6,0.77,1190674,0,71994,-2,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Vitamin B6,0.98,1407364,0,54681,-1.9,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Vitamin B6,0.97,611217,35302,41964,-2.6,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Vitamin B6,0.92,795977,341198,55855,-2.1,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Vitamin B6,0.73,857139,0,134825,-2,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Vitamin B6,0.74,1490535,0,123924,-2.3,Standards_pos
+Standards_pos,Smp_PS_NS_A,Vitamin B6,0.97,1461489,0,140949,-2,Standards_pos
+Standards_pos,Smp_PS_NS_B,Vitamin B6,0.98,1227516,0,118204,-2.1,Standards_pos
+Standards_pos,Smp_PS_NS_C,Vitamin B6,0.98,2101073,0,113483,-2.2,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Vitamin B6,0.91,39955984,452745,32268304,-2.5,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Vitamin B6,0.91,38980316,1260001,31286062,-2.1,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Vitamin B6,0.91,37151252,598987,29424252,-2.2,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Vitamin B6,0.91,11183794,0,9254930,-2.8,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Vitamin B6,0.91,7779278,0,5583573,-2.4,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Vitamin B6,0.92,9397900,1343879,6208185,-2.8,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Vitamin B6,0.85,154053280,117820,53820520,-2.6,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Vitamin B6,0.88,137878704,0,42549568,-2.1,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Vitamin B7,3.71,11667,101028,6079,-1,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Vitamin B7,3.59,37164,62972,8495,-0.5,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Vitamin B7,3.38,6677,82072,6788,-2,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Vitamin B7,3.56,16320,135827,8171,-1,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Vitamin B7,3.44,22741,108492,8364,-1.1,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Vitamin B7,3.49,16080,154411,7466,-1.3,Standards_pos
+Standards_pos,Smp_PS_NS_A,Vitamin B7,3.48,22787,107211,8060,-1,Standards_pos
+Standards_pos,Smp_PS_NS_B,Vitamin B7,3.6,29419,68703,12681,-0.8,Standards_pos
+Standards_pos,Smp_PS_NS_C,Vitamin B7,3.56,39451,84130,10021,-0.8,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Vitamin B7,3.58,4305107,139366,1268857,-0.6,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Vitamin B7,3.59,6086096,166709,1824599,-0.5,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Vitamin B7,3.57,6237232,241759,1808972,-0.4,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Vitamin B7,3.58,458827,158006,142295,-1,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Vitamin B7,3.57,48185,207736,13938,-0.9,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Vitamin B7,3.59,75309,223836,24779,-1.1,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Vitamin B7,3.56,22979098,273138,5913721,-0.8,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Vitamin B7,3.57,22554076,151370,5845710,-0.1,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Vitamin B9,4.36,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Vitamin B9,4.36,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Vitamin B9,4.36,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Vitamin B9,4.42,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Vitamin B9,4.39,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Vitamin B9,4.33,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Vitamin B9,4.36,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,Vitamin B9,4.29,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,Vitamin B9,4.26,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Vitamin B9,4.49,1063576,0,454734,0.4,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Vitamin B9,4.49,1489272,0,636027,0.9,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Vitamin B9,4.49,2354826,0,1100433,0.1,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Vitamin B9,4.49,747336,0,331610,0,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Vitamin B9,4.49,56093,0,28266,0.5,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Vitamin B9,4.49,260637,0,119124,0.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Vitamin B9,4.47,5711993,0,2074354,0.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Vitamin B9,4.48,5925769,0,2246306,1,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Vitamin D2,12.64,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Vitamin D2,12.38,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Vitamin D2,12.71,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Vitamin D2,13,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Vitamin D2,12.74,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Vitamin D2,13.23,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Vitamin D2,12.87,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,Vitamin D2,12.9,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,Vitamin D2,13.03,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Vitamin D2,12.71,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Vitamin D2,12.71,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Vitamin D2,12.8,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Vitamin D2,13.13,119,0,0,6.5,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Vitamin D2,12.64,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Vitamin D2,12.97,1214,0,3326,13.9,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Vitamin D2,13.53,661007,10143,283643,0.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Vitamin D2,13.53,168560,0,74644,1.2,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Vitamin K1,14.64,2003,0,2361,-1.6,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Vitamin K1,14.6,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Vitamin K1,14.57,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Vitamin K1,14.67,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Vitamin K1,14.57,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Vitamin K1,14.6,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Vitamin K1,14.7,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,Vitamin K1,14.74,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,Vitamin K1,14.78,1031,0,2588,-6.9,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Vitamin K1,14.6,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Vitamin K1,14.7,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Vitamin K1,14.64,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Vitamin K1,14.96,1128,0,2325,-4.8,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Vitamin K1,14.52,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Vitamin K1,14.65,804,0,1659,-1.5,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Vitamin K1,14.57,710354,0,262460,0.5,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Vitamin K1,14.56,177043,0,58896,1,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Vitamin K2,13.98,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Vitamin K2,13.95,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Vitamin K2,13.95,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Vitamin K2,14.35,1155,0,2673,2.2,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Vitamin K2,13.85,0,0,0,#N/A,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Vitamin K2,13.81,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_A,Vitamin K2,13.59,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_B,Vitamin K2,13.72,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_NS_C,Vitamin K2,14.05,911,0,1371,4.6,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Vitamin K2,13.69,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Vitamin K2,13.89,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Vitamin K2,13.89,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Vitamin K2,13.85,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Vitamin K2,13.62,0,0,0,#N/A,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Vitamin K2,13.76,0,0,0,#N/A,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Vitamin K2,13.93,2298382,0,1005106,0.6,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Vitamin K2,13.93,582516,0,256699,1.3,Standards_pos
+Standards_pos,Blk_NP_blk4_A-PS_blk1_A,Xanthine,1.1,27673,0,19779,-2.2,Standards_pos
+Standards_pos,Blk_NP_blk4_B-PS_blk1_B,Xanthine,1.1,17305,0,12669,-2.2,Standards_pos
+Standards_pos,Blk_NP_blk4_C-PS_blk1_C,Xanthine,1.1,29990,0,18049,-2.5,Standards_pos
+Standards_pos,Blk_PS_blk4_A-LW_blk1_A,Xanthine,1.09,24019,0,19467,-1.8,Standards_pos
+Standards_pos,Blk_PS_blk4_B-LW_blk1_B,Xanthine,1.09,16964,0,14382,-1.5,Standards_pos
+Standards_pos,Blk_PS_blk4_C-LW_blk1_C,Xanthine,1.1,50716,0,28439,-2,Standards_pos
+Standards_pos,Smp_PS_NS_A,Xanthine,1.09,159303,0,85218,-2,Standards_pos
+Standards_pos,Smp_PS_NS_B,Xanthine,1.1,105014,0,58148,-2.1,Standards_pos
+Standards_pos,Smp_PS_NS_C,Xanthine,1.09,78289,0,56929,-2.5,Standards_pos
+Standards_pos,Smp_PS_SAf_A,Xanthine,1.09,6303518,0,3370462,-2.7,Standards_pos
+Standards_pos,Smp_PS_SAf_B,Xanthine,1.1,7032201,0,3779854,-2.6,Standards_pos
+Standards_pos,Smp_PS_SAf_C,Xanthine,1.08,6006565,60665,3150141,-2.4,Standards_pos
+Standards_pos,Smp_PS_SBe_A,Xanthine,1.09,4062485,0,2303620,-3,Standards_pos
+Standards_pos,Smp_PS_SBe_B,Xanthine,1.1,3861744,36006,2097132,-2.7,Standards_pos
+Standards_pos,Smp_PS_SBe_C,Xanthine,1.1,3901377,0,2527441,-2.8,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_1,Xanthine,1.06,10008760,0,3015569,-2.3,Standards_pos
+Standards_pos,Std_250nMStdsInH2O_2,Xanthine,1.08,10137428,0,3886806,-2,Standards_pos
+Internal-Standards_pos,Blk_NP_blk4_A-PS_blk1_A,"Indole 3 Acetic Acid, D5",5,60111148,306019,16927474,0,Internal-Standards_pos
+Internal-Standards_pos,Blk_NP_blk4_B-PS_blk1_B,"Indole 3 Acetic Acid, D5",5,61512400,179124,17057864,0.2,Internal-Standards_pos
+Internal-Standards_pos,Blk_NP_blk4_C-PS_blk1_C,"Indole 3 Acetic Acid, D5",5,41686572,262847,11747499,-0.8,Internal-Standards_pos
+Internal-Standards_pos,Blk_PS_blk4_A-LW_blk1_A,"Indole 3 Acetic Acid, D5",5.01,54763504,0,15014156,-0.3,Internal-Standards_pos
+Internal-Standards_pos,Blk_PS_blk4_B-LW_blk1_B,"Indole 3 Acetic Acid, D5",5,50396600,179729,13790507,0,Internal-Standards_pos
+Internal-Standards_pos,Blk_PS_blk4_C-LW_blk1_C,"Indole 3 Acetic Acid, D5",5.01,39285676,76183,10596945,-0.3,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_NS_A,"Indole 3 Acetic Acid, D5",5,57788884,84905,16638841,-0.2,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_NS_B,"Indole 3 Acetic Acid, D5",5,51688924,0,14487571,0.1,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_NS_C,"Indole 3 Acetic Acid, D5",5,38525992,0,10686328,0,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SAf_A,"Indole 3 Acetic Acid, D5",5.01,590205,0,167996,0.2,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SAf_B,"Indole 3 Acetic Acid, D5",5.01,1041020,0,300206,0.6,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SAf_C,"Indole 3 Acetic Acid, D5",5.01,1756928,0,468639,0.5,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SBe_A,"Indole 3 Acetic Acid, D5",5.01,59562440,80764,16728034,-0.7,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SBe_B,"Indole 3 Acetic Acid, D5",5.01,33145960,196704,9763431,-0.3,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SBe_C,"Indole 3 Acetic Acid, D5",5,32992996,298230,9571032,-0.3,Internal-Standards_pos
+Internal-Standards_pos,Std_250nMStdsInH2O_1,"Indole 3 Acetic Acid, D5",5.37,39681,4635,7215,0.3,Internal-Standards_pos
+Internal-Standards_pos,Std_250nMStdsInH2O_2,"Indole 3 Acetic Acid, D5",5.4,12950,0,5855,1,Internal-Standards_pos
+Internal-Standards_pos,Blk_NP_blk4_A-PS_blk1_A,"L-Phenylalanine, D8",1.14,12883247,153598,5008104,1.2,Internal-Standards_pos
+Internal-Standards_pos,Blk_NP_blk4_B-PS_blk1_B,"L-Phenylalanine, D8",1.14,13475978,174349,5335293,1.1,Internal-Standards_pos
+Internal-Standards_pos,Blk_NP_blk4_C-PS_blk1_C,"L-Phenylalanine, D8",1.14,12704090,106342,5085418,0.4,Internal-Standards_pos
+Internal-Standards_pos,Blk_PS_blk4_A-LW_blk1_A,"L-Phenylalanine, D8",1.14,11897466,48066,4620266,1.2,Internal-Standards_pos
+Internal-Standards_pos,Blk_PS_blk4_B-LW_blk1_B,"L-Phenylalanine, D8",1.14,11314721,74228,4510878,1.2,Internal-Standards_pos
+Internal-Standards_pos,Blk_PS_blk4_C-LW_blk1_C,"L-Phenylalanine, D8",1.15,13679717,110848,5373892,0.8,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_NS_A,"L-Phenylalanine, D8",1.14,14014118,0,5526716,1.3,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_NS_B,"L-Phenylalanine, D8",1.14,12833627,107087,4971016,1,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_NS_C,"L-Phenylalanine, D8",1.14,12177940,126873,4808666,1,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SAf_A,"L-Phenylalanine, D8",1.14,10390028,0,4191275,1.3,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SAf_B,"L-Phenylalanine, D8",1.14,10228428,0,4140754,1.2,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SAf_C,"L-Phenylalanine, D8",1.14,9974181,22919,3939317,1.1,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SBe_A,"L-Phenylalanine, D8",1.14,13948582,0,5283232,0.4,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SBe_B,"L-Phenylalanine, D8",1.14,11424808,108224,4708778,1,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SBe_C,"L-Phenylalanine, D8",1.15,12058969,81558,5174264,0.7,Internal-Standards_pos
+Internal-Standards_pos,Std_250nMStdsInH2O_1,"L-Phenylalanine, D8",1,0,0,0,#N/A,Internal-Standards_pos
+Internal-Standards_pos,Std_250nMStdsInH2O_2,"L-Phenylalanine, D8",1.06,0,0,0,#N/A,Internal-Standards_pos
+Internal-Standards_pos,Blk_NP_blk4_A-PS_blk1_A,"L-Tryptophan, D3",2.08,0,0,0,#N/A,Internal-Standards_pos
+Internal-Standards_pos,Blk_NP_blk4_B-PS_blk1_B,"L-Tryptophan, D3",2.35,1447,0,4102,10.9,Internal-Standards_pos
+Internal-Standards_pos,Blk_NP_blk4_C-PS_blk1_C,"L-Tryptophan, D3",2.08,0,0,0,#N/A,Internal-Standards_pos
+Internal-Standards_pos,Blk_PS_blk4_A-LW_blk1_A,"L-Tryptophan, D3",2.36,1683,0,4124,1.8,Internal-Standards_pos
+Internal-Standards_pos,Blk_PS_blk4_B-LW_blk1_B,"L-Tryptophan, D3",2.36,1873,0,3372,6.9,Internal-Standards_pos
+Internal-Standards_pos,Blk_PS_blk4_C-LW_blk1_C,"L-Tryptophan, D3",1.98,1453,0,3816,-4.3,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_NS_A,"L-Tryptophan, D3",2.06,0,0,0,#N/A,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_NS_B,"L-Tryptophan, D3",2.09,0,0,0,#N/A,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_NS_C,"L-Tryptophan, D3",2.18,2333,0,6769,0,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SAf_A,"L-Tryptophan, D3",2.08,1590,0,4355,11.1,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SAf_B,"L-Tryptophan, D3",2.03,0,0,0,#N/A,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SAf_C,"L-Tryptophan, D3",2.34,5446,0,8933,10.9,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SBe_A,"L-Tryptophan, D3",2.32,7040,0,5034,8.8,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SBe_B,"L-Tryptophan, D3",1.96,0,0,0,#N/A,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SBe_C,"L-Tryptophan, D3",2.11,2145,0,3166,5.2,Internal-Standards_pos
+Internal-Standards_pos,Std_250nMStdsInH2O_1,"L-Tryptophan, D3",2,0,0,0,#N/A,Internal-Standards_pos
+Internal-Standards_pos,Std_250nMStdsInH2O_2,"L-Tryptophan, D3",2.06,0,0,0,#N/A,Internal-Standards_pos
+Internal-Standards_pos,Blk_NP_blk4_A-PS_blk1_A,"Pyridoxal, D3",0.9,38767268,0,33950752,1.1,Internal-Standards_pos
+Internal-Standards_pos,Blk_NP_blk4_B-PS_blk1_B,"Pyridoxal, D3",0.9,40686532,0,34563788,1.1,Internal-Standards_pos
+Internal-Standards_pos,Blk_NP_blk4_C-PS_blk1_C,"Pyridoxal, D3",0.9,34845356,238037,35742796,0.5,Internal-Standards_pos
+Internal-Standards_pos,Blk_PS_blk4_A-LW_blk1_A,"Pyridoxal, D3",0.91,35180824,0,32235146,1.1,Internal-Standards_pos
+Internal-Standards_pos,Blk_PS_blk4_B-LW_blk1_B,"Pyridoxal, D3",0.91,33507412,0,29678780,0.8,Internal-Standards_pos
+Internal-Standards_pos,Blk_PS_blk4_C-LW_blk1_C,"Pyridoxal, D3",0.91,57504144,0,48522108,0.5,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_NS_A,"Pyridoxal, D3",0.91,30161070,0,27696708,1.2,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_NS_B,"Pyridoxal, D3",0.91,28491176,0,25918258,1.1,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_NS_C,"Pyridoxal, D3",0.9,25005988,0,21820272,0.7,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SAf_A,"Pyridoxal, D3",0.91,21298342,0,17484544,1.2,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SAf_B,"Pyridoxal, D3",0.91,19083254,0,16296441,1.5,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SAf_C,"Pyridoxal, D3",0.91,17801704,0,16277985,1.6,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SBe_A,"Pyridoxal, D3",0.91,28905264,0,24426434,0.6,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SBe_B,"Pyridoxal, D3",0.91,23755184,0,20336708,1,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SBe_C,"Pyridoxal, D3",0.91,20998868,0,20726458,0.7,Internal-Standards_pos
+Internal-Standards_pos,Std_250nMStdsInH2O_1,"Pyridoxal, D3",0.85,13210345,0,4824083,2.1,Internal-Standards_pos
+Internal-Standards_pos,Std_250nMStdsInH2O_2,"Pyridoxal, D3",0.88,11261513,132952,3693258,2.6,Internal-Standards_pos
+Internal-Standards_pos,Blk_NP_blk4_A-PS_blk1_A,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.36,10182305,91215,4536652,1.3,Internal-Standards_pos
+Internal-Standards_pos,Blk_NP_blk4_B-PS_blk1_B,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.36,11516402,34806,5059896,1.3,Internal-Standards_pos
+Internal-Standards_pos,Blk_NP_blk4_C-PS_blk1_C,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.36,8740529,93391,4033530,0.8,Internal-Standards_pos
+Internal-Standards_pos,Blk_PS_blk4_A-LW_blk1_A,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.37,7139386,107617,3495184,1.3,Internal-Standards_pos
+Internal-Standards_pos,Blk_PS_blk4_B-LW_blk1_B,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.36,6220498,78046,2838330,1.5,Internal-Standards_pos
+Internal-Standards_pos,Blk_PS_blk4_C-LW_blk1_C,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.37,2459598,0,976088,1.2,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_NS_A,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.36,10838001,24170,4808700,0.9,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_NS_B,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.36,12009585,159206,5543687,1.4,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_NS_C,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.36,11781431,100026,5613555,1.2,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SAf_A,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.36,7580341,102207,3420277,1.3,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SAf_B,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.37,3258756,0,1409798,1.4,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SAf_C,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.36,9046335,115368,4502980,1.1,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SBe_A,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.36,11217261,94211,5297887,0.9,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SBe_B,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.36,6555514,81780,2874017,1.5,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SBe_C,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.36,9310946,130519,4268381,1.1,Internal-Standards_pos
+Internal-Standards_pos,Std_250nMStdsInH2O_1,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.18,0,0,0,#N/A,Internal-Standards_pos
+Internal-Standards_pos,Std_250nMStdsInH2O_2,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4.31,0,0,0,#N/A,Internal-Standards_pos
+Internal-Standards_pos,Blk_NP_blk4_A-PS_blk1_A,"Thiamine Hydrochloride, 13C3",0.78,341254,0,165749,1.5,Internal-Standards_pos
+Internal-Standards_pos,Blk_NP_blk4_B-PS_blk1_B,"Thiamine Hydrochloride, 13C3",0.78,884568,0,338096,1.5,Internal-Standards_pos
+Internal-Standards_pos,Blk_NP_blk4_C-PS_blk1_C,"Thiamine Hydrochloride, 13C3",0.61,73937,0,192956,0.2,Internal-Standards_pos
+Internal-Standards_pos,Blk_PS_blk4_A-LW_blk1_A,"Thiamine Hydrochloride, 13C3",0.79,2264229,0,996380,1.5,Internal-Standards_pos
+Internal-Standards_pos,Blk_PS_blk4_B-LW_blk1_B,"Thiamine Hydrochloride, 13C3",0.79,1599962,0,607380,1.3,Internal-Standards_pos
+Internal-Standards_pos,Blk_PS_blk4_C-LW_blk1_C,"Thiamine Hydrochloride, 13C3",0.79,5629314,424481,2411424,1,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_NS_A,"Thiamine Hydrochloride, 13C3",0.78,616124,0,170000,0.5,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_NS_B,"Thiamine Hydrochloride, 13C3",0.61,245089,52168,168234,1.2,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_NS_C,"Thiamine Hydrochloride, 13C3",0.79,229292,0,62094,-0.4,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SAf_A,"Thiamine Hydrochloride, 13C3",0.61,92581,129280,161665,-0.7,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SAf_B,"Thiamine Hydrochloride, 13C3",0.91,271373,0,94092,-1,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SAf_C,"Thiamine Hydrochloride, 13C3",0.91,213668,0,120706,-0.4,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SBe_A,"Thiamine Hydrochloride, 13C3",0.78,772985,0,200805,-0.7,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SBe_B,"Thiamine Hydrochloride, 13C3",0.91,153048,0,64143,-1.2,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SBe_C,"Thiamine Hydrochloride, 13C3",0.78,269269,0,92402,-0.6,Internal-Standards_pos
+Internal-Standards_pos,Std_250nMStdsInH2O_1,"Thiamine Hydrochloride, 13C3",0.62,29709,0,45599,2.9,Internal-Standards_pos
+Internal-Standards_pos,Std_250nMStdsInH2O_2,"Thiamine Hydrochloride, 13C3",0.63,23331,0,24692,0.4,Internal-Standards_pos
+Internal-Standards_pos,Blk_NP_blk4_A-PS_blk1_A,"Tryptamine Hydrochloride, D4",2.5,0,0,0,#N/A,Internal-Standards_pos
+Internal-Standards_pos,Blk_NP_blk4_B-PS_blk1_B,"Tryptamine Hydrochloride, D4",2.51,0,0,0,#N/A,Internal-Standards_pos
+Internal-Standards_pos,Blk_NP_blk4_C-PS_blk1_C,"Tryptamine Hydrochloride, D4",2.34,0,0,0,#N/A,Internal-Standards_pos
+Internal-Standards_pos,Blk_PS_blk4_A-LW_blk1_A,"Tryptamine Hydrochloride, D4",2.46,0,0,0,#N/A,Internal-Standards_pos
+Internal-Standards_pos,Blk_PS_blk4_B-LW_blk1_B,"Tryptamine Hydrochloride, D4",2.44,0,0,0,#N/A,Internal-Standards_pos
+Internal-Standards_pos,Blk_PS_blk4_C-LW_blk1_C,"Tryptamine Hydrochloride, D4",2.37,0,0,0,#N/A,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_NS_A,"Tryptamine Hydrochloride, D4",2.38,0,0,0,#N/A,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_NS_B,"Tryptamine Hydrochloride, D4",2.5,0,0,0,#N/A,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_NS_C,"Tryptamine Hydrochloride, D4",2.62,1382,0,3811,8,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SAf_A,"Tryptamine Hydrochloride, D4",2.51,1848,0,3587,3.4,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SAf_B,"Tryptamine Hydrochloride, D4",2.34,0,0,0,#N/A,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SAf_C,"Tryptamine Hydrochloride, D4",2.34,0,0,0,#N/A,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SBe_A,"Tryptamine Hydrochloride, D4",2.41,0,0,0,#N/A,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SBe_B,"Tryptamine Hydrochloride, D4",2.38,0,0,0,#N/A,Internal-Standards_pos
+Internal-Standards_pos,Smp_PS_SBe_C,"Tryptamine Hydrochloride, D4",2.5,0,0,0,#N/A,Internal-Standards_pos
+Internal-Standards_pos,Std_250nMStdsInH2O_1,"Tryptamine Hydrochloride, D4",2.5,0,0,0,#N/A,Internal-Standards_pos
+Internal-Standards_pos,Std_250nMStdsInH2O_2,"Tryptamine Hydrochloride, D4",2.41,0,0,0,#N/A,Internal-Standards_pos
