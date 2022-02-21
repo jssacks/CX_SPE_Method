@@ -1,0 +1,625 @@
+Rep,Compound,Area
+200914_Smp_A_NS_A,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_A_NS_B,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_A_NS_C,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_A_SAf_A,"Acetyl CoA, 13C2_Neg",996595
+200914_Smp_A_SAf_B,"Acetyl CoA, 13C2_Neg",1348235
+200914_Smp_A_SAf_C,"Acetyl CoA, 13C2_Neg",1093559
+200914_Smp_A_SBe_A,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_A_SBe_B,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_A_SBe_C,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_A_NS_A,"Adenosine Monophosphate, 15N5_Neg",34286868
+200914_Smp_A_NS_B,"Adenosine Monophosphate, 15N5_Neg",33925208
+200914_Smp_A_NS_C,"Adenosine Monophosphate, 15N5_Neg",32530114
+200914_Smp_A_SAf_A,"Adenosine Monophosphate, 15N5_Neg",25820568
+200914_Smp_A_SAf_B,"Adenosine Monophosphate, 15N5_Neg",23827250
+200914_Smp_A_SAf_C,"Adenosine Monophosphate, 15N5_Neg",19832038
+200914_Smp_A_SBe_A,"Adenosine Monophosphate, 15N5_Neg",31890476
+200914_Smp_A_SBe_B,"Adenosine Monophosphate, 15N5_Neg",34426412
+200914_Smp_A_SBe_C,"Adenosine Monophosphate, 15N5_Neg",31316984
+200914_Smp_A_NS_A,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_A_NS_B,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_A_NS_C,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_A_SAf_A,"Guanosine Monophosphate, 15N5_Neg",742495
+200914_Smp_A_SAf_B,"Guanosine Monophosphate, 15N5_Neg",1085088
+200914_Smp_A_SAf_C,"Guanosine Monophosphate, 15N5_Neg",1385376
+200914_Smp_A_SBe_A,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_A_SBe_B,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_A_SBe_C,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_A_NS_A,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_A_NS_B,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_A_NS_C,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_A_SAf_A,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_A_SAf_B,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_A_SAf_C,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_A_SBe_A,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_A_SBe_B,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_A_SBe_C,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_A_NS_A,"L-Cysteic Acid, D3_Neg",9040182
+200914_Smp_A_NS_B,"L-Cysteic Acid, D3_Neg",9318166
+200914_Smp_A_NS_C,"L-Cysteic Acid, D3_Neg",9924206
+200914_Smp_A_SAf_A,"L-Cysteic Acid, D3_Neg",9592749
+200914_Smp_A_SAf_B,"L-Cysteic Acid, D3_Neg",9235315
+200914_Smp_A_SAf_C,"L-Cysteic Acid, D3_Neg",11081132
+200914_Smp_A_SBe_A,"L-Cysteic Acid, D3_Neg",9037381
+200914_Smp_A_SBe_B,"L-Cysteic Acid, D3_Neg",8730882
+200914_Smp_A_SBe_C,"L-Cysteic Acid, D3_Neg",8431045
+200914_Smp_A_NS_A,"Sucrose, 13C_Neg",46656172
+200914_Smp_A_NS_B,"Sucrose, 13C_Neg",46210080
+200914_Smp_A_NS_C,"Sucrose, 13C_Neg",44961964
+200914_Smp_A_SAf_A,"Sucrose, 13C_Neg",35038552
+200914_Smp_A_SAf_B,"Sucrose, 13C_Neg",35024168
+200914_Smp_A_SAf_C,"Sucrose, 13C_Neg",35963120
+200914_Smp_A_SBe_A,"Sucrose, 13C_Neg",40202288
+200914_Smp_A_SBe_B,"Sucrose, 13C_Neg",39510720
+200914_Smp_A_SBe_C,"Sucrose, 13C_Neg",35510328
+200914_Smp_A_NS_A,"Taurine, D4_Neg",24119510
+200914_Smp_A_NS_B,"Taurine, D4_Neg",24139626
+200914_Smp_A_NS_C,"Taurine, D4_Neg",25810866
+200914_Smp_A_SAf_A,"Taurine, D4_Neg",17554712
+200914_Smp_A_SAf_B,"Taurine, D4_Neg",17795218
+200914_Smp_A_SAf_C,"Taurine, D4_Neg",19307830
+200914_Smp_A_SBe_A,"Taurine, D4_Neg",23194124
+200914_Smp_A_SBe_B,"Taurine, D4_Neg",21790214
+200914_Smp_A_SBe_C,"Taurine, D4_Neg",18618754
+200914_Smp_A_NS_A,"Trehalose, 13C_Neg",46656172
+200914_Smp_A_NS_B,"Trehalose, 13C_Neg",46210080
+200914_Smp_A_NS_C,"Trehalose, 13C_Neg",44961964
+200914_Smp_A_SAf_A,"Trehalose, 13C_Neg",35038552
+200914_Smp_A_SAf_B,"Trehalose, 13C_Neg",35024168
+200914_Smp_A_SAf_C,"Trehalose, 13C_Neg",35963120
+200914_Smp_A_SBe_A,"Trehalose, 13C_Neg",40202288
+200914_Smp_A_SBe_B,"Trehalose, 13C_Neg",39510720
+200914_Smp_A_SBe_C,"Trehalose, 13C_Neg",35510328
+200914_Smp_A_NS_A,"Succinic Acid, D4_Neg",15840380
+200914_Smp_A_NS_B,"Succinic Acid, D4_Neg",37607288
+200914_Smp_A_NS_C,"Succinic Acid, D4_Neg",516247
+200914_Smp_A_SAf_A,"Succinic Acid, D4_Neg",23865628
+200914_Smp_A_SAf_B,"Succinic Acid, D4_Neg",52795808
+200914_Smp_A_SAf_C,"Succinic Acid, D4_Neg",1097366
+200914_Smp_A_SBe_A,"Succinic Acid, D4_Neg",5969633
+200914_Smp_A_SBe_B,"Succinic Acid, D4_Neg",10451427
+200914_Smp_A_SBe_C,"Succinic Acid, D4_Neg",65487652
+200914_Smp_A_NS_A,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_A_NS_B,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_A_NS_C,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_A_SAf_A,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_A_SAf_B,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_A_SAf_C,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_A_SBe_A,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_A_SBe_B,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_A_SBe_C,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_A_NS_A,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_A_NS_B,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_A_NS_C,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_A_SAf_A,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_A_SAf_B,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_A_SAf_C,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_A_SBe_A,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_A_SBe_B,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_A_SBe_C,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_A_NS_A,"Thymine, D4_Neg",105137104
+200914_Smp_A_NS_B,"Thymine, D4_Neg",104552440
+200914_Smp_A_NS_C,"Thymine, D4_Neg",116298200
+200914_Smp_A_SAf_A,"Thymine, D4_Neg",94020792
+200914_Smp_A_SAf_B,"Thymine, D4_Neg",91488136
+200914_Smp_A_SAf_C,"Thymine, D4_Neg",99890080
+200914_Smp_A_SBe_A,"Thymine, D4_Neg",104569672
+200914_Smp_A_SBe_B,"Thymine, D4_Neg",114557808
+200914_Smp_A_SBe_C,"Thymine, D4_Neg",99918520
+200914_Smp_A_NS_A,"Uracil, 15N2-D2_Neg",760039
+200914_Smp_A_NS_B,"Uracil, 15N2-D2_Neg",1785903
+200914_Smp_A_NS_C,"Uracil, 15N2-D2_Neg",1514036
+200914_Smp_A_SAf_A,"Uracil, 15N2-D2_Neg",1668885
+200914_Smp_A_SAf_B,"Uracil, 15N2-D2_Neg",2761060
+200914_Smp_A_SAf_C,"Uracil, 15N2-D2_Neg",2290856
+200914_Smp_A_SBe_A,"Uracil, 15N2-D2_Neg",962222
+200914_Smp_A_SBe_B,"Uracil, 15N2-D2_Neg",437967
+200914_Smp_A_SBe_C,"Uracil, 15N2-D2_Neg",19982
+200914_Smp_NP_NS_A,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_NP_NS_B,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_NP_NS_C,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_NP_SAf_A,"Acetyl CoA, 13C2_Neg",1812189
+200914_Smp_NP_SAf_B,"Acetyl CoA, 13C2_Neg",1056264
+200914_Smp_NP_SAf_C,"Acetyl CoA, 13C2_Neg",1025024
+200914_Smp_NP_SBe_A,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_NP_SBe_B,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_NP_SBe_C,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_NP_NS_A,"Adenosine Monophosphate, 15N5_Neg",35321368
+200914_Smp_NP_NS_B,"Adenosine Monophosphate, 15N5_Neg",40723872
+200914_Smp_NP_NS_C,"Adenosine Monophosphate, 15N5_Neg",37233688
+200914_Smp_NP_SAf_A,"Adenosine Monophosphate, 15N5_Neg",41535228
+200914_Smp_NP_SAf_B,"Adenosine Monophosphate, 15N5_Neg",33699592
+200914_Smp_NP_SAf_C,"Adenosine Monophosphate, 15N5_Neg",46065956
+200914_Smp_NP_SBe_A,"Adenosine Monophosphate, 15N5_Neg",37182208
+200914_Smp_NP_SBe_B,"Adenosine Monophosphate, 15N5_Neg",32678482
+200914_Smp_NP_SBe_C,"Adenosine Monophosphate, 15N5_Neg",39003604
+200914_Smp_NP_NS_A,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_NP_NS_B,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_NP_NS_C,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_NP_SAf_A,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_NP_SAf_B,"Guanosine Monophosphate, 15N5_Neg",185295
+200914_Smp_NP_SAf_C,"Guanosine Monophosphate, 15N5_Neg",584222
+200914_Smp_NP_SBe_A,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_NP_SBe_B,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_NP_SBe_C,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_NP_NS_A,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_NP_NS_B,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_NP_NS_C,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_NP_SAf_A,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_NP_SAf_B,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_NP_SAf_C,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_NP_SBe_A,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_NP_SBe_B,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_NP_SBe_C,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_NP_NS_A,"L-Cysteic Acid, D3_Neg",8825766
+200914_Smp_NP_NS_B,"L-Cysteic Acid, D3_Neg",11010079
+200914_Smp_NP_NS_C,"L-Cysteic Acid, D3_Neg",9540786
+200914_Smp_NP_SAf_A,"L-Cysteic Acid, D3_Neg",13745913
+200914_Smp_NP_SAf_B,"L-Cysteic Acid, D3_Neg",12155870
+200914_Smp_NP_SAf_C,"L-Cysteic Acid, D3_Neg",15353118
+200914_Smp_NP_SBe_A,"L-Cysteic Acid, D3_Neg",8904593
+200914_Smp_NP_SBe_B,"L-Cysteic Acid, D3_Neg",9173010
+200914_Smp_NP_SBe_C,"L-Cysteic Acid, D3_Neg",10706072
+200914_Smp_NP_NS_A,"Sucrose, 13C_Neg",46313864
+200914_Smp_NP_NS_B,"Sucrose, 13C_Neg",51413756
+200914_Smp_NP_NS_C,"Sucrose, 13C_Neg",45237304
+200914_Smp_NP_SAf_A,"Sucrose, 13C_Neg",47982112
+200914_Smp_NP_SAf_B,"Sucrose, 13C_Neg",44385236
+200914_Smp_NP_SAf_C,"Sucrose, 13C_Neg",48714896
+200914_Smp_NP_SBe_A,"Sucrose, 13C_Neg",46579908
+200914_Smp_NP_SBe_B,"Sucrose, 13C_Neg",46941740
+200914_Smp_NP_SBe_C,"Sucrose, 13C_Neg",42677864
+200914_Smp_NP_NS_A,"Taurine, D4_Neg",23242512
+200914_Smp_NP_NS_B,"Taurine, D4_Neg",26791526
+200914_Smp_NP_NS_C,"Taurine, D4_Neg",23994862
+200914_Smp_NP_SAf_A,"Taurine, D4_Neg",19972558
+200914_Smp_NP_SAf_B,"Taurine, D4_Neg",16333019
+200914_Smp_NP_SAf_C,"Taurine, D4_Neg",23381328
+200914_Smp_NP_SBe_A,"Taurine, D4_Neg",22881588
+200914_Smp_NP_SBe_B,"Taurine, D4_Neg",23092014
+200914_Smp_NP_SBe_C,"Taurine, D4_Neg",24510484
+200914_Smp_NP_NS_A,"Trehalose, 13C_Neg",46313864
+200914_Smp_NP_NS_B,"Trehalose, 13C_Neg",51413756
+200914_Smp_NP_NS_C,"Trehalose, 13C_Neg",45237304
+200914_Smp_NP_SAf_A,"Trehalose, 13C_Neg",47982112
+200914_Smp_NP_SAf_B,"Trehalose, 13C_Neg",44385236
+200914_Smp_NP_SAf_C,"Trehalose, 13C_Neg",48714896
+200914_Smp_NP_SBe_A,"Trehalose, 13C_Neg",46579908
+200914_Smp_NP_SBe_B,"Trehalose, 13C_Neg",46941740
+200914_Smp_NP_SBe_C,"Trehalose, 13C_Neg",42677864
+200914_Smp_NP_NS_A,"Succinic Acid, D4_Neg",56506040
+200914_Smp_NP_NS_B,"Succinic Acid, D4_Neg",67967016
+200914_Smp_NP_NS_C,"Succinic Acid, D4_Neg",1606206
+200914_Smp_NP_SAf_A,"Succinic Acid, D4_Neg",15524
+200914_Smp_NP_SAf_B,"Succinic Acid, D4_Neg",167009
+200914_Smp_NP_SAf_C,"Succinic Acid, D4_Neg",444507
+200914_Smp_NP_SBe_A,"Succinic Acid, D4_Neg",64234648
+200914_Smp_NP_SBe_B,"Succinic Acid, D4_Neg",59720524
+200914_Smp_NP_SBe_C,"Succinic Acid, D4_Neg",2902995
+200914_Smp_NP_NS_A,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_NP_NS_B,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_NP_NS_C,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_NP_SAf_A,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_NP_SAf_B,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_NP_SAf_C,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_NP_SBe_A,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_NP_SBe_B,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_NP_SBe_C,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_NP_NS_A,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_NP_NS_B,"Sulfolactic Acid, 13C3_Neg",23676
+200914_Smp_NP_NS_C,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_NP_SAf_A,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_NP_SAf_B,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_NP_SAf_C,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_NP_SBe_A,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_NP_SBe_B,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_NP_SBe_C,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_NP_NS_A,"Thymine, D4_Neg",113073408
+200914_Smp_NP_NS_B,"Thymine, D4_Neg",131716224
+200914_Smp_NP_NS_C,"Thymine, D4_Neg",114991312
+200914_Smp_NP_SAf_A,"Thymine, D4_Neg",141192416
+200914_Smp_NP_SAf_B,"Thymine, D4_Neg",111451400
+200914_Smp_NP_SAf_C,"Thymine, D4_Neg",143668080
+200914_Smp_NP_SBe_A,"Thymine, D4_Neg",118018032
+200914_Smp_NP_SBe_B,"Thymine, D4_Neg",117866912
+200914_Smp_NP_SBe_C,"Thymine, D4_Neg",123382664
+200914_Smp_NP_NS_A,"Uracil, 15N2-D2_Neg",2311077
+200914_Smp_NP_NS_B,"Uracil, 15N2-D2_Neg",371904
+200914_Smp_NP_NS_C,"Uracil, 15N2-D2_Neg",4505623
+200914_Smp_NP_SAf_A,"Uracil, 15N2-D2_Neg",21333942
+200914_Smp_NP_SAf_B,"Uracil, 15N2-D2_Neg",14921202
+200914_Smp_NP_SAf_C,"Uracil, 15N2-D2_Neg",26321018
+200914_Smp_NP_SBe_A,"Uracil, 15N2-D2_Neg",1210634
+200914_Smp_NP_SBe_B,"Uracil, 15N2-D2_Neg",3168254
+200914_Smp_NP_SBe_C,"Uracil, 15N2-D2_Neg",4443061
+200914_Smp_PS_NS_A,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_PS_NS_B,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_PS_NS_C,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_PS_SAf_A,"Acetyl CoA, 13C2_Neg",1361006
+200914_Smp_PS_SAf_B,"Acetyl CoA, 13C2_Neg",1013668
+200914_Smp_PS_SAf_C,"Acetyl CoA, 13C2_Neg",1325983
+200914_Smp_PS_SBe_A,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_PS_SBe_B,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_PS_SBe_C,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_PS_NS_A,"Adenosine Monophosphate, 15N5_Neg",29300522
+200914_Smp_PS_NS_B,"Adenosine Monophosphate, 15N5_Neg",44413368
+200914_Smp_PS_NS_C,"Adenosine Monophosphate, 15N5_Neg",40831216
+200914_Smp_PS_SAf_A,"Adenosine Monophosphate, 15N5_Neg",37903832
+200914_Smp_PS_SAf_B,"Adenosine Monophosphate, 15N5_Neg",37435464
+200914_Smp_PS_SAf_C,"Adenosine Monophosphate, 15N5_Neg",36191920
+200914_Smp_PS_SBe_A,"Adenosine Monophosphate, 15N5_Neg",38632908
+200914_Smp_PS_SBe_B,"Adenosine Monophosphate, 15N5_Neg",33658212
+200914_Smp_PS_SBe_C,"Adenosine Monophosphate, 15N5_Neg",33215514
+200914_Smp_PS_NS_A,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_PS_NS_B,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_PS_NS_C,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_PS_SAf_A,"Guanosine Monophosphate, 15N5_Neg",1287717
+200914_Smp_PS_SAf_B,"Guanosine Monophosphate, 15N5_Neg",756782
+200914_Smp_PS_SAf_C,"Guanosine Monophosphate, 15N5_Neg",998183
+200914_Smp_PS_SBe_A,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_PS_SBe_B,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_PS_SBe_C,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_PS_NS_A,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_PS_NS_B,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_PS_NS_C,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_PS_SAf_A,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_PS_SAf_B,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_PS_SAf_C,"Isethionic Acid, 13C2_Neg",17719
+200914_Smp_PS_SBe_A,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_PS_SBe_B,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_PS_SBe_C,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_PS_NS_A,"L-Cysteic Acid, D3_Neg",12032723
+200914_Smp_PS_NS_B,"L-Cysteic Acid, D3_Neg",12103117
+200914_Smp_PS_NS_C,"L-Cysteic Acid, D3_Neg",11066886
+200914_Smp_PS_SAf_A,"L-Cysteic Acid, D3_Neg",12667950
+200914_Smp_PS_SAf_B,"L-Cysteic Acid, D3_Neg",13534824
+200914_Smp_PS_SAf_C,"L-Cysteic Acid, D3_Neg",12509362
+200914_Smp_PS_SBe_A,"L-Cysteic Acid, D3_Neg",11258598
+200914_Smp_PS_SBe_B,"L-Cysteic Acid, D3_Neg",9925851
+200914_Smp_PS_SBe_C,"L-Cysteic Acid, D3_Neg",9732994
+200914_Smp_PS_NS_A,"Sucrose, 13C_Neg",53902828
+200914_Smp_PS_NS_B,"Sucrose, 13C_Neg",51613348
+200914_Smp_PS_NS_C,"Sucrose, 13C_Neg",45017016
+200914_Smp_PS_SAf_A,"Sucrose, 13C_Neg",42369556
+200914_Smp_PS_SAf_B,"Sucrose, 13C_Neg",44223856
+200914_Smp_PS_SAf_C,"Sucrose, 13C_Neg",40088624
+200914_Smp_PS_SBe_A,"Sucrose, 13C_Neg",48841252
+200914_Smp_PS_SBe_B,"Sucrose, 13C_Neg",41883224
+200914_Smp_PS_SBe_C,"Sucrose, 13C_Neg",39026584
+200914_Smp_PS_NS_A,"Taurine, D4_Neg",29294704
+200914_Smp_PS_NS_B,"Taurine, D4_Neg",25054352
+200914_Smp_PS_NS_C,"Taurine, D4_Neg",24688634
+200914_Smp_PS_SAf_A,"Taurine, D4_Neg",20417022
+200914_Smp_PS_SAf_B,"Taurine, D4_Neg",19905986
+200914_Smp_PS_SAf_C,"Taurine, D4_Neg",20939670
+200914_Smp_PS_SBe_A,"Taurine, D4_Neg",24388746
+200914_Smp_PS_SBe_B,"Taurine, D4_Neg",21803450
+200914_Smp_PS_SBe_C,"Taurine, D4_Neg",20778594
+200914_Smp_PS_NS_A,"Trehalose, 13C_Neg",53902828
+200914_Smp_PS_NS_B,"Trehalose, 13C_Neg",51613348
+200914_Smp_PS_NS_C,"Trehalose, 13C_Neg",45017016
+200914_Smp_PS_SAf_A,"Trehalose, 13C_Neg",42369556
+200914_Smp_PS_SAf_B,"Trehalose, 13C_Neg",44223856
+200914_Smp_PS_SAf_C,"Trehalose, 13C_Neg",40088624
+200914_Smp_PS_SBe_A,"Trehalose, 13C_Neg",48841252
+200914_Smp_PS_SBe_B,"Trehalose, 13C_Neg",41883224
+200914_Smp_PS_SBe_C,"Trehalose, 13C_Neg",39026584
+200914_Smp_PS_NS_A,"Succinic Acid, D4_Neg",5067514
+200914_Smp_PS_NS_B,"Succinic Acid, D4_Neg",0
+200914_Smp_PS_NS_C,"Succinic Acid, D4_Neg",1045559
+200914_Smp_PS_SAf_A,"Succinic Acid, D4_Neg",0
+200914_Smp_PS_SAf_B,"Succinic Acid, D4_Neg",0
+200914_Smp_PS_SAf_C,"Succinic Acid, D4_Neg",1649980
+200914_Smp_PS_SBe_A,"Succinic Acid, D4_Neg",705262
+200914_Smp_PS_SBe_B,"Succinic Acid, D4_Neg",2131789
+200914_Smp_PS_SBe_C,"Succinic Acid, D4_Neg",0
+200914_Smp_PS_NS_A,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_PS_NS_B,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_PS_NS_C,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_PS_SAf_A,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_PS_SAf_B,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_PS_SAf_C,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_PS_SBe_A,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_PS_SBe_B,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_PS_SBe_C,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_PS_NS_A,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_PS_NS_B,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_PS_NS_C,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_PS_SAf_A,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_PS_SAf_B,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_PS_SAf_C,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_PS_SBe_A,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_PS_SBe_B,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_PS_SBe_C,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_PS_NS_A,"Thymine, D4_Neg",115295448
+200914_Smp_PS_NS_B,"Thymine, D4_Neg",107900392
+200914_Smp_PS_NS_C,"Thymine, D4_Neg",99708144
+200914_Smp_PS_SAf_A,"Thymine, D4_Neg",88323376
+200914_Smp_PS_SAf_B,"Thymine, D4_Neg",93048752
+200914_Smp_PS_SAf_C,"Thymine, D4_Neg",89292808
+200914_Smp_PS_SBe_A,"Thymine, D4_Neg",103085344
+200914_Smp_PS_SBe_B,"Thymine, D4_Neg",94362584
+200914_Smp_PS_SBe_C,"Thymine, D4_Neg",89445048
+200914_Smp_PS_NS_A,"Uracil, 15N2-D2_Neg",1677898
+200914_Smp_PS_NS_B,"Uracil, 15N2-D2_Neg",2126901
+200914_Smp_PS_NS_C,"Uracil, 15N2-D2_Neg",5012773
+200914_Smp_PS_SAf_A,"Uracil, 15N2-D2_Neg",7540996
+200914_Smp_PS_SAf_B,"Uracil, 15N2-D2_Neg",6304228
+200914_Smp_PS_SAf_C,"Uracil, 15N2-D2_Neg",15838412
+200914_Smp_PS_SBe_A,"Uracil, 15N2-D2_Neg",2460441
+200914_Smp_PS_SBe_B,"Uracil, 15N2-D2_Neg",3173966
+200914_Smp_PS_SBe_C,"Uracil, 15N2-D2_Neg",3752117
+200914_Poo_TruePooSpike_Full1,"Acetyl CoA, 13C2_Neg",21842
+200914_Poo_TruePooSpike_Full2,"Acetyl CoA, 13C2_Neg",14521
+200914_Poo_TruePooSpike_Full3,"Acetyl CoA, 13C2_Neg",0
+200914_Poo_TruePooSpike_Half1,"Acetyl CoA, 13C2_Neg",0
+200914_Poo_TruePooSpike_Half2,"Acetyl CoA, 13C2_Neg",0
+200914_Poo_TruePooSpike_Half3,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_LinA_0point1_A,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_LinA_0point1_B,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_LinA_0point1_C,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_LinA_0point5_A,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_LinA_0point5_B,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_LinA_0point5_C,"Acetyl CoA, 13C2_Neg",0
+200914_Poo_TruePooSpike_Full1,"Adenosine Monophosphate, 15N5_Neg",39686948
+200914_Poo_TruePooSpike_Full2,"Adenosine Monophosphate, 15N5_Neg",39171212
+200914_Poo_TruePooSpike_Full3,"Adenosine Monophosphate, 15N5_Neg",41542192
+200914_Poo_TruePooSpike_Half1,"Adenosine Monophosphate, 15N5_Neg",21125918
+200914_Poo_TruePooSpike_Half2,"Adenosine Monophosphate, 15N5_Neg",20026830
+200914_Poo_TruePooSpike_Half3,"Adenosine Monophosphate, 15N5_Neg",20372242
+200914_Smp_LinA_0point1_A,"Adenosine Monophosphate, 15N5_Neg",47132564
+200914_Smp_LinA_0point1_B,"Adenosine Monophosphate, 15N5_Neg",47979620
+200914_Smp_LinA_0point1_C,"Adenosine Monophosphate, 15N5_Neg",47086984
+200914_Smp_LinA_0point5_A,"Adenosine Monophosphate, 15N5_Neg",43652072
+200914_Smp_LinA_0point5_B,"Adenosine Monophosphate, 15N5_Neg",44721008
+200914_Smp_LinA_0point5_C,"Adenosine Monophosphate, 15N5_Neg",53363228
+200914_Poo_TruePooSpike_Full1,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Poo_TruePooSpike_Full2,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Poo_TruePooSpike_Full3,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Poo_TruePooSpike_Half1,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Poo_TruePooSpike_Half2,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Poo_TruePooSpike_Half3,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_LinA_0point1_A,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_LinA_0point1_B,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_LinA_0point1_C,"Guanosine Monophosphate, 15N5_Neg",19929
+200914_Smp_LinA_0point5_A,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_LinA_0point5_B,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_LinA_0point5_C,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Poo_TruePooSpike_Full1,"Isethionic Acid, 13C2_Neg",0
+200914_Poo_TruePooSpike_Full2,"Isethionic Acid, 13C2_Neg",0
+200914_Poo_TruePooSpike_Full3,"Isethionic Acid, 13C2_Neg",0
+200914_Poo_TruePooSpike_Half1,"Isethionic Acid, 13C2_Neg",0
+200914_Poo_TruePooSpike_Half2,"Isethionic Acid, 13C2_Neg",0
+200914_Poo_TruePooSpike_Half3,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_LinA_0point1_A,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_LinA_0point1_B,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_LinA_0point1_C,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_LinA_0point5_A,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_LinA_0point5_B,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_LinA_0point5_C,"Isethionic Acid, 13C2_Neg",0
+200914_Poo_TruePooSpike_Full1,"L-Cysteic Acid, D3_Neg",14923279
+200914_Poo_TruePooSpike_Full2,"L-Cysteic Acid, D3_Neg",14738927
+200914_Poo_TruePooSpike_Full3,"L-Cysteic Acid, D3_Neg",14820956
+200914_Poo_TruePooSpike_Half1,"L-Cysteic Acid, D3_Neg",6870535
+200914_Poo_TruePooSpike_Half2,"L-Cysteic Acid, D3_Neg",6231471
+200914_Poo_TruePooSpike_Half3,"L-Cysteic Acid, D3_Neg",7155287
+200914_Smp_LinA_0point1_A,"L-Cysteic Acid, D3_Neg",14944896
+200914_Smp_LinA_0point1_B,"L-Cysteic Acid, D3_Neg",15267730
+200914_Smp_LinA_0point1_C,"L-Cysteic Acid, D3_Neg",16030304
+200914_Smp_LinA_0point5_A,"L-Cysteic Acid, D3_Neg",15503435
+200914_Smp_LinA_0point5_B,"L-Cysteic Acid, D3_Neg",15577333
+200914_Smp_LinA_0point5_C,"L-Cysteic Acid, D3_Neg",18951428
+200914_Poo_TruePooSpike_Full1,"Sucrose, 13C_Neg",41922588
+200914_Poo_TruePooSpike_Full2,"Sucrose, 13C_Neg",52944336
+200914_Poo_TruePooSpike_Full3,"Sucrose, 13C_Neg",52632016
+200914_Poo_TruePooSpike_Half1,"Sucrose, 13C_Neg",27304360
+200914_Poo_TruePooSpike_Half2,"Sucrose, 13C_Neg",24929124
+200914_Poo_TruePooSpike_Half3,"Sucrose, 13C_Neg",20385350
+200914_Smp_LinA_0point1_A,"Sucrose, 13C_Neg",41144728
+200914_Smp_LinA_0point1_B,"Sucrose, 13C_Neg",44211184
+200914_Smp_LinA_0point1_C,"Sucrose, 13C_Neg",40044456
+200914_Smp_LinA_0point5_A,"Sucrose, 13C_Neg",39531720
+200914_Smp_LinA_0point5_B,"Sucrose, 13C_Neg",40731172
+200914_Smp_LinA_0point5_C,"Sucrose, 13C_Neg",51034452
+200914_Poo_TruePooSpike_Full1,"Taurine, D4_Neg",24618504
+200914_Poo_TruePooSpike_Full2,"Taurine, D4_Neg",23850956
+200914_Poo_TruePooSpike_Full3,"Taurine, D4_Neg",24266532
+200914_Poo_TruePooSpike_Half1,"Taurine, D4_Neg",13230159
+200914_Poo_TruePooSpike_Half2,"Taurine, D4_Neg",13537667
+200914_Poo_TruePooSpike_Half3,"Taurine, D4_Neg",11340732
+200914_Smp_LinA_0point1_A,"Taurine, D4_Neg",29636596
+200914_Smp_LinA_0point1_B,"Taurine, D4_Neg",30257596
+200914_Smp_LinA_0point1_C,"Taurine, D4_Neg",29949070
+200914_Smp_LinA_0point5_A,"Taurine, D4_Neg",29822540
+200914_Smp_LinA_0point5_B,"Taurine, D4_Neg",31382946
+200914_Smp_LinA_0point5_C,"Taurine, D4_Neg",33983416
+200914_Poo_TruePooSpike_Full1,"Trehalose, 13C_Neg",41922588
+200914_Poo_TruePooSpike_Full2,"Trehalose, 13C_Neg",52944336
+200914_Poo_TruePooSpike_Full3,"Trehalose, 13C_Neg",52632016
+200914_Poo_TruePooSpike_Half1,"Trehalose, 13C_Neg",27304360
+200914_Poo_TruePooSpike_Half2,"Trehalose, 13C_Neg",24929124
+200914_Poo_TruePooSpike_Half3,"Trehalose, 13C_Neg",20385350
+200914_Smp_LinA_0point1_A,"Trehalose, 13C_Neg",41144728
+200914_Smp_LinA_0point1_B,"Trehalose, 13C_Neg",44211184
+200914_Smp_LinA_0point1_C,"Trehalose, 13C_Neg",40044456
+200914_Smp_LinA_0point5_A,"Trehalose, 13C_Neg",39531720
+200914_Smp_LinA_0point5_B,"Trehalose, 13C_Neg",40731172
+200914_Smp_LinA_0point5_C,"Trehalose, 13C_Neg",51034452
+200914_Poo_TruePooSpike_Full1,"Succinic Acid, D4_Neg",88664376
+200914_Poo_TruePooSpike_Full2,"Succinic Acid, D4_Neg",88607360
+200914_Poo_TruePooSpike_Full3,"Succinic Acid, D4_Neg",70193888
+200914_Poo_TruePooSpike_Half1,"Succinic Acid, D4_Neg",35015232
+200914_Poo_TruePooSpike_Half2,"Succinic Acid, D4_Neg",47254
+200914_Poo_TruePooSpike_Half3,"Succinic Acid, D4_Neg",0
+200914_Smp_LinA_0point1_A,"Succinic Acid, D4_Neg",6515162
+200914_Smp_LinA_0point1_B,"Succinic Acid, D4_Neg",70449936
+200914_Smp_LinA_0point1_C,"Succinic Acid, D4_Neg",82934840
+200914_Smp_LinA_0point5_A,"Succinic Acid, D4_Neg",77945096
+200914_Smp_LinA_0point5_B,"Succinic Acid, D4_Neg",96237864
+200914_Smp_LinA_0point5_C,"Succinic Acid, D4_Neg",98283344
+200914_Poo_TruePooSpike_Full1,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Poo_TruePooSpike_Full2,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Poo_TruePooSpike_Full3,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Poo_TruePooSpike_Half1,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Poo_TruePooSpike_Half2,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Poo_TruePooSpike_Half3,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_LinA_0point1_A,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_LinA_0point1_B,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_LinA_0point1_C,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_LinA_0point5_A,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_LinA_0point5_B,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_LinA_0point5_C,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Poo_TruePooSpike_Full1,"Sulfolactic Acid, 13C3_Neg",0
+200914_Poo_TruePooSpike_Full2,"Sulfolactic Acid, 13C3_Neg",0
+200914_Poo_TruePooSpike_Full3,"Sulfolactic Acid, 13C3_Neg",0
+200914_Poo_TruePooSpike_Half1,"Sulfolactic Acid, 13C3_Neg",0
+200914_Poo_TruePooSpike_Half2,"Sulfolactic Acid, 13C3_Neg",18027
+200914_Poo_TruePooSpike_Half3,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_LinA_0point1_A,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_LinA_0point1_B,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_LinA_0point1_C,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_LinA_0point5_A,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_LinA_0point5_B,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_LinA_0point5_C,"Sulfolactic Acid, 13C3_Neg",0
+200914_Poo_TruePooSpike_Full1,"Thymine, D4_Neg",87167824
+200914_Poo_TruePooSpike_Full2,"Thymine, D4_Neg",96169448
+200914_Poo_TruePooSpike_Full3,"Thymine, D4_Neg",95747488
+200914_Poo_TruePooSpike_Half1,"Thymine, D4_Neg",52663060
+200914_Poo_TruePooSpike_Half2,"Thymine, D4_Neg",51697648
+200914_Poo_TruePooSpike_Half3,"Thymine, D4_Neg",46649388
+200914_Smp_LinA_0point1_A,"Thymine, D4_Neg",105431288
+200914_Smp_LinA_0point1_B,"Thymine, D4_Neg",107174128
+200914_Smp_LinA_0point1_C,"Thymine, D4_Neg",114476216
+200914_Smp_LinA_0point5_A,"Thymine, D4_Neg",99095176
+200914_Smp_LinA_0point5_B,"Thymine, D4_Neg",109991952
+200914_Smp_LinA_0point5_C,"Thymine, D4_Neg",104791112
+200914_Poo_TruePooSpike_Full1,"Uracil, 15N2-D2_Neg",12470491
+200914_Poo_TruePooSpike_Full2,"Uracil, 15N2-D2_Neg",10897592
+200914_Poo_TruePooSpike_Full3,"Uracil, 15N2-D2_Neg",12174013
+200914_Poo_TruePooSpike_Half1,"Uracil, 15N2-D2_Neg",5922576
+200914_Poo_TruePooSpike_Half2,"Uracil, 15N2-D2_Neg",6914698
+200914_Poo_TruePooSpike_Half3,"Uracil, 15N2-D2_Neg",5876935
+200914_Smp_LinA_0point1_A,"Uracil, 15N2-D2_Neg",2990831
+200914_Smp_LinA_0point1_B,"Uracil, 15N2-D2_Neg",5901776
+200914_Smp_LinA_0point1_C,"Uracil, 15N2-D2_Neg",4188071
+200914_Smp_LinA_0point5_A,"Uracil, 15N2-D2_Neg",2579914
+200914_Smp_LinA_0point5_B,"Uracil, 15N2-D2_Neg",7485109
+200914_Smp_LinA_0point5_C,"Uracil, 15N2-D2_Neg",4980441
+200914_Smp_LW_NS_A,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_LW_NS_B,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_LW_NS_C,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_LW_SAf_A,"Acetyl CoA, 13C2_Neg",1737245
+200914_Smp_LW_SAf_B,"Acetyl CoA, 13C2_Neg",1537505
+200914_Smp_LW_SAf_C,"Acetyl CoA, 13C2_Neg",1584874
+200914_Smp_LW_SBe_A,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_LW_SBe_B,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_LW_SBe_C,"Acetyl CoA, 13C2_Neg",0
+200914_Smp_LW_NS_A,"Adenosine Monophosphate, 15N5_Neg",43057196
+200914_Smp_LW_NS_B,"Adenosine Monophosphate, 15N5_Neg",45990868
+200914_Smp_LW_NS_C,"Adenosine Monophosphate, 15N5_Neg",34957612
+200914_Smp_LW_SAf_A,"Adenosine Monophosphate, 15N5_Neg",43686720
+200914_Smp_LW_SAf_B,"Adenosine Monophosphate, 15N5_Neg",36282032
+200914_Smp_LW_SAf_C,"Adenosine Monophosphate, 15N5_Neg",24512024
+200914_Smp_LW_SBe_A,"Adenosine Monophosphate, 15N5_Neg",46446988
+200914_Smp_LW_SBe_B,"Adenosine Monophosphate, 15N5_Neg",39234372
+200914_Smp_LW_SBe_C,"Adenosine Monophosphate, 15N5_Neg",42247320
+200914_Smp_LW_NS_A,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_LW_NS_B,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_LW_NS_C,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_LW_SAf_A,"Guanosine Monophosphate, 15N5_Neg",1633750
+200914_Smp_LW_SAf_B,"Guanosine Monophosphate, 15N5_Neg",1421122
+200914_Smp_LW_SAf_C,"Guanosine Monophosphate, 15N5_Neg",1033805
+200914_Smp_LW_SBe_A,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_LW_SBe_B,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_LW_SBe_C,"Guanosine Monophosphate, 15N5_Neg",0
+200914_Smp_LW_NS_A,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_LW_NS_B,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_LW_NS_C,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_LW_SAf_A,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_LW_SAf_B,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_LW_SAf_C,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_LW_SBe_A,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_LW_SBe_B,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_LW_SBe_C,"Isethionic Acid, 13C2_Neg",0
+200914_Smp_LW_NS_A,"L-Cysteic Acid, D3_Neg",10890579
+200914_Smp_LW_NS_B,"L-Cysteic Acid, D3_Neg",12227933
+200914_Smp_LW_NS_C,"L-Cysteic Acid, D3_Neg",11210943
+200914_Smp_LW_SAf_A,"L-Cysteic Acid, D3_Neg",15638084
+200914_Smp_LW_SAf_B,"L-Cysteic Acid, D3_Neg",12902011
+200914_Smp_LW_SAf_C,"L-Cysteic Acid, D3_Neg",9159935
+200914_Smp_LW_SBe_A,"L-Cysteic Acid, D3_Neg",12110696
+200914_Smp_LW_SBe_B,"L-Cysteic Acid, D3_Neg",12257405
+200914_Smp_LW_SBe_C,"L-Cysteic Acid, D3_Neg",12390377
+200914_Smp_LW_NS_A,"Sucrose, 13C_Neg",46985072
+200914_Smp_LW_NS_B,"Sucrose, 13C_Neg",50321804
+200914_Smp_LW_NS_C,"Sucrose, 13C_Neg",44687364
+200914_Smp_LW_SAf_A,"Sucrose, 13C_Neg",44397928
+200914_Smp_LW_SAf_B,"Sucrose, 13C_Neg",34481400
+200914_Smp_LW_SAf_C,"Sucrose, 13C_Neg",27201292
+200914_Smp_LW_SBe_A,"Sucrose, 13C_Neg",59484036
+200914_Smp_LW_SBe_B,"Sucrose, 13C_Neg",48902360
+200914_Smp_LW_SBe_C,"Sucrose, 13C_Neg",48301088
+200914_Smp_LW_NS_A,"Taurine, D4_Neg",25833300
+200914_Smp_LW_NS_B,"Taurine, D4_Neg",25695446
+200914_Smp_LW_NS_C,"Taurine, D4_Neg",25823920
+200914_Smp_LW_SAf_A,"Taurine, D4_Neg",23238820
+200914_Smp_LW_SAf_B,"Taurine, D4_Neg",18832102
+200914_Smp_LW_SAf_C,"Taurine, D4_Neg",14316383
+200914_Smp_LW_SBe_A,"Taurine, D4_Neg",26403990
+200914_Smp_LW_SBe_B,"Taurine, D4_Neg",23664950
+200914_Smp_LW_SBe_C,"Taurine, D4_Neg",24098098
+200914_Smp_LW_NS_A,"Trehalose, 13C_Neg",46985072
+200914_Smp_LW_NS_B,"Trehalose, 13C_Neg",50321804
+200914_Smp_LW_NS_C,"Trehalose, 13C_Neg",44687364
+200914_Smp_LW_SAf_A,"Trehalose, 13C_Neg",44397928
+200914_Smp_LW_SAf_B,"Trehalose, 13C_Neg",34481400
+200914_Smp_LW_SAf_C,"Trehalose, 13C_Neg",27201292
+200914_Smp_LW_SBe_A,"Trehalose, 13C_Neg",59484036
+200914_Smp_LW_SBe_B,"Trehalose, 13C_Neg",48902360
+200914_Smp_LW_SBe_C,"Trehalose, 13C_Neg",48301088
+200914_Smp_LW_NS_A,"Succinic Acid, D4_Neg",74609608
+200914_Smp_LW_NS_B,"Succinic Acid, D4_Neg",19048166
+200914_Smp_LW_NS_C,"Succinic Acid, D4_Neg",77767136
+200914_Smp_LW_SAf_A,"Succinic Acid, D4_Neg",30502940
+200914_Smp_LW_SAf_B,"Succinic Acid, D4_Neg",51909784
+200914_Smp_LW_SAf_C,"Succinic Acid, D4_Neg",44240680
+200914_Smp_LW_SBe_A,"Succinic Acid, D4_Neg",54004632
+200914_Smp_LW_SBe_B,"Succinic Acid, D4_Neg",562994
+200914_Smp_LW_SBe_C,"Succinic Acid, D4_Neg",489316
+200914_Smp_LW_NS_A,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_LW_NS_B,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_LW_NS_C,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_LW_SAf_A,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_LW_SAf_B,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_LW_SAf_C,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_LW_SBe_A,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_LW_SBe_B,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_LW_SBe_C,"Sulfoacetic Acid, 13C2_Neg",0
+200914_Smp_LW_NS_A,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_LW_NS_B,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_LW_NS_C,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_LW_SAf_A,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_LW_SAf_B,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_LW_SAf_C,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_LW_SBe_A,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_LW_SBe_B,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_LW_SBe_C,"Sulfolactic Acid, 13C3_Neg",0
+200914_Smp_LW_NS_A,"Thymine, D4_Neg",90556096
+200914_Smp_LW_NS_B,"Thymine, D4_Neg",98693088
+200914_Smp_LW_NS_C,"Thymine, D4_Neg",89202872
+200914_Smp_LW_SAf_A,"Thymine, D4_Neg",100058896
+200914_Smp_LW_SAf_B,"Thymine, D4_Neg",80135648
+200914_Smp_LW_SAf_C,"Thymine, D4_Neg",60798380
+200914_Smp_LW_SBe_A,"Thymine, D4_Neg",120727784
+200914_Smp_LW_SBe_B,"Thymine, D4_Neg",101342344
+200914_Smp_LW_SBe_C,"Thymine, D4_Neg",94025392
+200914_Smp_LW_NS_A,"Uracil, 15N2-D2_Neg",3182157
+200914_Smp_LW_NS_B,"Uracil, 15N2-D2_Neg",14913458
+200914_Smp_LW_NS_C,"Uracil, 15N2-D2_Neg",3863166
+200914_Smp_LW_SAf_A,"Uracil, 15N2-D2_Neg",16029210
+200914_Smp_LW_SAf_B,"Uracil, 15N2-D2_Neg",17967630
+200914_Smp_LW_SAf_C,"Uracil, 15N2-D2_Neg",8304700
+200914_Smp_LW_SBe_A,"Uracil, 15N2-D2_Neg",1075586
+200914_Smp_LW_SBe_B,"Uracil, 15N2-D2_Neg",0
+200914_Smp_LW_SBe_C,"Uracil, 15N2-D2_Neg",502706
