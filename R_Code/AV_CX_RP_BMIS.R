@@ -1,17 +1,11 @@
-
-#####
-#This script performs best matched internal standard (BMIS) normalization on AV HILIC data
-
-####
 library(ggplot2)
 library(tidyverse)
 
 
 #Define all your inputs here
-samp.key.file <- "Intermediates/Analytical_Validation/AV_HILIC_Samp_List.csv"
-is.dat.file.1 <- "Intermediates/Analytical_Validation/AV_HILIC_Pos_IS.csv"
-is.dat.file.2 <- "Intermediates/Analytical_Validation/AV_HILIC_Neg_IS.csv"
-xcms.dat.file <- "Intermediates/Analytical_Validation/AV_HILIC_combined_raw.csv"
+samp.key.file <- "Intermediates/Analytical_Validation/AV_CX_RP_Samp_List.csv"
+is.dat.file <- "Intermediates/Analytical_Validation/AV_RP_IS.csv"
+xcms.dat.file <- "Intermediates/Analytical_Validation/AV_RP_combined_raw.csv"
 cut.off <- 0.2
 cut.off2 <- 0.1
 
@@ -19,38 +13,38 @@ cut.off2 <- 0.1
 #Import sample key----
 samp.key <- read_csv(samp.key.file) 
 
-
-#Import Skyline data 
+###Added in filter to remove PPL Samples
 xcms.dat.2 <- read_csv(xcms.dat.file) %>%
   rename("MF" = Compound) %>%
-  pivot_longer(-MF, names_to = "SampID", values_to = "Area")
+  pivot_longer(-MF, names_to = "SampID", values_to = "Area") %>%
+  filter(!str_detect(.$SampID, "PPL")) 
 
 xcms.dat <- xcms.dat.2 %>%
   mutate(Area = as.numeric(Area))
 
 #Import and clean up the Internal standard data----
-is.dat.pos <- read_csv(is.dat.file.1) %>%
+is.dat <- read_csv(is.dat.file) %>%
   rename(SampID = `Rep`,
-         MF = `Compound`) %>% select(SampID, MF, Area)
-is.dat.neg <- read_csv(is.dat.file.2) %>%
-  rename(SampID = `Rep`,
-         MF = `Compound`) %>% select(SampID, MF, Area)
-is.dat.full <- rbind(is.dat.pos, is.dat.neg) 
+         MF = `Compound`) %>% select(SampID, MF, Area) %>%
+  filter(!str_detect(.$SampID, "PPL"))
+
+
+is.dat.full <- is.dat
 
 #Read in sample key, add in injec_volume data from sample key----
 samp.key.2 <- samp.key %>%
   filter(Rep %in% is.dat.full$SampID) %>%
-  select(Rep, Injec_vol) %>%
-  filter(!is.na(Injec_vol))%>%
+  select(Rep, InjVol_norm) %>%
+  filter(!is.na(InjVol_norm))%>%
   mutate(MF = "Inj_vol",
-         Area = Injec_vol,
+         Area = InjVol_norm,
          SampID = Rep) %>%
   select(SampID, MF, Area)
 
 is.dat.full.with.samp <- rbind(is.dat.full, samp.key.2)
 
 #Look at extraction replication of the Internal Standards----
-IS_inspectPlot <- ggplot(is.dat.full, aes(x=SampID, y=Area)) + 
+IS_inspectPlot <- ggplot(is.dat.full.with.samp, aes(x=SampID, y=Area)) + 
   geom_bar(stat="identity") + 
   facet_wrap( ~MF, scales="free_y")+
   theme(axis.text.x = element_text(angle = 90, hjust = 1,vjust = 0.5, size = 5), 
@@ -60,29 +54,23 @@ IS_inspectPlot <- ggplot(is.dat.full, aes(x=SampID, y=Area)) +
   ggtitle("IS Raw Areas")
 IS_inspectPlot
 
+
 #Edit data so names match, separate out the date so we can get individual IS.means for each run batch, remove any ISs that we don't think are good to use
 is.dat.full.with.samp.edited <- is.dat.full.with.samp %>%
-  filter(!str_detect(MF, "Histidine")) %>%
-  filter(!str_detect(MF, "Isethionic")) %>%
-  filter(!str_detect(MF, "L-Cysteic Acid")) %>%
-  filter(!str_detect(MF, "Acetyl CoA")) %>%
-  filter(!str_detect(MF, "Valine")) %>%
-  filter(!str_detect(MF, "Adenine")) %>%
-  filter(!str_detect(MF, "Guanonsine")) %>%
-  filter(!str_detect(MF, "L-Isoleucine")) %>%
-  filter(!str_detect(MF, "L-Methionine")) %>%
-  filter(!str_detect(MF, "Succinic Acid")) %>%
-  filter(!str_detect(MF, "Sulfoacetic Acid")) %>%
-  filter(!str_detect(MF, "Sulfolactic Acid")) %>%
-  filter(!str_detect(MF, "Uracil")) 
+  filter(str_detect(MF, "L-Phenylalanine") |
+           str_detect(MF, "Riboflavin") |
+           str_detect(MF, "Pyridoxal") |
+           str_detect(MF, "Inj_vol"))
 
+###Change name of data frame
 xcms.long <- xcms.dat
+
 
 
 #Calculate mean values for each IS----
 is.means <- is.dat.full.with.samp.edited %>% 
   left_join(samp.key %>%
-              mutate(SampID = Rep) %>%
+              mutate(SampID = Rep) %>% 
               select(SampID), by = "SampID") %>%
   group_by(MF) %>%
   summarise(ave = mean(as.numeric(Area))) %>%
@@ -93,8 +81,8 @@ is.means <- is.dat.full.with.samp.edited %>%
 #Normalize to each internal Standard----
 binded <- rbind(is.dat.full.with.samp.edited, xcms.long) %>%
   left_join(samp.key %>%
-              mutate(SampID = Rep) %>%
-              select(SampID), by = "SampID") 
+              mutate(SampID = Rep) %>% 
+              select(SampID), by = "SampID")
 split.dat <- list()
 for (i in 1:length(unique(is.dat.full.with.samp.edited$MF))){
   split.dat[[i]] <- binded %>% mutate(MIS = unique(is.dat.full.with.samp.edited$MF)[i]) %>%
@@ -157,7 +145,6 @@ QuickReport <- paste("% of MFs that picked a BMIS",
                      sep = " ")
 QuickReport
 
-
 #Evaluate the results of your BMIS cutoff-----
 IS_toISdat <- area.norm.2 %>%
   filter(MF %in% is.dat.full.with.samp.edited$MF) %>%
@@ -185,15 +172,11 @@ BMIS_normalizedData <- newpoodat %>% select(MF, FinalBMIS, Orig_RSD, FinalRSD) %
   left_join(area.norm.2 %>% rename(FinalBMIS = MIS)) %>% unique() %>%
   filter(!MF %in% is.dat.full.with.samp.edited$MF)
 
-QuickReport
 
-#Adjust data normalized to Inj_vol to ensure that is is not being divided by 2 
-BMIS_normalizedData.2 <- BMIS_normalizedData %>%
-  mutate(Adjusted_Area = case_when(FinalBMIS == "Inj_vol" ~ 2*Adjusted_Area,
-                                   !FinalBMIS == "Inj_vol" ~ Adjusted_Area)) 
-write_csv(BMIS_normalizedData.2, "Intermediates/Analytical_Validation/AV_CX_HILIC_BMISed_dat.csv")
+BMIS_normalizedData.2 <- BMIS_normalizedData 
+write_csv(BMIS_normalizedData.2, "Intermediates/Analytical_Validation/AV_CX_RP_BMISed_dat.csv")
 
 BMISlist <- list(IS_inspectPlot, QuickReport, ISTest_plot, BMIS_normalizedData.2)
-
+ISTest_plot
 #Removes all intermediate variables :)
 rm(list=setdiff(ls(), c("BMISlist")))

@@ -1,0 +1,454 @@
+Compound_Name,Compound_Name_Original,Column,Supplier,Part_Number
+(3-Carboxypropyl)trimethylammonium,(3-Carboxypropyl)trimethylammonium (TMAB),HILIC,Sigma-Aldrich,403245-1G
+"(R)-2,3-Dihydroxypropane-1-sulfonate",DHPS,HILIC,"A. Bourdon and S. Champagna, University of Tennessee, Knoxville",NA
+(S)-3-Hydroxybutyryl-CoA,Hydroxybutyryl CoA,HILIC,Sigma-Aldrich,H0261-10MG
+1-Propanesulfonate,Propanesulfonate,HILIC,Santa Cruz Biotechnology,sc-272474
+"2,3-Pyridinedicarboxylic acid",Pyridinedicarboxylic acid,HILIC,Sigma-Aldrich,P63808-25G
+"2,5-Dihydroxybenzoic acid",Resorcylic Acid,HILIC,Sigma-Aldrich,149357-10G
+2-Heptyl-3-hydroxy-quinolone,PQS,HILIC,Sigma-Aldrich,94398-10MG
+2-Hydroxy-4-(methylthio)butyric acid,2-Hydroxy-4-(methylthio)butyric_acid,HILIC,Cambridge Chemicals,CHM0094455
+2-keto-4-methylthiobutyric acid,Keto-?-(methylthio)butyric acid,HILIC,Sigma-Aldrich,K6000-10MG
+2-Ketoglutaric acid,Ketoglutaric Acid,HILIC,Sigma-Aldrich,75890-25G
+2-O-alpha-D-Glucosylglycerol,Glucosylglycerol,HILIC,Santa Cruz Biotechnology,sc-211562
+"3',5'-Cyclic AMP",cAMP,HILIC,Sigma-Aldrich,A6885-25MG
+"3',5'-Cyclic diGMP",Cyclic diGMP,HILIC,Sigma-Aldrich,SML1228-1UMO
+"3',5'-Cyclic GMP",cGMP,HILIC,Sigma-Aldrich,G6129-25MG
+3-Aminopropanesulfonate,Amino Propanesulfonic Acid,HILIC,Sigma-Aldrich,A76109-1G
+3-Phosphoglycerate,Phosphoglyceric Acid,HILIC,Sigma-Aldrich,P8877-10MG
+"3-Sulfolactate, 13C3","Sulfolactic Acid, 13C3",HILIC,"Millenium Enterprises, Inc",MEI-SLA-001
+3-Sulfopyruvic acid,3-Sulfopyruvic Acid,HILIC,Sigma-Aldrich,39584-10MG
+4-Aminobutyric acid,Aminobutyric Acid,HILIC,Sigma-Aldrich,A2129-25G
+5-Hydroxyectoine,Hydroxyectoine,HILIC,Sigma-Aldrich,70709-1G-F
+5-Methylcytosine,5-Methylcytosine,HILIC,Sigma-Aldrich,M6751-250MG
+5-Oxoproline,L-Pyroglutamic acid,HILIC,Sigma-Aldrich,83160-25G
+5-Oxoproline,L-Pyroglutamic acid,HILIC,Sigma-Aldrich,83160-25G
+Acetoacetyl-CoA,Acetoacetyl CoA,HILIC,Sigma-Aldrich,A1625-5MG
+Acetylcholine,Acetylcholine,HILIC,Sigma-Aldrich,A6625-10MG
+Acetyl-CoA,Acetyl CoA,HILIC,Sigma-Aldrich,A2056-5MG
+"Acetyl-CoA, 13C2","Acetyl CoA, 13C2",HILIC,Sigma-Aldrich,658650-CONF
+Acetylglycine,Acetylglycine,HILIC,Sigma-Aldrich,A16300-5G
+Adenine,Adenine,HILIC,Sigma-Aldrich,104965-5G
+Adenine,Adenine,HILIC,Sigma-Aldrich,104965-5G
+"Adenine, 15N2","Adenine, 15N2",HILIC,Sigma-Aldrich,644331-CONF
+Adenosine,Adenosine,HILIC,Sigma-Aldrich,A9251-1G
+Adenosine,Adenosine,HILIC,Sigma-Aldrich,A9251-1G
+Adenosine diphosphate,ADP,HILIC,Sigma-Aldrich,01905-250MG-F
+Adenosine monophosphate,AMP,HILIC,Sigma-Aldrich,01930-5G
+"Adenosine monophosphate, 15N5","Adenosine Monophosphate, 15N5",HILIC,Sigma-Aldrich,662658-10MG
+Adenosine triphosphate,ATP,HILIC,Sigma-Aldrich,A2383-1G
+Allantoin,Allantoin,HILIC,Sigma-Aldrich,05670-25G
+Allopurinol,Allopurinol,HILIC,Sigma-Aldrich,A8003-5G
+Allopurinol,Allopurinol,HILIC,Sigma-Aldrich,A8003-5G
+Anserine,Anserine,HILIC,Santa Cruz Biotechnology,sc-207792A
+Anserine,Anserine,HILIC,Santa Cruz Biotechnology,sc-207792A
+Arsenobetaine,Arsenobetaine,HILIC,Santa Cruz Biotechnology,sc-227279
+"Arsenobetaine, 13C2","Arsenobetaine, 13C2",HILIC,Cambridge Isotope Laboratories,CLM-8141-PK
+beta-Alanine,beta-Alanine,HILIC,Sigma-Aldrich,A9920-10MG
+beta-Alaninebetaine,Trimethylammonium Propionate (TMAP),HILIC,Ingalls Lab,NA
+beta-Glutamic acid,beta-Glutamic acid,HILIC,Sigma-Aldrich,G1763-50MG
+Betonicine,Betonicine,HILIC,Santa Cruz Biotechnology,sc-291986
+Butyrylcarnitine,Butyryl-L-carnitine,HILIC,Sigma-Aldrich,42623-10MG
+Butyrylglycine,Butyrylglycine,HILIC,Sigma-Aldrich,94274-10MG
+Carnitine,Carnitine,HILIC,Sigma-Aldrich,C0283-10MG
+Carnosine,Carnosine,HILIC,Sigma-Aldrich,C9625-10MG
+Carnosine,Carnosine,HILIC,Sigma-Aldrich,C9625-10MG
+Chitobiose,Chitobiose,HILIC,Sigma-Aldrich,D1523-100MG
+Choline,Choline,HILIC,Sigma-Aldrich,C7017-10MG
+Choline sulfate,Choline sulfate,HILIC,Cambridge Isotope Laboratories,ULM-8703-1
+Choline sulfate,Choline sulfate,HILIC,Cambridge Isotope Laboratories,ULM-8703-1
+cis-Aconitic acid,Aconitic Acid,HILIC,Sigma-Aldrich,A3412-1G
+Citric acid,Citric Acid,HILIC,Sigma-Aldrich,W302600-SAMPLE-K
+Citrulline,Citrulline,HILIC,Sigma-Aldrich,C7629-10MG
+Creatine,Creatine,HILIC,Sigma-Aldrich,C0780-10MG
+Creatinine,Creatinine,HILIC,Sigma-Aldrich,C4255-10MG
+Creatinine,Creatinine,HILIC,Sigma-Aldrich,C4255-10MG
+Crotonoyl-CoA,Crotonyl CoA,HILIC,Sigma-Aldrich,28007-5MG
+"Cys-Gly, oxidized",Cys-Gly oxidized,HILIC,Sigma-Aldrich,C9187-5MG
+Cytidine,Cytidine,HILIC,Sigma-Aldrich,C4654-1G
+Cytidine,Cytidine,HILIC,Sigma-Aldrich,C4654-1G
+Cytosine,Cytosine,HILIC,Sigma-Aldrich,C3506-1G
+Cytosine,Cytosine,HILIC,Sigma-Aldrich,C3506-1G
+"Cytosine, 13C2, 15N3","Cytosine, 13C2-15N3",HILIC,Sigma-Aldrich,492108-10MG
+Deoxyadenosine,Deoxyadenosine,HILIC,Sigma-Aldrich,D7400-500MG
+Dexpanthenol,Dexpanthenol,HILIC,Sigma-Aldrich,PHR1228-500MG
+D-Fructose 6-phosphate,Fructose 6 phosphate,HILIC,Sigma-Aldrich,F3627-10MG
+D-Gluconic acid,Gluconic Acid,HILIC,Sigma-Aldrich,G9005-10MG
+D-Glucose 1-phosphate,Glucose 1 phosphate,HILIC,Sigma-Aldrich,G7000-1G
+D-Glucose 6-phosphate,Glucose 6 phosphate,HILIC,Sigma-Aldrich,G7879-500MG
+Dihydroxyacetone phosphate,DHAP,HILIC,Sigma-Aldrich,D7137-5MG
+Dimethylglycine,Dimethyl Glycine,HILIC,Sigma-Aldrich,D1156-5G
+Dimethylsulfonioacetate,Dimethylsulfonioacetate (DMS-Ac),HILIC,"Dr. Georg Pohnert, Germany",NA
+Dimethylsulfoniopropionate,DMSP,HILIC,Sigma-Aldrich,80828-100MG
+"DL-Alanine, 2H3","DL-Alanine, D3",HILIC,Cambridge Isotope Laboratories,DLM-176-1
+"DL-Histidine, 15N","DL-Histidine, 15N",HILIC,Cambridge Isotope Laboratories,NLM-138-0.25
+"DL-Proline, 2H7","DL-Proline, D7",HILIC,Cambridge Isotope Laboratories,DLM-2657-0.25
+"DL-Valine, 2H8","DL-Valine, D8",HILIC,Cambridge Isotope Laboratories,DLM-311-0.5
+D-Methylmalonyl-CoA,Methyl Malonyl CoA,HILIC,Sigma-Aldrich,M1762-1MG
+D-Ribose 5-phosphate,Ribose 5 phosphate,HILIC,Sigma-Aldrich,R7750-10MG
+Ectoine,Ectoine,HILIC,Sigma-Aldrich,81619-1G-F
+Ectoine,Ectoine,HILIC,Sigma-Aldrich,81619-1G-F
+Ergothioneine,Ergothioneine,HILIC,Santa Cruz Biotechnology,sc-200814
+Ethanesulfonic acid,Ethanesulfonic Acid,HILIC,Sigma-Aldrich,186260-5G
+Ethanolamine,Ethanolamine,HILIC,Sigma-Aldrich,E9508-100ML
+Ethyl aminobenzoate,Ethyl 3 aminobenzoate,HILIC,Sigma-Aldrich,E10505-5G
+Ethyl dihydroxybenzoate,Ethyl Dihydroxybenzoate,HILIC,Sigma-Aldrich,541052-1G
+Flavin adenine dinucleotide,FAD,HILIC,Sigma-Aldrich,F6625-10MG
+Fumaric acid,Fumaric Acid,HILIC,Sigma-Aldrich,47910-5G
+Glucosamine,Glucosamine,HILIC,Sigma-Aldrich,PHR1199-500MG
+Glutamylphenylalanine,Glutamylphenylalanine,HILIC,Santa Cruz Biotechnology,sc-488719
+Glutamylphenylalanine,Glutamylphenylalanine,HILIC,Santa Cruz Biotechnology,sc-488719
+Glutathione,Glutathione,HILIC,Sigma-Aldrich,PHR1359-500MG
+Glutathione disulfide,Glutathione Disulfide,HILIC,Sigma-Aldrich,G4376-500MG
+Glycerophosphocholine,Glycerophosphocholine,HILIC,Sigma-Aldrich,G5291-10MG
+Glycerophosphoric acid,glycerol 3 phosphate,HILIC,Sigma-Aldrich,94124-10MG
+Glycine,Glycine,HILIC,Sigma-Aldrich,4059-00
+Glycine betaine,Betaine,HILIC,Sigma-Aldrich,B2629-50G
+"Glycine betaine, 13C5, 15N","Betaine, 13C5-15N",HILIC,Sigma-Aldrich,792322-CONF
+Gonyol,Gonyol,HILIC,"Dr. Georg Pohnert, Germany",NA
+Guanine,Guanine,HILIC,Sigma-Aldrich,G11950-10G
+Guanine,Guanine,HILIC,Sigma-Aldrich,G11950-10G
+"Guanine, 13C, 15N2","Guanine, 13C-15N2",HILIC,Cambridge Isotope Laboratories,CNLM-3990-25
+Guanosine,Guanosine,HILIC,Sigma-Aldrich,G6752-1G
+Guanosine,Guanosine,HILIC,Sigma-Aldrich,G6752-1G
+Guanosine monophosphate,GMP,HILIC,Sigma-Aldrich,G8377-500MG
+"Guanosine monophosphate, 15N5","Guanosine Monophosphate, 15N5",HILIC,Sigma-Aldrich,662674-10MG
+Guanosine triphosphate,GTP,HILIC,Sigma-Aldrich,G8877-10MG
+Homarine,Homarine,HILIC,Santa Cruz Biotechnology,sc-470671
+"Homarine, 2H3","Homarine, 2H3",HILIC,Santa Cruz Biotechnology,sc-490293
+Homocysteine thiolactone,Homocysteine Thiolactone,HILIC,Sigma-Aldrich,H6503-100MG
+Hordenine,Hordenine,HILIC,Santa Cruz Biotechnology,sc-279195
+Hydroxyisoleucine,4-Hydroxyisoleucine,HILIC,Sigma-Aldrich,49549-10MG
+Hydroxyisoleucine,4-Hydroxyisoleucine,HILIC,Sigma-Aldrich,49549-10MG
+Hydroxyproline,trans Hydroxyl proline,HILIC,Sigma-Aldrich,H54409-2.5G
+Hypotaurine,Hypotaurine,HILIC,Sigma-Aldrich,H1384-10MG
+Hypoxanthine,Hypoxanthine,HILIC,Sigma-Aldrich,H9377-1G
+Hypoxanthine,Hypoxanthine,HILIC,Sigma-Aldrich,H9377-1G
+Indole-3-carbinol,Indole 3 carbinol,HILIC,Sigma-Aldrich,I7256-1G
+Indolepyruvic acid,Indole 3 Pyruvic Acid,HILIC,Sigma-Aldrich,I7017-1G
+Inosine,Inosine,HILIC,Sigma-Aldrich,I4125-1G
+Inosine,Inosine,HILIC,Sigma-Aldrich,I4125-1G
+Isethionic acid,Isethionic Acid,HILIC,Sigma-Aldrich,220078-25G
+"Isethionic acid, 13C2","Isethionic Acid, 13C2",HILIC,"Millenium Enterprises, Inc",MEI-ITA-001
+Isocitric acid,Isocitric Acid,HILIC,Sigma-Aldrich,I1252-1G
+Lactose,Lactose,HILIC,Sigma-Aldrich,PHR1025-1G
+Lactose,Lactose,HILIC,Sigma-Aldrich,PHR1025-1G
+L-Alanine,Alanine,HILIC,Sigma-Aldrich,A7627-100G
+L-Arginine,Arginine,HILIC,Sigma-Aldrich,A5006-100G
+L-Arginosuccinic acid,Argininosuccinic Acid,HILIC,Sigma-Aldrich,A5707-10MG
+L-Asparagine,Asparagine,HILIC,Sigma-Aldrich,A0884-10MG
+L-Aspartic acid,Aspartic acid,HILIC,Sigma-Aldrich,A9256-100G
+L-Cystathionine,Cystathionine,HILIC,Sigma-Aldrich,C7505-10MG
+L-Cysteic acid,Cysteic Acid,HILIC,Sigma-Aldrich,30170-10G
+"L-Cysteic acid, 2H3","L-Cysteic Acid, D3",HILIC,Cambridge Isotope Laboratories,DLM-1355-0
+L-Cysteine,Cysteine,HILIC,Sigma-Aldrich,168149-2.5G
+L-Cysteinesulfinic acid,Cysteinesulfinic acid,HILIC,Sigma-Aldrich,C4418-100MG
+L-Cysteinesulfinic acid,Cysteinesulfinic acid,HILIC,Sigma-Aldrich,C4418-100MG
+L-Cysteinylglycine,Cys-Gly,HILIC,Sigma-Aldrich,C0166-25MG
+L-Cystine,Cystine,HILIC,Sigma-Aldrich,AA-SRM-NIST-2389a
+L-Glutamic acid,Glutamic acid,HILIC,Sigma-Aldrich,G1251-100G
+L-Glutamine,Glutamine,HILIC,Sigma-Aldrich,G8540-25G
+L-Histidine,Histidine,HILIC,Sigma-Aldrich,H8000-10G
+L-Homocysteine,L-Homocysteine,HILIC,Sigma-Aldrich,69453-10MG
+L-Homocystine,Homocystine,HILIC,Sigma-Aldrich,H6010-100MG
+L-Homoserine,Homoserine,HILIC,Sigma-Aldrich,H6515-10MG
+L-Hydroxylysine,Hydroxylysine,HILIC,Sigma-Aldrich,H0377-100MG
+Lipoic acid,Lipoic Acid,HILIC,Sigma-Aldrich,T5625-500MG
+L-Isoleucine,Isoleucine,HILIC,Sigma-Aldrich,I2752-10G
+"L-Isoleucine, 15N","L-Isoleucine, 15N",HILIC,Cambridge Isotope Laboratories,NLM-292-0.25
+L-Kynurenine,Kynurenine,HILIC,Sigma-Aldrich,K8625-25MG
+L-Leucine,Leucine,HILIC,Sigma-Aldrich,L8000-25G
+L-Lysine,Lysine,HILIC,Sigma-Aldrich,L5501-25G
+L-Methionine,Methionine,HILIC,Sigma-Aldrich,M9625-5G
+L-Methionine S-oxide,Methionine Sulfoxide,HILIC,Sigma-Aldrich,M1126-1G
+"L-Methionine, 2H3","L-Methionine, D3",HILIC,Cambridge Isotope Laboratories,DLM-431-1
+L-Ornithine,Ornithine,HILIC,Sigma-Aldrich,O2375-10MG
+L-Proline,Proline,HILIC,Sigma-Aldrich,P0380-100G
+L-Serine,Serine,HILIC,Sigma-Aldrich,S4500-100G
+L-Threonine,Threonine,HILIC,Sigma-Aldrich,T8625-10G
+L-Tyrosine,Tyrosine,HILIC,Sigma-Aldrich,T3754-50G
+L-Valine,Valine,HILIC,Sigma-Aldrich,1B1102-500G
+Malic acid,Malic Acid,HILIC,Sigma-Aldrich,PHR1273-1G
+Malonyl-CoA,Malonyl CoA,HILIC,Sigma-Aldrich,M4263-5MG
+Maltose,Maltose,HILIC,Sigma-Aldrich,PHR1497-1G
+Maltotetraose,Maltotetraose,HILIC,Carbosynth,OM02796
+Maltotriose,Maltotriose,HILIC,Cayman Chemical,20306
+Melamine,Melamine,HILIC,Sigma-Aldrich,M2659-5G
+Methylphosphonic acid,Methylphosphonic Acid,HILIC,Sigma-Aldrich,289868-5G
+Muramic acid,Muramic Acid,HILIC,Sigma-Aldrich,M2503-5MG
+"N6,N6,N6-Trimethyl-L-lysine",Trimethyl-L-lysine,HILIC,Sigma-Aldrich,T1660-25MG
+N6-Acetyl-L-lysine,N(e)-Acetyl-Lysine,HILIC,Sigma-Aldrich,A4021-1G
+N6-Methyladenine,6-Methyladenine,HILIC,Santa Cruz Biotechnology,sc-236150
+N-Acetyl-D-glucosamine,N-Acetylglucosamine,HILIC,Sigma-Aldrich,A8625-10MG
+N-Acetyl-L-glutamic acid,Acetylglutamic acid,HILIC,Sigma-Aldrich,855642-25G
+N-Acetyl-L-glutamic acid,Acetylglutamic acid,HILIC,Sigma-Aldrich,855642-25G
+N-Acetylmuramic acid,N-Acetylmuramic acid,HILIC,Sigma-Aldrich,A3007-10MG
+N-Acetylmuramic acid,N-Acetylmuramic acid,HILIC,Sigma-Aldrich,A3007-10MG
+N-Acetyltaurine,N-acetyltaurine,HILIC,"A. Cook and K. Denger, University of Konstanz, Germany",NA
+NAD,NAD,HILIC,Sigma-Aldrich,N7004-250MG
+NADH,NADH,HILIC,Sigma-Aldrich,10 107 735 001 500mg
+NADP,NADP,HILIC,Sigma-Aldrich,10 128 031 001 100mg
+NADPH,NADPH,HILIC,Sigma-Aldrich,N1630-25MG
+Nicotinic acid,Vitamin B3,HILIC,Sigma-Aldrich,N4126-5G
+N-Methyltaurine,N-methyltaurine,HILIC,Santa Cruz Biotechnology,sc-487851
+O-Acetylcarnitine,Acetyl-L-carnitine,HILIC,Sigma-Aldrich,A6706-1G
+O-Acetyl-L-serine,N-Acetyl-Serine,HILIC,Sigma-Aldrich,A6262-10MG
+O-Methylmalonyl-L-carnitine,Methylmalonyl carnitine,HILIC,Toronto Research Chemicals,M318900
+Ophthalmic acid,Ophthalmic Acid,HILIC,Sigma-Aldrich,91351-10MG
+O-Propionylcarnitine,Propionyl-L-carnitine,HILIC,Sigma-Aldrich,42602-10MG
+Orotic acid,Orotic Acid,HILIC,Sigma-Aldrich,O2750-10G
+O-Succinylhomoserine,O-Succinylhomoserine,HILIC,Sigma-Aldrich,S7129-25MG�
+O-Succinylhomoserine,O-Succinylhomoserine,HILIC,Sigma-Aldrich,S7129-25MG�
+Oxalic acid,Oxalic Acid,HILIC,Sigma-Aldrich,194131-5G
+Phosphocholine,Phosphocholine,HILIC,Sigma-Aldrich,P0378-10MG
+Phosphoenolpyruvic acid,PEP,HILIC,Sigma-Aldrich,P7127-100MG
+Pipecolic acid,Pipecolic acid,HILIC,Sigma-Aldrich,P2519-100MG
+Pipecolic acid,Pipecolic acid,HILIC,Sigma-Aldrich,P2519-100MG
+Proline betaine,Stachydrine hydrochloride,HILIC,Santa Cruz Biotechnology,sc-296420
+Propionyl-CoA,Propionyl CoA,HILIC,Sigma-Aldrich,P5397-5MG
+Propionylglycine,Propionylglycine,HILIC,Sigma-Aldrich,92986-10MG
+Riboflavin-5-phosphate,Riboflavin Monophosphate,HILIC,Sigma-Aldrich,F2253-10MG
+Riboflavin-5-phosphate,Riboflavin Monophosphate,HILIC,Sigma-Aldrich,F2253-10MG
+S-Adenosylhomocysteine,Adenosyl Homocysteine,HILIC,Sigma-Aldrich,A9384-10MG
+S-Adenosylmethionine,Adenosyl Methionine,HILIC,Sigma-Aldrich,A7007-5MG
+Salicylic acid,Salicylic Acid,HILIC,Sigma-Aldrich,PHR1013-1G
+Sarcosine,Sarcosine,HILIC,Sigma-Aldrich,S7672-10MG
+S-Farnesyl-L-cysteine methyl ester,S-Farnesyl-L-cysteine Methyl Ester,HILIC,Santa Cruz Biotechnology,sc-222275
+Shikimic acid,Shikimic Acid,HILIC,Sigma-Aldrich,S5375-10MG
+Sodium 2-mercaptoethanesulfonate,MESNA (Sodium 2-mercaptoethanesulfonate),HILIC,Sigma-Aldrich,M1511-5G
+Succinic acid,Succinic Acid,HILIC,Sigma-Aldrich,W327700-SAMPLE-K
+"Succinic acid, 2H4","Succinic Acid, D4",HILIC,Sigma-Aldrich,293075-1G
+Succinic semialdehyde,Succinic semialdehyde,HILIC,Santa Cruz Biotechnology,sc-281158�
+Succinyl-CoA,Succinyl CoA,HILIC,Sigma-Aldrich,S1129-5MG
+Succinylglycine,Succinylglycine,HILIC,Sigma-Aldrich,01883-10MG
+Sucrose,Sucrose,HILIC,Sigma-Aldrich,S0389-500G
+"Sucrose, 13C12","Sucrose, 13C",HILIC,Sigma-Aldrich,605417-100MG
+Sulfanilic acid,Sulfanilic Acid,HILIC,Santa Cruz Biotechnology,sc-212977
+Sulfoacetic acid,Sulfoacetic Acid,HILIC,Sigma-Aldrich,242802-5G
+"Sulfoacetic acid, 13C2","Sulfoacetic Acid, 13C2",HILIC,"Millenium Enterprises, Inc",MEI-SAA-001
+Sulfolactic acid,Sulfolactic Acid,HILIC,Santa Cruz Biotechnology,sc-335837
+Taurine,Taurine,HILIC,Sigma-Aldrich,T0625-10G
+Taurine,Taurine,HILIC,Sigma-Aldrich,T0625-10G
+"Taurine, 2H4","Taurine, D4",HILIC,Sigma-Aldrich,703443-100MG
+Taurocyamine,Taurocyamine,HILIC,Oakwood Chemical,103715
+Taurocyamine,Taurocyamine,HILIC,Oakwood Chemical,103715
+Thiamine diphosphate,Thiamine pyrophosphate,HILIC,Spectrum Chemical,700011-508
+Thiamine monophosphate,Thiamine monophosphate,HILIC,Spectrum Chemical,T1208-5GM
+Threonic acid,Threonic acid,HILIC,Sigma-Aldrich,79272-10MG
+Thymidine,Thymidine,HILIC,Sigma-Aldrich,89270-1G
+Thymine,Thymine,HILIC,Sigma-Aldrich,T0376-5G
+Thymine,Thymine,HILIC,Sigma-Aldrich,T0376-5G
+"Thymine, 2H4","Thymine, D4",HILIC,Sigma-Aldrich,487066-1G
+Trehalose,Trehalose,HILIC,Sigma-Aldrich,PHR1344-500MG
+"Trehalose, 13C12","Trehalose, 13C",HILIC,Sigma-Aldrich,738921-CONF
+Trigonelline,Trigonelline,HILIC,Sigma-Aldrich,T5509-1G
+Trimethylamine,Trimethylamine,HILIC,Sigma-Aldrich,41284-100MG
+Trimethylamine N-oxide,Trimethylamine N-oxide,HILIC,Sigma-Aldrich,317594-1G
+Turicine,Turicine,HILIC,LabNetwork,51608-1mg
+UDP-glucose,UDP-glucose,HILIC,Santa Cruz Biotechnology,sc-222402A
+UDP-N-acetylglucosamine,UDP-glucosamine,HILIC,Sigma-Aldrich,U4375-25MG
+Uracil,Uracil,HILIC,Sigma-Aldrich,U0750-5G
+"Uracil, 15N2, 2H2","Uracil, 15N2-D2",HILIC,Sigma-Aldrich,685283-CONF
+Urea,Urea,HILIC,Sigma-Aldrich,GE17-1319-01
+Uridine,Uridine,HILIC,Sigma-Aldrich,U3750-1G
+Urocanic acid,Imidazoleacrylic Acid,HILIC,Sigma-Aldrich,859796-5G
+Urocanic acid,Imidazoleacrylic Acid,HILIC,Sigma-Aldrich,859796-5G
+"1,2-Diacylglyceryl-3-O-4'-(N,N,N-trimethyl)-homoserineÂ 16:0-16:0","1,2-dipalmitoyl-sn-glycero-3-O-4'-(N,N,N-trimethyl)-homoserine",LipidC18,Avanti Polar Lipids,857464P-5mg
+"1,2-Diacylglyceryl-3-O-4'-(N,N,N-trimethyl)-homoserineÂ 16:0-16:0","1,2-dipalmitoyl-sn-glycero-3-O-4'-(N,N,N-trimethyl)-homoserine",LipidC18,Avanti Polar Lipids,857464P-5mg
+1-Palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine,LipidC18,Sigma-Aldrich,P3556-25MG
+1-Stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine,1-stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine,LipidC18,Sigma-Aldrich,P7943-5MG
+7-Dehydrocholesterol,7-dehydrocholesterol,LipidC18,Sigma-Aldrich,30800-5G-F
+alpha-Tocopherol,Tocopherol (Vit E),LipidC18,Sigma-Aldrich,T3251-5G
+"alpha-Tocopherol, 2H6","Alpha-Tocopherol, D6",LipidC18,Sigma-Aldrich,731234-2MG
+alpha-Tocotrienol,Tocotrienol,LipidC18,Sigma-Aldrich,T0452-10MG
+Arachidonic acid,Arachidonic Acid,LipidC18,Sigma-Aldrich,A8798-5MG
+"Arachidonic acid, 2H8","Arachiodonic Acid, D8",LipidC18,Sigma-Aldrich,735000
+beta-Carotene,Carotene,LipidC18,Sigma-Aldrich,22040-1G-F
+Calciferol,Vitamin D2,LipidC18,Sigma-Aldrich,47768
+Ceramide d18:1-24:0,N-lignoceroyl-D-erythro-sphingosine,LipidC18,Avanti Polar Lipids,860524P-5mg
+Ceramide d18:1-24:0,N-lignoceroyl-D-erythro-sphingosine,LipidC18,Avanti Polar Lipids,860524P-5mg
+Chlorophyll a,Chlorophyll a,LipidC18,Sigma-Aldrich,C5753-1MG
+Cholesterol,Cholesterol,LipidC18,Sigma-Aldrich,C8667
+Coenzyme Q10,Coenzyme Q10,LipidC18,Sigma-Aldrich,C9538-100MG
+Diacylglycerol 18:1-18:1,"1,3-Diolein",LipidC18,Sigma-Aldrich,D3627-10MG
+Diacylglycerophosphoglycerol 16:0-18:2,L-Phosphatidylglycerol,LipidC18,Sigma-Aldrich,37161-100MG
+Diacylglycerophosphoglycerol 16:0-18:2,L-Phosphatidylglycerol,LipidC18,Sigma-Aldrich,37161-100MG
+Diether phosphatidylcholine diacylglycerol 16:0-16:0,"1,2-Di-O-hexadecyl-sn-glycero-3-phosphocholine",LipidC18,Sigma-Aldrich,P1527-100MG
+Diether phosphatidylcholine diacylglycerol 16:0-16:0,"1,2-Di-O-hexadecyl-sn-glycero-3-phosphocholine",LipidC18,Sigma-Aldrich,P1527-100MG
+Diether phosphatidylethanolamine diacylglycerol 16:0-16:0,"1,2-Dihexadecyl-sn-glycero-3-phosphoethanolamine",LipidC18,Sigma-Aldrich,P1223-25MG
+Diether phosphatidylethanolamine diacylglycerol 16:0-16:0,"1,2-Dihexadecyl-sn-glycero-3-phosphoethanolamine",LipidC18,Sigma-Aldrich,P1223-25MG
+Digalactosyldiacylglycerol 18:3-18:3,Digalactosyldiacylglycerol,LipidC18,Avanti Polar Lipids,840524P-5mg
+Digalactosyldiacylglycerol 18:3-18:3,Digalactosyldiacylglycerol,LipidC18,Avanti Polar Lipids,840524P-5mg
+Docosahexaenoic acid,DHA,LipidC18,Sigma-Aldrich,D2534-25MG
+"Docosahexaenoic acid, 2H5","Docosahexaenoic Acid, D5",LipidC18,Sigma-Aldrich,733326-1MG
+Eicosapentaenoic acid,EPA,LipidC18,Sigma-Aldrich,44864
+"Eicosapentaenoic acid, 2H5","Eicosapentaenoic Acid, D5",LipidC18,Sigma-Aldrich,734322-1MG
+Ergosterol,Ergosterol,LipidC18,Sigma-Aldrich,E6510-5G
+"Glycerol trioleate, 13C15","Glycerol trioleate, 13C15",LipidC18,Sigma-Aldrich,772941-CONF
+"Glycerol tripalmitate, 13C6","Glycerol tripalmitate, 13C6",LipidC18,Sigma-Aldrich,605603-CONF
+Lysophosphatidylcholine monoacylglycerol 18:1,1-Oleoyl-sn-glycero-3-phosphocholine,LipidC18,Sigma-Aldrich,P8318-10MG
+Lysophosphatidylcholine monoacylglycerol 18:1,1-Oleoyl-sn-glycero-3-phosphocholine,LipidC18,Sigma-Aldrich,P8318-10MG
+Lysophosphatidylethanolamine monoacylglycerol 16:0,3-sn-Lysophosphatidylethanolamine,LipidC18,Sigma-Aldrich,L4754-5MG
+Lysophosphatidylethanolamine monoacylglycerol 16:0,3-sn-Lysophosphatidylethanolamine,LipidC18,Sigma-Aldrich,L4754-5MG
+Menaquinone,Vitamin K2,LipidC18,Sigma-Aldrich,47774
+MonoacylglycerolÂ 18:1,Monoolein,LipidC18,Sigma-Aldrich,M7765-25MG
+Monogalactosyldiacylglycerol 16:3-18:3,Monogalactosyldiacylglycerol,LipidC18,Avanti Polar Lipids,840523P-5mg
+Monogalactosyldiacylglycerol 16:3-18:3,Monogalactosyldiacylglycerol,LipidC18,Avanti Polar Lipids,840523P-5mg
+Palmitoyl-L-carnitine,Palmitoyl-L-carnitine,LipidC18,Sigma-Aldrich,91503-10MG
+"Palmitoyl-L-carnitine, 13C16","Palmitoyl-L-carnitine, 13C16",LipidC18,Sigma-Aldrich,644323-CONF
+Phosphatidylcholine diacylglycerol 16:0-18:2,L-Phosphatidylcholine,LipidC18,Sigma-Aldrich,L1881-5MG
+Phosphatidylcholine diacylglycerol 16:0-18:2,L-Phosphatidylcholine,LipidC18,Sigma-Aldrich,L1881-5MG
+Phosphatidylserine diacylglycerol 18:0-18:1,"1,2-Diacyl-sn-glycero-3-phospho-L-serine",LipidC18,Sigma-Aldrich,P7769-5MG
+Phosphatidylserine diacylglycerol 18:0-18:1,"1,2-Diacyl-sn-glycero-3-phospho-L-serine",LipidC18,Sigma-Aldrich,P7769-5MG
+Phytonadione,Vitamin K1,LipidC18,Sigma-Aldrich,47773
+Retinal,trans Retinal,LipidC18,Sigma-Aldrich,R2500-25MG
+Retinoic acid,Retinoic Acid,LipidC18,Sigma-Aldrich,R2625-50MG
+Squalene,Squalene,LipidC18,Sigma-Aldrich,S3626-10ML
+Sulfoquinovosyldiacylglycerol 16:0-18:3,Sulfoquinovosyldiacylglycerol,LipidC18,Avanti Polar Lipids,840525P-5mg
+Sulfoquinovosyldiacylglycerol 16:0-18:3,Sulfoquinovosyldiacylglycerol,LipidC18,Avanti Polar Lipids,840525P-5mg
+Triacylglycerol 12:0-12:0-12:0,Glyceryl tridodecanoate,LipidC18,Sigma-Aldrich,T4891-100MG
+Triacylglycerol 14:0-14:0-14:0,Glyceryl trimyristate,LipidC18,Sigma-Aldrich,T5141-1G
+1-Palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine,RP,Sigma-Aldrich,P3556-25MG
+1-Stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine,1-stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine,RP,Sigma-Aldrich,P7943-5MG
+"2-(3,5-Dichlorophenylcarbamoyl)-1,2-dimethylcyclopropane-1-carboxylic acid",cinnamoyl-HSL,RP,"C. Harwood laboratory, University of Washington",NA
+"2,4-Decadienal","2,4 decadienal",RP,Sigma-Aldrich,W313505-SAMPLE-K
+"2,4-Octadienal","2,4 octadienal",RP,Sigma-Aldrich,W372102-SAMPLE-K
+2-Heptyl-4(1H)-quinolone,HHQ,RP,Sigma-Aldrich,SML0747-10mg
+"3,4-Dihydroxybenzoic acid","3,4-Dihydroxybenzoic acid",RP,Sigma-Aldrich,08992-50MG
+3-Indoleacetonitrile,3-Indoleacetonitrile,RP,Sigma-Aldrich,129453-5G
+3-Indolepropionic acid,3 Indolepropionic Acid,RP,Sigma-Aldrich,220027-1G
+4-Aminobenzoic acid,Aminobenzoic Acid,RP,Sigma-Aldrich,A9878-5G
+4-hydroxybenzaldehyde,4-hydroxybenzaldehyde,RP,Sigma-Aldrich,91554-250MG
+5-(2-Hydroxyethyl)-4-methylthiazole,Sulfurol,RP,Sigma-Aldrich,PHR3365-50MG
+7-Dehydrocholesterol,7-dehydrocholesterol,RP,Sigma-Aldrich,30800-5G-F
+Abscisic acid,Abscisic Acid,RP,Sigma-Aldrich,A1049-100MG
+Acetosyringone,Acetosyringone,RP,Sigma-Aldrich,D134406-1G
+Acetovanillone,Acetovanillone,RP,Sigma-Aldrich,73536-100MG
+Adenosylcobalamin,Coenzyme B12,RP,Sigma-Aldrich,C0884-25MG
+Agmatine,Agmatine,RP,Sigma-Aldrich,A7127-1G
+Allopurinol,Allopurinol,RP,Sigma-Aldrich,A8003-5G
+alpha-Tocopherol,Tocopherol (Vit E),RP,Sigma-Aldrich,T3251-5G
+"alpha-Tocopherol, 2H6","Alpha-Tocopherol, D6",RP,Sigma-Aldrich,731234-2MG
+alpha-Tocotrienol,Tocotrienol,RP,Sigma-Aldrich,T0452-10MG
+Arachidonic acid,Arachidonic Acid,RP,Sigma-Aldrich,A8798-5MG
+"Arachidonic acid, 2H8","Arachiodonic Acid, D8",RP,Sigma-Aldrich,735000
+Arsenobetaine,Arsenobetaine,RP,Santa Cruz Biotechnology,sc-227279
+Ascorbic acid,Vitamin C,RP,Sigma-Aldrich,PHR1008-2G
+beta-Apo-8'-carotenal,B-apo-8'-carotenal,RP,Sigma-Aldrich,10810-1G
+beta-Carotene,Carotene,RP,Sigma-Aldrich,22040-1G-F
+beta-Cyclocitral,B-cyclocitral,RP,Sigma-Aldrich,W363928-SAMPLE-K
+beta-Ionone,B-ionine,RP,Sigma-Aldrich,I12603-100G
+beta-Ionylidene acetaldehyde,B-ionylidene-acetaldehyde,RP,Santa Cruz Biotechnology,sc-471211
+Biotin,Vitamin B7,RP,Sigma-Aldrich,B4639-1G
+Butyrylcarnitine,Butyryl-L-carnitine,RP,Sigma-Aldrich,42623-10MG
+Caffeic acid,Caffeic Acid,RP,Sigma-Aldrich,C0625-2G
+Caffeine,Caffeine,RP,Sigma-Aldrich,C0750-5G
+Calciferol,Vitamin D2,RP,Sigma-Aldrich,47768
+Camalexin,Camalexin,RP,Sigma-Aldrich,SML1016-5MG
+Cholesterol,Cholesterol,RP,Sigma-Aldrich,C8667
+Choline,Choline,RP,Sigma-Aldrich,C7017-10MG
+Coenzyme Q1,Coenzyme Q1,RP,Sigma-Aldrich,C7956-2MG
+Coenzyme Q10,Coenzyme Q10,RP,Sigma-Aldrich,C9538-100MG
+Cyanocobalamin,RP B12,RP,Sigma-Aldrich,PHR1234-1G
+Decarboxylated S-Adenosylmethionine,Decarboxylated S-Adenosylmethionine,RP,Toronto Research Chemicals,D222000
+Deoxyadenosine,Deoxyadenosine,RP,Sigma-Aldrich,D7400-500MG
+Desthiobiotin,Desthiobiotin,RP,Sigma-Aldrich,D1411-500MG
+Dexpanthenol,Dexpanthenol,RP,Sigma-Aldrich,PHR1228-500MG
+Dihydroxy-L-phenylalanine,Dihydroxy-L-phenylalanine,RP,Sigma-Aldrich,D9628-5G
+Dihydrozeatin,DHZ,RP,Sigma-Aldrich,08535-10MG
+Dimethylbenzimidazole,Dimethyl-benzimidazole,RP,Sigma-Aldrich,D147206-25G
+Dimethylglycine,Dimethyl glycine,RP,Sigma-Aldrich,D1156-5G
+Docosahexaenoic acid,DHA,RP,Sigma-Aldrich,D2534-25MG
+"Docosahexaenoic acid, 2H5","Docosahexaenoic Acid, D5",RP,Sigma-Aldrich,733326-1MG
+Domoic acid,Domoic Acid,RP,Sigma-Aldrich,D6152-5MG
+Eicosapentaenoic acid,EPA,RP,Sigma-Aldrich,44864
+"Eicosapentaenoic acid, 2H5","Eicosapentaenoic Acid, D5",RP,Sigma-Aldrich,734322-1MG
+Ergosterol,Ergosterol,RP,Sigma-Aldrich,E6510-5G
+Ethyl aminobenzoate,Ethyl 3 aminobenzoate,RP,Sigma-Aldrich,E10505-5G
+Ferulic acid,Ferulic Acid,RP,Sigma-Aldrich,1270311-25MG
+Folic acid,Vitamin B9,RP,Sigma-Aldrich,F8758-5G
+Gibberellin A3,GA3,RP,Sigma-Aldrich,G7645-500MG
+Gibberellin A4,GA4,RP,Sigma-Aldrich,G7276-5MG
+Glucosamine,Glucosamine,RP,Sigma-Aldrich,PHR1199-500MG
+Glutathione,Glutathione,RP,Sigma-Aldrich,PHR1359-500MG
+Glutathione disulfide,Glutathione Disulfide,RP,Sigma-Aldrich,G4376-500MG
+Glycerophosphocholine,Glycerophosphocholine,RP,Sigma-Aldrich,G5291-10MG
+Glycine betaine,Betaine,RP,Sigma-Aldrich,B2629-50G
+Homoserine lactone,Homoserine lactone,RP,Sigma-Aldrich,H7890-250MG
+Hordenine,Hordenine,RP,Santa Cruz Biotechnology,sc-279195
+Hydroxocobalamin,Hydroxo B12,RP,Sigma-Aldrich,H1428000
+Indole-3-acetamide,Indole 3 acetamide,RP,Sigma-Aldrich,286281-5G
+Indole-3-acetic acid,IAA,RP,Sigma-Aldrich,I2886-5G
+"Indole-3-acetic acid, 2H5","Indole 3 Acetic Acid, D5",RP,CDN Isotopes,D2203-0.05g
+Indole-3-carboxylic acid,Indole 3 carboxylic acid,RP,Sigma-Aldrich,284734-1G
+Indole-3-methyl acetate,Indole 3 methyl acetate,RP,Sigma-Aldrich,I9770-1G
+Indoleacrylic acid,Indoleacrylic acid,RP,Sigma-Aldrich,I2273-1G
+Indolebutyric acid,3 Indolebutyric Acid,RP,Sigma-Aldrich,I5386-1G
+Indolelactate,Indole 3 Lactic Acid,RP,Sigma-Aldrich,I5508-250MG-A
+Inosine,Inosine,RP,Sigma-Aldrich,I4125-1G
+Isobutyryl-carnitine,Isobutyryl-L-carnitine,RP,Sigma-Aldrich,51085-10MG
+Kinetin,Kinetin,RP,Sigma-Aldrich,K3378-1G
+L-Cysteinylglycine,Cys-Gly,RP,Sigma-Aldrich,C0166-25MG
+L-Kynurenine,Kynurenine,RP,Sigma-Aldrich,K8625-25MG
+L-Phenylalanine,Phenylalanine,RP,Sigma-Aldrich,P2126-100G
+"L-Phenylalanine, 2H8","L-Phenylalanine, D8",RP,Cambridge Isotope Laboratories,DLM-372-1
+L-Tryptophan,Tryptophan,RP,Sigma-Aldrich,T0254-25G
+"L-Tryptophan, 2H3","L-Tryptophan, D3",RP,CDN Isotopes,D7419-0.01g
+L-Tyrosine,Tyrosine,RP,Sigma-Aldrich,T3754-50G
+Melatonin,Melatonin,RP,Sigma-Aldrich,M5250-250MG
+Menaquinone,Vitamin K2,RP,Sigma-Aldrich,47774
+Methyl indole-3-carboxylate,Methyl indole 3 carboxylate,RP,Sigma-Aldrich,395307-25G
+Methylcobalamin,Methyl B12,RP,Sigma-Aldrich,M9756-25MG
+Methylthioadenosine,Methylthioadenosine,RP,Sigma-Aldrich,D5011-25MG
+Monesin,Monesin,RP,Sigma-Aldrich,M5273-500MG
+N-(3-Hydroxydodecanoyl)homoserine lactone,3OHC12-HSL,RP,Sigma-Aldrich,53727-10MG
+N-(3-Oxodecanoyl)homoserine lactone,3OC10-HSL,RP,Sigma-Aldrich,O9014-10MG
+N-(3-Oxododecanoyl)homoserine lactone,3OC12-HSL,RP,Sigma-Aldrich,O9139-10MG
+N-(3-Oxohexanoyl)homoserine lactone,3OC6-HSL,RP,Sigma-Aldrich,K3007-10MG
+N-(3-Oxooctanoyl)homoserine lactone,3OC8-HSL,RP,Sigma-Aldrich,O1639-25MG
+N-(4-Coumaroyl)-L-homoserine lactone,p-Coumoroyl-HSL,RP,Sigma-Aldrich,07077-50MG
+N6-Dimethylallyladenine,2iP,RP,Sigma-Aldrich,D5912-1G
+N-Butyryl-L-homoserine lactone,C4-HSL,RP,Sigma-Aldrich,09945-25MG
+N-Decanoyl-L-homoserine lactone,C10-HSL,RP,Sigma-Aldrich,07028-10MG
+N-Dodecanoyl-DL-homoserine lactone,C12-HSL,RP,Sigma-Aldrich,17247-25MG
+N-Hexanoyl-L-homoserine lactone,C6-HSL,RP,Sigma-Aldrich,56395-10MG
+Nicotinic acid,Vitamin B3,RP,Sigma-Aldrich,N4126-5G
+N-Octanoyl-L-homoserine lactone,C8-HSL,RP,Sigma-Aldrich,44558-10MG
+N-Tetradecanoyl-DL-homoserine lactone,C14-HSL,RP,Sigma-Aldrich,10937-25MG
+O-Acetylcarnitine,Acetyl-L-carnitine,RP,Sigma-Aldrich,A6706-1G
+Ophthalmic acid,Ophthalmic Acid,RP,Sigma-Aldrich,91351-10MG
+O-Propionylcarnitine,Propionyl-L-carnitine,RP,Sigma-Aldrich,42602-10MG
+Pantothenic acid,Vitamin B5,RP,Sigma-Aldrich,21210-5G-F
+p-Coumaric acid,p-Coumaric Acid,RP,Sigma-Aldrich,C9008-1G
+Phytonadione,Vitamin K1,RP,Sigma-Aldrich,47773
+Pyridoxal,Pyridoxal,RP,Sigma-Aldrich,P9130-500MG
+Pyridoxal phosphate,Pyridoxal Phosphate,RP,Sigma-Aldrich,P9255-1G
+"Pyridoxal, 2H3","Pyridoxal, D3",RP,Sigma-Aldrich,705187-1MG
+Pyridoxamine,Pyridoxamine,RP,Sigma-Aldrich,P9380-1G
+Pyridoxine,Vitamin B6,RP,Sigma-Aldrich,P6280-10G
+Retinal,trans Retinal,RP,Sigma-Aldrich,R2500-25MG
+Retinoic acid,Retinoic Acid,RP,Sigma-Aldrich,R2625-50MG
+Riboflavin,Vitamin B2,RP,Sigma-Aldrich,R9504-25G
+Riboflavin-5-phosphate,Riboflavin Monophosphate,RP,Sigma-Aldrich,F2253-10MG
+Riboflavin-5-phosphate,Riboflavin Monophosphate,RP,Sigma-Aldrich,F2253-10MG
+"Riboflavin-dioxopyrimidine, 13C4, 15N2","Riboflavin-dioxopyrimidine, 13C4, 15N2",RP,Sigma-Aldrich,705292-1MG
+S-Adenosylhomocysteine,Adenosyl Homocysteine,RP,Sigma-Aldrich,A9384-10MG
+S-Adenosylmethionine,Adenosyl Methionine,RP,Sigma-Aldrich,A7007-5MG
+S-Farnesyl-L-cysteine methyl ester,S-Farnesyl-L-cysteine Methyl Ester,RP,Santa Cruz Biotechnology,sc-222275
+Sinapic acid,Sinapic Acid,RP,Sigma-Aldrich,D7927-1G
+Squalene,Squalene,RP,Sigma-Aldrich,S3626-10ML
+Syringaldehyde,Syringaldehyde,RP,Sigma-Aldrich,S7602-5G
+Syringic acid,Syringic Acid,RP,Sigma-Aldrich,S6881-5G
+Thiamine,Vitamin B1,RP,Sigma-Aldrich,T4625-5G
+Thiamine diphosphate,thiamine pyrophosphate,RP,Spectrum Chemical,700011-508
+Thiamine monophosphate,Thiamine monophosphate,RP,Spectrum Chemical,T1208-5GM
+"Thiamine, 13C3","Thiamine Hydrochloride, 13C3",RP,Sigma-Aldrich,731188-2MG
+Thiotropocin,Tropodithietic acid,RP,Sigma-Aldrich,SML0735-5MG
+trans-Cinnamic acid,trans cinnamic acid,RP,Sigma-Aldrich,C80857-5G
+Trolox,Trolox,RP,Sigma-Aldrich,238813-1G
+Tryptamine,Tryptamine,RP,Sigma-Aldrich,193747-10G
+"Tryptamine, 2H4","Tryptamine Hydrochloride, D4",RP,Santa Cruz Biotechnology,sc-391306
+Tryptophol,Tryptophol,RP,Sigma-Aldrich,T90301-5G
+Vanillic acid,Vanillic Acid,RP,Sigma-Aldrich,94770-10G
+Vanillin,Vanillin,RP,Sigma-Aldrich,V1104-2G
+Xanthine,Xanthine,RP,Sigma-Aldrich,X7375-10G
+Zeatin,Zeatin,RP,Sigma-Aldrich,Z0164-5MG

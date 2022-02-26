@@ -8,10 +8,10 @@ library(tidyverse)
 
 
 #Define all your inputs here
-samp.key.file <- "Intermediates/Analytical_Validation/AV_HILIC_Samp_List.csv"
-is.dat.file.1 <- "Intermediates/Analytical_Validation/AV_HILIC_Pos_IS.csv"
-is.dat.file.2 <- "Intermediates/Analytical_Validation/AV_HILIC_Neg_IS.csv"
-xcms.dat.file <- "Intermediates/Analytical_Validation/AV_HILIC_combined_raw.csv"
+samp.key.file <- "Intermediates/Analytical_Validation/AV_PPL_HILIC_Samp_List.csv"
+is.dat.file.1 <- "Intermediates/Analytical_Validation/AV_PPL_HILIC_Pos_IS.csv"
+is.dat.file.2 <- "Intermediates/Analytical_Validation/AV_PPL_HILIC_Neg_IS.csv"
+xcms.dat.file <- "Intermediates/Analytical_Validation/AV_PPL_HILIC_combined_raw.csv"
 cut.off <- 0.2
 cut.off2 <- 0.1
 
@@ -64,17 +64,25 @@ IS_inspectPlot
 is.dat.full.with.samp.edited <- is.dat.full.with.samp %>%
   filter(!str_detect(MF, "Histidine")) %>%
   filter(!str_detect(MF, "Isethionic")) %>%
-  filter(!str_detect(MF, "L-Cysteic Acid")) %>%
+  # filter(!str_detect(MF, "L-Cysteic Acid")) %>%
   filter(!str_detect(MF, "Acetyl CoA")) %>%
   filter(!str_detect(MF, "Valine")) %>%
   filter(!str_detect(MF, "Adenine")) %>%
-  filter(!str_detect(MF, "Guanonsine")) %>%
-  filter(!str_detect(MF, "L-Isoleucine")) %>%
+  filter(!str_detect(MF, "Guanosine")) %>%
+  # filter(!str_detect(MF, "L-Isoleucine")) %>%
   filter(!str_detect(MF, "L-Methionine")) %>%
   filter(!str_detect(MF, "Succinic Acid")) %>%
   filter(!str_detect(MF, "Sulfoacetic Acid")) %>%
   filter(!str_detect(MF, "Sulfolactic Acid")) %>%
-  filter(!str_detect(MF, "Uracil")) 
+  filter(!str_detect(MF, "Uracil")) %>%
+  filter(!str_detect(MF, "Betaine")) %>%
+  filter(!str_detect(MF, "Cytosine")) %>%
+  filter(!str_detect(MF, "Alanine")) %>%
+  filter(!str_detect(MF, "Proline")) %>%
+  filter(!str_detect(MF, "Valine")) %>%
+  filter(!str_detect(MF, "Guanine")) %>%
+  filter(!str_detect(MF, "Homarine")) %>%
+  filter(!str_detect(MF, "Isethionic")) 
 
 xcms.long <- xcms.dat
 
@@ -191,7 +199,7 @@ QuickReport
 BMIS_normalizedData.2 <- BMIS_normalizedData %>%
   mutate(Adjusted_Area = case_when(FinalBMIS == "Inj_vol" ~ 2*Adjusted_Area,
                                    !FinalBMIS == "Inj_vol" ~ Adjusted_Area)) 
-write_csv(BMIS_normalizedData.2, "Intermediates/Analytical_Validation/AV_CX_HILIC_BMISed_dat.csv")
+write_csv(BMIS_normalizedData.2, "Intermediates/Analytical_Validation/AV_PPL_HILIC_BMISed_dat.csv")
 
 BMISlist <- list(IS_inspectPlot, QuickReport, ISTest_plot, BMIS_normalizedData.2)
 

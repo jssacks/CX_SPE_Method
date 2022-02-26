@@ -1,0 +1,92 @@
+##
+#
+#
+#This script...
+#
+#
+
+#packages
+library(tidyverse)
+library(readr)
+
+
+###Define inputs
+CX.EE.file <- "Intermediates/Analytical_Validation/AV_CX_EE_RF_Dat.csv"
+CX.R2.file <- "Intermediates/Analytical_Validation/AV_CX_R2_Dat.csv"
+
+PPL.EE.file <- "Intermediates/Analytical_Validation/AV_PPL_EE_RF_Dat.csv"
+
+###Define Quality Control Cutoffs:
+EE.cut.high <- 150
+EE.cut.low <- 1
+R2.cut <- 0.7
+RSD.cut <- 50
+
+###Apply quality control cutoffs to CX-SPE ALOHA Data:
+CX.EE.dat <- read_csv(CX.EE.file)
+CX.R2.dat <- read_csv(CX.R2.file)
+
+CX.dat <- left_join(CX.EE.dat, CX.R2.dat) %>%
+  filter(sample == "A") %>%
+  mutate(Overall.Mean.EE = as.numeric(Overall.Mean.EE),
+         Overall.SD.EE = as.numeric(Overall.SD.EE),
+         Sample.Mean.EE = as.numeric(Sample.Mean.EE),
+         Sample.SD.EE = as.numeric(Sample.SD.EE),
+         Sample.RSD = as.numeric((Sample.SD.EE/Sample.Mean.EE)*100),
+         R2 = as.numeric(R2)) %>%
+  select(MF, Fraction, sample, Overall.Mean.EE, 
+         Overall.SD.EE, Sample.Mean.EE, Sample.SD.EE, 
+         Sample.RSD, R2, z, column) %>%
+  unique()
+
+CX.A.QC <- CX.dat%>%
+  filter(as.numeric(Sample.Mean.EE) <= EE.cut.high) %>%
+  filter(as.numeric(Sample.Mean.EE) >= EE.cut.low) %>%
+  filter(as.numeric(R2) >= R2.cut) %>%
+  filter(as.numeric(Sample.RSD) <= RSD.cut)
+
+####
+write_csv(CX.A.QC, file = "Intermediates/Analytical_Validation/AV_CX_HQ_dat.csv")
+
+
+###Apply quality control cutoffs to PPL ALOHA Data
+PPL.EE.dat <- read_csv(PPL.EE.file)
+
+PPL.dat <- PPL.EE.dat %>%
+  filter(sample == "A") %>%
+  mutate(Overall.Mean.EE = as.numeric(Overall.Mean.EE),
+         Overall.SD.EE = as.numeric(Overall.SD.EE),
+         Sample.Mean.EE = as.numeric(Sample.Mean.EE),
+         Sample.SD.EE = as.numeric(Sample.SD.EE),
+         Sample.RSD = as.numeric((Sample.SD.EE/Sample.Mean.EE)*100)) %>%
+  select(MF, Fraction, sample, Overall.Mean.EE, 
+         Overall.SD.EE, Sample.Mean.EE, Sample.SD.EE, 
+         Sample.RSD) %>%
+  unique()
+
+PPL.A.QC <- PPL.dat%>%
+  filter(as.numeric(Sample.Mean.EE) <= EE.cut.high) %>%
+  filter(as.numeric(Sample.Mean.EE) >= EE.cut.low) %>%
+  filter(as.numeric(Sample.RSD) <= RSD.cut)
+
+####
+write_csv(PPL.A.QC, file = "Intermediates/Analytical_Validation/AV_PPL_HQ_dat.csv")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
