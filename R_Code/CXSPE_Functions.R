@@ -70,3 +70,37 @@ Calibcurv_calc <- function(dataset, compound) {
 #print out final data frame
   print(dat.lin.output)
 }
+
+
+
+################## Extraction Efficiency ANOVA Function
+EE_anova <- function(dat, compound) {
+  dat.comp <- dat %>%
+    filter(MF == compound) 
+  model <- aov(EE ~ sample,
+               data = dat.comp)
+  p <- summary(model)[[1]][["Pr(>F)"]][[1]]
+  dat.pval <- dat.comp %>%
+    mutate("Pval.EE" = p) %>%
+    ungroup() %>%
+    select(MF, Pval.EE) %>%
+    unique()
+  print(dat.pval)
+}
+
+
+################## Response Factor ANOVA Function
+RF_anova <- function(dat, compound) {
+  dat.comp <- dat %>%
+    filter(MF == compound) 
+  model <- aov(RF ~ sample,
+               data = dat.comp)
+  p <- summary(model)[[1]][["Pr(>F)"]][[1]]
+  dat.pval <- dat.comp %>%
+    mutate("Pval.rf" = p) %>%
+    ungroup() %>%
+    select(MF, Pval.rf) %>%
+    unique()
+  print(dat.pval)
+}
+

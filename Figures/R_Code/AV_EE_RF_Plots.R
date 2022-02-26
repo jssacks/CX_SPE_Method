@@ -9,12 +9,15 @@ library(tidyverse)
 library(readr)
 library(wesanderson)
 library(ggrepel)
+library(ggpubr)
 
 
 ###Define inputs:
 CX.file <- "Intermediates/Analytical_Validation/AV_CX_HQ_dat.csv"
 PPL.file <- "Intermediates/Analytical_Validation/AV_PPL_HQ_dat.csv"
 Std.file <- "Meta_Data/Ingalls_Standards/Ingalls_Lab_Standards_NEW.txt"
+ANOVA.file <- "Intermediates/Analytical_Validation/AV_CX_ANOVA_Results.csv"
+
 
 
 #####Bring in and join CX and PPL dat
@@ -73,7 +76,7 @@ EE.fig <- ggplot(data = Figure.dat, aes(x = RT, y = m.z)) +
   labs(color = "Extraction Efficiency (%)") +
   geom_text_repel(data = Figure.labels, aes(x = RT, y = m.z, label = MF), 
                   box.padding = 1.5, min.segment.length = 0, ylim = 500,
-                  arrow = arrow(length = unit(0.015, "npc")),
+                  #arrow = arrow(length = unit(0.015, "npc")),
                   segment.curvature = -1e-20) +
   #scale_color_gradient2(low = muted("lightskyblue1"), high = "gold2")
   scale_color_gradientn(colors = pal, trans = "sqrt", breaks = seq(0, 180, 20), guide = guide_colourbar(nbin = 100, barwidth = 1.5, barheight = 15)) #+
@@ -82,10 +85,41 @@ EE.fig
 
 
 
+####ANOVA figures
+ANOVA.dat <- read_csv(ANOVA.file)
+parcor.dat <- ANOVA.dat %>%
+  rowwise() %>%
+  mutate(EE.norm = as.numeric(Sample.Mean.EE)/as.numeric(Overall.Mean.EE)) %>%
+  mutate(RF.norm = as.numeric(Sample.Mean.RF)/as.numeric(Overall.Mean.RF)) %>%
+  mutate(sample = as.factor(sample)) %>%
+  select(MF, Fraction, sample, Sample.Mean.EE, EE.norm, Signif.EE, RF.norm, Signif.RF) %>%
+  unique()
+
+EE.parcor.plot <- ggplot(data = parcor.dat, aes(x = sample, y = EE.norm, group = MF, color = Signif.EE)) +
+  geom_line(aes(alpha = Signif.EE)) +
+  scale_alpha_discrete(range = c(0.3, 1)) +
+  scale_color_manual(values = c("black", "blue")) +
+  theme_bw() +
+  labs(color = "Signficant\nDifferences\nAcross\nSamples", alpha = "Signficant\nDifferences\nAcross\nSamples") +
+  ylab("Normalized Extraction Efficiency") +
+  geom_hline(aes(yintercept = 1), color = "red") +
+  facet_wrap(.~Fraction, scales = "free_x")
+EE.parcor.plot
 
 
+RF.parcor.plot <- ggplot(data = parcor.dat, aes(x = sample, y = RF.norm, group = MF, color = Signif.RF)) +
+  geom_line(aes(alpha = Signif.RF)) +
+  scale_alpha_discrete(range = c(0.3, 1)) +
+  scale_color_manual(values = c("black", "blue")) +
+  theme_bw() +
+  labs(color = "Signficant\nDifferences\nAcross\nSamples", alpha = "Signficant\nDifferences\nAcross\nSamples") +
+  ylab("Normalized Response Factor") +
+  geom_hline(aes(yintercept = 1), color = "red") +
+  facet_wrap(.~Fraction, scales = "free_x")
+RF.parcor.plot
 
-
+#####
+ggarrange(EE.parcor.plot, RF.parcor.plot, labels = c("A", "B"), common.legend = TRUE, nrow = 2, heights = 5, align = "v")
 
 
 
