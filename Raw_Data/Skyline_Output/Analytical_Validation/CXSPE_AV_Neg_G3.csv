@@ -316,9 +316,9 @@ Standards_neg,Smp_NP_NS_C,glycerol 3 phosphate,12.24,0,0,0,#N/A,Standards_neg
 Standards_neg,Smp_NP_SAf_A,glycerol 3 phosphate,12.08,24026720,0,698932,-2.1,Standards_neg
 Standards_neg,Smp_NP_SAf_B,glycerol 3 phosphate,11.98,20638758,1496635,669567,-1.9,Standards_neg
 Standards_neg,Smp_NP_SAf_C,glycerol 3 phosphate,11.91,26000136,0,813243,-1.7,Standards_neg
-Standards_neg,Smp_NP_SBe_A,glycerol 3 phosphate,12.46,0,0,0,#N/A,Standards_neg
-Standards_neg,Smp_NP_SBe_B,glycerol 3 phosphate,12.14,0,0,0,#N/A,Standards_neg
-Standards_neg,Smp_NP_SBe_C,glycerol 3 phosphate,12.14,0,0,0,#N/A,Standards_neg
+Standards_neg,Smp_NP_SBe_A,glycerol 3 phosphate,11.82,176722,0,28220,-1,Standards_neg
+Standards_neg,Smp_NP_SBe_B,glycerol 3 phosphate,11.63,136838,0,22069,-0.7,Standards_neg
+Standards_neg,Smp_NP_SBe_C,glycerol 3 phosphate,11.74,190888,0,30788,1.2,Standards_neg
 Standards_neg,Std_4uMStdsMix1InH2O_2,glycerol 3 phosphate,12.67,0,0,0,#N/A,Standards_neg
 Standards_neg,Std_4uMStdsMix2InH2O_2,glycerol 3 phosphate,11.31,30025358,0,715910,-2,Standards_neg
 Standards_neg,Blk_NP_blk4_A-PS_blk1_A,GMP,13.49,0,0,0,#N/A,Standards_neg

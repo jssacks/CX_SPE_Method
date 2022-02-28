@@ -58,7 +58,7 @@ label.comps <- tibble(MF = c("Gonyol",
                              "Ectoine",
                              #   "Hydroxyectoine",
                              "Phenylalanine",
-                             "Domoic Acid",
+                             "Domoic acid",
                              "Vitamin B2",
                              "Thymine"))
 Figure.labels <- inner_join(Figure.dat, label.comps)
