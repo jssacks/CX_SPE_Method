@@ -18,7 +18,10 @@ CX.dat.file <- "Intermediates/Analytical_Validation/AV_CX_EE_RF_Dat.csv"
 CX.HQcomps.file <- "Intermediates/Analytical_Validation/AV_CX_HQ_dat.csv"
 
 ###
-CX.dat <- read_csv(CX.EE.file)
+CX.dat <- read_csv(CX.EE.file) %>%
+  filter(!MF == "Leucine") %>%
+  mutate_if(.,is.character,str_replace_all, pattern="Isoleucine", replacement = "(Iso)leucine")
+
 CX.HQcomps <- read_csv(CX.HQcomps.file) %>%
   select(MF)
 

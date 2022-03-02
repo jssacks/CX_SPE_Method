@@ -38,6 +38,14 @@ dat.MF <- cal.dat %>%
   select(MF) %>%
   unique()
 
+
+##Make output dataframe 
+out <- data.frame("MF" = character(),
+                  "column" = character(),
+                  "Fraction" = character(),
+                  "z" = numeric(),
+                  "R2" = numeric())
+
 ####Run Calibration curve function to get R2 output for every compound
 for (i in seq_along(dat.MF$MF)) {
   res <- dat.MF$MF[i]

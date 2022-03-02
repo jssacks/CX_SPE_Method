@@ -1,0 +1,267 @@
+Rep,Compound,Area,Background,Mass.Error.PPM
+210329_Std_250nMStdsInH2O_1,"Indole 3 Acetic Acid, D5",NA,NA,NA
+210329_Std_250nMStdsInH2O_2,"Indole 3 Acetic Acid, D5",4679,0,-0.6
+210329_Std_250nMStdsInMatrix_1,"Indole 3 Acetic Acid, D5",28565094,434812,-0.8
+210329_Std_250nMStdsInMatrix_2,"Indole 3 Acetic Acid, D5",37302520,532929,-0.4
+210329_Std_H2OInMatrix_1,"Indole 3 Acetic Acid, D5",22945760,871668,-0.7
+210329_Std_H2OInMatrix_2,"Indole 3 Acetic Acid, D5",31866720,789657,-0.6
+210329_Blk_Blank1_A,"Indole 3 Acetic Acid, D5",61218336,636880,-0.5
+210329_Blk_Blank1_B,"Indole 3 Acetic Acid, D5",58605008,740108,-0.5
+210329_Blk_Blank1_C,"Indole 3 Acetic Acid, D5",45979956,410012,-0.7
+210329_Blk_Blank2_A,"Indole 3 Acetic Acid, D5",71812360,565069,-0.5
+210329_Blk_Blank2_B,"Indole 3 Acetic Acid, D5",77753200,1026418,-0.7
+210329_Blk_Blank2_C,"Indole 3 Acetic Acid, D5",72745240,731958,-0.3
+210329_Blk_Blank3_A,"Indole 3 Acetic Acid, D5",93294248,839191,-0.4
+210329_Blk_Blank3_B,"Indole 3 Acetic Acid, D5",78821400,798940,-0.5
+210329_Blk_Blank3_C,"Indole 3 Acetic Acid, D5",95296808,1407381,-0.8
+210329_Blk_PPL_Blank_A,"Indole 3 Acetic Acid, D5",40504028,1640671,0.2
+210329_Blk_PPL_Blank_B,"Indole 3 Acetic Acid, D5",52929592,1291447,0.1
+210329_Blk_PPL_Blank_C,"Indole 3 Acetic Acid, D5",67325576,1820261,-0.2
+210329_Poo_TruePoo_Full1,"Indole 3 Acetic Acid, D5",37982748,757047,-0.7
+210329_Poo_TruePoo_Full2,"Indole 3 Acetic Acid, D5",50383376,623017,-0.5
+210329_Poo_TruePoo_Full3,"Indole 3 Acetic Acid, D5",42340484,693993,-0.3
+210329_Poo_TruePoo_Half1,"Indole 3 Acetic Acid, D5",18765672,365500,-0.5
+210329_Poo_TruePoo_Half2,"Indole 3 Acetic Acid, D5",25954552,405778,-0.5
+210329_Poo_TruePoo_Half3,"Indole 3 Acetic Acid, D5",22039620,161241,-0.1
+210329_Smp_Aloha_A,"Indole 3 Acetic Acid, D5",68924288,670258,-1.1
+210329_Smp_Aloha_B,"Indole 3 Acetic Acid, D5",68350136,879083,-0.4
+210329_Smp_Aloha_C,"Indole 3 Acetic Acid, D5",70800360,1062674,-0.6
+210329_Smp_Mort_Test_A,"Indole 3 Acetic Acid, D5",61460684,572374,-1.1
+210329_Smp_Mort_Test_B,"Indole 3 Acetic Acid, D5",60095344,545019,-1
+210329_Smp_PPL_Aloha_A,"Indole 3 Acetic Acid, D5",53848404,2588475,-0.7
+210329_Smp_PPL_Aloha_B,"Indole 3 Acetic Acid, D5",56889404,3882914,-0.9
+210329_Smp_PPL_Aloha_C,"Indole 3 Acetic Acid, D5",54081128,2037583,-0.6
+210329_Smp_PPL_PS_A,"Indole 3 Acetic Acid, D5",59039888,2623843,-0.4
+210329_Smp_PPL_PS_B,"Indole 3 Acetic Acid, D5",57589524,2853323,-0.3
+210329_Smp_PPL_PS_C,"Indole 3 Acetic Acid, D5",57401748,2675967,-0.2
+210329_Smp_PS_A,"Indole 3 Acetic Acid, D5",82049448,1006544,0.4
+210329_Smp_PS_B,"Indole 3 Acetic Acid, D5",86608984,870553,-0.3
+210329_Smp_PS_C,"Indole 3 Acetic Acid, D5",86508912,1241029,-0.4
+210329_Std_250nMStdsInH2O_1,"L-Phenylalanine, D8",2614,0,-0.3
+210329_Std_250nMStdsInH2O_2,"L-Phenylalanine, D8",NA,NA,NA
+210329_Std_250nMStdsInMatrix_1,"L-Phenylalanine, D8",8050075,0,0.5
+210329_Std_250nMStdsInMatrix_2,"L-Phenylalanine, D8",8915264,0,0.7
+210329_Std_H2OInMatrix_1,"L-Phenylalanine, D8",6705043,59219,0.4
+210329_Std_H2OInMatrix_2,"L-Phenylalanine, D8",8218724,0,-0.1
+210329_Blk_Blank1_A,"L-Phenylalanine, D8",11248405,151973,0.3
+210329_Blk_Blank1_B,"L-Phenylalanine, D8",10707422,53019,0.5
+210329_Blk_Blank1_C,"L-Phenylalanine, D8",8307362,49182,0.4
+210329_Blk_Blank2_A,"L-Phenylalanine, D8",11724787,58094,0.3
+210329_Blk_Blank2_B,"L-Phenylalanine, D8",11891147,180358,0.5
+210329_Blk_Blank2_C,"L-Phenylalanine, D8",11115257,0,0.3
+210329_Blk_Blank3_A,"L-Phenylalanine, D8",14155127,152318,0.6
+210329_Blk_Blank3_B,"L-Phenylalanine, D8",11630858,0,0.7
+210329_Blk_Blank3_C,"L-Phenylalanine, D8",14886518,28423,0
+210329_Blk_PPL_Blank_A,"L-Phenylalanine, D8",9699110,0,0.8
+210329_Blk_PPL_Blank_B,"L-Phenylalanine, D8",10773603,0,1
+210329_Blk_PPL_Blank_C,"L-Phenylalanine, D8",11785188,0,0.8
+210329_Poo_TruePoo_Full1,"L-Phenylalanine, D8",9811815,59228,0.4
+210329_Poo_TruePoo_Full2,"L-Phenylalanine, D8",12640903,119833,0.4
+210329_Poo_TruePoo_Full3,"L-Phenylalanine, D8",10613602,51008,0.4
+210329_Poo_TruePoo_Half1,"L-Phenylalanine, D8",5188197,0,0.5
+210329_Poo_TruePoo_Half2,"L-Phenylalanine, D8",6498198,59329,0.5
+210329_Poo_TruePoo_Half3,"L-Phenylalanine, D8",5581259,0,0.7
+210329_Smp_Aloha_A,"L-Phenylalanine, D8",11804035,0,0.1
+210329_Smp_Aloha_B,"L-Phenylalanine, D8",11683617,0,0.1
+210329_Smp_Aloha_C,"L-Phenylalanine, D8",11717875,0,0.8
+210329_Smp_Mort_Test_A,"L-Phenylalanine, D8",11031099,110638,-0.5
+210329_Smp_Mort_Test_B,"L-Phenylalanine, D8",10651941,24331,0.6
+210329_Smp_PPL_Aloha_A,"L-Phenylalanine, D8",9054772,72085,-0.4
+210329_Smp_PPL_Aloha_B,"L-Phenylalanine, D8",10286778,85186,0.3
+210329_Smp_PPL_Aloha_C,"L-Phenylalanine, D8",9674464,64748,0.6
+210329_Smp_PPL_PS_A,"L-Phenylalanine, D8",10447401,0,0.6
+210329_Smp_PPL_PS_B,"L-Phenylalanine, D8",9965326,42177,1
+210329_Smp_PPL_PS_C,"L-Phenylalanine, D8",10042331,0,1.3
+210329_Smp_PS_A,"L-Phenylalanine, D8",12158033,164320,0.9
+210329_Smp_PS_B,"L-Phenylalanine, D8",13557163,43316,0.9
+210329_Smp_PS_C,"L-Phenylalanine, D8",14009548,0,0.5
+210329_Std_250nMStdsInH2O_1,"L-Tryptophan, D3",2710,0,5.8
+210329_Std_250nMStdsInH2O_2,"L-Tryptophan, D3",372779,0,1.7
+210329_Std_250nMStdsInMatrix_1,"L-Tryptophan, D3",21335,0,7.7
+210329_Std_250nMStdsInMatrix_2,"L-Tryptophan, D3",5799,0,3.3
+210329_Std_H2OInMatrix_1,"L-Tryptophan, D3",189446,0,9.7
+210329_Std_H2OInMatrix_2,"L-Tryptophan, D3",177025,0,9.2
+210329_Blk_Blank1_A,"L-Tryptophan, D3",10263,0,8.7
+210329_Blk_Blank1_B,"L-Tryptophan, D3",15140,0,5.5
+210329_Blk_Blank1_C,"L-Tryptophan, D3",9885,0,0.9
+210329_Blk_Blank2_A,"L-Tryptophan, D3",23826,0,6.8
+210329_Blk_Blank2_B,"L-Tryptophan, D3",81097,0,7.9
+210329_Blk_Blank2_C,"L-Tryptophan, D3",26517,0,6.6
+210329_Blk_Blank3_A,"L-Tryptophan, D3",12023,0,8.6
+210329_Blk_Blank3_B,"L-Tryptophan, D3",7686,0,1.7
+210329_Blk_Blank3_C,"L-Tryptophan, D3",7595,0,6.9
+210329_Blk_PPL_Blank_A,"L-Tryptophan, D3",8179,0,0.4
+210329_Blk_PPL_Blank_B,"L-Tryptophan, D3",5359,0,4.4
+210329_Blk_PPL_Blank_C,"L-Tryptophan, D3",7067,0,5.4
+210329_Poo_TruePoo_Full1,"L-Tryptophan, D3",253457,0,9.9
+210329_Poo_TruePoo_Full2,"L-Tryptophan, D3",221526,0,9.4
+210329_Poo_TruePoo_Full3,"L-Tryptophan, D3",170485,0,9.7
+210329_Poo_TruePoo_Half1,"L-Tryptophan, D3",127449,0,9.9
+210329_Poo_TruePoo_Half2,"L-Tryptophan, D3",6508,0,7.9
+210329_Poo_TruePoo_Half3,"L-Tryptophan, D3",10626,0,4
+210329_Smp_Aloha_A,"L-Tryptophan, D3",24507,0,8
+210329_Smp_Aloha_B,"L-Tryptophan, D3",18245,0,9.5
+210329_Smp_Aloha_C,"L-Tryptophan, D3",11458,0,6.6
+210329_Smp_Mort_Test_A,"L-Tryptophan, D3",34608,0,8.4
+210329_Smp_Mort_Test_B,"L-Tryptophan, D3",29962,0,4.1
+210329_Smp_PPL_Aloha_A,"L-Tryptophan, D3",17970,0,5.1
+210329_Smp_PPL_Aloha_B,"L-Tryptophan, D3",25744,0,7.5
+210329_Smp_PPL_Aloha_C,"L-Tryptophan, D3",5207,0,1.6
+210329_Smp_PPL_PS_A,"L-Tryptophan, D3",5166,0,2.6
+210329_Smp_PPL_PS_B,"L-Tryptophan, D3",17289,0,5.5
+210329_Smp_PPL_PS_C,"L-Tryptophan, D3",54010,0,10.7
+210329_Smp_PS_A,"L-Tryptophan, D3",73521,0,9.8
+210329_Smp_PS_B,"L-Tryptophan, D3",62852,0,9.1
+210329_Smp_PS_C,"L-Tryptophan, D3",21876,0,6.1
+210329_Std_250nMStdsInH2O_1,"Pyridoxal, D3",11765470,130104,0.9
+210329_Std_250nMStdsInH2O_2,"Pyridoxal, D3",13210025,0,1.9
+210329_Std_250nMStdsInMatrix_1,"Pyridoxal, D3",39568124,0,0.5
+210329_Std_250nMStdsInMatrix_2,"Pyridoxal, D3",35519112,118689,0.4
+210329_Std_H2OInMatrix_1,"Pyridoxal, D3",23535030,331861,0.2
+210329_Std_H2OInMatrix_2,"Pyridoxal, D3",20528786,324197,0.2
+210329_Blk_Blank1_A,"Pyridoxal, D3",25339614,443293,0.3
+210329_Blk_Blank1_B,"Pyridoxal, D3",23009280,668937,0.4
+210329_Blk_Blank1_C,"Pyridoxal, D3",15323704,386714,0.2
+210329_Blk_Blank2_A,"Pyridoxal, D3",38409620,534854,0.2
+210329_Blk_Blank2_B,"Pyridoxal, D3",35412224,293049,0.7
+210329_Blk_Blank2_C,"Pyridoxal, D3",43279932,377642,0.1
+210329_Blk_Blank3_A,"Pyridoxal, D3",45490744,1104700,0.6
+210329_Blk_Blank3_B,"Pyridoxal, D3",43648648,983733,0.3
+210329_Blk_Blank3_C,"Pyridoxal, D3",34841748,884079,-0.1
+210329_Blk_PPL_Blank_A,"Pyridoxal, D3",36432752,747021,0.8
+210329_Blk_PPL_Blank_B,"Pyridoxal, D3",33002620,922886,0.4
+210329_Blk_PPL_Blank_C,"Pyridoxal, D3",33951868,913013,0.5
+210329_Poo_TruePoo_Full1,"Pyridoxal, D3",24170432,560362,0.6
+210329_Poo_TruePoo_Full2,"Pyridoxal, D3",27080956,714108,0.5
+210329_Poo_TruePoo_Full3,"Pyridoxal, D3",23374398,542660,0.2
+210329_Poo_TruePoo_Half1,"Pyridoxal, D3",15832974,296641,0.6
+210329_Poo_TruePoo_Half2,"Pyridoxal, D3",17145118,393934,0.5
+210329_Poo_TruePoo_Half3,"Pyridoxal, D3",15293965,357122,0.7
+210329_Smp_Aloha_A,"Pyridoxal, D3",22680560,444588,0.2
+210329_Smp_Aloha_B,"Pyridoxal, D3",22672242,353034,0.2
+210329_Smp_Aloha_C,"Pyridoxal, D3",25043286,626507,0.7
+210329_Smp_Mort_Test_A,"Pyridoxal, D3",30491208,460007,-0.5
+210329_Smp_Mort_Test_B,"Pyridoxal, D3",33294184,452539,0.4
+210329_Smp_PPL_Aloha_A,"Pyridoxal, D3",22125352,780654,0.3
+210329_Smp_PPL_Aloha_B,"Pyridoxal, D3",23400102,1632615,1
+210329_Smp_PPL_Aloha_C,"Pyridoxal, D3",22482894,781190,0.7
+210329_Smp_PPL_PS_A,"Pyridoxal, D3",22951288,1063895,0.9
+210329_Smp_PPL_PS_B,"Pyridoxal, D3",24045900,975007,1.4
+210329_Smp_PPL_PS_C,"Pyridoxal, D3",21898108,1253006,1.6
+210329_Smp_PS_A,"Pyridoxal, D3",29662340,266707,1.1
+210329_Smp_PS_B,"Pyridoxal, D3",27609296,544587,0.9
+210329_Smp_PS_C,"Pyridoxal, D3",25052666,373065,0.7
+210329_Std_250nMStdsInH2O_1,"Riboflavin-dioxopyrimidine, 13C4, 15N2",NA,NA,NA
+210329_Std_250nMStdsInH2O_2,"Riboflavin-dioxopyrimidine, 13C4, 15N2",NA,NA,NA
+210329_Std_250nMStdsInMatrix_1,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4753753,28142,0.4
+210329_Std_250nMStdsInMatrix_2,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4929082,24856,0.8
+210329_Std_H2OInMatrix_1,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4477093,42934,0.6
+210329_Std_H2OInMatrix_2,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4649313,4192,0.6
+210329_Blk_Blank1_A,"Riboflavin-dioxopyrimidine, 13C4, 15N2",9675196,122117,0.6
+210329_Blk_Blank1_B,"Riboflavin-dioxopyrimidine, 13C4, 15N2",1649034,0,0.7
+210329_Blk_Blank1_C,"Riboflavin-dioxopyrimidine, 13C4, 15N2",3742600,26935,0.4
+210329_Blk_Blank2_A,"Riboflavin-dioxopyrimidine, 13C4, 15N2",3858433,0,0.9
+210329_Blk_Blank2_B,"Riboflavin-dioxopyrimidine, 13C4, 15N2",3957596,34751,0.7
+210329_Blk_Blank2_C,"Riboflavin-dioxopyrimidine, 13C4, 15N2",7937908,30797,1.1
+210329_Blk_Blank3_A,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4931927,61425,1
+210329_Blk_Blank3_B,"Riboflavin-dioxopyrimidine, 13C4, 15N2",5360439,28504,1
+210329_Blk_Blank3_C,"Riboflavin-dioxopyrimidine, 13C4, 15N2",4881951,39456,0.1
+210329_Blk_PPL_Blank_A,"Riboflavin-dioxopyrimidine, 13C4, 15N2",7382032,0,1.2
+210329_Blk_PPL_Blank_B,"Riboflavin-dioxopyrimidine, 13C4, 15N2",6981991,92606,1.2
+210329_Blk_PPL_Blank_C,"Riboflavin-dioxopyrimidine, 13C4, 15N2",3402613,0,1
+210329_Poo_TruePoo_Full1,"Riboflavin-dioxopyrimidine, 13C4, 15N2",5866187,82569,0.4
+210329_Poo_TruePoo_Full2,"Riboflavin-dioxopyrimidine, 13C4, 15N2",6877131,57559,0.6
+210329_Poo_TruePoo_Full3,"Riboflavin-dioxopyrimidine, 13C4, 15N2",5885587,31008,0.7
+210329_Poo_TruePoo_Half1,"Riboflavin-dioxopyrimidine, 13C4, 15N2",2799330,7951,0.8
+210329_Poo_TruePoo_Half2,"Riboflavin-dioxopyrimidine, 13C4, 15N2",3416645,0,0.8
+210329_Poo_TruePoo_Half3,"Riboflavin-dioxopyrimidine, 13C4, 15N2",2822139,0,0.9
+210329_Smp_Aloha_A,"Riboflavin-dioxopyrimidine, 13C4, 15N2",10654712,85950,0
+210329_Smp_Aloha_B,"Riboflavin-dioxopyrimidine, 13C4, 15N2",5194049,79941,0.7
+210329_Smp_Aloha_C,"Riboflavin-dioxopyrimidine, 13C4, 15N2",8232157,18108,0.8
+210329_Smp_Mort_Test_A,"Riboflavin-dioxopyrimidine, 13C4, 15N2",5640676,0,0
+210329_Smp_Mort_Test_B,"Riboflavin-dioxopyrimidine, 13C4, 15N2",5894573,0,0
+210329_Smp_PPL_Aloha_A,"Riboflavin-dioxopyrimidine, 13C4, 15N2",8179815,104171,-0.1
+210329_Smp_PPL_Aloha_B,"Riboflavin-dioxopyrimidine, 13C4, 15N2",10481276,86499,0.5
+210329_Smp_PPL_Aloha_C,"Riboflavin-dioxopyrimidine, 13C4, 15N2",9684879,46205,0.5
+210329_Smp_PPL_PS_A,"Riboflavin-dioxopyrimidine, 13C4, 15N2",10621274,106521,1
+210329_Smp_PPL_PS_B,"Riboflavin-dioxopyrimidine, 13C4, 15N2",11243432,120290,1.1
+210329_Smp_PPL_PS_C,"Riboflavin-dioxopyrimidine, 13C4, 15N2",11215091,74975,1.2
+210329_Smp_PS_A,"Riboflavin-dioxopyrimidine, 13C4, 15N2",3934595,50948,1.5
+210329_Smp_PS_B,"Riboflavin-dioxopyrimidine, 13C4, 15N2",9790074,70447,1.1
+210329_Smp_PS_C,"Riboflavin-dioxopyrimidine, 13C4, 15N2",6094491,0,0.7
+210329_Std_250nMStdsInH2O_1,"Thiamine Hydrochloride, 13C3",6095,0,-0.6
+210329_Std_250nMStdsInH2O_2,"Thiamine Hydrochloride, 13C3",NA,NA,NA
+210329_Std_250nMStdsInMatrix_1,"Thiamine Hydrochloride, 13C3",1610572,0,-0.3
+210329_Std_250nMStdsInMatrix_2,"Thiamine Hydrochloride, 13C3",1661451,0,-0.2
+210329_Std_H2OInMatrix_1,"Thiamine Hydrochloride, 13C3",1215824,0,-0.2
+210329_Std_H2OInMatrix_2,"Thiamine Hydrochloride, 13C3",1109110,0,-0.6
+210329_Blk_Blank1_A,"Thiamine Hydrochloride, 13C3",5609,0,-0.2
+210329_Blk_Blank1_B,"Thiamine Hydrochloride, 13C3",7007,0,-10.5
+210329_Blk_Blank1_C,"Thiamine Hydrochloride, 13C3",4448,0,-11.1
+210329_Blk_Blank2_A,"Thiamine Hydrochloride, 13C3",6123,0,-0.1
+210329_Blk_Blank2_B,"Thiamine Hydrochloride, 13C3",723271,0,0.4
+210329_Blk_Blank2_C,"Thiamine Hydrochloride, 13C3",73396,0,-0.3
+210329_Blk_Blank3_A,"Thiamine Hydrochloride, 13C3",6141,0,-0.5
+210329_Blk_Blank3_B,"Thiamine Hydrochloride, 13C3",61447,0,0.1
+210329_Blk_Blank3_C,"Thiamine Hydrochloride, 13C3",13295,0,-0.7
+210329_Blk_PPL_Blank_A,"Thiamine Hydrochloride, 13C3",1338605,0,0.3
+210329_Blk_PPL_Blank_B,"Thiamine Hydrochloride, 13C3",3877432,0,0.2
+210329_Blk_PPL_Blank_C,"Thiamine Hydrochloride, 13C3",497993,0,0.5
+210329_Poo_TruePoo_Full1,"Thiamine Hydrochloride, 13C3",1600625,0,0.1
+210329_Poo_TruePoo_Full2,"Thiamine Hydrochloride, 13C3",1696361,0,-0.2
+210329_Poo_TruePoo_Full3,"Thiamine Hydrochloride, 13C3",1549060,0,-0.3
+210329_Poo_TruePoo_Half1,"Thiamine Hydrochloride, 13C3",1007413,0,0
+210329_Poo_TruePoo_Half2,"Thiamine Hydrochloride, 13C3",1083641,0,-0.3
+210329_Poo_TruePoo_Half3,"Thiamine Hydrochloride, 13C3",1174544,0,0
+210329_Smp_Aloha_A,"Thiamine Hydrochloride, 13C3",127905,0,-1.9
+210329_Smp_Aloha_B,"Thiamine Hydrochloride, 13C3",124284,0,-1.7
+210329_Smp_Aloha_C,"Thiamine Hydrochloride, 13C3",70585,0,-1.2
+210329_Smp_Mort_Test_A,"Thiamine Hydrochloride, 13C3",96712,0,-2.8
+210329_Smp_Mort_Test_B,"Thiamine Hydrochloride, 13C3",132714,0,-2.5
+210329_Smp_PPL_Aloha_A,"Thiamine Hydrochloride, 13C3",6464839,0,-0.5
+210329_Smp_PPL_Aloha_B,"Thiamine Hydrochloride, 13C3",10323407,0,0.2
+210329_Smp_PPL_Aloha_C,"Thiamine Hydrochloride, 13C3",4585464,0,0
+210329_Smp_PPL_PS_A,"Thiamine Hydrochloride, 13C3",1432341,0,0.2
+210329_Smp_PPL_PS_B,"Thiamine Hydrochloride, 13C3",5066262,0,0.7
+210329_Smp_PPL_PS_C,"Thiamine Hydrochloride, 13C3",6482713,0,0.6
+210329_Smp_PS_A,"Thiamine Hydrochloride, 13C3",95776,0,-0.6
+210329_Smp_PS_B,"Thiamine Hydrochloride, 13C3",75590,0,-1.2
+210329_Smp_PS_C,"Thiamine Hydrochloride, 13C3",104621,0,-1.5
+210329_Std_250nMStdsInH2O_1,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Std_250nMStdsInH2O_2,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Std_250nMStdsInMatrix_1,"Tryptamine Hydrochloride, D4",2486,0,-0.8
+210329_Std_250nMStdsInMatrix_2,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Std_H2OInMatrix_1,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Std_H2OInMatrix_2,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Blk_Blank1_A,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Blk_Blank1_B,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Blk_Blank1_C,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Blk_Blank2_A,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Blk_Blank2_B,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Blk_Blank2_C,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Blk_Blank3_A,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Blk_Blank3_B,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Blk_Blank3_C,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Blk_PPL_Blank_A,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Blk_PPL_Blank_B,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Blk_PPL_Blank_C,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Poo_TruePoo_Full1,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Poo_TruePoo_Full2,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Poo_TruePoo_Full3,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Poo_TruePoo_Half1,"Tryptamine Hydrochloride, D4",1972,0,2.3
+210329_Poo_TruePoo_Half2,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Poo_TruePoo_Half3,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Smp_Aloha_A,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Smp_Aloha_B,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Smp_Aloha_C,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Smp_Mort_Test_A,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Smp_Mort_Test_B,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Smp_PPL_Aloha_A,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Smp_PPL_Aloha_B,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Smp_PPL_Aloha_C,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Smp_PPL_PS_A,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Smp_PPL_PS_B,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Smp_PPL_PS_C,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Smp_PS_A,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Smp_PS_B,"Tryptamine Hydrochloride, D4",NA,NA,NA
+210329_Smp_PS_C,"Tryptamine Hydrochloride, D4",NA,NA,NA

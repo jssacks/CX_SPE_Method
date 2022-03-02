@@ -180,3 +180,4 @@ BMISlist <- list(IS_inspectPlot, QuickReport, ISTest_plot, BMIS_normalizedData.2
 ISTest_plot
 #Removes all intermediate variables :)
 rm(list=setdiff(ls(), c("BMISlist")))
+

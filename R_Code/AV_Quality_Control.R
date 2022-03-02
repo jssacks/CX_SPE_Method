@@ -45,8 +45,14 @@ CX.A.QC <- CX.dat%>%
   filter(as.numeric(R2) >= R2.cut) %>%
   filter(as.numeric(Sample.RSD) <= RSD.cut)
 
+####Make leucine and isoleucine into (Iso)leucine 
+CX.A.QC.2 <- CX.A.QC %>%
+  filter(!MF == "Leucine") %>%
+  mutate_if(.,is.character,str_replace_all, pattern="Isoleucine", replacement = "(Iso)leucine")
+
+
 ####
-write_csv(CX.A.QC, file = "Intermediates/Analytical_Validation/AV_CX_HQ_dat.csv")
+write_csv(CX.A.QC.2, file = "Intermediates/Analytical_Validation/AV_CX_HQ_dat.csv")
 
 
 ###Apply quality control cutoffs to PPL ALOHA Data
@@ -69,8 +75,14 @@ PPL.A.QC <- PPL.dat%>%
   filter(as.numeric(Sample.Mean.EE) >= EE.cut.low) %>%
   filter(as.numeric(Sample.RSD) <= RSD.cut)
 
+###Make leucine and isoleucine into (iso)leucine
+PPL.A.QC.2 <- PPL.A.QC %>%
+  filter(!MF == "Leucine") %>%
+  mutate_if(.,is.character,str_replace_all, pattern="Isoleucine", replacement = "(Iso)leucine")
+
+
 ####
-write_csv(PPL.A.QC, file = "Intermediates/Analytical_Validation/AV_PPL_HQ_dat.csv")
+write_csv(PPL.A.QC.2, file = "Intermediates/Analytical_Validation/AV_PPL_HQ_dat.csv")
 
 
 
