@@ -98,11 +98,12 @@ CXC.PPL.classy.dat.3 <- rbind(CXC.PPL.classy.dat.2, additions) %>%
 p1.dat <- CXC.PPL.classy.dat.3 %>%
   filter(!is.na(.$superclass))
 
-plot.1 <- ggplot(p1.dat, aes(y = superclass, fill = method)) +
+plot.1 <- ggplot(p1.dat, aes(y = fct_rev(fct_infreq(superclass)), fill = method)) +
   geom_bar(position = "dodge", width = 0.7, alpha = 0.85) + 
   theme_classic() + 
   scale_fill_manual(values = c("darkred", "darkblue")) +
-  scale_x_continuous(expand = c(0, NA)) 
+  scale_x_continuous(expand = c(0, NA)) +
+  ylab("Superclass")
 
 
 #Class Plot_______________________
@@ -111,11 +112,13 @@ plot.1 <- ggplot(p1.dat, aes(y = superclass, fill = method)) +
 p2.dat <- CXC.PPL.classy.dat.3 %>%
   filter(!is.na(.$class))
 
-plot.2 <- ggplot(p2.dat, aes(y = class, fill = method)) +
+plot.2 <- ggplot(p2.dat, aes(y = fct_rev(fct_infreq(class)), fill = method)) +
   geom_bar(position = "dodge", width = 0.7, alpha = 0.85) + 
   theme_classic() + 
   scale_fill_manual(values = c("darkred", "darkblue")) +
-  scale_x_continuous(expand = c(0, NA)) 
+  scale_x_continuous(expand = c(0, NA)) +
+  ylab("Class")
 
 ####
 ggarrange(plot.1, plot.2, labels = c("A", "B"), common.legend = TRUE, nrow = 2, heights = c(2,5), widths = 5, align = "v")
+
