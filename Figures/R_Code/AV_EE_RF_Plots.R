@@ -37,11 +37,22 @@ Std.dat <- read_csv(Std.file)  %>%
          RT = RT..min.) %>%
   mutate(m.z = as.numeric(m.z)) %>%
   filter(Priority == TRUE) %>%
-  select(MF, Column, RT, m.z) 
+  select(MF, Column, RT, m.z)  %>%
+  mutate(MF = str_replace_all(.$MF, "Isoleucine", "(Iso)leucine")) %>%
+  filter(!MF == "leucine")
 
 All.dat.2 <- left_join(All.dat, Std.dat) %>%
+  mutate(Fraction = case_when(
+    .$Fraction == "Pos" ~ "HILIC Pos",
+    .$Fraction == "Neg" ~ "HILIC Neg",
+    TRUE ~ Fraction
+  )) %>%
+  mutate(method = case_when(
+    .$method == "CatEx" ~ "CX-SPE",
+    .$method == "PPL" ~ "PPL-SPE"
+  )) %>%
   mutate("Fraction" = as.factor(Fraction))
-All.dat.2$Fraction <- relevel(All.dat.2$Fraction, "Pos")
+All.dat.2$Fraction <- relevel(All.dat.2$Fraction, "HILIC Pos") 
 
 
 #### MZ + RT + EE Plot

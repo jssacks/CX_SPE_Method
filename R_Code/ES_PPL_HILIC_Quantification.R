@@ -47,6 +47,7 @@ EE.hilic <- read_csv(EE.file) %>%
 
 dat.conc.EE <- left_join(dat.conc, EE.hilic, by = c("Compound")) %>%
   filter(!is.na(Overall.Mean.EE)) %>%
+  select(-sample) %>%
   rename("sample" = replicate) %>%
   mutate(EE.adjust.conc = nmol.conc/(Overall.Mean.EE/100)) %>%
   unique()
@@ -209,3 +210,4 @@ write_csv(final.dat, file = "Intermediates/Environmental_Samples/ES_PPL_HILIC_Co
 
 #LODs:
 write_csv(lod.conc.EE, file = "Intermediates/Environmental_Samples/ES_PPL_Blk_LOD_Concentrations.csv")
+

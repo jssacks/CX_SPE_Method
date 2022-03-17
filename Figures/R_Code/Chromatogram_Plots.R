@@ -93,6 +93,7 @@ Chrom.Plot.1 <- ggplot(eic.dat.3)  +
         strip.text.x = element_text(size = 16, face = "bold"),
         axis.title = element_text(size = 14),
         panel.spacing.y = unit(1.5, "lines"))
+Chrom.Plot.1
 ggsave("Figures/Outputs/MainTextFig1_chomatogram.pdf")
 
 

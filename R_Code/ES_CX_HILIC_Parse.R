@@ -124,7 +124,7 @@ halfpoos <- samp.list %>%
 nonpoos <- samp.list %>%
   filter(!str_detect(.$`File Name`, "Half"))
 samp.list.exp <- rbind(halfpoos, nonpoos)
-write_csv(samp.list.exp, path = "Intermediates/Environmental_Samples/ES_HILIC_SampList.csv")
+write_csv(samp.list.exp, file = "Intermediates/Environmental_Samples/ES_HILIC_SampList.csv")
 
 
 
