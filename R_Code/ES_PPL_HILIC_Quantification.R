@@ -1,23 +1,14 @@
-
-
-#
-#
-#This script....
-
-
 #####
 library(readr)
 library(tidyverse)
 
-
-###Define inputs
-norm.dat.file <- "Intermediates/Environmental_Samples/ES_CatEx_HILIC_BMISed_BlkQCed_dat.csv"
+norm.dat.file <- "Intermediates/Environmental_Samples/ES_PPL_HILIC_BMISed_BlkQCed_dat.csv"
 rf.file <- "Intermediates/Environmental_Samples/HILIC_RFs_RFratios.csv"
 EE.file <- "Intermediates/Analytical_Validation/AV_CX_PPL_HQ_combined.csv"
 Std.file <- "Meta_Data/Ingalls_Standards/Ingalls_Lab_Standards_NEW.txt"
 IS.names.file <- "Meta_Data/Ingalls_Standards/CXSPE_IS_List_JSS.csv"
 HILIC.raw.dat <- "Intermediates/Environmental_Samples/ES_HILIC_targeted_combined_QCflags.csv"
-Blk.LOD.dat <- "Intermediates/Environmental_Samples/ES_CX_HILIC_Blk_LOD_signal_values.csv"
+Blk.LOD.dat <- "Intermediates/Environmental_Samples/ES_PPL_Blk_LOD_signal_values.csv"
 IS.raw.file.pos <- "Intermediates/Environmental_Samples/ES_HILIC_pos_IS.csv"
 IS.raw.file.neg <- "Intermediates/Environmental_Samples/ES_HILIC_neg_IS.csv"
 
@@ -31,10 +22,9 @@ hilic.dat <- read_csv(norm.dat.file) %>%
   filter(!Compound == "leucine")
 
 ###Join HILIC Dat and RFs and RF ratios
-hilic.rfs <- read_csv(rf.file) %>%
+hilic.rfs <- read_csv(rf.file)  %>%
   mutate(Compound = str_replace_all(.$Compound, "Isoleucine", "(Iso)leucine")) %>%
   filter(!Compound == "leucine")
-
 
 dat <- left_join(hilic.dat, hilic.rfs, by = c("Compound")) %>%
   filter(!is.na(RF))
@@ -47,9 +37,9 @@ dat.conc <- dat %>%
 
 ###Adjust values using extraction efficiencies and filter by unretained compounds
 EE.hilic <- read_csv(EE.file) %>%
-  select(MF, method, Fraction, sample, Overall.Mean.EE, Overall.SD.EE, 
+  select(MF, method, Fraction, Overall.Mean.EE, Overall.SD.EE, 
          Sample.Mean.EE, Sample.SD.EE) %>%
-  filter(method == "CX-SPE") %>%
+  filter(method == "PPL-SPE") %>%
   filter(!Fraction == "RP") %>%
   rename("Compound" = MF) %>%
   mutate(Compound = str_replace_all(.$Compound, "Isoleucine", "(Iso)leucine")) %>%
@@ -57,6 +47,7 @@ EE.hilic <- read_csv(EE.file) %>%
 
 dat.conc.EE <- left_join(dat.conc, EE.hilic, by = c("Compound")) %>%
   filter(!is.na(Overall.Mean.EE)) %>%
+  rename("sample" = replicate) %>%
   mutate(EE.adjust.conc = nmol.conc/(Overall.Mean.EE/100)) %>%
   unique()
 
@@ -65,25 +56,21 @@ blk.lod.dat <- read_csv(Blk.LOD.dat) %>%
   mutate(MF = str_replace_all(.$MF, "butyric_acid_Neg", "butyric acid_Neg")) %>%
   separate(MF, into = c("Compound", "ion_mode"), sep = "_") %>%
   mutate(z = ifelse(ion_mode == "Neg", -1, 1)) %>%
-  mutate(LOQ.test = Blk.Av + (10 * (Blk.sd/sqrt(15)))) %>%
   mutate(Compound = str_replace_all(.$Compound, "Isoleucine", "(Iso)leucine")) %>%
   filter(!Compound == "leucine")
 
 lod.dat.2 <- left_join(blk.lod.dat, hilic.rfs, by = c("Compound", "z")) %>%
   filter(!is.na(RF))
-  
 
 lod.conc <- lod.dat.2 %>%
   rowwise() %>%
   mutate(RF = as.numeric(RF)) %>%
-  mutate(lod.nmol.conc = Blk.LD/RF/RFratio*10^-6*400/(40*10^-3)*1000,
-         loq.nmol.conc = LOQ.test/RF/RFratio*10^-6*400/(40*10^-3)*1000)
+  mutate(lod.nmol.conc = Blk.LD/RF/RFratio*10^-6*400/(40*10^-3)*1000)
 
 lod.conc.EE <-  left_join(lod.conc, EE.hilic, by = c("Compound")) %>%
   filter(!is.na(Overall.Mean.EE)) %>%
-  mutate(EE.adjust.lod = lod.nmol.conc/(Overall.Mean.EE/100),
-         EE.adjust.loq = loq.nmol.conc/(Overall.Mean.EE/100)) %>%
-  select(Compound, z, EE.adjust.lod, EE.adjust.loq) %>%
+  mutate(EE.adjust.lod = lod.nmol.conc/(Overall.Mean.EE/100)) %>%
+  select(Compound, z, EE.adjust.lod) %>%
   unique()
 
 ####Calculate better concentrations using Internal standards
@@ -112,7 +99,7 @@ SBe.Matched <- left_join(IS.Spike.Before, raw.dat, by = c("Compound", "Rep")) %>
   filter(!str_detect(.$Rep, "Std")) %>%
   filter(!str_detect(.$Rep, "Blk")) %>%
   filter(!str_detect(.$Rep, "_C_")) %>%
-  filter(!str_detect(.$Rep, "PPL")) %>%
+  filter(str_detect(.$Rep, "PPL")) %>%
   filter(!str_detect(.$Rep, "Poo")) %>%
   select(Rep, Compound, Area, IS_Area, Conc.in.vial.uM) %>%
   mutate(Nmol.in.vial_IS = Area/IS_Area*Conc.in.vial.uM*1000,
@@ -164,8 +151,7 @@ IS.adjus.dat <- rbind(SAf.EE.add, SBe.add) %>%
 
 ###remove calculated Concentrations below LOD
 LOD.IS.adjus.dat <- left_join(IS.adjus.dat, lod.conc.EE) %>%
-  mutate(lod.flag = ifelse(EE.adjust.conc <= EE.adjust.lod, 1, 0),
-         loq.flag = ifelse(EE.adjust.conc <= EE.adjust.loq, 1, 0))
+  mutate(lod.flag = ifelse(EE.adjust.conc <= EE.adjust.lod, 1, 0))
 
 LOD.IS.QC <- LOD.IS.adjus.dat %>%
   group_by(Compound, samp) %>%
@@ -183,8 +169,7 @@ IS.dat.QCed <- left_join(LOD.IS.adjus.dat, LOD.IS.QC) %>%
 
 ####Add in IS normalized dat
 no.IS.dat <- dat.conc.EE %>%
-  select(Compound, Rep, samp, EE.adjust.conc) %>%
-  rename(sample = samp)
+  select(Compound, Rep, sample, EE.adjust.conc) 
 
 ###
 Remove.dat <- no.IS.dat %>%
@@ -214,14 +199,13 @@ C.N.std.info <- std.info %>%
 final.dat <- left_join(final.conc.dat, C.N.std.info) %>%
   rowwise() %>%
   mutate(Nmol.C = C*EE.adjust.conc,
-         Nmol.N = N*EE.adjust.conc) %>%
+         Nmol.N = N*EE.adjust.conc)  %>%
   filter(!sample == "TruePoo") %>%
   unique()
 
 ###Write Environmental Concentraions and LOD Concentrations to a csv:
 #Enviro.Concs:
-write_csv(final.dat, file = "Intermediates/Environmental_Samples/ES_CX_HILIC_Concentrations.csv")
+write_csv(final.dat, file = "Intermediates/Environmental_Samples/ES_PPL_HILIC_Concentrations.csv")
 
 #LODs:
-write_csv(lod.conc.EE, file = "Intermediates/Environmental_Samples/ES_CX_Blk_LOD_Concentrations.csv")
-
+write_csv(lod.conc.EE, file = "Intermediates/Environmental_Samples/ES_PPL_Blk_LOD_Concentrations.csv")
