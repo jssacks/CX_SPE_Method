@@ -58,41 +58,50 @@ All.dat.2$Fraction <- relevel(All.dat.2$Fraction, "HILIC Pos")
 #### MZ + RT + EE Plot
 
 #figure data
-Figure.dat <- All.dat.2
+Figure.dat <- All.dat.2 %>%
+  mutate(MF = str_replace_all(.$MF, "Trimethylamine N-oxide", "TMAO"))
 
 #figure palette
 pal <- wes_palette("Zissou1", 100, type = "continuous")
 
 #figure lables
-label.comps <- tibble(MF = c("Gonyol",
+label.comps <- tibble(MF = c("TMAO",
                                "Homarine",
-                             "Ectoine",
-                             #   "Hydroxyectoine",
-                             "Phenylalanine",
-                             "Domoic acid",
-                             "Vitamin B2",
-                             "Thymine"))
+                             "Serine",
+                             "Alanine",
+                             "Glutamic acid"
+                           #  "Aspartic acid",
+                           #  "Proline",
+                           #  "DMSP",
+                           #  "Betaine"
+                             ))
 Figure.labels <- inner_join(Figure.dat, label.comps)
 
 #Make Figure
 EE.fig <- ggplot(data = Figure.dat, aes(x = RT, y = m.z)) +
-  geom_point(size = 4.0, alpha = 0.8, aes(color = Sample.Mean.EE, shape = Fraction)) +
+  geom_point(size = 2, alpha = 0.7, aes(color = Sample.Mean.EE, shape = Fraction)) +
   facet_grid(method~Column, scales = "free_x", space = "free_x") +
   scale_x_continuous(breaks = seq(0,20,3)) +
   theme_bw()+
-  theme(panel.border = element_rect(colour = "black", size = 1)) +
+  theme(panel.border = element_rect(colour = "black", size = 0.5), panel.grid = element_line(size = 0.1), axis.line = elment_line(size = 0.5)) +
   theme(strip.background = element_rect(fill = "white", colour = "white")) +
+  theme(legend.position = "bottom", legend.box.spacing = unit(0.2, "cm"), legend.title = element_text(size = 8), legend.text = element_text(size = 5.5)) +
+  theme(axis.title = element_text(size = 8), axis.text = element_text(size = 6)) +
+  theme(strip.text = element_text(size = 9)) + 
+  guides(shape = "none") + 
   xlab("Retention Time (min)") +
   ylab("m/z") +
   labs(color = "Extraction Efficiency (%)") +
   geom_text_repel(data = Figure.labels, aes(x = RT, y = m.z, label = MF), 
-                  box.padding = 1.5, min.segment.length = 0, ylim = 500,
-                  #arrow = arrow(length = unit(0.015, "npc")),
+                  box.padding = 1.25, min.segment.length = 0, ylim = 400, 
+                  size = 2, 
+                  segment.size = 0.2, 
                   segment.curvature = -1e-20) +
   #scale_color_gradient2(low = muted("lightskyblue1"), high = "gold2")
-  scale_color_gradientn(colors = pal, trans = "sqrt", breaks = seq(0, 180, 20), guide = guide_colourbar(nbin = 100, barwidth = 1.5, barheight = 15)) #+
+  scale_color_gradientn(colors = pal, trans = "sqrt", breaks = seq(0, 180, 25), guide = guide_colourbar(nbin = 100, barwidth = 12.5, barheight = 0.75)) #+
 #  guides(color = guide_colourbar(nbin = 2, ticks = 8))
 EE.fig
+ggsave(filename = "Figures/Outputs/EE_Plot.pdf", width = 5, height = 4)
 
 
 

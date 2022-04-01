@@ -37,37 +37,46 @@ dat.2 <- dat.1 %>%
 
 ###Retention Time jitter and box plots of untargeted features
 rt.plot <- ggplot(data = dat.2, aes(x = Retention_time, y = method)) +
-  geom_jitter(alpha = 0.25, aes(), height = 0.20) +
-  geom_boxplot(alpha = 0.2, width = 0.6, size = 0.7, aes(color = method)) +
+  geom_jitter(alpha = 0.4, aes(), height = 0.20, size = 0.15) +
+  geom_boxplot(alpha = 0.2, width = 0.5, size = 0.4, aes(color = method), outlier.size = 0.4) +
   scale_color_manual(values = c("darkred", "darkblue")) +
   facet_grid(Station~chrom.col, scales = "free") +
   theme_classic() + 
   xlab("Retention Time (min)") +
   theme(strip.background = element_rect(color = "white"),
         axis.title.y = element_blank(),
-        strip.text.x = element_text(size = 16),
-        strip.text.y = element_text(size = 16))
+        strip.text.x = element_text(size = 9),
+        strip.text.y = element_text(size = 9),
+        axis.title = element_text(size = 7), 
+        axis.text = element_text(size = 6),
+        legend.title = element_text(size = 8),
+        legend.text = element_text(size = 8))
 rt.plot
 
 
 ###m/z jitter and box plots of untargeted features
 mz.plot <- ggplot(data = dat.2, aes(x = mz, y = method)) +
-  geom_jitter(alpha = 0.25, aes(), height = 0.20) +
-  geom_boxplot(alpha = 0.2, width = 0.6, size = 0.7, aes(color = method)) +
+  geom_jitter(alpha = 0.4, aes(), height = 0.20, size = 0.15) +
+  geom_boxplot(alpha = 0.2, width = 0.5, size = 0.4, aes(color = method), outlier.size = 0.4) +
   scale_color_manual(values = c("darkred", "darkblue")) +
   facet_grid(Station~chrom.col, scales = "free") +
   theme_classic() +
   xlab("m/z") +
   theme(axis.title.x = element_text(face = "italic"),
         strip.background = element_rect(color = "white"),
-        strip.text.x = element_text(size = 16),
-        strip.text.y = element_text(size = 16),
-        axis.title.y = element_blank())
+        strip.text.x = element_text(size = 9),
+        strip.text.y = element_text(size = 9),
+        axis.title.y = element_blank(),
+        axis.title = element_text(size = 7), 
+        axis.text = element_text(size = 6),
+        legend.title = element_text(size = 8),
+        legend.text = element_text(size = 8))
 mz.plot
 
 ####Make final combined plot
 ggarrange(rt.plot, mz.plot, labels = c("A", "B"), common.legend = TRUE, nrow = 2, heights = 5)
-
+#save
+ggsave(filename = "Figures/Outputs/untargeted_maintext_fig.pdf", height = 5, width = 5)
 
 
 ###Summary VENN DIAGRAM for Supplemental Figures
@@ -84,12 +93,12 @@ dat.1.wide.RP <- dat.1 %>%
 dat.CXC.A <- dat.1.wide.RP %>%
   filter(CatEx_A == 1) %>%
   select(MF) %>%
-  rename(`CatEx Aloha` = MF)
+  rename(`CX Aloha` = MF)
 
 dat.CXC.PS <- dat.1.wide.RP %>%
   filter(CatEx_PS == 1) %>%
   select(MF) %>%
-  rename(`CatEx PS` = MF)
+  rename(`CX PS` = MF)
 
 dat.PPL.A <- dat.1.wide.RP %>%
   filter(PPL_A == 1) %>%
@@ -106,13 +115,14 @@ dat.RP <- as.list(c(dat.CXC.A, dat.CXC.PS, dat.PPL.A, dat.PPL.PS))
 
 #Make Venn diagram
 v.rp<- ggvenn(dat.RP,
-              stroke_size = 0.5,
-              set_name_size = 5,
+              stroke_size = 0.25,
+              set_name_size = 2,
               fill_alpha = 0.25,
               fill_color = c("#0073C2FF", "#EFC000FF", "#868686FF", "#CD534CFF"),
-              text_size = 6,
-              show_percentage = FALSE)
+              text_size = 1.75,
+              show_percentage = TRUE)
 v.rp
+
 
 
 
@@ -128,12 +138,12 @@ dat.1.wide.HILIC <- dat.1 %>%
 dat.CXC.A <- dat.1.wide.HILIC %>%
   filter(CatEx_A == 1) %>%
   select(MF) %>%
-  rename(`CatEx Aloha` = MF)
+  rename(`CX Aloha` = MF)
 
 dat.CXC.PS <- dat.1.wide.HILIC %>%
   filter(CatEx_PS == 1) %>%
   select(MF) %>%
-  rename(`CatEx PS` = MF)
+  rename(`CX PS` = MF)
 
 dat.PPL.A <- dat.1.wide.HILIC %>%
   filter(PPL_A == 1) %>%
@@ -150,18 +160,19 @@ dat.HILIC <- as.list(c(dat.CXC.A, dat.CXC.PS, dat.PPL.A, dat.PPL.PS))
 
 ###plot hilic venn diagram 
 v.hilic<- ggvenn(dat.HILIC,
-                 stroke_size = 0.5,
-                 set_name_size = 5,
+                 stroke_size = 0.25,
+                 set_name_size = 2.5,
                  fill_alpha = 0.25,
                  fill_color = c("#0073C2FF", "#EFC000FF", "#868686FF", "#CD534CFF"),
-                 text_size = 6,
-                 show_percentage = FALSE) 
+                 text_size = 1.75,
+                 show_percentage = TRUE) 
 
 
 ####Combine RP and HILIC Venn Diagrams into a single plot
 
-ggarrange(v.hilic, v.rp, labels = c("A", "B"), nrow = 1)
+ggarrange(v.hilic, v.rp, labels = c("A", "B"), nrow = 2)
 
+ggsave(filename = "Figures/Outputs/Untargeted_Venn.pdf", height = 6, width = 5)
 
 
 

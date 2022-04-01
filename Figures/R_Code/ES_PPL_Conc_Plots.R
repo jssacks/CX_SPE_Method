@@ -9,8 +9,8 @@ library(ggpubr)
 
 
 ####Define inputs
-HILIC.conc.file <- "Intermediates/Environmental_Samples/ES_CX_HILIC_Concentrations.csv"
-RP.conc.file <- "Intermediates/Environmental_Samples/ES_CXC_RP_Concentrations.csv"
+HILIC.conc.file <- "Intermediates/Environmental_Samples/ES_PPL_HILIC_Concentrations.csv"
+RP.conc.file <- "Intermediates/Environmental_Samples/ES_PPL_RP_Concentrations.csv"
 #HILIC.LOD.file <- "Intermediates/Environmental_Samples/ES_Blk_LOD_Concentrations.csv"
 #RP.LOD.file <- "Intermediates/Environmental_Samples/ES_CXC_RP_BLk_LOD_Concentrations.csv"
 ###
@@ -18,9 +18,9 @@ HILIC.conc <- read_csv(HILIC.conc.file) %>%
   mutate(sample = case_when(.$sample == "A" ~ "Aloha",
                             TRUE ~ sample))
 
-RP.conc <- read_csv(RP.conc.file) %>%
-  mutate(sample = str_replace_all(.$samp, "A", "Aloha")) %>%
-  select(-samp)
+RP.conc <- read_csv(RP.conc.file) #%>%
+ # mutate(sample = str_replace_all(.$sample, "A", "Aloha")) #%>%
+ # select(-samp)
 
 ##
 dat <- rbind(HILIC.conc, RP.conc) %>%
@@ -38,7 +38,7 @@ dat <- rbind(HILIC.conc, RP.conc) %>%
 ####Supplementary Table of Enviro Conc. 
 dat.table <- dat %>%
   select(-C, -N)
-write_csv(dat.table, path = "Intermediates/CX_Enviro_Conc_Supp_Table.csv")
+write_csv(dat.table, path = "Intermediates/RP_Enviro_Conc_Supp_Table.csv")
 
 dat.sum <- dat %>%  
   group_by(sample) %>%
@@ -89,8 +89,9 @@ fig.1 <- ggplot(dat.fig, aes(x = sample, y = mean.Nmol.C, fill = reorder(Compoun
   theme_classic() +
   ylab("Concentration (nM C)") +
   labs(fill = "Compound") +
-  scale_fill_manual(values = lacroix_palette(type = "paired", n = 12)) +
-  scale_y_continuous(expand = c(0, NA, NA, 1100), limits = c(0,1100)) +
+  scale_fill_brewer(palette = "Paired")+
+ # scale_fill_manual(values = lacroix_palette(type = "paired", n = 12)) +
+  scale_y_continuous(expand = c(0, NA, NA, 100), limits = c(0,100)) +
   theme(legend.text=element_text(size=rel(0.5)),
         axis.text=element_text(size=rel(0.5)),
         legend.title = element_text(size=rel(0.7)),
@@ -103,7 +104,8 @@ fig.2 <- ggplot(dat.fig, aes(x = sample, y = mean.Nmol.C, fill = reorder(Compoun
   theme_classic() +
   ylab("Mole Fraction C (%)") +
   labs(fill = "Compound") +
-  scale_fill_manual(values = lacroix_palette(type = "paired", n = 12)) +
+  scale_fill_brewer(palette = "Paired")+
+  #scale_fill_manual(values = lacroix_palette(type = "paired", n = 12)) +
   scale_y_continuous(expand = c(0, NA, NA, NA)) +
   theme(legend.text=element_text(size=rel(0.5)),
         axis.text=element_text(size=rel(0.5)),
@@ -117,4 +119,4 @@ ggarrange(ggarrange(fig.1, fig.2, labels = c("A", "B"), legend = "none", nrow = 
           leg.1, nrow = 2, heights = c(4, 1))
 
 
-ggsave(filename = "Figures/Outputs/Enviro_Conc_CXSPE.pdf", height = 5, width = 5)
+ggsave(filename = "Figures/Outputs/Enviro_Conc_RPSPE_supp.pdf", height = 5, width = 5)

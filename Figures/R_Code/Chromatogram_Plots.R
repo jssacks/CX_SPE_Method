@@ -73,28 +73,31 @@ eic.dat.3$Spike_Concentration <- ordered(eic.dat.3$Spike_Concentration,
 cbPalette <- c("#0072B2", "#CC79A7", "#009E73", "#E69F00", "#999999")
 lab.df <- tibble(x = c(5.5, 9, 6, 8.25),
                  y = c(1.5e6, 3e6, 4e7, 1e7),
-                 text = c("Homarine", "Trigonelline", "Glycine Betaine", "Valine"),
+                 text = c("Homarine", "Trigonelline", "Glycine\nBetaine", "Valine"),
                  name = c("Homarine and Trigonelline", "Homarine and Trigonelline", "Gylcine Betaine and Valine", "Gylcine Betaine and Valine"))
 
 ###Create Plot and save as a pdf
 Chrom.Plot.1 <- ggplot(eic.dat.3)  +
-  geom_smooth(aes(x=rt, y=int, color = Spike_Concentration), size = 0.9, se=FALSE, span = 0.05, linetype = 1) +
+  geom_smooth(aes(x=rt, y=int, color = Spike_Concentration), size = 0.7, se=FALSE, span = 0.05, linetype = 1) +
   facet_wrap(~name, ncol = 2, scales = "free_y") +
   theme_classic() +
-  labs(color = "Spike Concentration") + 
+  labs(color = "Spike \nConcentration") + 
   scale_color_manual(values = cbPalette) +
   xlab("Retention Time (min)") +
   ylab("Intensity") +
-  geom_text(data = lab.df, aes(x = x, y = y, label = text)) +
+  geom_text(data = lab.df, aes(x = x, y = y, label = text), size = 3) +
   theme(legend.position = c(.15, .8), 
-        legend.text = element_text(size = 12),
-        legend.background = element_rect(linetype = 1, size = 0.25, color = 1),
+        legend.text = element_text(size = 6),
+        legend.title = element_text(size = 8),
+        legend.background = element_rect(linetype = 1, size = 0.2, color = 1),
         strip.background = element_rect(color = "white"),
-        strip.text.x = element_text(size = 16, face = "bold"),
-        axis.title = element_text(size = 14),
-        panel.spacing.y = unit(1.5, "lines"))
+        strip.text.x = element_text(size = 8, face = "bold"),
+        axis.title = element_text(size = 8),
+        axis.text = element_text(size = 6), 
+        panel.spacing.y = unit(1.5, "lines"),
+        axis.line = element_line(size = 0.3))
 Chrom.Plot.1
-ggsave("Figures/Outputs/MainTextFig1_chomatogram.pdf")
+ggsave(filename = "Figures/Outputs/MainTextFig1_chomatogram.pdf", height = 5, width = 5)
 
 
 
@@ -118,4 +121,4 @@ CXC.fig <- ggplot(wash.gbt) +
   theme_classic() +
   xlab("Retention Time (min)") +
   ylab("Intensity")
-ggsave("Figures/Outputs/SupFig1_CXC_chromatogram.pdf")
+ggsave(filename = "Figures/Outputs/SupFig1_CXC_chromatogram.pdf", height = 6, width = 5)

@@ -87,11 +87,12 @@ library(viridis)
 
 ###VMake Van Krevelen Plot
 VK.plot <- ggplot(empir.dat, aes(x = `C/O`, y=`C/H`, color = Overlap)) +
-  geom_jitter(size = 3, alpha = 0.5, height = 0.015, width = 0.015) +
+  geom_jitter(size = 2, alpha = 0.5, height = 0.015, width = 0.015) +
   theme_classic() + 
  # scale_color_brewer(palette = "Dark2") +
   scale_color_manual(values = wes_palette("Darjeeling1")) +
-  labs(color = "Compound Classification")
+  labs(color = "Compound Classification") +
+  theme(axis.text= element_text(size = 6))
 
 #Make C/H Density Plot
 CH.den.plot <- ggplot(empir.dat, aes(x = `C/H`, fill = Overlap, color = Overlap)) +
@@ -99,7 +100,12 @@ CH.den.plot <- ggplot(empir.dat, aes(x = `C/H`, fill = Overlap, color = Overlap)
   theme_classic() +
   scale_fill_manual(values = wes_palette("Darjeeling1")) +
   scale_color_manual(values = wes_palette("Darjeeling1")) +
-  facet_grid(rows = vars(Overlap))
+  facet_grid(rows = vars(Overlap)) +
+  theme(strip.text = element_text(size = 8),
+        axis.text= element_text(size = 6),
+        axis.line = element_line(size = 0.5),
+        strip.background = element_rect(size = 0, color = "white"),
+        legend.position = "none")
 
 #Make C/O density plot
 CO.den.plot <- ggplot(empir.dat, aes(x = `C/O`, fill = Overlap, color = Overlap)) +
@@ -107,12 +113,18 @@ CO.den.plot <- ggplot(empir.dat, aes(x = `C/O`, fill = Overlap, color = Overlap)
   theme_classic() +
   scale_fill_manual(values = wes_palette("Darjeeling1")) +
   scale_color_manual(values = wes_palette("Darjeeling1")) +
-  facet_grid(rows = vars(Overlap))
+  facet_grid(rows = vars(Overlap)) +
+  theme(strip.text = element_text(size = 8),
+        axis.text= element_text(size = 6),
+        axis.line = element_line(size = 0.5),
+        strip.background = element_rect(size = 0, color = "white"),
+        legend.position = "none")
 
 ###
-ggarrange(VK.plot, 
-          ggarrange(CH.den.plot, CO.den.plot, ncol = 2, common.legend = TRUE), nrow = 2, common.legend = TRUE, align = "v")
-
+ggarrange(VK.plot, labels = c("A"),
+          ggarrange(CH.den.plot, CO.den.plot, labels = c("B", "C"), ncol = 2), nrow = 2, common.legend = TRUE, align = "v")
+#
+ggsave(filename = "Figures/Outputs/VanKrevelen_plot.pdf", height = 4.5, width = 5)
 
 
 

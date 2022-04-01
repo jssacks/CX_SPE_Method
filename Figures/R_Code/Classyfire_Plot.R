@@ -121,4 +121,7 @@ plot.2 <- ggplot(p2.dat, aes(y = fct_rev(fct_infreq(class)), fill = method)) +
 
 ####
 ggarrange(plot.1, plot.2, labels = c("A", "B"), common.legend = TRUE, nrow = 2, heights = c(2,5), widths = 5, align = "v")
+#save
+ggsave(filename = "Figures/Outputs/Classyfire.pdf", height = 6, width = 5)
+
 
