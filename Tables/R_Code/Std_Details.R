@@ -50,8 +50,14 @@ stds.summary <- stds.dat.2 %>%
 ####Change names and select final columns and column order to include in supplemental Table 1
 supp.table.1 <- stds.dat.2 %>%
   select(Compound.Name, m.z, ionization_form, Column, RT, Spike_Concentration_uM, Supplier, Part_Number) %>%
-  mutate()
-
+  rename("Compound" = Compound.Name,
+         "m/z" = m.z,
+         "Ionization form" = ionization_form,
+         "Retention Time" = RT,
+         "Spike Concentration (uM)" = Spike_Concentration_uM,
+         "Part Number" = Part_Number)
+###Export
+write_csv(supp.table.1, file = "Tables/Output/Std_Details_supptable1.csv")
 
 
 
