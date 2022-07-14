@@ -3,7 +3,7 @@ library(tidyverse)
 
 
 #Define all your inputs here
-samp.key.file <- "Intermediates/Environmental_Samples/ES_CX_RP_Samplist.csv"
+samp.key.file <- "Intermediates/Environmental_Samples/ES_RP_Samplist.csv"
 is.dat.file <- "Intermediates/Environmental_Samples/ES_CX_RP_IS.csv"
 xcms.dat.file <- "Intermediates/Environmental_Samples/ES_CX_RP_targeted_combined_raw.csv"
 cut.off <- 0.2

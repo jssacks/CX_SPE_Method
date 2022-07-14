@@ -41,15 +41,19 @@ CX.sum <- CX.calc %>%
   mutate(Overall.Mean.EE = mean(EE),
          Overall.SD.EE = sd(EE),
          Overall.Mean.RF = mean(RF),
-         Overall.SD.RF = sd(RF)) %>%
+         Overall.SD.RF = sd(RF),
+         Overall.Range.EE = max(EE)-min(EE),
+         Overall.Range.RF = max(RF)-min(RF)) %>%
   group_by(MF, sample) %>%
   mutate(Sample.Mean.EE = mean(EE),
          Sample.SD.EE = sd(EE),
          Sample.Mean.RF = mean(RF),
-         Sample.SD.RF = sd(RF))
+         Sample.SD.RF = sd(RF), 
+         Sample.Range.EE = max(EE)-min(EE),
+         Sample.Range.RF = max(RF)-min(RF))
 
 ####
-write_csv(CX.sum, path = "Intermediates/Analytical_Validation/AV_CX_EE_RF_Dat.csv")
+write_csv(CX.sum, file = "Intermediates/Analytical_Validation/AV_CX_EE_RF_Dat.csv")
 
 
 
@@ -76,14 +80,19 @@ PPL.sum <- PPL.calc %>%
   mutate(Overall.Mean.EE = mean(EE),
          Overall.SD.EE = sd(EE),
          Overall.Mean.RF = mean(RF),
-         Overall.SD.RF = sd(RF)) %>%
+         Overall.SD.RF = sd(RF),
+         Overall.Range.EE = max(EE)-min(EE),
+         Overall.Range.RF = max(RF)-min(RF)) %>%
   group_by(MF, sample) %>%
   mutate(Sample.Mean.EE = mean(EE),
          Sample.SD.EE = sd(EE),
          Sample.Mean.RF = mean(RF),
-         Sample.SD.RF = sd(RF))
+         Sample.SD.RF = sd(RF), 
+         Sample.Range.EE = max(EE)-min(EE),
+         Sample.Range.RF = max(RF)-min(RF))
+
 
 ####
-write_csv(PPL.sum, path = "Intermediates/Analytical_Validation/AV_PPL_EE_RF_Dat.csv")
+write_csv(PPL.sum, file = "Intermediates/Analytical_Validation/AV_PPL_EE_RF_Dat.csv")
 
 

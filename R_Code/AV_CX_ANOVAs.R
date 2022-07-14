@@ -13,7 +13,7 @@ library(readr)
 source("R_Code/CXSPE_Functions.R")
 
 ###Define inputs
-CX.dat.file <- "Intermediates/Analytical_Validation/AV_CX_EE_RF_Dat.csv"
+CX.EE.file <- "Intermediates/Analytical_Validation/AV_CX_EE_RF_Dat.csv"
 
 CX.HQcomps.file <- "Intermediates/Analytical_Validation/AV_CX_HQ_dat.csv"
 
@@ -51,6 +51,8 @@ for (i in seq_along(dat.MF$MF)) {
 
 #Apply FDR p-value adjustment 
 out.EE$Pval.EE <- p.adjust(out.EE$Pval.EE, method = "BH")
+
+write_csv(out.EE, file = "Intermediates/")
 
 ###Identify compounds that have significant differences in EE (FDR adjusted p-value <0.05)
 EE.sig <- full_join(CX.HQ.dat, out.EE) %>%

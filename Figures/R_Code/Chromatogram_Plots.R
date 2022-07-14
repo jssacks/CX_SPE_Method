@@ -38,9 +38,9 @@ eic.dat.2 <- eic.dat %>%
   filter(!rt<4.5) %>%
   mutate(Spike_Concentration = case_when(str_detect(.$filename, "Blk") ~ "Blank",
                                          str_detect(.$filename, "NoSPike") ~ "No Spike",
-                                         str_detect(.$filename, "_1nM") ~ "1nM",
-                                         str_detect(.$filename, "_5nM") ~ "5nM",
-                                         str_detect(.$filename, "_25nM") ~ "25nM",)) %>%
+                                         str_detect(.$filename, "_1nM") ~ "1 nM",
+                                         str_detect(.$filename, "_5nM") ~ "5 nM",
+                                         str_detect(.$filename, "_25nM") ~ "25 nM",)) %>%
   select(-filename)
 
 ###Add additional DMS-Ac data as there is no signal at this mass for 
@@ -51,7 +51,7 @@ DMSAc.dat <- data.frame(rt) %>%
          name = "DMS-Ac",
          int = 5000)
 
-Spike_Concentration <- c("Blank", "No Spike", "1nM", "5nM", "25nM")
+Spike_Concentration <- c("Blank", "No Spike", "1 nM", "5 nM", "25 nM")
 name <- c("DMS-Ac", "DMS-Ac", "DMS-Ac", "DMS-Ac", "DMS-Ac")
 DMSAc.filenames <- tibble(Spike_Concentration, name)
 
@@ -63,9 +63,9 @@ eic.dat.3 <- rbind(eic.dat.2, DMSAc.Add, fill = TRUE) %>%
 
 ##Add in ordering to Spike Concentration
 eic.dat.3$Spike_Concentration <- ordered(eic.dat.3$Spike_Concentration, 
-                                         levels = c("25nM",
-                                                    "5nM",
-                                                    "1nM",
+                                         levels = c("25 nM",
+                                                    "5 nM",
+                                                    "1 nM",
                                                     "No Spike",
                                                     "Blank"))
   

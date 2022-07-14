@@ -48,6 +48,76 @@ overlap.dat <- full_join(overlap.CX, overlap.PPL) %>%
 #load in standards
 std.info <- read_csv(Std.file)
 
+std.form <- std.info$Emperical.Formula
+
+formula2elements <- function(formula_vec){
+  split_formulas <-   regmatches(gregexpr(formula_vec, pattern = "[A-Z][a-z]*[0-9]*"), x = formula_vec)
+  elements_in <- lapply(split_formulas, gsub, pattern = "[0-9]", replacement = "")
+  element_counts <- lapply(split_formulas, gsub, pattern = "[A-z]", replacement = "")
+  element_counts <- lapply(element_counts, function(x){
+    x[!nchar(x)]<-1
+    return(as.numeric(x))
+  })
+  mapply(`names<-`, element_counts, elements_in, SIMPLIFY = FALSE)
+}
+
+form_table <- formula2elements("C6H12O6")[[1]]
+form_df <- dplyr::bind_rows(formula2elements(c("C6H12O6", "C5H11NO")))
+
+std.form.df <- dplyr::bind_rows(formula2elements(std.form)) %>%
+  select(C, H, O)
+
+std.elements <- bind_cols(std.info, std.form.df) %>%
+  select(Compound.Name_old, Emperical.Formula, C, H, O) %>%
+  rename(MF = Compound.Name_old)
+
+
+
+#empir.std <- std.info %>%
+#  filter(Priority = TRUE) %>%
+#  mutate(C = ifelse(is.na(str_extract(Emperical.Formula, "^C\\d\\d")),
+ #                   str_extract(Emperical.Formula, "^C\\d"), 
+#                    str_extract(Emperical.Formula, "^C\\d\\d"))) %>%
+#  mutate(C = as.numeric(str_replace_all(C, "C", ""))) %>%
+#  
+#  mutate(H = ifelse(is.na(str_extract(Emperical.Formula, "^H\\d\\d")),
+#                    str_extract(Emperical.Formula, "^H\\d"), 
+#                    str_extract(Emperical.Formula, "^H\\d\\d"))) %>%
+#  mutate(N = ifelse(str_detect(Emperical.Formula, "^N\\D"),
+#                    1, str_extract(Emperical.Formula, "^N\\d")))%>%
+#  select(Compound.Name_old, Emperical.Formula, C, H, N)
+  
+  
+  
+  
+  
+  
+  
+  
+ # mutate(H = case_when(str_detect(.$Emperical.Formula, "H\\d\\d") ~ str_extract(.$Emperical.Formula, "^H\\d\\d"),
+ #                      str_detect(.$Emperical.Formula, "^H\\d\\D") ~ str_extract(.$Emperical.Formula, "^H\\d"))) %>% 
+#  mutate(C = case_when(str_detect(.$Emperical.Formula, "^C\\d\\d") ~ str_extract(.$Emperical.Formula, "^C\\d\\d"),
+ #                      str_detect(.$Emperical.Formula, "^C\\d") ~ str_extract(.$Emperical.Formula, "^C\\d"))) %>% #,
+#                       #str_detect(.$Emperical.Formula, "^C\\D") ~ 1)) %>%
+ # mutate(H = case_when(str_detect(.$Emperical.Formula, "^H\\d\\d") ~ str_extract(.$Emperical.Formula, "^H\\d\\d"),
+#                       str_detect(.$Emperical.Formula, "^H\\d\\D") ~ str_extract(.$Emperical.Formula, "^H\\d"))) %>% 
+#  select(Compound.Name_old, Emperical.Formula, C, H)
+
+  
+  
+  
+  
+#  mutate(C = ifelse(is.na(str_extract(Emperical.Formula, "^C\\d\\d")),
+ #                   str_extract(Emperical.Formula, "^C\\d"), 
+#                    str_extract(Emperical.Formula, "^C\\d\\d"))) %>%
+#  mutate(H = ifelse(is.na(str_extract(Emperical.Formula, "^H\\d\\d")),
+#                    str_extract(Emperical.Formula, "^H\\d"))) %>%
+#  mutate(O = ifelse(str_detect(Emperical.Formula, "O\\D"),
+ #                   1, str_extract(Emperical.Formula, "O\\d"))) %>%
+##  mutate(O = as.numeric(str_replace_all(O, "O", ""))) %>%
+#  select(Compound.Name_old, Emperical.Formula, C, H, O)
+#
+
 ##parse #s of C, H, and O from empirical formula
 empir.std <- std.info %>%
   filter(Priority = TRUE) %>%
@@ -59,35 +129,33 @@ empir.std <- std.info %>%
                     1, str_extract(Emperical.Formula, "N\\d")))%>%
   mutate(N = as.numeric(str_replace_all(N, "N", ""))) %>%
   mutate(O = ifelse(str_detect(Emperical.Formula, "O\\D"),
-                    1, str_extract(Emperical.Formula, "O\\d+"))) %>%
+                    1, str_extract(Emperical.Formula, "O\\d"))) %>%
   mutate(O = as.numeric(str_replace_all(O, "O", ""))) %>%
   mutate(S = ifelse(str_detect(Emperical.Formula, "S\\D"),
-                    1, str_extract(Emperical.Formula, "S\\d+"))) %>%
+                    1, str_extract(Emperical.Formula, "S\\d"))) %>%
   mutate(S = as.numeric(str_replace_all(S, "S", ""))) %>%
   mutate(P = ifelse(str_detect(Emperical.Formula, "P\\D"),
-                    1, str_extract(Emperical.Formula, "P\\d+"))) %>%
+                    1, str_extract(Emperical.Formula, "P\\d"))) %>%
   mutate(P = as.numeric(str_replace_all(P, "P", ""))) %>%
-  mutate(H = ifelse(str_detect(Emperical.Formula, "H\\D"),
-                    1, str_extract(Emperical.Formula, "H\\d+"))) %>%
+  mutate(H = ifelse(str_detect(Emperical.Formula, "H\\d\\d"),
+                    str_extract(Emperical.Formula, "H\\d"), 1)) %>%
   mutate(H = as.numeric(str_replace_all(H, "H", ""))) %>%
   select(Compound.Name_old, Emperical.Formula, C, H, O, N, P, S, m.z, RT..min.) %>%
   rename(MF = Compound.Name_old)
 
 #calculate C/O, C/H, and C/N ratios
-empir.dat <- left_join(overlap.dat, empir.std) %>%
-  select(-m.z, -`RT..min.`) %>%
+empir.dat <- left_join(overlap.dat, std.elements) %>%
   unique() %>%
-  mutate(`C/O` = C/O,
-         `C/N` = C/N,
-         `C/H` = C/H) 
+  mutate(`O/C` = O/C,
+         `H/C` = H/C) 
 
 
 library(wesanderson)
 library(viridis)
 
 ###VMake Van Krevelen Plot
-VK.plot <- ggplot(empir.dat, aes(x = `C/O`, y=`C/H`, color = Overlap)) +
-  geom_jitter(size = 2, alpha = 0.5, height = 0.015, width = 0.015) +
+VK.plot <- ggplot(empir.dat, aes(x = `O/C`, y=`H/C`, color = Overlap)) +
+  geom_jitter(size = 2, alpha = 0.5, height = 0.0075, width = 0.0075) +
   theme_classic() + 
  # scale_color_brewer(palette = "Dark2") +
   scale_color_manual(values = wes_palette("Darjeeling1")) +
@@ -95,7 +163,7 @@ VK.plot <- ggplot(empir.dat, aes(x = `C/O`, y=`C/H`, color = Overlap)) +
   theme(axis.text= element_text(size = 6))
 
 #Make C/H Density Plot
-CH.den.plot <- ggplot(empir.dat, aes(x = `C/H`, fill = Overlap, color = Overlap)) +
+CH.den.plot <- ggplot(empir.dat, aes(x = `H/C`, fill = Overlap, color = Overlap)) +
   geom_density(alpha = 0.5) +
   theme_classic() +
   scale_fill_manual(values = wes_palette("Darjeeling1")) +
@@ -108,7 +176,7 @@ CH.den.plot <- ggplot(empir.dat, aes(x = `C/H`, fill = Overlap, color = Overlap)
         legend.position = "none")
 
 #Make C/O density plot
-CO.den.plot <- ggplot(empir.dat, aes(x = `C/O`, fill = Overlap, color = Overlap)) +
+CO.den.plot <- ggplot(empir.dat, aes(x = `O/C`, fill = Overlap, color = Overlap)) +
   geom_density(alpha = 0.5) +
   theme_classic() +
   scale_fill_manual(values = wes_palette("Darjeeling1")) +

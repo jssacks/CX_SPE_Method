@@ -9,6 +9,13 @@ library(tidyverse)
 smp.file <- "Intermediates/Environmental_Samples/ES_CX_RP_BMISed_dat.csv"
 blk.file <- "Intermediates/Environmental_Samples/ES_CX_RP_targeted_QCflags.csv"
 
+#number of blanks (n)
+n.blks <- 15
+
+#students t-value for n-1 at 95% confidence interval
+tval <- 1.761
+
+
 #####Blanks QC
 Sample.dat <- read_csv(smp.file) 
 Blank.dat <- read_csv(blk.file) %>%
@@ -23,7 +30,7 @@ Blk.ave.dat <- Blank.dat %>%
   summarize(Blk.Av = mean(Area),
             Blk.sd = sd(Area),
             Blk.max = max(Area),
-            Blk.LD = Blk.Av + (3.182 * (Blk.sd/sqrt(14)))) %>%
+            Blk.LD = Blk.Av + (tval * (Blk.sd/sqrt(n.blks)))) %>%
   rename(MF = Compound)
 
 write_csv(Blk.ave.dat, file = "Intermediates/Environmental_Samples/ES_CX_RP_Blk_LOD_signal_values.csv")

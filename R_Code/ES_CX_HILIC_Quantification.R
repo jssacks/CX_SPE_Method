@@ -120,7 +120,7 @@ SBe.Matched <- left_join(IS.Spike.Before, raw.dat, by = c("Compound", "Rep")) %>
 
 ###Manually verified quality of IS calcs, removing bad IS calcs
 SBe.Checked <- SBe.Matched %>%
-  filter(!Compound == "Homarine") %>%
+ # filter(!Compound == "Homarine") %>%
   filter(!Compound == "Histidine") %>%
   filter(!Compound == "Methionine") %>%
   filter(!Compound == "Sucrose") %>%

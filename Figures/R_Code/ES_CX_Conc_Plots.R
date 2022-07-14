@@ -7,7 +7,8 @@ library(jcolors)
 library(LaCroixColoR)
 library(ggpubr)
 
-
+#install.packages("devtools")
+#devtools::install_github("johannesbjork/LaCroixColoR")
 ####Define inputs
 HILIC.conc.file <- "Intermediates/Environmental_Samples/ES_CX_HILIC_Concentrations.csv"
 RP.conc.file <- "Intermediates/Environmental_Samples/ES_CXC_RP_Concentrations.csv"
@@ -90,7 +91,7 @@ fig.1 <- ggplot(dat.fig, aes(x = sample, y = mean.Nmol.C, fill = reorder(Compoun
   ylab("Concentration (nM C)") +
   labs(fill = "Compound") +
   scale_fill_manual(values = lacroix_palette(type = "paired", n = 12)) +
-  scale_y_continuous(expand = c(0, NA, NA, 1100), limits = c(0,1100)) +
+  scale_y_continuous(expand = c(0, NA, NA, 6500), limits = c(0,650)) +
   theme(legend.text=element_text(size=rel(0.5)),
         axis.text=element_text(size=rel(0.5)),
         legend.title = element_text(size=rel(0.7)),

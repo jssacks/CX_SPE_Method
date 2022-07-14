@@ -45,10 +45,10 @@ HQ.RF <- left_join(CX.HQ.dat, all.RF) %>%
 
 ###RFratio Plot
 rf.plot.1 <- ggplot(HQ.RF, aes(x = RFratio, fill = Fraction)) +
-  geom_histogram(color = "black", bins = 40) +
+  geom_histogram(color = "black", bins = 51) +
   theme_test() +
   theme(legend.position = "top") +
-  scale_y_continuous(expand = c(0, NA), limits = c(0,25)) +
+  scale_y_continuous(expand = c(0, NA), limits = c(0,17)) +
   xlim(0.25,1.75) +
   geom_vline(xintercept = 1, alpha = 0.7, size = 1) +
   geom_vline(xintercept = 1.1, alpha = 0.7, size = 1, linetype = "dashed") +

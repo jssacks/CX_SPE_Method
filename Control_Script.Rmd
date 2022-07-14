@@ -1,0 +1,230 @@
+---
+title: "CX-SPE Method Paper Control Script"
+author: "Joshua Sacks"
+date: '2022-07-12'
+output: html_document
+---
+
+
+
+Section 1: Analytical Validation
+
+Part 1: Read in, parse, and normalize skyline output 
+
+```{r, echo=FLASE, message=FALSE, error = FALSE, warning=FALSE}
+##Parse Skyline data for CX-SPE Samples
+source("R_Code/AV_CX_HILIC_Parse.R")
+remove(list = ls())
+source("R_Code/AV_CX_RP_Parse.R")
+remove(list = ls())
+
+##Run BMIS Normalization on Skyline CX-SPE Data
+source("R_Code/AV_CX_HILIC_BMIS.R")
+remove(list = ls())
+source("R_Code/AV_CX_RP_BMIS.R")
+remove(list = ls())
+
+###Parse Skyline Data for PPL-SPE
+source("R_Code/AV_PPL_HILIC_Parse.R")
+remove(list = ls())
+source("R_Code/AV_PPL_RP_Parse.R")
+remove(list = ls())
+
+##Run BMIS Normalization on Skyline PPL-SPE Data
+source("R_Code/AV_PPL_HILIC_BMIS.R")
+remove(list = ls())
+source("R_Code/AV_PPL_RP_BMIS.R")
+remove(list = ls())
+
+##Combine HILIC and RP data
+source("R_Code/AV_HILIC_RP_Combine.R")
+remove(list = ls())
+```
+
+
+Part 2: Run code to evaluate CX-SPE and PPL-methods for targeted compounds
+
+```{r, echo=FALSE, message=FALSE, error = FALSE, warning=FALSE}
+#R2 calculations
+source("R_Code/AV_CX_R2_Calcs.R")
+remove(list = ls())
+
+#Extraction effiency and response factor calculations for CX-SPE and PPL-SPE
+source("R_Code/AV_EE_RF_Calcs.R")
+remove(list = ls())
+
+#Identify "High Quality" Compounds based on user defined thresholds for EE, RSD, and R2
+source("R_Code/AV_Quality_Control.R")
+remove(list = ls())
+
+#Compare CX-SPE and PPL-SPE in targeted space
+source("R_Code/AV_CX_PPL_Comparison.R")
+remove(list = ls())
+
+#Run ANOVAs to determine if sample matrix has a significant effect on method performance:
+source("R_Code/AV_CX_ANOVAs.R")
+remove(list = ls())
+
+
+```
+
+
+
+Section 2: Targeted Environmental Samples
+
+Part 1: Read in, parse, and normalize skyline output
+
+```{r echo=FALSE, error=FALSE, message=FALSE, warning=FALSE}
+##Parse Skyline data for CX-SPE + PPL-SPE Samples
+source("R_Code/ES_CX_HILIC_Parse.R")
+remove(list = ls())
+source("R_Code/ES_CX_RP_Parse.R")
+remove(list = ls())
+
+##Run BMIS Normalization on Skyline CX-SPE Data
+source("R_Code/ES_CX_HILIC_BMIS.R")
+remove(list = ls())
+source("R_Code/ES_CX_RP_BMIS.R")
+remove(list = ls())
+
+
+##Run BMIS Normalization on Skyline PPL-SPE Data
+source("R_Code/ES_PPL_HILIC_BMIS.R")
+remove(list = ls())
+source("R_Code/ES_PPL_RP_BMIS.R")
+remove(list = ls())
+```
+
+Part 2: Run QC Code, Determine RFs and RF ratios, quantify environmental concentrations and limits of detection, and summarize results
+
+```{r, echo=hide, message=FALSE, error = FALSE, warning=FALSE, results = "hide"}
+##Run Blk-QC Code for CX-SPE
+source("R_Code/EX_CX_HILIC_Blk_QC.R")
+remove(list = ls())
+source("R_Code/ES_CX_RP_Blk_QC.R")
+remove(list = ls())
+
+##Run Blk-QC Code for PPL-SPE
+source("R_Code/ES_PPL_HILIC_Blk_QC.R")
+remove(list = ls())
+source("R_Code/ES_PPL_RP_Blk_QC.R")
+remove(list = ls())
+
+##Determine RF and RFratios
+source("R_Code/ES_HILIC_RF_RFratio_calcs.R")
+remove(list = ls())
+source("R_Code/ES_RP_RF_RFratio_calcs.R")
+remove(list = ls())
+
+##Run CX-SPE Quantification Code
+source("R_Code/ES_CX_HILIC_Quantification.R")
+remove(list = ls())
+source("R_Code/ES_CX_RP_Quantification.R")
+remove(list = ls())
+
+##Run PPL-SPE Quantification Code
+source("R_Code/ES_PPL_HILIC_Quantification.R")
+remove(list = ls())
+source("R_Code/ES_PPL_RP_Quantification.R")
+remove(list = ls())
+
+###Summzarize CX-SPE and PPL-SPE Results
+source("R_Code/ES_CX_LOD_Conc_Summary.R")
+remove(list = ls())
+source("R_Code/ES_PPL_Conc_Summary.R")
+remove(list = ls())
+```
+
+Section 3: Untargeted Analysis
+```{r, echo=FALSE, message=FALSE, error = FALSE, warning=FALSE}
+##Parse and Normalize MS-DIAL Output
+source("R_Code/Untargeted_HILIC_BMIS.R")
+remove(list = ls())
+source("R_Code/Untargeted_RP_BMIS.R")
+remove(list = ls())
+
+##Apply Quality Control Thresholds to Untargeted data output
+source("R_Code/Untargeted_QC_Tidy.R")
+remove(list = ls())
+
+##Run Statistical Comparisons of untargeted CX-SPE and PPL-SPE data
+source("R_Code/Untargeted_Analysis.R")
+remove(list = ls())
+
+##Run Statistical Comparisons of untargeted CX-SPE and PPL-SPE data
+source("R_Code/Untargeted_Targeted_Comparison.R")
+remove(list = ls())
+
+```
+
+
+
+
+
+Section 4: Figures
+```{r, echo=FALSE, message=FALSE, error = FALSE, warning=FALSE}
+##Main Text figure 2
+source("Figures/R_Code/AV_EE_RF_Plots.R")
+remove(list = ls())
+
+##Main Text figure 3 and supplmental figure 2
+source("Figures/R_Code/AV_EE_RF_Plots.R")
+remove(list = ls())
+
+##Run Statistical Comparisons of untargeted CX-SPE and PPL-SPE data
+source("R_Code/Untargeted_Analysis.R")
+remove(list = ls())
+
+##Run Statistical Comparisons of untargeted CX-SPE and PPL-SPE data
+source("R_Code/Untargeted_Targeted_Comparison.R")
+remove(list = ls())
+```
+
+
+
+
+Section 5: Tables
+```{r, echo=hide, message=FALSE, error = FALSE, warning=FALSE, results = "hide"}
+##Run Blk-QC Code for CX-SPE
+source("R_Code/EX_CX_HILIC_Blk_QC.R")
+remove(list = ls())
+source("R_Code/ES_CX_RP_Blk_QC.R")
+remove(list = ls())
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

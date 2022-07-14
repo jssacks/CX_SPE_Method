@@ -29,9 +29,13 @@ all.LOD.dat <- rbind(dat.HILIC.LOD, dat.RP.LOD)
 
 ###combine EE and LOD data, select only desired columns, tidy up, rename things to be appropriate 
 all.dat <- left_join(dat.EE, all.LOD.dat) %>%
-  select(Compound, Fraction, Sample.Mean.EE, Sample.RSD, R2, EE.adjust.lod) %>%
-  rename("Extraction Efficiency (%)" = Sample.Mean.EE,
-         "RSD of EE (%)" = Sample.RSD,
+  select(Compound, Fraction, Overall.Mean.EE, Overall.RSD, R2, EE.adjust.lod) %>%
+  mutate(Overall.Mean.EE = print(formatC(signif(Overall.Mean.EE,digits=3), digits=3,format="fg", flag="#"))) %>%
+  mutate(Overall.RSD = print(formatC(signif(Overall.RSD,digits=3), digits=3,format="fg", flag="#"))) %>%
+  mutate(EE.adjust.lod = print(formatC(signif(EE.adjust.lod,digits=3), digits=3,format="fg", flag="#"))) %>%
+  mutate(R2 = print(formatC(signif(R2,digits=3), digits=3,format="fg", flag="#"))) %>%
+  rename("Extraction Efficiency (%)" = Overall.Mean.EE,
+         "RSD of EE (%)" = Overall.RSD,
          "LOD (nM)" = EE.adjust.lod) %>%
   mutate(Fraction = case_when(
     .$Fraction == "Pos" ~ "HILIC Pos",
@@ -53,7 +57,11 @@ std.info.2 <- std.info %>%
 all.dat.std <- left_join(all.dat, std.info.2) %>%
   unique() %>%
   select(Compound.Name, Fraction, `Extraction Efficiency (%)`, `RSD of EE (%)`, R2, `LOD (nM)`) %>%
-  rename(Compound = Compound.Name)
-
+  rename(Compound = Compound.Name) %>%
+  mutate(Compound = str_replace_all(.$Compound, "L-Isoleucine", "(Iso)leucine")) %>%
+  mutate(Compound = str_replace_all(.$Compound, "3',5'-Cyclic AMP", "3',5'-Cyclic Adenosine Monophosphate")) %>%
+  arrange(Compound)
+    
+    
 ##write to a csv
 write_csv(all.dat.std, file = "Tables/Output/Main_Text_1.csv")

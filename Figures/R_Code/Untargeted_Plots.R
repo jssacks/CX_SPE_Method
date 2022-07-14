@@ -74,7 +74,7 @@ mz.plot <- ggplot(data = dat.2, aes(x = mz, y = method)) +
 mz.plot
 
 ####Make final combined plot
-ggarrange(rt.plot, mz.plot, labels = c("A", "B"), common.legend = TRUE, nrow = 2, heights = 5)
+ggarrange(rt.plot, mz.plot, labels = c("A", "B"), legend = "none", common.legend = TRUE, nrow = 2, heights = 5)
 #save
 ggsave(filename = "Figures/Outputs/untargeted_maintext_fig.pdf", height = 5, width = 5)
 

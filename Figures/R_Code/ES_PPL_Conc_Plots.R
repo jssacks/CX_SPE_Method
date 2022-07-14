@@ -92,10 +92,11 @@ fig.1 <- ggplot(dat.fig, aes(x = sample, y = mean.Nmol.C, fill = reorder(Compoun
   scale_fill_brewer(palette = "Paired")+
  # scale_fill_manual(values = lacroix_palette(type = "paired", n = 12)) +
   scale_y_continuous(expand = c(0, NA, NA, 100), limits = c(0,100)) +
-  theme(legend.text=element_text(size=rel(0.5)),
+  theme(legend.text=element_text(size=rel(0.45)),
         axis.text=element_text(size=rel(0.5)),
-        legend.title = element_text(size=rel(0.7)),
+      #  legend.title = element_text(size=rel(0.7)),
         axis.title=element_text(size=rel(0.7))) +
+  theme(legend.title=element_blank()) +
   theme(legend.position = "bottom")
 fig.1
 
@@ -116,7 +117,7 @@ fig.2
 leg.1 <- get_legend(fig.1)
 
 ggarrange(ggarrange(fig.1, fig.2, labels = c("A", "B"), legend = "none", nrow = 1, align = "v"), 
-          leg.1, nrow = 2, heights = c(4, 1))
+          leg.1, nrow = 2, heights = c(5, 1))
 
 
-ggsave(filename = "Figures/Outputs/Enviro_Conc_RPSPE_supp.pdf", height = 5, width = 5)
+ggsave(filename = "Figures/Outputs/Enviro_Conc_PPLSPE_supp.pdf", height = 5, width = 5)

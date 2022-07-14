@@ -13,6 +13,17 @@ library(tidyverse)
 smp.file <- "Intermediates/Environmental_Samples/ES_CatEx_HILIC_BMISed_dat.csv"
 blk.file <- "Intermediates/Environmental_Samples/ES_HILIC_targeted_combined_QCflags.csv"
 
+###define calculation inputs:
+
+#number of blanks (n)
+n.blks <- 15
+
+#students t-value for n-1 at 95% confidence interval
+tval <- 1.761
+
+
+
+
 #####Blanks QC
 Sample.dat <- read_csv(smp.file) 
 Blank.dat <- read_csv(blk.file) %>%
@@ -27,7 +38,7 @@ Blk.ave.dat <- Blank.dat %>%
   summarize(Blk.Av = mean(Area),
             Blk.sd = sd(Area),
             Blk.max = max(Area),
-            Blk.LD = Blk.Av + (3.182 * (Blk.sd/sqrt(14)))) %>%
+            Blk.LD = Blk.Av + (tval * (Blk.sd/sqrt(n.blks)))) %>%
   rename(MF = Compound)
 
 ####Address issue with Cytidine, Ribolflavin Monophosphate, and Inosine having 0 signal in blanks 

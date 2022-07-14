@@ -16,6 +16,12 @@ library(ggpubr)
 
 ###input
 long.dat.file <- "Intermediates/Untargeted/Untargeted_QCed_dat_long.csv"
+RP.transition.list <- "Meta_Data/Transition_Lists/RP_TransitionList.csv"
+HILIC.Pos.transition.list <- "Meta_Data/Transition_Lists/HILIC_Pos_TransitionList.csv"
+HILIC.Neg.transition.list <- "Meta_Data/Transition_Lists/RP_TransitionList.csv"
+
+
+
 
 ###
 dat <- read_csv(long.dat.file)
@@ -24,6 +30,9 @@ dat <- read_csv(long.dat.file)
 dat.1 <- dat %>%
   select(MF, Fraction, method, Fraction, Retention_time, mz, Station) %>%
   unique()
+
+
+
 
 
 #####Summarize number of MFs in each fraction

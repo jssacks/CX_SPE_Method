@@ -130,7 +130,7 @@ SAf.Matched <- left_join(IS.Spike.After, raw.dat, by = c("Compound", "Rep")) %>%
   mutate(Nmol.in.vial_IS = Area/IS_Area*Conc.in.vial.uM*1000,
          Nmol.in.Samp_IS = Nmol.in.vial_IS*10^-6*400/(40*10^-3))
 
-SAf.EE <- left_join(SAf.Matched, EE.hilic) %>%
+SAf.EE <- left_join(SAf.Matched, EE.rp) %>%
   filter(!is.na(Overall.Mean.EE)) %>%
   mutate(EE.adjust.conc.IS = Nmol.in.Samp_IS/(Overall.Mean.EE/100)) %>%
   select(Rep, Compound, EE.adjust.conc.IS) %>%
@@ -160,7 +160,7 @@ LOD.IS.QC <- LOD.IS.adjus.dat %>%
 
 IS.dat.QCed <- left_join(LOD.IS.adjus.dat, LOD.IS.QC) %>%
   filter(lod.IS.QC == "ok") %>%
-  select(Compound, samp, EE.adjust.conc) %>%
+  select(Compound, Rep, samp, EE.adjust.conc) %>%
   rename(sample = samp) %>%
   mutate(sample = str_replace_all(.$sample, "Aloha", "A")) 
 
@@ -204,7 +204,7 @@ final.dat <- left_join(final.conc.dat, C.N.std.info) %>%
 
 ###Write Environmental Concentraions and LOD Concentrations to a csv:
 #Enviro.Concs:
-write_csv(final.dat, path = "Intermediates/Environmental_Samples/ES_PPL_RP_Concentrations.csv")
+write_csv(final.dat, file = "Intermediates/Environmental_Samples/ES_PPL_RP_Concentrations.csv")
 
 #LODs:
 write_csv(lod.conc.EE, file = "Intermediates/Environmental_Samples/ES_PPL_RP_Blk_LOD_Concentrations.csv")
