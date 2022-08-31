@@ -60,6 +60,27 @@ write_tsv(hilic.pos.stds, file = "Intermediates/Environmental_Samples/CXSPE_MW_M
 
 
 
+#HILIC neg org
+hilic.neg.dat <- rbind(cx.hilic.dat, ppl.hilic.dat) %>%
+  filter(!str_detect(.$MF, "_Pos")) %>%
+  mutate(MF = str_replace_all(.$MF, "_Neg", "")) %>%
+  mutate(SampName = str_replace_all(.$SampID, "210322_Smp_", "")) %>%
+  mutate(SampName = str_replace_all(.$SampName, "210322_Poo_", "")) %>%
+  mutate(SampName = str_replace_all(.$SampName, "Aloha", "ALOHA")) %>%
+  select(MF, SampName, Adjusted_Area) %>%
+  pivot_wider(id_cols = MF, names_from = SampName, values_from = Adjusted_Area)
+
+write_tsv(hilic.neg.dat, file = "Intermediates/Environmental_Samples/CXSPE_MetabWorkbench_HILICNeg.tsv")
+
+###make hilic neg standards tsv
+hilic.neg.stds <- stds.1 %>%
+  filter(.$Metabolite_name %in% hilic.neg.dat$MF) %>%
+  filter(!ionization_form == "[M+H]") %>%
+  filter(Column == "HILIC")
+
+write_tsv(hilic.neg.stds, file = "Intermediates/Environmental_Samples/CXSPE_MW_MetabMetadata_HILICNeg.tsv")
+
+
 
 
 
