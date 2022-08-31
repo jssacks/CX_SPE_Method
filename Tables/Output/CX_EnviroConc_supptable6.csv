@@ -1,133 +1,133 @@
 Compound,Sample,Mean Concentration (nM),Standard Deviation of Concentration (nM),Mean Concentration C (nM C),Standard Deviation of Concentration C (nM C),Mean Concentration N (nM N),Standard Deviation of Concentration N (nM N)
-(3-Carboxypropyl)trimethylammonium,Aloha,0.0479,0.00382,0.335,0.0267,0.0479,0.00382
-(3-Carboxypropyl)trimethylammonium,NP,0.0339,0.00558,0.237,0.0390,0.0339,0.00558
-(3-Carboxypropyl)trimethylammonium,PS,0.109,0.0108,0.762,0.0754,0.109,0.0108
-(Iso)leucine,Aloha,4.43,0.192,26.6,1.15,4.43,0.192
-(Iso)leucine,LW,1.39,0.391,8.34,2.34,1.39,0.391
-(Iso)leucine,NP,0.532,0.0660,3.19,0.396,0.532,0.0660
-(Iso)leucine,PS,1.41,0.0279,8.48,0.168,1.41,0.0279
-5-Hydroxyectoine,PS,0.0519,0.00986,0.311,0.0592,0.104,0.0197
-5-Methylcytosine,LW,0.0866,0.0139,0.433,0.0695,0.260,0.0417
-Adenine,LW,0.488,0.186,2.44,0.931,2.44,0.931
-Adenosine,LW,1.88,0.526,18.8,5.26,9.40,2.63
-Arsenobetaine,Aloha,0.0154,0.00118,0.0769,0.00590,  NA,  NA
-beta-Alanine,Aloha,2.10,0.381,6.31,1.14,2.10,0.381
-beta-Alanine,LW,1.49,0.151,4.47,0.452,1.49,0.151
-beta-Alanine,NP,1.73,0.368,5.18,1.10,1.73,0.368
-beta-Alanine,PS,2.48,0.623,7.45,1.87,2.48,0.623
-beta-Alaninebetaine,Aloha,0.233,0.0178,1.40,0.107,0.233,0.0178
-beta-Alaninebetaine,LW,0.0545,0.0168,0.327,0.101,0.0545,0.0168
-beta-Alaninebetaine,NP,0.151,0.0355,0.908,0.213,0.151,0.0355
-beta-Alaninebetaine,PS,3.04,0.370,18.3,2.22,3.04,0.370
-Betonicine,Aloha,0.0612,0.00998,0.428,0.0698,0.0612,0.00998
-Betonicine,LW,0.0177,0.00559,0.124,0.0391,0.0177,0.00559
-Betonicine,NP,0.0190,0.00689,0.133,0.0482,0.0190,0.00689
-Betonicine,PS,0.0158,0.00352,0.110,0.0247,0.0158,0.00352
-Citrulline,Aloha,2.57,0.844,15.4,5.06,7.70,2.53
-Citrulline,LW,2.02,0.366,12.1,2.20,6.05,1.10
-Creatine,Aloha,0.899,0.0465,3.60,0.186,2.70,0.140
-Creatine,LW,0.517,0.188,2.07,0.750,1.55,0.563
-Creatine,NP,0.411,0.0997,1.64,0.399,1.23,0.299
-Creatine,PS,0.196,0.0194,0.782,0.0778,0.587,0.0583
-Cytidine,LW,0.544,0.254,4.89,2.29,1.63,0.762
-Cytidine,PS,0.147,0.0170,1.32,0.153,0.441,0.0510
-Cytosine,Aloha,0.468,0.0511,1.87,0.204,1.40,0.153
-Cytosine,LW,1.21,0.109,4.85,0.438,3.64,0.328
-Cytosine,NP,0.912,0.275,3.65,1.10,2.74,0.826
-Cytosine,PS,1.40,0.0755,5.59,0.302,4.19,0.226
-Desthiobiotin,Aloha,0.00934,0.00415,0.0934,0.0415,0.0187,0.00830
-Dimethylsulfonioacetate,Aloha,0.464,0.0209,1.86,0.0836,  NA,  NA
-Dimethylsulfonioacetate,NP,0.965,0.219,3.86,0.875,  NA,  NA
-Dimethylsulfonioacetate,PS,0.496,0.0430,1.99,0.172,  NA,  NA
-Dimethylsulfoniopropionate,Aloha,3.43,0.197,17.2,0.984,  NA,  NA
-Dimethylsulfoniopropionate,LW,0.0131,0.00408,0.0656,0.0204,  NA,  NA
-Dimethylsulfoniopropionate,NP,6.70,1.45,33.5,7.25,  NA,  NA
-Dimethylsulfoniopropionate,PS,2.26,0.258,11.3,1.29,  NA,  NA
-Ectoine,Aloha,0.0544,0.00413,0.326,0.0248,0.109,0.00826
-Ectoine,NP,0.0459,0.00503,0.275,0.0302,0.0918,0.0101
-Glucosamine,LW,0.275,0.0523,1.65,0.314,0.275,0.0523
-Glutamylphenylalanine,Aloha,0.0547,0.0165,0.766,0.231,0.109,0.0330
-Glutamylphenylalanine,PS,0.0547,0.0124,0.766,0.173,0.109,0.0247
-Glycerophosphocholine,PS,1.39,0.0872,11.1,0.698,1.39,0.0872
-Glycine betaine,Aloha,3.11,0.276,15.5,1.38,3.11,0.276
-Glycine betaine,NP,2.81,0.0539,14.0,0.270,2.81,0.0539
-Glycine betaine,PS,5.20,0.192,26.0,0.962,5.20,0.192
-Gonyol,Aloha,0.607,0.0561,4.25,0.393,  NA,  NA
-Gonyol,LW,0.857,0.336,6.00,2.35,  NA,  NA
-Gonyol,NP,0.363,0.120,2.54,0.842,  NA,  NA
-Gonyol,PS,1.47,0.206,10.3,1.44,  NA,  NA
-Guanine,Aloha,0.784,0.0667,3.92,0.333,3.92,0.333
-Guanine,LW,1.54,0.531,7.72,2.65,7.72,2.65
-Guanine,PS,1.02,0.0557,5.12,0.278,5.12,0.278
-Homarine,Aloha,1.72,0.197,12.1,1.38,1.72,0.197
-Homarine,NP,0.624,0.0174,4.36,0.122,0.624,0.0174
-Homarine,PS,1.07,0.00769,7.48,0.0538,1.07,0.00769
-Hydroxyisoleucine,Aloha,1.14,0.232,6.84,1.39,1.14,0.232
-Hydroxyisoleucine,LW,2.25,0.677,13.5,4.06,2.25,0.677
-Hydroxyisoleucine,PS,0.555,0.270,3.33,1.62,0.555,0.270
-Hydroxyproline,PS,0.124,0.0433,0.622,0.216,0.124,0.0433
-Hypoxanthine,Aloha,0.687,0.117,3.43,0.583,2.75,0.466
-Hypoxanthine,LW,1.33,0.538,6.65,2.69,5.32,2.15
-L-Alanine,Aloha,16.3,2.04,49.0,6.12,16.3,2.04
-L-Alanine,LW,9.19,0.610,27.6,1.83,9.19,0.610
-L-Alanine,NP,2.74,0.348,8.22,1.04,2.74,0.348
-L-Alanine,PS,7.16,1.03,21.5,3.08,7.16,1.03
-L-Asparagine,Aloha,2.19,0.165,8.76,0.659,4.38,0.330
-L-Asparagine,LW,1.29,0.178,5.14,0.714,2.57,0.357
-L-Aspartic acid,Aloha,6.73,1.27,26.9,5.07,6.73,1.27
-L-Aspartic acid,LW,6.08,2.02,24.3,8.10,6.08,2.02
-L-Aspartic acid,PS,7.04,4.18,28.1,16.7,7.04,4.18
-L-Glutamic acid,Aloha,11.4,1.74,57.0,8.69,11.4,1.74
-L-Glutamic acid,LW,5.68,0.428,28.4,2.14,5.68,0.428
-L-Glutamic acid,NP,3.20,0.849,16.0,4.25,3.20,0.849
-L-Glutamic acid,PS,4.77,0.486,23.8,2.43,4.77,0.486
-L-Glutamine,Aloha,1.01,0.0959,5.03,0.479,2.01,0.192
-L-Glutamine,LW,0.342,0.0992,1.71,0.496,0.683,0.198
-L-Glutamine,NP,0.150,0.0656,0.748,0.328,0.299,0.131
-L-Glutamine,PS,0.620,0.0263,3.10,0.132,1.24,0.0526
-L-Histidine,Aloha,1.21,0.294,7.23,1.77,3.62,0.883
-L-Histidine,LW,2.09,0.117,12.6,0.702,6.28,0.351
-L-Homoserine,PS,0.479,0.171,1.92,0.683,0.479,0.171
-L-Lysine,Aloha,2.59,0.296,15.6,1.78,5.19,0.592
-L-Methionine S-oxide,Aloha,1.38,0.214,6.90,1.07,1.38,0.214
-L-Methionine S-oxide,LW,0.303,0.0247,1.52,0.124,0.303,0.0247
-L-Methionine S-oxide,PS,0.561,0.171,2.81,0.857,0.561,0.171
-L-Ornithine,Aloha,8.27,0.515,41.4,2.58,16.5,1.03
-L-Ornithine,LW,8.30,0.927,41.5,4.63,16.6,1.85
-L-Phenylalanine,Aloha,0.623,0.141,5.60,1.27,0.623,0.141
-L-Phenylalanine,PS,0.556,0.0353,5.00,0.317,0.556,0.0353
-L-Proline,Aloha,7.90,0.993,39.5,4.97,7.90,0.993
-L-Proline,LW,3.47,0.430,17.4,2.15,3.47,0.430
-L-Proline,NP,1.33,0.150,6.65,0.751,1.33,0.150
-L-Proline,PS,1.47,0.263,7.33,1.32,1.47,0.263
-L-Serine,Aloha,13.5,5.03,40.5,15.1,13.5,5.03
-L-Serine,LW,16.6,3.73,49.7,11.2,16.6,3.73
-L-Threonine,PS,0.402,0.166,1.61,0.663,0.402,0.166
-L-Tyrosine,Aloha,2.41,0.734,21.7,6.60,2.41,0.734
-L-Tyrosine,LW,1.54,0.573,13.9,5.16,1.54,0.573
-Melamine,Aloha,0.900,0.157,2.70,0.471,5.40,0.942
-Melamine,LW,0.499,0.0494,1.50,0.148,3.00,0.297
-Melamine,PS,0.552,0.186,1.66,0.557,3.31,1.11
-N6-Acetyl-L-lysine,Aloha,0.0852,0.0184,0.681,0.147,0.170,0.0368
-N6-Acetyl-L-lysine,LW,0.0491,0.0225,0.393,0.180,0.0982,0.0450
-N6-Acetyl-L-lysine,PS,0.0275,0.00939,0.220,0.0751,0.0550,0.0188
-N6-Methyladenine,LW,0.0572,0.0324,0.343,0.194,0.286,0.162
-N6-Methyladenine,PS,0.0296,0.00968,0.177,0.0581,0.148,0.0484
-Proline betaine,Aloha,0.143,0.00811,0.998,0.0567,0.143,0.00811
-Proline betaine,NP,0.0312,0.00874,0.218,0.0612,0.0312,0.00874
-Proline betaine,PS,0.0499,0.00651,0.350,0.0455,0.0499,0.00651
-Sarcosine,Aloha,0.917,0.299,2.75,0.896,0.917,0.299
-Sarcosine,NP,1.16,0.375,3.49,1.13,1.16,0.375
-Sarcosine,PS,0.543,0.196,1.63,0.587,0.543,0.196
-Trigonelline,Aloha,0.968,0.112,6.78,0.782,0.968,0.112
-Trigonelline,LW,0.132,0.0551,0.926,0.386,0.132,0.0551
-Trigonelline,NP,0.206,0.0526,1.44,0.369,0.206,0.0526
-Trigonelline,PS,0.187,0.0223,1.31,0.156,0.187,0.0223
-Trimethylamine N-oxide,Aloha,48.5,8.77,146.,26.3,48.5,8.77
-Trimethylamine N-oxide,LW,0.886,0.112,2.66,0.337,0.886,0.112
-Trimethylamine N-oxide,NP,3.72,0.922,11.2,2.77,3.72,0.922
-Trimethylamine N-oxide,PS,2.24,0.160,6.73,0.479,2.24,0.160
-Urocanic acid,Aloha,1.59,0.493,9.52,2.96,3.17,0.987
-Urocanic acid,LW,1.49,0.381,8.96,2.29,2.99,0.763
-Xanthine,Aloha,0.0729,0.0143,0.365,0.0714,0.292,0.0571
-Xanthine,PS,0.0922,0.00943,0.461,0.0472,0.369,0.0377
+(3-Carboxypropyl)trimethylammonium,Aloha,0.048,0.0038,0.34,0.027,0.048,0.0038
+(3-Carboxypropyl)trimethylammonium,NP,0.034,0.0056,0.24,0.039,0.034,0.0056
+(3-Carboxypropyl)trimethylammonium,PS,0.11,0.011,0.76,0.075,0.11,0.011
+(Iso)leucine,Aloha,4.4,0.19,27.,1.2,4.4,0.19
+(Iso)leucine,LW,1.4,0.39,8.3,2.3,1.4,0.39
+(Iso)leucine,NP,0.53,0.066,3.2,0.40,0.53,0.066
+(Iso)leucine,PS,1.4,0.028,8.5,0.17,1.4,0.028
+5-Hydroxyectoine,PS,0.052,0.0099,0.31,0.059,0.10,0.020
+5-Methylcytosine,LW,0.087,0.014,0.43,0.069,0.26,0.042
+Adenine,LW,0.49,0.19,2.4,0.93,2.4,0.93
+Adenosine,LW,1.9,0.53,19.,5.3,9.4,2.6
+Arsenobetaine,Aloha,0.015,0.0012,0.077,0.0059, NA, NA
+beta-Alanine,Aloha,2.1,0.38,6.3,1.1,2.1,0.38
+beta-Alanine,LW,1.5,0.15,4.5,0.45,1.5,0.15
+beta-Alanine,NP,1.7,0.37,5.2,1.1,1.7,0.37
+beta-Alanine,PS,2.5,0.62,7.5,1.9,2.5,0.62
+beta-Alaninebetaine,Aloha,0.23,0.018,1.4,0.11,0.23,0.018
+beta-Alaninebetaine,LW,0.054,0.017,0.33,0.10,0.054,0.017
+beta-Alaninebetaine,NP,0.15,0.036,0.91,0.21,0.15,0.036
+beta-Alaninebetaine,PS,3.0,0.37,18.,2.2,3.0,0.37
+Betonicine,Aloha,0.061,0.010,0.43,0.070,0.061,0.010
+Betonicine,LW,0.018,0.0056,0.12,0.039,0.018,0.0056
+Betonicine,NP,0.019,0.0069,0.13,0.048,0.019,0.0069
+Betonicine,PS,0.016,0.0035,0.11,0.025,0.016,0.0035
+Citrulline,Aloha,2.6,0.84,15.,5.1,7.7,2.5
+Citrulline,LW,2.0,0.37,12.,2.2,6.1,1.1
+Creatine,Aloha,0.90,0.047,3.6,0.19,2.7,0.14
+Creatine,LW,0.52,0.19,2.1,0.75,1.6,0.56
+Creatine,NP,0.41,0.10,1.6,0.40,1.2,0.30
+Creatine,PS,0.20,0.019,0.78,0.078,0.59,0.058
+Cytidine,LW,0.54,0.25,4.9,2.3,1.6,0.76
+Cytidine,PS,0.15,0.017,1.3,0.15,0.44,0.051
+Cytosine,Aloha,0.47,0.051,1.9,0.20,1.4,0.15
+Cytosine,LW,1.2,0.11,4.9,0.44,3.6,0.33
+Cytosine,NP,0.91,0.28,3.6,1.1,2.7,0.83
+Cytosine,PS,1.4,0.075,5.6,0.30,4.2,0.23
+Desthiobiotin,Aloha,0.0093,0.0041,0.093,0.041,0.019,0.0083
+Dimethylsulfonioacetate,Aloha,0.46,0.021,1.9,0.084, NA, NA
+Dimethylsulfonioacetate,NP,0.96,0.22,3.9,0.87, NA, NA
+Dimethylsulfonioacetate,PS,0.50,0.043,2.0,0.17, NA, NA
+Dimethylsulfoniopropionate,Aloha,3.4,0.20,17.,0.98, NA, NA
+Dimethylsulfoniopropionate,LW,0.013,0.0041,0.066,0.020, NA, NA
+Dimethylsulfoniopropionate,NP,6.7,1.5,33.,7.3, NA, NA
+Dimethylsulfoniopropionate,PS,2.3,0.26,11.,1.3, NA, NA
+Ectoine,Aloha,0.054,0.0041,0.33,0.025,0.11,0.0083
+Ectoine,NP,0.046,0.0050,0.28,0.030,0.092,0.010
+Glucosamine,LW,0.27,0.052,1.6,0.31,0.27,0.052
+Glutamylphenylalanine,Aloha,0.055,0.016,0.77,0.23,0.11,0.033
+Glutamylphenylalanine,PS,0.055,0.012,0.77,0.17,0.11,0.025
+Glycerophosphocholine,PS,1.4,0.087,11.,0.70,1.4,0.087
+Glycine betaine,Aloha,3.1,0.28,16.,1.4,3.1,0.28
+Glycine betaine,NP,2.8,0.054,14.,0.27,2.8,0.054
+Glycine betaine,PS,5.2,0.19,26.,0.96,5.2,0.19
+Gonyol,Aloha,0.61,0.056,4.2,0.39, NA, NA
+Gonyol,LW,0.86,0.34,6.0,2.4, NA, NA
+Gonyol,NP,0.36,0.12,2.5,0.84, NA, NA
+Gonyol,PS,1.5,0.21,10.,1.4, NA, NA
+Guanine,Aloha,0.78,0.067,3.9,0.33,3.9,0.33
+Guanine,LW,1.5,0.53,7.7,2.7,7.7,2.7
+Guanine,PS,1.0,0.056,5.1,0.28,5.1,0.28
+Homarine,Aloha,1.7,0.20,12.,1.4,1.7,0.20
+Homarine,NP,0.62,0.017,4.4,0.12,0.62,0.017
+Homarine,PS,1.1,0.0077,7.5,0.054,1.1,0.0077
+Hydroxyisoleucine,Aloha,1.1,0.23,6.8,1.4,1.1,0.23
+Hydroxyisoleucine,LW,2.2,0.68,13.,4.1,2.2,0.68
+Hydroxyisoleucine,PS,0.55,0.27,3.3,1.6,0.55,0.27
+Hydroxyproline,PS,0.12,0.043,0.62,0.22,0.12,0.043
+Hypoxanthine,Aloha,0.69,0.12,3.4,0.58,2.7,0.47
+Hypoxanthine,LW,1.3,0.54,6.6,2.7,5.3,2.2
+L-Alanine,Aloha,16.,2.0,49.,6.1,16.,2.0
+L-Alanine,LW,9.2,0.61,28.,1.8,9.2,0.61
+L-Alanine,NP,2.7,0.35,8.2,1.0,2.7,0.35
+L-Alanine,PS,7.2,1.0,21.,3.1,7.2,1.0
+L-Asparagine,Aloha,2.2,0.16,8.8,0.66,4.4,0.33
+L-Asparagine,LW,1.3,0.18,5.1,0.71,2.6,0.36
+L-Aspartic acid,Aloha,6.7,1.3,27.,5.1,6.7,1.3
+L-Aspartic acid,LW,6.1,2.0,24.,8.1,6.1,2.0
+L-Aspartic acid,PS,7.0,4.2,28.,17.,7.0,4.2
+L-Glutamic acid,Aloha,11.,1.7,57.,8.7,11.,1.7
+L-Glutamic acid,LW,5.7,0.43,28.,2.1,5.7,0.43
+L-Glutamic acid,NP,3.2,0.85,16.,4.2,3.2,0.85
+L-Glutamic acid,PS,4.8,0.49,24.,2.4,4.8,0.49
+L-Glutamine,Aloha,1.0,0.096,5.0,0.48,2.0,0.19
+L-Glutamine,LW,0.34,0.099,1.7,0.50,0.68,0.20
+L-Glutamine,NP,0.15,0.066,0.75,0.33,0.30,0.13
+L-Glutamine,PS,0.62,0.026,3.1,0.13,1.2,0.053
+L-Histidine,Aloha,1.2,0.29,7.2,1.8,3.6,0.88
+L-Histidine,LW,2.1,0.12,13.,0.70,6.3,0.35
+L-Homoserine,PS,0.48,0.17,1.9,0.68,0.48,0.17
+L-Lysine,Aloha,2.6,0.30,16.,1.8,5.2,0.59
+L-Methionine S-oxide,Aloha,1.4,0.21,6.9,1.1,1.4,0.21
+L-Methionine S-oxide,LW,0.30,0.025,1.5,0.12,0.30,0.025
+L-Methionine S-oxide,PS,0.56,0.17,2.8,0.86,0.56,0.17
+L-Ornithine,Aloha,8.3,0.52,41.,2.6,17.,1.0
+L-Ornithine,LW,8.3,0.93,41.,4.6,17.,1.9
+L-Phenylalanine,Aloha,0.62,0.14,5.6,1.3,0.62,0.14
+L-Phenylalanine,PS,0.56,0.035,5.0,0.32,0.56,0.035
+L-Proline,Aloha,7.9,0.99,39.,5.0,7.9,0.99
+L-Proline,LW,3.5,0.43,17.,2.1,3.5,0.43
+L-Proline,NP,1.3,0.15,6.7,0.75,1.3,0.15
+L-Proline,PS,1.5,0.26,7.3,1.3,1.5,0.26
+L-Serine,Aloha,14.,5.0,41.,15.,14.,5.0
+L-Serine,LW,17.,3.7,50.,11.,17.,3.7
+L-Threonine,PS,0.40,0.17,1.6,0.66,0.40,0.17
+L-Tyrosine,Aloha,2.4,0.73,22.,6.6,2.4,0.73
+L-Tyrosine,LW,1.5,0.57,14.,5.2,1.5,0.57
+Melamine,Aloha,0.90,0.16,2.7,0.47,5.4,0.94
+Melamine,LW,0.50,0.049,1.5,0.15,3.0,0.30
+Melamine,PS,0.55,0.19,1.7,0.56,3.3,1.1
+N6-Acetyl-L-lysine,Aloha,0.085,0.018,0.68,0.15,0.17,0.037
+N6-Acetyl-L-lysine,LW,0.049,0.023,0.39,0.18,0.098,0.045
+N6-Acetyl-L-lysine,PS,0.027,0.0094,0.22,0.075,0.055,0.019
+N6-Methyladenine,LW,0.057,0.032,0.34,0.19,0.29,0.16
+N6-Methyladenine,PS,0.030,0.0097,0.18,0.058,0.15,0.048
+Proline betaine,Aloha,0.14,0.0081,1.0,0.057,0.14,0.0081
+Proline betaine,NP,0.031,0.0087,0.22,0.061,0.031,0.0087
+Proline betaine,PS,0.050,0.0065,0.35,0.046,0.050,0.0065
+Sarcosine,Aloha,0.92,0.30,2.8,0.90,0.92,0.30
+Sarcosine,NP,1.2,0.38,3.5,1.1,1.2,0.38
+Sarcosine,PS,0.54,0.20,1.6,0.59,0.54,0.20
+Trigonelline,Aloha,0.97,0.11,6.8,0.78,0.97,0.11
+Trigonelline,LW,0.13,0.055,0.93,0.39,0.13,0.055
+Trigonelline,NP,0.21,0.053,1.4,0.37,0.21,0.053
+Trigonelline,PS,0.19,0.022,1.3,0.16,0.19,0.022
+Trimethylamine N-oxide,Aloha,49.,8.8,150.,26.,49.,8.8
+Trimethylamine N-oxide,LW,0.89,0.11,2.7,0.34,0.89,0.11
+Trimethylamine N-oxide,NP,3.7,0.92,11.,2.8,3.7,0.92
+Trimethylamine N-oxide,PS,2.2,0.16,6.7,0.48,2.2,0.16
+Urocanic acid,Aloha,1.6,0.49,9.5,3.0,3.2,0.99
+Urocanic acid,LW,1.5,0.38,9.0,2.3,3.0,0.76
+Xanthine,Aloha,0.073,0.014,0.36,0.071,0.29,0.057
+Xanthine,PS,0.092,0.0094,0.46,0.047,0.37,0.038

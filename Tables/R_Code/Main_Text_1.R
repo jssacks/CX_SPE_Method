@@ -30,9 +30,9 @@ all.LOD.dat <- rbind(dat.HILIC.LOD, dat.RP.LOD)
 ###combine EE and LOD data, select only desired columns, tidy up, rename things to be appropriate 
 all.dat <- left_join(dat.EE, all.LOD.dat) %>%
   select(Compound, Fraction, Overall.Mean.EE, Overall.RSD, R2, EE.adjust.lod) %>%
-  mutate(Overall.Mean.EE = print(formatC(signif(Overall.Mean.EE,digits=3), digits=3,format="fg", flag="#"))) %>%
+  mutate(Overall.Mean.EE = print(formatC(signif(Overall.Mean.EE,digits=3), digits=3,format="fg", flag = "#"))) %>%
   mutate(Overall.RSD = print(formatC(signif(Overall.RSD,digits=3), digits=3,format="fg", flag="#"))) %>%
-  mutate(EE.adjust.lod = print(formatC(signif(EE.adjust.lod,digits=3), digits=3,format="fg", flag="#"))) %>%
+  mutate(EE.adjust.lod = print(formatC(signif(EE.adjust.lod,digits=2), digits=2,format="fg", flag="#"))) %>%
   mutate(R2 = print(formatC(signif(R2,digits=3), digits=3,format="fg", flag="#"))) %>%
   rename("Extraction Efficiency (%)" = Overall.Mean.EE,
          "RSD of EE (%)" = Overall.RSD,
@@ -65,3 +65,4 @@ all.dat.std <- left_join(all.dat, std.info.2) %>%
     
 ##write to a csv
 write_csv(all.dat.std, file = "Tables/Output/Main_Text_1.csv")
+

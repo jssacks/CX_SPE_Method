@@ -1,267 +1,267 @@
 Compound,Fraction,Sample,Mean EE (%),Standard Deviation of EE (%),EE ANOVA Adjusted P-value,RF ANOVA Adjusted P-value
-(3-Carboxypropyl)trimethylammonium,HILIC Pos,A,57.6,13.8,0.4384,0.1913
-(3-Carboxypropyl)trimethylammonium,HILIC Pos,NP,34.4,2.26,0.4384,0.1913
-(3-Carboxypropyl)trimethylammonium,HILIC Pos,PS,52.7,6.12,0.4384,0.1913
-(3-Carboxypropyl)trimethylammonium,HILIC Pos,LW,42.6,14.2,0.4384,0.1913
-(Iso)leucine,HILIC Pos,A,63.9,16.6,0.8035,0.5713
-(Iso)leucine,HILIC Pos,NP,58.3,3.08,0.8035,0.5713
-(Iso)leucine,HILIC Pos,PS,54.6,2.63,0.8035,0.5713
-(Iso)leucine,HILIC Pos,LW,62.0,15.4,0.8035,0.5713
-"3',5'-Cyclic Adenosine Monophosphate",HILIC Neg,A,5.53,0.389,0.9755,0.1423
-"3',5'-Cyclic Adenosine Monophosphate",HILIC Neg,NP,5.68,0.366,0.9755,0.1423
-"3',5'-Cyclic Adenosine Monophosphate",HILIC Neg,PS,6.03,1.42,0.9755,0.1423
-"3',5'-Cyclic Adenosine Monophosphate",HILIC Neg,LW,6.44,5.22,0.9755,0.1423
-4-Aminobutyric acid,HILIC Pos,A,84.4,8.86,0.8935,0.9594
-4-Aminobutyric acid,HILIC Pos,NP,95.3,25.9,0.8935,0.9594
-4-Aminobutyric acid,HILIC Pos,PS,86.7,11.9,0.8935,0.9594
-4-Aminobutyric acid,HILIC Pos,LW,90.4,16.0,0.8935,0.9594
-5-Hydroxyectoine,HILIC Pos,A,55.2,8.00,0.4384,0.2302
-5-Hydroxyectoine,HILIC Pos,NP,44.7,3.24,0.4384,0.2302
-5-Hydroxyectoine,HILIC Pos,PS,47.8,4.64,0.4384,0.2302
-5-Hydroxyectoine,HILIC Pos,LW,41.1,7.56,0.4384,0.2302
-5-Methylcytosine,HILIC Pos,A,23.0,4.46,0.5822,0.4089
-5-Methylcytosine,HILIC Pos,NP,19.0,2.09,0.5822,0.4089
-5-Methylcytosine,HILIC Pos,PS,22.3,1.09,0.5822,0.4089
-5-Methylcytosine,HILIC Pos,LW,19.8,3.62,0.5822,0.4089
-5-Oxoproline,HILIC Neg,A,14.1,5.09,0.5822,0.1471
-5-Oxoproline,HILIC Neg,NP,16.9,1.02,0.5822,0.1471
-5-Oxoproline,HILIC Neg,PS,17.0,10.2,0.5822,0.1471
-5-Oxoproline,HILIC Neg,LW,24.2,7.28,0.5822,0.1471
-Abscisic acid,RP,A,4.51,0.803,0.8035,0.6851
-Abscisic acid,RP,PS,5.02,2.72,0.8035,0.6851
-Adenine,HILIC Pos,A,55.3,13.0,0.6380,0.4089
-Adenine,HILIC Pos,NP,44.0,5.21,0.6380,0.4089
-Adenine,HILIC Pos,PS,47.1,3.06,0.6380,0.4089
-Adenine,HILIC Pos,LW,50.1,11.8,0.6380,0.4089
-Adenosine,HILIC Pos,A,11.9,2.66,0.4384,0.4089
-Adenosine,HILIC Pos,NP,10.1,1.26,0.4384,0.4089
-Adenosine,HILIC Pos,PS,12.0,1.04,0.4384,0.4089
-Adenosine,HILIC Pos,LW,8.46,2.13,0.4384,0.4089
-Adenosine monophosphate,HILIC Neg,A,25.0,2.41,0.4384,0.04714
-Adenosine monophosphate,HILIC Neg,NP,14.5,3.22,0.4384,0.04714
-Adenosine monophosphate,HILIC Neg,PS,20.3,5.18,0.4384,0.04714
-Adenosine monophosphate,HILIC Neg,LW,31.9,12.7,0.4384,0.04714
-Allopurinol,HILIC Neg,A,56.1,13.1,0.4384,0.4964
-Allopurinol,HILIC Neg,NP,39.1,6.88,0.4384,0.4964
-Allopurinol,HILIC Neg,PS,60.1,10.8,0.4384,0.4964
-Allopurinol,HILIC Neg,LW,28.7,20.7,0.4384,0.4964
-Arsenobetaine,HILIC Pos,A,98.6,17.1,0.5822,0.4089
-Arsenobetaine,HILIC Pos,NP,83.4,5.58,0.5822,0.4089
-Arsenobetaine,HILIC Pos,PS,92.3,4.80,0.5822,0.4089
-Arsenobetaine,HILIC Pos,LW,81.2,14.9,0.5822,0.4089
-beta-Alanine,HILIC Pos,A,83.5,13.7,0.5822,0.1509
-beta-Alanine,HILIC Pos,NP,70.7,6.94,0.5822,0.1509
-beta-Alanine,HILIC Pos,PS,87.4,8.14,0.5822,0.1509
-beta-Alanine,HILIC Pos,LW,86.7,17.4,0.5822,0.1509
-beta-Alaninebetaine,HILIC Pos,A,73.7,11.8,0.5187,0.2930
-beta-Alaninebetaine,HILIC Pos,NP,58.1,1.47,0.5187,0.2930
-beta-Alaninebetaine,HILIC Pos,PS,70.3,7.65,0.5187,0.2930
-beta-Alaninebetaine,HILIC Pos,LW,62.8,11.0,0.5187,0.2930
-beta-Glutamic acid,HILIC Pos,A,56.5,4.24,0.3489,0.1155
-beta-Glutamic acid,HILIC Pos,NP,48.1,4.00,0.3489,0.1155
-beta-Glutamic acid,HILIC Pos,PS,60.2,4.29,0.3489,0.1155
-beta-Glutamic acid,HILIC Pos,LW,46.9,3.22,0.3489,0.1155
-Betonicine,HILIC Pos,A,101.,14.2,0.4384,0.3627
-Betonicine,HILIC Pos,NP,85.3,4.64,0.4384,0.3627
-Betonicine,HILIC Pos,PS,92.8,4.94,0.4384,0.3627
-Betonicine,HILIC Pos,LW,78.2,14.1,0.4384,0.3627
-Butyrylcarnitine,HILIC Pos,A,6.34,1.40,0.7918,0.4323
-Butyrylcarnitine,HILIC Pos,NP,4.24,1.41,0.7918,0.4323
-Butyrylcarnitine,HILIC Pos,PS,5.68,2.37,0.7918,0.4323
-Butyrylcarnitine,HILIC Pos,LW,5.97,3.58,0.7918,0.4323
-Citrulline,HILIC Pos,A,50.9,13.2,0.5197,0.1155
-Citrulline,HILIC Pos,NP,33.1,0.705,0.5197,0.1155
-Citrulline,HILIC Pos,PS,36.9,4.21,0.5197,0.1155
-Citrulline,HILIC Pos,LW,39.9,15.0,0.5197,0.1155
-Creatine,HILIC Pos,A,61.2,8.91,0.3489,0.5500
-Creatine,HILIC Pos,NP,46.7,2.93,0.3489,0.5500
-Creatine,HILIC Pos,PS,53.3,5.76,0.3489,0.5500
-Creatine,HILIC Pos,LW,40.5,7.36,0.3489,0.5500
-Cytidine,HILIC Pos,A,22.9,5.36,0.5197,0.4089
-Cytidine,HILIC Pos,NP,16.4,0.503,0.5197,0.4089
-Cytidine,HILIC Pos,PS,21.5,3.28,0.5197,0.4089
-Cytidine,HILIC Pos,LW,18.8,4.55,0.5197,0.4089
-Cytosine,HILIC Pos,A,34.9,5.35,0.5187,0.2738
-Cytosine,HILIC Pos,NP,29.7,3.71,0.5187,0.2738
-Cytosine,HILIC Pos,PS,31.6,2.17,0.5187,0.2738
-Cytosine,HILIC Pos,LW,27.1,4.97,0.5187,0.2738
-Desthiobiotin,RP,A,79.1,28.6,0.5197,0.6791
-Desthiobiotin,RP,PS,53.1,16.8,0.5197,0.6791
-Dimethylglycine,HILIC Pos,A,75.8,6.33,0.4384,0.4687
-Dimethylglycine,HILIC Pos,NP,56.7,0.752,0.4384,0.4687
-Dimethylglycine,HILIC Pos,PS,67.3,6.71,0.4384,0.4687
-Dimethylglycine,HILIC Pos,LW,60.6,11.0,0.4384,0.4687
-Dimethylsulfonioacetate,HILIC Pos,A,106.,12.5,0.4384,0.3745
-Dimethylsulfonioacetate,HILIC Pos,NP,92.5,3.32,0.4384,0.3745
-Dimethylsulfonioacetate,HILIC Pos,PS,97.2,9.45,0.4384,0.3745
-Dimethylsulfonioacetate,HILIC Pos,LW,83.9,12.7,0.4384,0.3745
-Dimethylsulfoniopropionate,HILIC Pos,A,60.2,9.98,0.6168,0.2576
-Dimethylsulfoniopropionate,HILIC Pos,NP,49.5,4.52,0.6168,0.2576
-Dimethylsulfoniopropionate,HILIC Pos,PS,58.9,9.29,0.6168,0.2576
-Dimethylsulfoniopropionate,HILIC Pos,LW,53.3,9.45,0.6168,0.2576
-Ectoine,HILIC Pos,A,52.0,7.80,0.4384,0.8248
-Ectoine,HILIC Pos,NP,44.3,2.18,0.4384,0.8248
-Ectoine,HILIC Pos,PS,49.4,3.33,0.4384,0.8248
-Ectoine,HILIC Pos,LW,44.8,6.08,0.4384,0.8248
-Glucosamine,HILIC Pos,A,52.9,7.01,0.7918,0.1156
-Glucosamine,HILIC Pos,NP,44.8,3.45,0.7918,0.1156
-Glucosamine,HILIC Pos,PS,50.7,4.15,0.7918,0.1156
-Glucosamine,HILIC Pos,LW,49.2,14.4,0.7918,0.1156
-Glutamylphenylalanine,HILIC Pos,A,31.7,6.68,0.4384,0.2707
-Glutamylphenylalanine,HILIC Pos,NP,21.9,1.63,0.4384,0.2707
-Glutamylphenylalanine,HILIC Pos,PS,27.9,3.72,0.4384,0.2707
-Glutamylphenylalanine,HILIC Pos,LW,22.3,6.53,0.4384,0.2707
-Glycerophosphocholine,HILIC Pos,A,2.45,0.772,0.5187,0.2500
-Glycerophosphocholine,HILIC Pos,NP,1.44,0.0990,0.5187,0.2500
-Glycerophosphocholine,HILIC Pos,PS,1.87,0.761,0.5187,0.2500
-Glycerophosphocholine,HILIC Pos,LW,3.21,1.57,0.5187,0.2500
-Glycine betaine,HILIC Pos,A,122.,18.2,0.3489,0.1155
-Glycine betaine,HILIC Pos,NP,86.2,4.67,0.3489,0.1155
-Glycine betaine,HILIC Pos,PS,111.,9.30,0.3489,0.1155
-Glycine betaine,HILIC Pos,LW,81.7,15.3,0.3489,0.1155
-Gonyol,HILIC Pos,A,83.5,16.6,0.4384,0.1155
-Gonyol,HILIC Pos,NP,48.5,2.32,0.4384,0.1155
-Gonyol,HILIC Pos,PS,77.2,7.33,0.4384,0.1155
-Gonyol,HILIC Pos,LW,74.9,22.3,0.4384,0.1155
-Guanine,HILIC Pos,A,52.5,13.8,0.6168,0.6366
-Guanine,HILIC Pos,NP,39.1,5.22,0.6168,0.6366
-Guanine,HILIC Pos,PS,43.6,6.38,0.6168,0.6366
-Guanine,HILIC Pos,LW,53.3,18.8,0.6168,0.6366
-Guanosine,HILIC Pos,A,15.1,5.50,0.5822,0.5500
-Guanosine,HILIC Pos,NP,10.3,0.650,0.5822,0.5500
-Guanosine,HILIC Pos,PS,15.4,1.12,0.5822,0.5500
-Guanosine,HILIC Pos,LW,11.8,5.07,0.5822,0.5500
-Homarine,HILIC Pos,A,52.0,8.18,0.6168,0.7545
-Homarine,HILIC Pos,NP,50.9,1.28,0.6168,0.7545
-Homarine,HILIC Pos,PS,53.4,9.45,0.6168,0.7545
-Homarine,HILIC Pos,LW,43.7,8.83,0.6168,0.7545
-Hordenine,HILIC Pos,A,8.53,3.98,0.4384,0.2302
-Hordenine,HILIC Pos,NP,4.71,1.00,0.4384,0.2302
-Hordenine,HILIC Pos,PS,9.92,2.73,0.4384,0.2302
-Hordenine,HILIC Pos,LW,6.01,1.39,0.4384,0.2302
-Hydroxyisoleucine,HILIC Pos,A,88.5,20.6,0.4384,0.4089
-Hydroxyisoleucine,HILIC Pos,NP,51.8,12.1,0.4384,0.4089
-Hydroxyisoleucine,HILIC Pos,PS,66.5,20.7,0.4384,0.4089
-Hydroxyisoleucine,HILIC Pos,LW,46.1,27.5,0.4384,0.4089
-Hydroxyproline,HILIC Pos,A,58.5,13.8,0.7918,0.2500
-Hydroxyproline,HILIC Pos,NP,49.8,3.53,0.7918,0.2500
-Hydroxyproline,HILIC Pos,PS,56.0,4.30,0.7918,0.2500
-Hydroxyproline,HILIC Pos,LW,53.6,11.9,0.7918,0.2500
-Hypoxanthine,HILIC Pos,A,66.4,13.3,0.6655,0.1156
-Hypoxanthine,HILIC Pos,NP,52.7,6.36,0.6655,0.1156
-Hypoxanthine,HILIC Pos,PS,60.4,4.78,0.6655,0.1156
-Hypoxanthine,HILIC Pos,LW,58.8,17.3,0.6655,0.1156
-Inosine,HILIC Neg,A,42.5,12.8,0.5187,0.06568
-Inosine,HILIC Neg,NP,28.7,2.34,0.5187,0.06568
-Inosine,HILIC Neg,PS,43.5,4.97,0.5187,0.06568
-Inosine,HILIC Neg,LW,31.9,12.1,0.5187,0.06568
-L-Alanine,HILIC Pos,A,87.8,16.8,0.4384,0.2008
-L-Alanine,HILIC Pos,NP,82.2,5.08,0.4384,0.2008
-L-Alanine,HILIC Pos,PS,135.,37.4,0.4384,0.2008
-L-Alanine,HILIC Pos,LW,120.,33.2,0.4384,0.2008
-L-Asparagine,HILIC Pos,A,88.3,13.6,0.6380,0.1155
-L-Asparagine,HILIC Pos,NP,76.0,1.77,0.6380,0.1155
-L-Asparagine,HILIC Pos,PS,88.0,6.74,0.6380,0.1155
-L-Asparagine,HILIC Pos,LW,78.5,19.1,0.6380,0.1155
-L-Aspartic acid,HILIC Pos,A,62.9,12.0,0.5822,0.3081
-L-Aspartic acid,HILIC Pos,NP,58.5,0.569,0.5822,0.3081
-L-Aspartic acid,HILIC Pos,PS,73.5,5.35,0.5822,0.3081
-L-Aspartic acid,HILIC Pos,LW,74.1,20.1,0.5822,0.3081
-L-Glutamic acid,HILIC Pos,A,61.2,4.43,0.5187,0.04714
-L-Glutamic acid,HILIC Pos,NP,41.5,3.73,0.5187,0.04714
-L-Glutamic acid,HILIC Pos,PS,58.2,7.53,0.5187,0.04714
-L-Glutamic acid,HILIC Pos,LW,53.9,19.1,0.5187,0.04714
-L-Glutamine,HILIC Pos,A,148.,27.3,0.6168,0.2906
-L-Glutamine,HILIC Pos,NP,124.,6.82,0.6168,0.2906
-L-Glutamine,HILIC Pos,PS,134.,13.9,0.6168,0.2906
-L-Glutamine,HILIC Pos,LW,119.,31.3,0.6168,0.2906
-L-Histidine,HILIC Pos,A,32.9,7.47,0.6168,0.3081
-L-Histidine,HILIC Pos,NP,25.3,1.57,0.6168,0.3081
-L-Histidine,HILIC Pos,PS,31.3,6.65,0.6168,0.3081
-L-Histidine,HILIC Pos,LW,42.4,21.9,0.6168,0.3081
-L-Homoserine,HILIC Pos,A,81.0,10.6,0.4384,0.2906
-L-Homoserine,HILIC Pos,NP,65.0,1.01,0.4384,0.2906
-L-Homoserine,HILIC Pos,PS,72.8,4.91,0.4384,0.2906
-L-Homoserine,HILIC Pos,LW,56.6,14.9,0.4384,0.2906
-L-Hydroxylysine,HILIC Pos,A,29.8,3.84,0.5737,0.07052
-L-Hydroxylysine,HILIC Pos,NP,38.6,1.90,0.5737,0.07052
-L-Hydroxylysine,HILIC Pos,PS,42.3,1.65,0.5737,0.07052
-L-Hydroxylysine,HILIC Pos,LW,42.2,16.3,0.5737,0.07052
-L-Lysine,HILIC Pos,A,60.8,15.5,0.5187,0.06296
-L-Lysine,HILIC Pos,NP,63.3,2.10,0.5187,0.06296
-L-Lysine,HILIC Pos,PS,33.4,30.1,0.5187,0.06296
-L-Lysine,HILIC Pos,LW,67.3,20.8,0.5187,0.06296
-L-Methionine S-oxide,HILIC Pos,A,77.8,14.0,0.6633,0.6372
-L-Methionine S-oxide,HILIC Pos,NP,64.3,6.21,0.6633,0.6372
-L-Methionine S-oxide,HILIC Pos,PS,69.5,2.55,0.6633,0.6372
-L-Methionine S-oxide,HILIC Pos,LW,78.9,23.4,0.6633,0.6372
-L-Ornithine,HILIC Pos,A,29.7,5.32,0.3489,0.5656
-L-Ornithine,HILIC Pos,NP,45.7,6.00,0.3489,0.5656
-L-Ornithine,HILIC Pos,PS,52.2,4.13,0.3489,0.5656
-L-Ornithine,HILIC Pos,LW,61.2,16.8,0.3489,0.5656
-L-Phenylalanine,RP,A,136.,37.5,0.6380,0.7801
-L-Phenylalanine,RP,PS,120.,14.2,0.6380,0.7801
-L-Proline,HILIC Pos,A,107.,24.8,0.8035,0.4724
-L-Proline,HILIC Pos,NP,94.6,5.23,0.8035,0.4724
-L-Proline,HILIC Pos,PS,110.,5.99,0.8035,0.4724
-L-Proline,HILIC Pos,LW,103.,26.6,0.8035,0.4724
-L-Serine,HILIC Pos,A,40.0,16.6,0.3489,0.4980
-L-Serine,HILIC Pos,NP,70.8,2.76,0.3489,0.4980
-L-Serine,HILIC Pos,PS,88.5,3.61,0.3489,0.4980
-L-Serine,HILIC Pos,LW,102.,32.7,0.3489,0.4980
-L-Threonine,HILIC Pos,A,60.9,13.6,0.9025,0.4089
-L-Threonine,HILIC Pos,NP,59.9,6.48,0.9025,0.4089
-L-Threonine,HILIC Pos,PS,67.0,2.66,0.9025,0.4089
-L-Threonine,HILIC Pos,LW,61.0,19.4,0.9025,0.4089
-L-Tyrosine,HILIC Pos,A,31.9,11.2,0.6284,0.2500
-L-Tyrosine,HILIC Pos,NP,22.5,1.82,0.6284,0.2500
-L-Tyrosine,HILIC Pos,PS,29.0,2.55,0.6284,0.2500
-L-Tyrosine,HILIC Pos,LW,31.2,10.3,0.6284,0.2500
-Melamine,HILIC Pos,A,68.7,10.7,0.6168,0.2906
-Melamine,HILIC Pos,NP,53.6,4.05,0.6168,0.2906
-Melamine,HILIC Pos,PS,58.1,4.66,0.6168,0.2906
-Melamine,HILIC Pos,LW,60.2,18.2,0.6168,0.2906
-Muramic acid,HILIC Pos,A,17.7,4.95,0.5822,0.3627
-Muramic acid,HILIC Pos,NP,12.5,0.501,0.5822,0.3627
-Muramic acid,HILIC Pos,PS,14.9,2.39,0.5822,0.3627
-Muramic acid,HILIC Pos,LW,13.4,4.77,0.5822,0.3627
-N6-Acetyl-L-lysine,HILIC Pos,A,42.9,13.1,0.5822,0.2738
-N6-Acetyl-L-lysine,HILIC Pos,NP,29.0,3.95,0.5822,0.2738
-N6-Acetyl-L-lysine,HILIC Pos,PS,39.6,1.32,0.5822,0.2738
-N6-Acetyl-L-lysine,HILIC Pos,LW,39.6,13.9,0.5822,0.2738
-N6-Methyladenine,HILIC Pos,A,19.0,6.70,0.5737,0.1155
-N6-Methyladenine,HILIC Pos,NP,11.9,1.52,0.5737,0.1155
-N6-Methyladenine,HILIC Pos,PS,17.1,0.924,0.5737,0.1155
-N6-Methyladenine,HILIC Pos,LW,15.3,5.30,0.5737,0.1155
-Nicotinic acid,RP,A,98.2,16.8,0.6380,0.2930
-Nicotinic acid,RP,PS,106.,7.63,0.6380,0.2930
-O-Methylmalonyl-L-carnitine,HILIC Pos,A,53.5,9.93,0.5822,0.2906
-O-Methylmalonyl-L-carnitine,HILIC Pos,NP,39.3,1.41,0.5822,0.2906
-O-Methylmalonyl-L-carnitine,HILIC Pos,PS,48.9,2.23,0.5822,0.2906
-O-Methylmalonyl-L-carnitine,HILIC Pos,LW,48.0,16.3,0.5822,0.2906
-Ophthalmic acid,HILIC Pos,A,27.7,8.46,0.5822,0.1156
-Ophthalmic acid,HILIC Pos,NP,18.0,2.22,0.5822,0.1156
-Ophthalmic acid,HILIC Pos,PS,24.4,3.28,0.5822,0.1156
-Ophthalmic acid,HILIC Pos,LW,21.8,7.84,0.5822,0.1156
-Proline betaine,HILIC Pos,A,67.0,12.3,0.4384,0.2738
-Proline betaine,HILIC Pos,NP,51.5,1.45,0.4384,0.2738
-Proline betaine,HILIC Pos,PS,62.4,5.11,0.4384,0.2738
-Proline betaine,HILIC Pos,LW,51.7,10.2,0.4384,0.2738
-Sarcosine,HILIC Pos,A,42.8,7.75,0.6655,0.6791
-Sarcosine,HILIC Pos,NP,37.2,1.96,0.6655,0.6791
-Sarcosine,HILIC Pos,PS,43.8,4.42,0.6655,0.6791
-Sarcosine,HILIC Pos,LW,40.2,8.22,0.6655,0.6791
-Trigonelline,HILIC Pos,A,60.9,11.3,0.4384,0.4511
-Trigonelline,HILIC Pos,NP,48.3,3.17,0.4384,0.4511
-Trigonelline,HILIC Pos,PS,56.3,3.48,0.4384,0.4511
-Trigonelline,HILIC Pos,LW,47.7,7.31,0.4384,0.4511
-Trimethylamine N-oxide,HILIC Pos,A,67.3,19.0,0.5237,0.2906
-Trimethylamine N-oxide,HILIC Pos,NP,43.8,1.06,0.5237,0.2906
-Trimethylamine N-oxide,HILIC Pos,PS,63.2,21.8,0.5237,0.2906
-Trimethylamine N-oxide,HILIC Pos,LW,44.5,16.6,0.5237,0.2906
-Urocanic acid,HILIC Neg,A,68.0,2.51,0.4384,0.2624
-Urocanic acid,HILIC Neg,NP,56.0,6.36,0.4384,0.2624
-Urocanic acid,HILIC Neg,PS,78.0,9.10,0.4384,0.2624
-Urocanic acid,HILIC Neg,LW,60.4,13.6,0.4384,0.2624
-Xanthine,RP,A,77.6,19.3,0.5187,0.2576
-Xanthine,RP,PS,60.7,5.66,0.5187,0.2576
+(3-Carboxypropyl)trimethylammonium,HILIC Pos,Aloha,57.6,13.8,0.438,0.191
+(3-Carboxypropyl)trimethylammonium,HILIC Pos,NP,34.4,2.26,0.438,0.191
+(3-Carboxypropyl)trimethylammonium,HILIC Pos,PS,52.7,6.12,0.438,0.191
+(3-Carboxypropyl)trimethylammonium,HILIC Pos,LW,42.6,14.2,0.438,0.191
+(Iso)leucine,HILIC Pos,Aloha,63.9,16.6,0.804,0.571
+(Iso)leucine,HILIC Pos,NP,58.3,3.08,0.804,0.571
+(Iso)leucine,HILIC Pos,PS,54.6,2.63,0.804,0.571
+(Iso)leucine,HILIC Pos,LW,62.0,15.4,0.804,0.571
+"3',5'-Cyclic Adenosine Monophosphate",HILIC Neg,Aloha,5.53,0.389,0.975,0.142
+"3',5'-Cyclic Adenosine Monophosphate",HILIC Neg,NP,5.68,0.366,0.975,0.142
+"3',5'-Cyclic Adenosine Monophosphate",HILIC Neg,PS,6.03,1.42,0.975,0.142
+"3',5'-Cyclic Adenosine Monophosphate",HILIC Neg,LW,6.44,5.22,0.975,0.142
+4-Aminobutyric acid,HILIC Pos,Aloha,84.4,8.86,0.894,0.959
+4-Aminobutyric acid,HILIC Pos,NP,95.3,25.9,0.894,0.959
+4-Aminobutyric acid,HILIC Pos,PS,86.7,11.9,0.894,0.959
+4-Aminobutyric acid,HILIC Pos,LW,90.4,16.0,0.894,0.959
+5-Hydroxyectoine,HILIC Pos,Aloha,55.2,8.00,0.438,0.230
+5-Hydroxyectoine,HILIC Pos,NP,44.7,3.24,0.438,0.230
+5-Hydroxyectoine,HILIC Pos,PS,47.8,4.64,0.438,0.230
+5-Hydroxyectoine,HILIC Pos,LW,41.1,7.56,0.438,0.230
+5-Methylcytosine,HILIC Pos,Aloha,23.0,4.46,0.582,0.409
+5-Methylcytosine,HILIC Pos,NP,19.0,2.09,0.582,0.409
+5-Methylcytosine,HILIC Pos,PS,22.3,1.09,0.582,0.409
+5-Methylcytosine,HILIC Pos,LW,19.8,3.62,0.582,0.409
+5-Oxoproline,HILIC Neg,Aloha,14.1,5.09,0.582,0.147
+5-Oxoproline,HILIC Neg,NP,16.9,1.02,0.582,0.147
+5-Oxoproline,HILIC Neg,PS,17.0,10.2,0.582,0.147
+5-Oxoproline,HILIC Neg,LW,24.2,7.28,0.582,0.147
+Abscisic acid,RP,Aloha,4.51,0.803,0.804,0.685
+Abscisic acid,RP,PS,5.02,2.72,0.804,0.685
+Adenine,HILIC Pos,Aloha,55.3,13.0,0.638,0.409
+Adenine,HILIC Pos,NP,44.0,5.21,0.638,0.409
+Adenine,HILIC Pos,PS,47.1,3.06,0.638,0.409
+Adenine,HILIC Pos,LW,50.1,11.8,0.638,0.409
+Adenosine,HILIC Pos,Aloha,11.9,2.66,0.438,0.409
+Adenosine,HILIC Pos,NP,10.1,1.26,0.438,0.409
+Adenosine,HILIC Pos,PS,12.0,1.04,0.438,0.409
+Adenosine,HILIC Pos,LW,8.46,2.13,0.438,0.409
+Adenosine monophosphate,HILIC Neg,Aloha,25.0,2.41,0.438,0.0471
+Adenosine monophosphate,HILIC Neg,NP,14.5,3.22,0.438,0.0471
+Adenosine monophosphate,HILIC Neg,PS,20.3,5.18,0.438,0.0471
+Adenosine monophosphate,HILIC Neg,LW,31.9,12.7,0.438,0.0471
+Allopurinol,HILIC Neg,Aloha,56.1,13.1,0.438,0.496
+Allopurinol,HILIC Neg,NP,39.1,6.88,0.438,0.496
+Allopurinol,HILIC Neg,PS,60.1,10.8,0.438,0.496
+Allopurinol,HILIC Neg,LW,28.7,20.7,0.438,0.496
+Arsenobetaine,HILIC Pos,Aloha,98.6,17.1,0.582,0.409
+Arsenobetaine,HILIC Pos,NP,83.4,5.58,0.582,0.409
+Arsenobetaine,HILIC Pos,PS,92.3,4.80,0.582,0.409
+Arsenobetaine,HILIC Pos,LW,81.2,14.9,0.582,0.409
+beta-Alanine,HILIC Pos,Aloha,83.5,13.7,0.582,0.151
+beta-Alanine,HILIC Pos,NP,70.7,6.94,0.582,0.151
+beta-Alanine,HILIC Pos,PS,87.4,8.14,0.582,0.151
+beta-Alanine,HILIC Pos,LW,86.7,17.4,0.582,0.151
+beta-Alaninebetaine,HILIC Pos,Aloha,73.7,11.8,0.519,0.293
+beta-Alaninebetaine,HILIC Pos,NP,58.1,1.47,0.519,0.293
+beta-Alaninebetaine,HILIC Pos,PS,70.3,7.65,0.519,0.293
+beta-Alaninebetaine,HILIC Pos,LW,62.8,11.0,0.519,0.293
+beta-Glutamic acid,HILIC Pos,Aloha,56.5,4.24,0.349,0.116
+beta-Glutamic acid,HILIC Pos,NP,48.1,4.00,0.349,0.116
+beta-Glutamic acid,HILIC Pos,PS,60.2,4.29,0.349,0.116
+beta-Glutamic acid,HILIC Pos,LW,46.9,3.22,0.349,0.116
+Betonicine,HILIC Pos,Aloha,101.,14.2,0.438,0.363
+Betonicine,HILIC Pos,NP,85.3,4.64,0.438,0.363
+Betonicine,HILIC Pos,PS,92.8,4.94,0.438,0.363
+Betonicine,HILIC Pos,LW,78.2,14.1,0.438,0.363
+Butyrylcarnitine,HILIC Pos,Aloha,6.34,1.40,0.792,0.432
+Butyrylcarnitine,HILIC Pos,NP,4.24,1.41,0.792,0.432
+Butyrylcarnitine,HILIC Pos,PS,5.68,2.37,0.792,0.432
+Butyrylcarnitine,HILIC Pos,LW,5.97,3.58,0.792,0.432
+Citrulline,HILIC Pos,Aloha,50.9,13.2,0.520,0.116
+Citrulline,HILIC Pos,NP,33.1,0.705,0.520,0.116
+Citrulline,HILIC Pos,PS,36.9,4.21,0.520,0.116
+Citrulline,HILIC Pos,LW,39.9,15.0,0.520,0.116
+Creatine,HILIC Pos,Aloha,61.2,8.91,0.349,0.550
+Creatine,HILIC Pos,NP,46.7,2.93,0.349,0.550
+Creatine,HILIC Pos,PS,53.3,5.76,0.349,0.550
+Creatine,HILIC Pos,LW,40.5,7.36,0.349,0.550
+Cytidine,HILIC Pos,Aloha,22.9,5.36,0.520,0.409
+Cytidine,HILIC Pos,NP,16.4,0.503,0.520,0.409
+Cytidine,HILIC Pos,PS,21.5,3.28,0.520,0.409
+Cytidine,HILIC Pos,LW,18.8,4.55,0.520,0.409
+Cytosine,HILIC Pos,Aloha,34.9,5.35,0.519,0.274
+Cytosine,HILIC Pos,NP,29.7,3.71,0.519,0.274
+Cytosine,HILIC Pos,PS,31.6,2.17,0.519,0.274
+Cytosine,HILIC Pos,LW,27.1,4.97,0.519,0.274
+Desthiobiotin,RP,Aloha,79.1,28.6,0.520,0.679
+Desthiobiotin,RP,PS,53.1,16.8,0.520,0.679
+Dimethylglycine,HILIC Pos,Aloha,75.8,6.33,0.438,0.469
+Dimethylglycine,HILIC Pos,NP,56.7,0.752,0.438,0.469
+Dimethylglycine,HILIC Pos,PS,67.3,6.71,0.438,0.469
+Dimethylglycine,HILIC Pos,LW,60.6,11.0,0.438,0.469
+Dimethylsulfonioacetate,HILIC Pos,Aloha,106.,12.5,0.438,0.375
+Dimethylsulfonioacetate,HILIC Pos,NP,92.5,3.32,0.438,0.375
+Dimethylsulfonioacetate,HILIC Pos,PS,97.2,9.45,0.438,0.375
+Dimethylsulfonioacetate,HILIC Pos,LW,83.9,12.7,0.438,0.375
+Dimethylsulfoniopropionate,HILIC Pos,Aloha,60.2,9.98,0.617,0.258
+Dimethylsulfoniopropionate,HILIC Pos,NP,49.5,4.52,0.617,0.258
+Dimethylsulfoniopropionate,HILIC Pos,PS,58.9,9.29,0.617,0.258
+Dimethylsulfoniopropionate,HILIC Pos,LW,53.3,9.45,0.617,0.258
+Ectoine,HILIC Pos,Aloha,52.0,7.80,0.438,0.825
+Ectoine,HILIC Pos,NP,44.3,2.18,0.438,0.825
+Ectoine,HILIC Pos,PS,49.4,3.33,0.438,0.825
+Ectoine,HILIC Pos,LW,44.8,6.08,0.438,0.825
+Glucosamine,HILIC Pos,Aloha,52.9,7.01,0.792,0.116
+Glucosamine,HILIC Pos,NP,44.8,3.45,0.792,0.116
+Glucosamine,HILIC Pos,PS,50.7,4.15,0.792,0.116
+Glucosamine,HILIC Pos,LW,49.2,14.4,0.792,0.116
+Glutamylphenylalanine,HILIC Pos,Aloha,31.7,6.68,0.438,0.271
+Glutamylphenylalanine,HILIC Pos,NP,21.9,1.63,0.438,0.271
+Glutamylphenylalanine,HILIC Pos,PS,27.9,3.72,0.438,0.271
+Glutamylphenylalanine,HILIC Pos,LW,22.3,6.53,0.438,0.271
+Glycerophosphocholine,HILIC Pos,Aloha,2.45,0.772,0.519,0.250
+Glycerophosphocholine,HILIC Pos,NP,1.44,0.0990,0.519,0.250
+Glycerophosphocholine,HILIC Pos,PS,1.87,0.761,0.519,0.250
+Glycerophosphocholine,HILIC Pos,LW,3.21,1.57,0.519,0.250
+Glycine betaine,HILIC Pos,Aloha,122.,18.2,0.349,0.116
+Glycine betaine,HILIC Pos,NP,86.2,4.67,0.349,0.116
+Glycine betaine,HILIC Pos,PS,111.,9.30,0.349,0.116
+Glycine betaine,HILIC Pos,LW,81.7,15.3,0.349,0.116
+Gonyol,HILIC Pos,Aloha,83.5,16.6,0.438,0.116
+Gonyol,HILIC Pos,NP,48.5,2.32,0.438,0.116
+Gonyol,HILIC Pos,PS,77.2,7.33,0.438,0.116
+Gonyol,HILIC Pos,LW,74.9,22.3,0.438,0.116
+Guanine,HILIC Pos,Aloha,52.5,13.8,0.617,0.637
+Guanine,HILIC Pos,NP,39.1,5.22,0.617,0.637
+Guanine,HILIC Pos,PS,43.6,6.38,0.617,0.637
+Guanine,HILIC Pos,LW,53.3,18.8,0.617,0.637
+Guanosine,HILIC Pos,Aloha,15.1,5.50,0.582,0.550
+Guanosine,HILIC Pos,NP,10.3,0.650,0.582,0.550
+Guanosine,HILIC Pos,PS,15.4,1.12,0.582,0.550
+Guanosine,HILIC Pos,LW,11.8,5.07,0.582,0.550
+Homarine,HILIC Pos,Aloha,52.0,8.18,0.617,0.755
+Homarine,HILIC Pos,NP,50.9,1.28,0.617,0.755
+Homarine,HILIC Pos,PS,53.4,9.45,0.617,0.755
+Homarine,HILIC Pos,LW,43.7,8.83,0.617,0.755
+Hordenine,HILIC Pos,Aloha,8.53,3.98,0.438,0.230
+Hordenine,HILIC Pos,NP,4.71,1.00,0.438,0.230
+Hordenine,HILIC Pos,PS,9.92,2.73,0.438,0.230
+Hordenine,HILIC Pos,LW,6.01,1.39,0.438,0.230
+Hydroxyisoleucine,HILIC Pos,Aloha,88.5,20.6,0.438,0.409
+Hydroxyisoleucine,HILIC Pos,NP,51.8,12.1,0.438,0.409
+Hydroxyisoleucine,HILIC Pos,PS,66.5,20.7,0.438,0.409
+Hydroxyisoleucine,HILIC Pos,LW,46.1,27.5,0.438,0.409
+Hydroxyproline,HILIC Pos,Aloha,58.5,13.8,0.792,0.250
+Hydroxyproline,HILIC Pos,NP,49.8,3.53,0.792,0.250
+Hydroxyproline,HILIC Pos,PS,56.0,4.30,0.792,0.250
+Hydroxyproline,HILIC Pos,LW,53.6,11.9,0.792,0.250
+Hypoxanthine,HILIC Pos,Aloha,66.4,13.3,0.665,0.116
+Hypoxanthine,HILIC Pos,NP,52.7,6.36,0.665,0.116
+Hypoxanthine,HILIC Pos,PS,60.4,4.78,0.665,0.116
+Hypoxanthine,HILIC Pos,LW,58.8,17.3,0.665,0.116
+Inosine,HILIC Neg,Aloha,42.5,12.8,0.519,0.0657
+Inosine,HILIC Neg,NP,28.7,2.34,0.519,0.0657
+Inosine,HILIC Neg,PS,43.5,4.97,0.519,0.0657
+Inosine,HILIC Neg,LW,31.9,12.1,0.519,0.0657
+L-Alanine,HILIC Pos,Aloha,87.8,16.8,0.438,0.201
+L-Alanine,HILIC Pos,NP,82.2,5.08,0.438,0.201
+L-Alanine,HILIC Pos,PS,135.,37.4,0.438,0.201
+L-Alanine,HILIC Pos,LW,120.,33.2,0.438,0.201
+L-Asparagine,HILIC Pos,Aloha,88.3,13.6,0.638,0.116
+L-Asparagine,HILIC Pos,NP,76.0,1.77,0.638,0.116
+L-Asparagine,HILIC Pos,PS,88.0,6.74,0.638,0.116
+L-Asparagine,HILIC Pos,LW,78.5,19.1,0.638,0.116
+L-Aspartic acid,HILIC Pos,Aloha,62.9,12.0,0.582,0.308
+L-Aspartic acid,HILIC Pos,NP,58.5,0.569,0.582,0.308
+L-Aspartic acid,HILIC Pos,PS,73.5,5.35,0.582,0.308
+L-Aspartic acid,HILIC Pos,LW,74.1,20.1,0.582,0.308
+L-Glutamic acid,HILIC Pos,Aloha,61.2,4.43,0.519,0.0471
+L-Glutamic acid,HILIC Pos,NP,41.5,3.73,0.519,0.0471
+L-Glutamic acid,HILIC Pos,PS,58.2,7.53,0.519,0.0471
+L-Glutamic acid,HILIC Pos,LW,53.9,19.1,0.519,0.0471
+L-Glutamine,HILIC Pos,Aloha,148.,27.3,0.617,0.291
+L-Glutamine,HILIC Pos,NP,124.,6.82,0.617,0.291
+L-Glutamine,HILIC Pos,PS,134.,13.9,0.617,0.291
+L-Glutamine,HILIC Pos,LW,119.,31.3,0.617,0.291
+L-Histidine,HILIC Pos,Aloha,32.9,7.47,0.617,0.308
+L-Histidine,HILIC Pos,NP,25.3,1.57,0.617,0.308
+L-Histidine,HILIC Pos,PS,31.3,6.65,0.617,0.308
+L-Histidine,HILIC Pos,LW,42.4,21.9,0.617,0.308
+L-Homoserine,HILIC Pos,Aloha,81.0,10.6,0.438,0.291
+L-Homoserine,HILIC Pos,NP,65.0,1.01,0.438,0.291
+L-Homoserine,HILIC Pos,PS,72.8,4.91,0.438,0.291
+L-Homoserine,HILIC Pos,LW,56.6,14.9,0.438,0.291
+L-Hydroxylysine,HILIC Pos,Aloha,29.8,3.84,0.574,0.0705
+L-Hydroxylysine,HILIC Pos,NP,38.6,1.90,0.574,0.0705
+L-Hydroxylysine,HILIC Pos,PS,42.3,1.65,0.574,0.0705
+L-Hydroxylysine,HILIC Pos,LW,42.2,16.3,0.574,0.0705
+L-Lysine,HILIC Pos,Aloha,60.8,15.5,0.519,0.0630
+L-Lysine,HILIC Pos,NP,63.3,2.10,0.519,0.0630
+L-Lysine,HILIC Pos,PS,33.4,30.1,0.519,0.0630
+L-Lysine,HILIC Pos,LW,67.3,20.8,0.519,0.0630
+L-Methionine S-oxide,HILIC Pos,Aloha,77.8,14.0,0.663,0.637
+L-Methionine S-oxide,HILIC Pos,NP,64.3,6.21,0.663,0.637
+L-Methionine S-oxide,HILIC Pos,PS,69.5,2.55,0.663,0.637
+L-Methionine S-oxide,HILIC Pos,LW,78.9,23.4,0.663,0.637
+L-Ornithine,HILIC Pos,Aloha,29.7,5.32,0.349,0.566
+L-Ornithine,HILIC Pos,NP,45.7,6.00,0.349,0.566
+L-Ornithine,HILIC Pos,PS,52.2,4.13,0.349,0.566
+L-Ornithine,HILIC Pos,LW,61.2,16.8,0.349,0.566
+L-Phenylalanine,RP,Aloha,136.,37.5,0.638,0.780
+L-Phenylalanine,RP,PS,120.,14.2,0.638,0.780
+L-Proline,HILIC Pos,Aloha,107.,24.8,0.804,0.472
+L-Proline,HILIC Pos,NP,94.6,5.23,0.804,0.472
+L-Proline,HILIC Pos,PS,110.,5.99,0.804,0.472
+L-Proline,HILIC Pos,LW,103.,26.6,0.804,0.472
+L-Serine,HILIC Pos,Aloha,40.0,16.6,0.349,0.498
+L-Serine,HILIC Pos,NP,70.8,2.76,0.349,0.498
+L-Serine,HILIC Pos,PS,88.5,3.61,0.349,0.498
+L-Serine,HILIC Pos,LW,102.,32.7,0.349,0.498
+L-Threonine,HILIC Pos,Aloha,60.9,13.6,0.902,0.409
+L-Threonine,HILIC Pos,NP,59.9,6.48,0.902,0.409
+L-Threonine,HILIC Pos,PS,67.0,2.66,0.902,0.409
+L-Threonine,HILIC Pos,LW,61.0,19.4,0.902,0.409
+L-Tyrosine,HILIC Pos,Aloha,31.9,11.2,0.628,0.250
+L-Tyrosine,HILIC Pos,NP,22.5,1.82,0.628,0.250
+L-Tyrosine,HILIC Pos,PS,29.0,2.55,0.628,0.250
+L-Tyrosine,HILIC Pos,LW,31.2,10.3,0.628,0.250
+Melamine,HILIC Pos,Aloha,68.7,10.7,0.617,0.291
+Melamine,HILIC Pos,NP,53.6,4.05,0.617,0.291
+Melamine,HILIC Pos,PS,58.1,4.66,0.617,0.291
+Melamine,HILIC Pos,LW,60.2,18.2,0.617,0.291
+Muramic acid,HILIC Pos,Aloha,17.7,4.95,0.582,0.363
+Muramic acid,HILIC Pos,NP,12.5,0.501,0.582,0.363
+Muramic acid,HILIC Pos,PS,14.9,2.39,0.582,0.363
+Muramic acid,HILIC Pos,LW,13.4,4.77,0.582,0.363
+N6-Acetyl-L-lysine,HILIC Pos,Aloha,42.9,13.1,0.582,0.274
+N6-Acetyl-L-lysine,HILIC Pos,NP,29.0,3.95,0.582,0.274
+N6-Acetyl-L-lysine,HILIC Pos,PS,39.6,1.32,0.582,0.274
+N6-Acetyl-L-lysine,HILIC Pos,LW,39.6,13.9,0.582,0.274
+N6-Methyladenine,HILIC Pos,Aloha,19.0,6.70,0.574,0.116
+N6-Methyladenine,HILIC Pos,NP,11.9,1.52,0.574,0.116
+N6-Methyladenine,HILIC Pos,PS,17.1,0.924,0.574,0.116
+N6-Methyladenine,HILIC Pos,LW,15.3,5.30,0.574,0.116
+Nicotinic acid,RP,Aloha,98.2,16.8,0.638,0.293
+Nicotinic acid,RP,PS,106.,7.63,0.638,0.293
+O-Methylmalonyl-L-carnitine,HILIC Pos,Aloha,53.5,9.93,0.582,0.291
+O-Methylmalonyl-L-carnitine,HILIC Pos,NP,39.3,1.41,0.582,0.291
+O-Methylmalonyl-L-carnitine,HILIC Pos,PS,48.9,2.23,0.582,0.291
+O-Methylmalonyl-L-carnitine,HILIC Pos,LW,48.0,16.3,0.582,0.291
+Ophthalmic acid,HILIC Pos,Aloha,27.7,8.46,0.582,0.116
+Ophthalmic acid,HILIC Pos,NP,18.0,2.22,0.582,0.116
+Ophthalmic acid,HILIC Pos,PS,24.4,3.28,0.582,0.116
+Ophthalmic acid,HILIC Pos,LW,21.8,7.84,0.582,0.116
+Proline betaine,HILIC Pos,Aloha,67.0,12.3,0.438,0.274
+Proline betaine,HILIC Pos,NP,51.5,1.45,0.438,0.274
+Proline betaine,HILIC Pos,PS,62.4,5.11,0.438,0.274
+Proline betaine,HILIC Pos,LW,51.7,10.2,0.438,0.274
+Sarcosine,HILIC Pos,Aloha,42.8,7.75,0.665,0.679
+Sarcosine,HILIC Pos,NP,37.2,1.96,0.665,0.679
+Sarcosine,HILIC Pos,PS,43.8,4.42,0.665,0.679
+Sarcosine,HILIC Pos,LW,40.2,8.22,0.665,0.679
+Trigonelline,HILIC Pos,Aloha,60.9,11.3,0.438,0.451
+Trigonelline,HILIC Pos,NP,48.3,3.17,0.438,0.451
+Trigonelline,HILIC Pos,PS,56.3,3.48,0.438,0.451
+Trigonelline,HILIC Pos,LW,47.7,7.31,0.438,0.451
+Trimethylamine N-oxide,HILIC Pos,Aloha,67.3,19.0,0.524,0.291
+Trimethylamine N-oxide,HILIC Pos,NP,43.8,1.06,0.524,0.291
+Trimethylamine N-oxide,HILIC Pos,PS,63.2,21.8,0.524,0.291
+Trimethylamine N-oxide,HILIC Pos,LW,44.5,16.6,0.524,0.291
+Urocanic acid,HILIC Neg,Aloha,68.0,2.51,0.438,0.262
+Urocanic acid,HILIC Neg,NP,56.0,6.36,0.438,0.262
+Urocanic acid,HILIC Neg,PS,78.0,9.10,0.438,0.262
+Urocanic acid,HILIC Neg,LW,60.4,13.6,0.438,0.262
+Xanthine,RP,Aloha,77.6,19.3,0.519,0.258
+Xanthine,RP,PS,60.7,5.66,0.519,0.258

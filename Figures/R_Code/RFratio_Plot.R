@@ -55,3 +55,4 @@ rf.plot.1 <- ggplot(HQ.RF, aes(x = RFratio, fill = Fraction)) +
   geom_vline(xintercept = 0.9, alpha = 0.7, size = 1, linetype = "dashed") 
 rf.plot.1
 ggsave(filename = "Figures/Outputs/RFratio.pdf", width = 5, height = 5)
+

@@ -185,12 +185,37 @@ remove(list = ls())
 
 Section 5: Tables
 ```{r, echo=hide, message=FALSE, error = FALSE, warning=FALSE, results = "hide"}
-##Run Blk-QC Code for CX-SPE
-source("R_Code/EX_CX_HILIC_Blk_QC.R")
-remove(list = ls())
-source("R_Code/ES_CX_RP_Blk_QC.R")
+
+###Make Main Text Table 1: List of Compounds Extracted by CX-SPE
+source("Tables/R_Code/Main_Text_1.R")
 remove(list = ls())
 
+
+##Make Supplemental Table 1: Standards Details
+source("Tables/R_Code/Std_Details.R")
+remove(list = ls())
+
+
+###Make Supplemental Table 4: CX-SPE Extraction Efficiency Comparisons 
+source("Tables/R_Code/All_CX_EEs_Supplmental_Table_4.R")
+remove(list = ls())
+
+###Make Supplemental Table 5: PPL Extraction Efficiency Comparisons 
+source("Tables/R_Code/All_PPL_EEs_Supplemental_Table_5.R")
+remove(list = ls())
+
+
+###Make Supplemental Table 6: Untargeted Mass Feature List
+source("Tables/R_Code/Untargeted_MFs_Supp_Table.R")
+remove(list = ls())
+
+###Make Supplemental Table 7: CX-SPE Environmental Concentrations
+source("Tables/R_Code/CX_Enviro_Conc_SuppTable6.R")
+remove(list = ls())
+
+###Make Supplemental Table 8: PPL-SPE Environmental Concentrations 
+source("Tables/R_Code/PPL_Enviro_Conc_Supp_Table.R")
+remove(list = ls())
 
 ```
 

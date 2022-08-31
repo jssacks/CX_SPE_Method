@@ -53,7 +53,7 @@ dat.3 <- pivot_wider(dat.2, id_cols = c("MF", "Fraction", "mz", "Retention_time"
          "Tentative Compound ID" = Compound.ID) 
 
 #export
-write_csv(dat.2, file = "Tables/Output/Untargeted_MFs_supptable.csv")
+write_csv(dat.3, file = "Tables/Output/Untargeted_MFs_supptable.csv")
   
   
   

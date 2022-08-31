@@ -51,13 +51,14 @@ HQ.all.EE.2 <- left_join(HQ.all.EE.pvals, Ing.name.dat, by = "Compound.Name_old"
 
 ###Rename and tidy up table for export
 supp.table.4 <- HQ.all.EE.2 %>%
+  mutate(sample = str_replace(.$sample, "A", "Aloha")) %>%
   mutate(Fraction = case_when(Fraction == "Pos" ~ "HILIC Pos",
                               Fraction == "Neg" ~ "HILIC Neg",
                               Fraction == "RP" ~ "RP")) %>%
   mutate(Sample.Mean.EE = print(formatC(signif(Sample.Mean.EE,digits=3), digits=3,format="fg", flag="#"))) %>%
   mutate(Sample.SD.EE = print(formatC(signif(Sample.SD.EE,digits=3), digits=3,format="fg", flag="#"))) %>%
-  mutate(Pval.EE = print(formatC(signif(Pval.EE,digits=4), digits=4,format="fg", flag="#"))) %>%
-  mutate(Pval.rf = print(formatC(signif(Pval.rf,digits=4), digits=4,format="fg", flag="#"))) %>%
+  mutate(Pval.EE = print(formatC(signif(Pval.EE,digits=3), digits=3,format="fg", flag="#"))) %>%
+  mutate(Pval.rf = print(formatC(signif(Pval.rf,digits=3), digits=3,format="fg", flag="#"))) %>%
   rename("Compound" = Compound.Name,
          'Sample' = sample,
          "Mean EE (%)" = Sample.Mean.EE,

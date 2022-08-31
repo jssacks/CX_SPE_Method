@@ -67,12 +67,12 @@ conc.dat.2 <- left_join(conc.dat, Ing.name.dat, by = "Compound.Name_old") %>%
 ####tidy up data for supplemental table
 supp.dat <- conc.dat.2%>%
   select(-C, -N) %>%
-  mutate(mean.conc = print(formatC(signif(mean.conc,digits=3), digits=3,format="fg", flag="#"))) %>%
-  mutate(sd.mean.conc = print(formatC(signif(sd.mean.conc,digits=3), digits=3,format="fg", flag="#"))) %>%
-  mutate(mean.Nmol.C = print(formatC(signif(mean.Nmol.C,digits=3), digits=3,format="fg", flag="#"))) %>%
-  mutate(sd.Nmol.C = print(formatC(signif(sd.Nmol.C,digits=3), digits=3,format="fg", flag="#"))) %>%
-  mutate(mean.Nmol.N= print(formatC(signif(mean.Nmol.N,digits=3), digits=3,format="fg", flag="#"))) %>%
-  mutate(sd.Nmol.N= print(formatC(signif(sd.Nmol.N,digits=3), digits=3,format="fg", flag="#"))) %>%
+  mutate(mean.conc = print(formatC(signif(mean.conc,digits=2), digits=2,format="fg", flag="#"))) %>%
+  mutate(sd.mean.conc = print(formatC(signif(sd.mean.conc,digits=2), digits=2,format="fg", flag="#"))) %>%
+  mutate(mean.Nmol.C = print(formatC(signif(mean.Nmol.C,digits=2), digits=2,format="fg", flag="#"))) %>%
+  mutate(sd.Nmol.C = print(formatC(signif(sd.Nmol.C,digits=2), digits=2,format="fg", flag="#"))) %>%
+  mutate(mean.Nmol.N= print(formatC(signif(mean.Nmol.N,digits=2), digits=2,format="fg", flag="#"))) %>%
+  mutate(sd.Nmol.N= print(formatC(signif(sd.Nmol.N,digits=2), digits=2,format="fg", flag="#"))) %>%
   rename("Sample" = sample,
          "Mean Concentration (nM)" = mean.conc,
          "Standard Deviation of Concentration (nM)" = sd.mean.conc,
@@ -85,11 +85,12 @@ supp.dat <- conc.dat.2%>%
 ###Bring in LOD values:
 HILIC.LOD <- read_csv(HILIC.LOD.file) %>%
   select(Compound, EE.adjust.lod) %>%
-  mutate(EE.adjust.lod = print(formatC(signif(EE.adjust.lod,digits=3), digits=3,format="fg", flag="#"))) %>%
+  mutate(EE.adjust.lod = print(formatC(signif(EE.adjust.lod,digits=2), digits=2,format="fg", flag="#"))) %>%
   rename("Applied LOD threshold (nM)" = EE.adjust.lod)
 
 RP.LOD <- read_csv(RP.LOD.file)  %>%
   select(Compound, EE.adjust.lod) %>%
+  mutate(EE.adjust.lod = print(formatC(signif(EE.adjust.lod,digits=2), digits=2,format="fg", flag="#"))) %>%
   rename("Applied LOD threshold (nM)" = EE.adjust.lod)
 
 All.LOD <- rbind(HILIC.LOD, RP.LOD) %>%

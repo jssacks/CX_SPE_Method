@@ -1,251 +1,250 @@
-Compound,m/z,Ionization form,Column,Retention Time,Spike Concentration (uM),Supplier,Part Number,Status
-Glycine,76.039854,[M+H],HILIC,11.51,0.03121875,Sigma-Aldrich,4059-00,Neither Method
-L-Alanine,90.055504,[M+H],HILIC,11.3,0.03121875,Sigma-Aldrich,A7627-100G,CX-SPE only
-L-Arginine,175.119501,[M+H],HILIC,17.93,0.03121875,Sigma-Aldrich,A5006-100G,Neither Method
-L-Asparagine,133.061318,[M+H],HILIC,11.86,0.03121875,Sigma-Aldrich,A0884-10MG,CX-SPE only
-L-Aspartic acid,134.045334,[M+H],HILIC,12.86,0.03121875,Sigma-Aldrich,A9256-100G,CX-SPE only
-L-Cysteine,122.027576,[M+H],HILIC,7,0.025024038,Sigma-Aldrich,168149-2.5G,Neither Method
-L-Cystine,241.031677,[M+H],HILIC,13.1,0.03121875,Sigma-Aldrich,AA-SRM-NIST-2389a,CX-SPE only
-L-Glutamic acid,148.060984,[M+H],HILIC,12.41,0.03121875,Sigma-Aldrich,G1251-100G,CX-SPE only
-L-Glutamine,147.076968,[M+H],HILIC,11.7,0.03121875,Sigma-Aldrich,G8540-25G,CX-SPE only
-L-Histidine,156.077302,[M+H],HILIC,11.45,0.03121875,Sigma-Aldrich,H8000-10G,CX-SPE only
-L-Isoleucine,132.102454,[M+H],HILIC,8.17,0.03121875,Sigma-Aldrich,I2752-10G,Neither Method
-L-Kynurenine,209.092618,[M+H],RP,1.27,0.0025,Sigma-Aldrich,K8625-25MG,PPL-SPE only
-L-Leucine,132.102454,[M+H],HILIC,7.63,0.03121875,Sigma-Aldrich,L8000-25G,Neither Method
-L-Lysine,147.113353,[M+H],HILIC,17.5,0.03121875,Sigma-Aldrich,L5501-25G,CX-SPE only
-L-Methionine,150.058876,[M+H],HILIC,7.96,0.03121875,Sigma-Aldrich,M9625-5G,PPL-SPE only
-L-Phenylalanine,166.086804,[M+H],RP,1.15,0.0025,Sigma-Aldrich,P2126-100G,CX-SPE only
-L-Proline,116.071154,[M+H],HILIC,9.49,0.03121875,Sigma-Aldrich,P0380-100G,CX-SPE only
-L-Serine,106.050419,[M+H],HILIC,11.86,0.03121875,Sigma-Aldrich,S4500-100G,CX-SPE and PPL-SPE
-L-Threonine,120.066069,[M+H],HILIC,10.92,0.03121875,Sigma-Aldrich,T8625-10G,CX-SPE and PPL-SPE
-L-Tryptophan,205.097703,[M+H],RP,2.07,0.0025,Sigma-Aldrich,T0254-25G,PPL-SPE only
-L-Tyrosine,182.081719,[M+H],HILIC,9.76,0.03121875,Sigma-Aldrich,T3754-50G,CX-SPE and PPL-SPE
-L-Valine,118.086804,[M+H],HILIC,9.09,0.03121875,Sigma-Aldrich,1B1102-500G,Neither Method
-Hydroxyproline,132.066069,[M+H],HILIC,10.07,0.03121875,Sigma-Aldrich,H54409-2.5G,CX-SPE only
-L-Hydroxylysine,163.108268,[M+H],HILIC,16.37,0.03121875,Sigma-Aldrich,H0377-100MG,CX-SPE only
-4-Aminobutyric acid,104.071154,[M+H],HILIC,11.155,0.03121875,Sigma-Aldrich,A2129-25G,CX-SPE only
-Dimethylglycine,104.071154,[M+H],HILIC,8.97,0.03121875,Sigma-Aldrich,D1156-5G,CX-SPE only
-Glycine betaine,118.086804,[M+H],HILIC,7.86,0.03121875,Sigma-Aldrich,B2629-50G,CX-SPE only
-L-Cystathionine,223.075255,[M+H],HILIC,13.14,0.025024038,Sigma-Aldrich,C7505-10MG,Neither Method
-L-Homocysteine,136.043226,[M+H],HILIC,8.7,0.025024038,Sigma-Aldrich,69453-10MG,Neither Method
-S-Adenosylhomocysteine,385.129416,[M+H],RP,0.96,0.0025,Sigma-Aldrich,A9384-10MG,PPL-SPE only
-S-Adenosylmethionine,399.145066,[M+H],RP,0.71,0.0025,Sigma-Aldrich,A7007-5MG,Neither Method
-Shikimic acid,173.045,[M-H],HILIC,10.97,0.03121875,Sigma-Aldrich,S5375-10MG,Neither Method
-Chitobiose,425.177138,[M+H],HILIC,10.21,0.025024038,Sigma-Aldrich,D1523-100MG,Neither Method
-Monesin,693.418985,[M+H],RP,11.79,0.0025,Sigma-Aldrich,M5273-500MG,Neither Method
-Thiotropocin,212.968013,[M+H],RP,6.47,0.0025,Sigma-Aldrich,SML0735-5MG,Neither Method
-Glutathione,308.091634,[M+H],HILIC,12,0.03121875,Sigma-Aldrich,PHR1359-500MG,Neither Method
-Salicylic acid,137.02387,[M-H],HILIC,2.2,0.024975,Sigma-Aldrich,PHR1013-1G,CX-SPE only
-Trehalose,341.10839,[M-H],HILIC,13,0.025024038,Sigma-Aldrich,PHR1344-500MG,Neither Method
-Dihydroxyacetone phosphate,168.990203,[M-H],HILIC,12.86,0.031272837,Sigma-Aldrich,D7137-5MG,Neither Method
-Melatonin,233.129003,[M+H],RP,6.51,0.0025,Sigma-Aldrich,M5250-250MG,Neither Method
-(S)-3-Hydroxybutyryl-CoA,852.144174,[M-H],HILIC,11.545,0.024975,Sigma-Aldrich,H0261-10MG,Neither Method
-Acetoacetyl-CoA,850.128524,[M-H],HILIC,10.6,0.024975,Sigma-Aldrich,A1625-5MG,Neither Method
-Acetyl-CoA,808.117959,[M-H],HILIC,10.84,0.024975,Sigma-Aldrich,A2056-5MG,Neither Method
-Crotonoyl-CoA,834.133609,[M-H],HILIC,8.45,0.024975,Sigma-Aldrich,28007-5MG,Neither Method
-D-Methylmalonyl-CoA,866.123439,[M-H],HILIC,13.18,0.024975,Sigma-Aldrich,M1762-1MG,Neither Method
-Malonyl-CoA,852.107789,[M-H],HILIC,13.525,0.024975,Sigma-Aldrich,M4263-5MG,Neither Method
-Propionyl-CoA,822.133609,[M-H],HILIC,8.83,0.024975,Sigma-Aldrich,P5397-5MG,Neither Method
-Succinyl-CoA,866.123439,[M-H],HILIC,12.965,0.024975,Sigma-Aldrich,S1129-5MG,Neither Method
-Adenosine diphosphate,426.021596,[M-H],HILIC,12.09,0.031272837,Sigma-Aldrich,01905-250MG-F,Neither Method
-Adenosine monophosphate,346.055262,[M-H],HILIC,11.585,0.031272837,Sigma-Aldrich,01930-5G,CX-SPE only
-Adenosine triphosphate,505.987929,[M-H],HILIC,15.35,0.031272837,Sigma-Aldrich,A2383-1G,Neither Method
-Guanosine monophosphate,362.050178,[M-H],HILIC,13.85,0.025024038,Sigma-Aldrich,G8377-500MG,Neither Method
-Guanosine triphosphate,521.982844,[M-H],HILIC,16.58,0.025024038,Sigma-Aldrich,G8877-10MG,Neither Method
-Sarcosine,90.055504,[M+H],HILIC,10.6,0.025024038,Sigma-Aldrich,S7672-10MG,CX-SPE only
-"3',5'-Cyclic AMP",328.044698,[M-H],HILIC,4.06,0.031272837,Sigma-Aldrich,A6885-25MG,CX-SPE and PPL-SPE
-"3',5'-Cyclic diGMP",689.087051,[M-H],HILIC,13.74,0.025024038,Sigma-Aldrich,SML1228-1UMO,Neither Method
-"3',5'-Cyclic GMP",344.039613,[M-H],HILIC,8.8,0.031272837,Sigma-Aldrich,G6129-25MG,PPL-SPE only
-"2,5-Dihydroxybenzoic acid",153.018785,[M-H],HILIC,4.08,0.030028846,Sigma-Aldrich,149357-10G,PPL-SPE only
-4-Aminobenzoic acid,138.055503,[M+H],RP,2,0.0025,Sigma-Aldrich,A9878-5G,Neither Method
-Acetosyringone,197.081385,[M+H],RP,5.765,0.0025,Sigma-Aldrich,D134406-1G,Neither Method
-Acetovanillone,167.07082,[M+H],RP,5.38,0.0025,Sigma-Aldrich,73536-100MG,Neither Method
-Ethyl aminobenzoate,166.086804,[M+H],RP,3.365,0.0025,Sigma-Aldrich,E10505-5G,Neither Method
-Ethyl dihydroxybenzoate,181.050085,[M-H],HILIC,2.08,0.025024038,Sigma-Aldrich,541052-1G,Neither Method
-Ferulic acid,195.065735,[M+H],RP,5.97,0.0025,Sigma-Aldrich,1270311-25MG,Neither Method
-p-Coumaric acid,165.05517,[M+H],RP,5.385,0.0025,Sigma-Aldrich,C9008-1G,Neither Method
-Sinapic acid,225.0763,[M+H],RP,5.985,0.0025,Sigma-Aldrich,D7927-1G,Neither Method
-Syringaldehyde,183.065735,[M+H],RP,5.48,0.0025,Sigma-Aldrich,S7602-5G,Neither Method
-Syringic acid,199.06065,[M+H],RP,4.88,0.0025,Sigma-Aldrich,S6881-5G,Neither Method
-trans-Cinnamic acid,131.04969,[M-OH],RP,6.2,0.0025,Sigma-Aldrich,C80857-5G,Neither Method
-Vanillic acid,169.050085,[M+H],RP,4.115,0.0025,Sigma-Aldrich,94770-10G,CX-SPE only
-Vanillin,153.05517,[M+H],RP,4.69,0.0025,Sigma-Aldrich,V1104-2G,Neither Method
-2-Hydroxy-4-(methylthio)butyric acid,149.027242,[M-H],HILIC,2.69,0.031316106,Cambridge Chemicals,CHM0094455,Neither Method
-2-keto-4-methylthiobutyric acid,147.011592,[M],HILIC,2.59,0.031316106,Sigma-Aldrich,K6000-10MG,Neither Method
-Carnitine,162.113019,[M+H],HILIC,10.21,0.006263221,Sigma-Aldrich,C0283-10MG,PPL-SPE only
-Citrulline,176.103517,[M+H],HILIC,12.21,0.025052885,Sigma-Aldrich,C7629-10MG,CX-SPE only
-"Cys-Gly, oxidized",355.074605,[M+H],HILIC,11.85,0.025052885,Sigma-Aldrich,C9187-5MG,PPL-SPE only
-Homocysteine thiolactone,118.032661,[M+H],HILIC,2.78,0.025052885,Sigma-Aldrich,H6503-100MG,Neither Method
-L-Arginosuccinic acid,291.13046,[M+H],HILIC,13.69,0.025052885,Sigma-Aldrich,A5707-10MG,CX-SPE only
-L-Cysteinylglycine,179.04904,[M+H],RP,0.72,0.0025,Sigma-Aldrich,C0166-25MG,Neither Method
-L-Homocystine,269.062977,[M+H],HILIC,12.58,0.025052885,Sigma-Aldrich,H6010-100MG,Neither Method
-L-Homoserine,120.066069,[M+H],HILIC,11.32,0.025052885,Sigma-Aldrich,H6515-10MG,CX-SPE only
-L-Methionine S-oxide,166.053791,[M+H],HILIC,9.73,0.025052885,Sigma-Aldrich,M1126-1G,CX-SPE and PPL-SPE
-L-Ornithine,133.097703,[M+H],HILIC,16.79,0.031316106,Sigma-Aldrich,O2375-10MG,CX-SPE only
-N6-Acetyl-L-lysine,189.123918,[M+H],HILIC,9.71,0.025052885,Sigma-Aldrich,A4021-1G,CX-SPE only
-O-Acetyl-L-serine,148.060984,[M+H],HILIC,6.27,0.025052885,Sigma-Aldrich,A6262-10MG,Neither Method
-Proline betaine,144.102454,[M+H],HILIC,7.18,0.003131611,Santa Cruz Biotechnology,sc-296420,CX-SPE only
-Sucrose,341.10839,[M-H],HILIC,11.93,0.031316106,Sigma-Aldrich,S0389-500G,PPL-SPE only
-Trigonelline,138.055503,[M+H],HILIC,8.36,0.003131611,Sigma-Aldrich,T5509-1G,CX-SPE only
-5-Oxoproline,128.034768,[M-H],HILIC,7.97,0.024975,Sigma-Aldrich,83160-25G,CX-SPE and PPL-SPE
-Butyrylcarnitine,232.154884,[M+H],HILIC,4.47,0.024975,Sigma-Aldrich,42623-10MG,CX-SPE and PPL-SPE
-Glucosamine,180.087199,[M+H],HILIC,9.97,0.03121875,Sigma-Aldrich,PHR1199-500MG,CX-SPE only
-Glycerophosphocholine,258.110652,[M],HILIC,10.86,0.024975,Sigma-Aldrich,G5291-10MG,CX-SPE only
-O-Acetylcarnitine,204.123584,[M+H],HILIC,7.22,0.024975,Sigma-Aldrich,A6706-1G,PPL-SPE only
-Ophthalmic acid,290.135212,[M+H],HILIC,10.73,0.03121875,Sigma-Aldrich,91351-10MG,CX-SPE and PPL-SPE
-O-Propionylcarnitine,218.139234,[M+H],HILIC,5.63,0.024975,Sigma-Aldrich,42602-10MG,PPL-SPE only
-Trimethylamine,60.081324,[M+H],HILIC,5.96,0.0624375,Sigma-Aldrich,41284-100MG,Neither Method
-Trimethylamine N-oxide,76.076239,[M+H],HILIC,6.59,0.024975,Sigma-Aldrich,317594-1G,CX-SPE only
-Allopurinol,135.030686,[M-H],HILIC,4.16,0.025019231,Sigma-Aldrich,A8003-5G,CX-SPE and PPL-SPE
-Arsenobetaine,179.005326,[M+H],HILIC,7.06,0.025019231,Santa Cruz Biotechnology,sc-227279,CX-SPE only
-beta-Alanine,90.055504,[M+H],HILIC,11.39,0.025019231,Sigma-Aldrich,A9920-10MG,CX-SPE only
-Betonicine,160.097369,[M+H],HILIC,8.45,0.025019231,Santa Cruz Biotechnology,sc-291986,CX-SPE only
-Deoxyadenosine,252.109665,[M+H],HILIC,3.44,0.025019231,Sigma-Aldrich,D7400-500MG,Neither Method
-Dimethylsulfonioacetate,121.032327,[M],HILIC,8.39,0.012509615,"Dr. Georg Pohnert, Germany",NA,CX-SPE only
-Gonyol,179.074191,[M+H],HILIC,10.74,0.012509615,"Dr. Georg Pohnert, Germany",NA,CX-SPE and PPL-SPE
-Hordenine,166.123189,[M+H],HILIC,3.34,0.025019231,Santa Cruz Biotechnology,sc-279195,CX-SPE and PPL-SPE
-Hydroxyisoleucine,148.097369,[M+H],HILIC,8.34,0.025019231,Sigma-Aldrich,49549-10MG,CX-SPE and PPL-SPE
-Inosine,267.072946,[M-H],HILIC,7.57,0.025019231,Sigma-Aldrich,I4125-1G,CX-SPE and PPL-SPE
-Lactose,341.10839,[M-H],HILIC,12.53,0.025019231,Sigma-Aldrich,PHR1025-1G,Neither Method
-Maltose,341.10839,[M-H],HILIC,12.31,0.025019231,Sigma-Aldrich,PHR1497-1G,Neither Method
-Melamine,127.073219,[M+H],HILIC,6.68,0.025019231,Sigma-Aldrich,M2659-5G,CX-SPE and PPL-SPE
-O-Methylmalonyl-L-carnitine,262.129063,[M+H],HILIC,9.67,0.025019231,Toronto Research Chemicals,M318900,CX-SPE and PPL-SPE
-Succinic semialdehyde,101.02387,[M-H],HILIC,6.51,0.025019231,Santa Cruz Biotechnology,sc-281158�,PPL-SPE only
-Sulfanilic acid,172.006841,[M-H],HILIC,7.23,0.025019231,Santa Cruz Biotechnology,sc-212977,PPL-SPE only
-Urocanic acid,137.035103,[M-H],HILIC,8.16,0.025019231,Sigma-Aldrich,859796-5G,CX-SPE only
-Acetylcholine,146.118104,[M],HILIC,13.37,0.025096154,Sigma-Aldrich,A6625-10MG,Neither Method
-beta-Alaninebetaine,132.1018,[M+H],HILIC,9.38,0.025096154,Ingalls Lab,NA,CX-SPE only
-L-Cysteinesulfinic acid,152.001756,[M-H],HILIC,10.74,0.031370192,Sigma-Aldrich,C4418-100MG,Neither Method
-5-Methylcytosine,126.066737,[M+H],HILIC,5.53,0.025096154,Sigma-Aldrich,M6751-250MG,CX-SPE only
-Anserine,241.130066,[M+H],HILIC,8.55,0.025096154,Santa Cruz Biotechnology,sc-207792A,Neither Method
-beta-Glutamic acid,148.060984,[M+H],HILIC,11.9,0.025096154,Sigma-Aldrich,G1763-50MG,CX-SPE and PPL-SPE
-Carnosine,227.114416,[M+H],HILIC,10.47,0.025096154,Sigma-Aldrich,C9625-10MG,CX-SPE only
-Hypoxanthine,137.046336,[M+H],HILIC,5.51,0.025096154,Sigma-Aldrich,H9377-1G,CX-SPE only
-"N6,N6,N6-Trimethyl-L-lysine",189.160303,[M+H],HILIC,17.14,0.025096154,Sigma-Aldrich,T1660-25MG,Neither Method
-N6-Methyladenine,150.07797,[M+H],HILIC,3.97,0.025096154,Santa Cruz Biotechnology,sc-236150,CX-SPE and PPL-SPE
-N-Acetyl-D-glucosamine,222.097764,[M+H],HILIC,8.55,0.037644231,Sigma-Aldrich,A8625-10MG,Neither Method
-N-Acetylmuramic acid,294.118894,[M+H],HILIC,3.35,0.031370192,Sigma-Aldrich,A3007-10MG,PPL-SPE only
-(3-Carboxypropyl)trimethylammonium,146.118104,[M],HILIC,9.91,0.025052885,Sigma-Aldrich,403245-1G,CX-SPE only
-"2,3-Pyridinedicarboxylic acid",168.029684,[M+H],HILIC,10.17,0.031316106,Sigma-Aldrich,P63808-25G,Neither Method
-Acetylglycine,116.034769,[M-H],HILIC,7.81,0.031316106,Sigma-Aldrich,A16300-5G,Neither Method
-Butyrylglycine,144.066069,[M-H],HILIC,2.92,0.025052885,Sigma-Aldrich,94274-10MG,PPL-SPE only
-Ergothioneine,230.096324,[M+H],HILIC,11.29,0.025052885,Santa Cruz Biotechnology,sc-200814,Neither Method
-Glutamylphenylalanine,295.129398,[M+H],HILIC,9.55,0.025052885,Santa Cruz Biotechnology,sc-488719,CX-SPE and PPL-SPE
-N-Acetyl-L-glutamic acid,188.055899Ãƒâ€šÃ‚Â ,[M-H],HILIC,11.84,0.025052885,Sigma-Aldrich,855642-25G,PPL-SPE only
-Propionylglycine,130.050419,[M-H],HILIC,5.52,0.031316106,Sigma-Aldrich,92986-10MG,PPL-SPE only
-Succinylglycine,176.055899,[M+H],HILIC,12.58,0.025052885,Sigma-Aldrich,01883-10MG,PPL-SPE only
-Threonic acid,135.02935,[M-H],HILIC,10.37,0.025052885,Sigma-Aldrich,79272-10MG,Neither Method
-Adenine,136.06232,[M+H],HILIC,4.72,0.024975,Sigma-Aldrich,104965-5G,CX-SPE and PPL-SPE
-Cytosine,112.051087,[M+H],HILIC,7.41,0.031272837,Sigma-Aldrich,C3506-1G,CX-SPE only
-Guanine,152.057235,[M+H],HILIC,8.61,0.025024038,Sigma-Aldrich,G11950-10G,CX-SPE and PPL-SPE
-Thymine,125.035103,[M-H],HILIC,3.02,0.031272837,Sigma-Aldrich,T0376-5G,PPL-SPE only
-Uracil,111.019453,[M-H],HILIC,4,0.031272837,Sigma-Aldrich,U0750-5G,Neither Method
-Adenosine,268.10458,[M+H],HILIC,4.46,0.031272837,Sigma-Aldrich,A9251-1G,CX-SPE and PPL-SPE
-Cytidine,244.093347,[M+H],HILIC,8.55,0.031272837,Sigma-Aldrich,C4654-1G,CX-SPE only
-Guanosine,284.099495,[M+H],HILIC,9.06,0.031272837,Sigma-Aldrich,G6752-1G,CX-SPE and PPL-SPE
-Thymidine,241.082448,[M-H],HILIC,3.27,0.024975,Sigma-Aldrich,89270-1G,PPL-SPE only
-Uridine,243.061713,[M-H],HILIC,6.02,0.031272837,Sigma-Aldrich,U3750-1G,PPL-SPE only
-UDP-glucose,565.047204,[M-H],HILIC,13.59,0.025024038,Santa Cruz Biotechnology,sc-222402A,Neither Method
-UDP-N-acetylglucosamine,606.073753,[M-H],HILIC,12.75,0.025024038,Sigma-Aldrich,U4375-25MG,Neither Method
-2-Ketoglutaric acid,145.0137,[M-H],HILIC,10.845,0.024975,Sigma-Aldrich,75890-25G,Neither Method
-cis-Aconitic acid,173.008615,[M-H],HILIC,14.21,0.024975,Sigma-Aldrich,A3412-1G,PPL-SPE only
-Citric acid,191.01918,[M-H],HILIC,15.65,0.031272837,Sigma-Aldrich,W302600-SAMPLE-K,Neither Method
-D-Gluconic acid,195.05048,[M-H],HILIC,10.79,0.025024038,Sigma-Aldrich,G9005-10MG,Neither Method
-Fumaric acid,115.003135,[M-H],HILIC,12.7,0.024975,Sigma-Aldrich,47910-5G,Neither Method
-Isocitric acid,191.01918,[M-H],HILIC,15.65,0.024975,Sigma-Aldrich,I1252-1G,Neither Method
-Lipoic acid,205.035699,[M-H],HILIC,2.42,0.024975,Sigma-Aldrich,T5625-500MG,Neither Method
-Malic acid,133.0137,[M-H],HILIC,11.97,0.024975,Sigma-Aldrich,PHR1273-1G,Neither Method
-Orotic acid,155.009283,[M-H],HILIC,4.195,0.024975,Sigma-Aldrich,O2750-10G,Neither Method
-Oxalic acid,88.987485,[M-H],HILIC,13.235,0.024975,Sigma-Aldrich,194131-5G,Neither Method
-Phosphoenolpyruvic acid,166.974553,[M-H],HILIC,13.865,0.024975,Sigma-Aldrich,P7127-100MG,Neither Method
-Succinic acid,117.018785,[M-H],HILIC,11.9,0.024975,Sigma-Aldrich,W327700-SAMPLE-K,PPL-SPE only
-Creatine,132.077302,[M+H],HILIC,11.34,0.03121875,Sigma-Aldrich,C0780-10MG,CX-SPE only
-2-O-alpha-D-Glucosylglycerol,255.107995,[M+H],HILIC,10.1,0.025024038,Santa Cruz Biotechnology,sc-211562,Neither Method
-5-Hydroxyectoine,159.076968,[M+H],HILIC,11.07,7.81821e-4,Sigma-Aldrich,70709-1G-F,CX-SPE only
-Ectoine,143.082053,[M+H],HILIC,9.25,0.050048077,Sigma-Aldrich,81619-1G-F,CX-SPE only
-Ectoine,143.082053,[M+H],HILIC,9.25,0.031272837,Sigma-Aldrich,81619-1G-F,CX-SPE only
-Homarine,138.055503,[M+H],HILIC,6.19,0.025024038,Santa Cruz Biotechnology,sc-470671,CX-SPE only
-Muramic acid,252.108329,[M+H],HILIC,11,0.03121875,Sigma-Aldrich,M2503-5MG,CX-SPE only
-3-Indoleacetonitrile,157.076573,[M+H],RP,7.09,0.0075,Sigma-Aldrich,129453-5G,Neither Method
-3-Indolepropionic acid,190.08626,[M+H],RP,6.66,0.0025,Sigma-Aldrich,220027-1G,Neither Method
-Abscisic acid,247.13342,[M-OH],RP,6.7,0.0025,Sigma-Aldrich,A1049-100MG,CX-SPE and PPL-SPE
-Camalexin,201.048645,[M+H],RP,6.96,0.0025,Sigma-Aldrich,SML1016-5MG,Neither Method
-Indole-3-acetamide,175.087138,[M+H],RP,4.02,0.0025,Sigma-Aldrich,286281-5G,PPL-SPE only
-Indole-3-acetic acid,176.071154,[M+H],RP,5.41,0.0025,Sigma-Aldrich,I2886-5G,CX-SPE only
-Indole-3-carbinol,146.060589,[M-H],HILIC,2.395,0.025024038,Sigma-Aldrich,I7256-1G,Neither Method
-Indole-3-carboxylic acid,162.055503,[M+H],RP,5.44,0.0025,Sigma-Aldrich,284734-1G,PPL-SPE only
-Indole-3-methyl acetate,190.086804,[M+H],RP,7.31,0.0025,Sigma-Aldrich,I9770-1G,Neither Method
-Indolebutyric acid,204.10191,[M+H],RP,7.45,0.0025,Sigma-Aldrich,I5386-1G,Neither Method
-Indolelactate,206.081719,[M+H],RP,4.65,0.0025,Sigma-Aldrich,I5508-250MG-A,Neither Method
-Indolepyruvic acid,202.050419,[M-H],HILIC,2.375,0.025024038,Sigma-Aldrich,I7017-1G,Neither Method
-Kinetin,216.088535,[M+H],RP,3.37,0.0025,Sigma-Aldrich,K3378-1G,Neither Method
-Methyl indole-3-carboxylate,176.071154,[M+H],RP,7.25,0.0025,Sigma-Aldrich,395307-25G,Neither Method
-Tryptamine,161.107872,[M+H],RP,2.55,0.0025,Sigma-Aldrich,193747-10G,PPL-SPE only
-Tryptophol,162.091889,[M+H],RP,5.33,0.0025,Sigma-Aldrich,T90301-5G,Neither Method
-Caffeine,195.088201,[M+H],RP,3.85,0.0025,Sigma-Aldrich,C0750-5G,Neither Method
-Xanthine,153.041251,[M+H],RP,1.11,0.0025,Sigma-Aldrich,X7375-10G,CX-SPE and PPL-SPE
-Coenzyme Q1,251.128335,[M+H],RP,9.35,0.0025,Sigma-Aldrich,C7956-2MG,Neither Method
-"2-(3,5-Dichlorophenylcarbamoyl)-1,2-dimethylcyclopropane-1-carboxylic acid",232.097369,[M+H],RP,6.425,0.0025,"C. Harwood laboratory, University of Washington",NA,Neither Method
-2-Heptyl-3-hydroxy-quinolone,260.165054,[M+H],HILIC,2.16,0.03121875,Sigma-Aldrich,94398-10MG,Neither Method
-2-Heptyl-4(1H)-quinolone,244.170139,[M+H],RP,11.02,0.0025,Sigma-Aldrich,SML0747-10mg,Neither Method
-N-(3-Oxodecanoyl)homoserine lactone,270.170534,[M+H],RP,8.255,0.0025,Sigma-Aldrich,O9014-10MG,Neither Method
-N-(3-Oxododecanoyl)homoserine lactone,298.201834,[M+H],RP,9.75,0.0025,Sigma-Aldrich,O9139-10MG,Neither Method
-N-(3-Oxohexanoyl)homoserine lactone,214.107934,[M+H],RP,1.96,0.0025,Sigma-Aldrich,K3007-10MG,PPL-SPE only
-N-(3-Oxooctanoyl)homoserine lactone,242.139234,[M+H],RP,5.28,0.0025,Sigma-Aldrich,O1639-25MG,PPL-SPE only
-N-(3-Oxooctanoyl)homoserine lactone,242.139234,[M+H],RP,5.28,0.0025,Sigma-Aldrich,O1639-25MG,PPL-SPE only
-N-(4-Coumaroyl)-L-homoserine lactone,248.092284,[M+H],RP,5.46,0.0025,Sigma-Aldrich,07077-50MG,PPL-SPE only
-N-Butyryl-L-homoserine lactone,172.097369,[M+H],RP,1.47,0.0025,Sigma-Aldrich,09945-25MG,PPL-SPE only
-N-Decanoyl-L-homoserine lactone,256.191269,[M+H],RP,9.21,0.0025,Sigma-Aldrich,07028-10MG,Neither Method
-N-Hexanoyl-L-homoserine lactone,200.128669,[M+H],RP,4.06,0.0025,Sigma-Aldrich,56395-10MG,PPL-SPE only
-N-Octanoyl-L-homoserine lactone,228.159969,[M+H],RP,7.36,0.0025,Sigma-Aldrich,44558-10MG,Neither Method
-N-Tetradecanoyl-DL-homoserine lactone,312.253869,[M+H],RP,11.4,0.0025,Sigma-Aldrich,10937-25MG,Neither Method
-Flavin adenine dinucleotide,784.149317,[M-H],HILIC,7.585,0.031272837,Sigma-Aldrich,F6625-10MG,Neither Method
-Glycerophosphoric acid,171.005853,[M-H],HILIC,13.065,0.025024038,Sigma-Aldrich,94124-10MG,CX-SPE only
-Glycerophosphoric acid,171.005853,[M-H],HILIC,13.065,0.0624375,Sigma-Aldrich,94124-10MG,CX-SPE only
-"NAD",662.101304,[M-H],HILIC,10.6,0.031272837,Sigma-Aldrich,N7004-250MG,Neither Method
-"NADH",664.116954,[M-H],HILIC,11.26,0.025024038,Sigma-Aldrich,10 107 735 001 500mg,Neither Method
-"NADP",742.067637,[M-2H],HILIC,12.74,0.025024038,Sigma-Aldrich,10 128 031 001 100mg,Neither Method
-"NADPH",744.083287,[M],HILIC,13.345,0.031272837,Sigma-Aldrich,N1630-25MG,Neither Method
-Riboflavin-5-phosphate,457.112444,[M+H],HILIC,8.6,0.031272837,Sigma-Aldrich,F2253-10MG,CX-SPE and PPL-SPE
-3-Phosphoglycerate,184.985118,[M-H],HILIC,14.755,0.0624375,Sigma-Aldrich,P8877-10MG,Neither Method
-3-Phosphoglycerate,184.985118,[M-H],HILIC,14.755,0.031272837,Sigma-Aldrich,P8877-10MG,Neither Method
-D-Fructose 6-phosphate,259.021897,[M-H],HILIC,13.51,0.024975,Sigma-Aldrich,F3627-10MG,Neither Method
-D-Glucose 1-phosphate,259.021897,[M-H],HILIC,13.45,0.031272837,Sigma-Aldrich,G7000-1G,Neither Method
-D-Glucose 6-phosphate,259.021897,[M-H],HILIC,14.12,0.024975,Sigma-Aldrich,G7879-500MG,Neither Method
-D-Ribose 5-phosphate,229.011333,[M-H],HILIC,13.29,0.031272837,Sigma-Aldrich,R7750-10MG,Neither Method
-"(R)-2,3-Dihydroxypropane-1-sulfonate",155.001422,[M-H],HILIC,10.67,0.025024038,"A. Bourdon and S. Champagna, University of Tennessee, Knoxville",NA,Neither Method
-1-Propanesulfonate,123.011592,[M],HILIC,2.81,0.031272837,Santa Cruz Biotechnology,sc-272474,Neither Method
-3-Sulfopyruvic acid,166.965037,[M-H],HILIC,12.92,0.025024038,Sigma-Aldrich,39584-10MG,Neither Method
-Dimethylsulfoniopropionate,135.047977,[M+H],HILIC,9.325,0.025024038,Sigma-Aldrich,80828-100MG,CX-SPE only
-Ethanesulfonic acid,108.995942,[M-H],HILIC,4.29,0.031272837,Sigma-Aldrich,186260-5G,Neither Method
-Glutathione disulfide,613.159793,[M+H],HILIC,14.98,0.031272837,Sigma-Aldrich,G4376-500MG,PPL-SPE only
-Hypotaurine,110.027576,[M+H],HILIC,11.36,0.031272837,Sigma-Aldrich,H1384-10MG,Neither Method
-Isethionic acid,124.990857,[M-H],HILIC,7.2,0.025024038,Sigma-Aldrich,220078-25G,Neither Method
-L-Cysteic acid,167.996671,[M-H],HILIC,12.15,0.025024038,Sigma-Aldrich,30170-10G,Neither Method
-Methylthioadenosine,298.097387,[M+H],RP,2.1,0.0025,Sigma-Aldrich,D5011-25MG,PPL-SPE only
-N-Acetyltaurine,166.017406,[M-H],HILIC,3.74,0.025024038,"A. Cook and K. Denger, University of Konstanz, Germany",NA,Neither Method
-N-Methyltaurine,140.038141,[M+H],HILIC,6.06,0.031272837,Santa Cruz Biotechnology,sc-487851,Neither Method
-Sodium 2-mercaptoethanesulfonate,140.968013,[M],HILIC,2.67,0.025024038,Sigma-Aldrich,M1511-5G,Neither Method
-Sulfoacetic acid,138.970122,[M-H],HILIC,13.9,0.025024038,Sigma-Aldrich,242802-5G,Neither Method
-Taurine,124.006841,[M-H],HILIC,11.13,0.025024038,Sigma-Aldrich,T0625-10G,Neither Method
-Domoic acid,312.144714,[M+H],RP,2.72,0.0025,Sigma-Aldrich,D6152-5MG,PPL-SPE only
-5-(2-Hydroxyethyl)-4-methylthiazole,144.048311,[M+H],RP,1,0.0025,Sigma-Aldrich,PHR3365-50MG,PPL-SPE only
-Biotin,245.09599,[M+H],RP,3.75,0.0025,Sigma-Aldrich,B4639-1G,PPL-SPE only
-Desthiobiotin,215.139568,[M+H],RP,4.5,0.0025,Sigma-Aldrich,D1411-500MG,CX-SPE and PPL-SPE
-Folic acid,442.147508,[M+H],RP,4.51,0.0025,Sigma-Aldrich,F8758-5G,PPL-SPE only
-Nicotinic acid,124.039854,[M+H],RP,0.88,0.0025,Sigma-Aldrich,N4126-5G,CX-SPE and PPL-SPE
-Pantothenic acid,220.118498,[M+H],RP,1.17,0.0025,Sigma-Aldrich,21210-5G-F,PPL-SPE only
-Pyridoxal,168.066069,[M+H],RP,0.86,0.0025,Sigma-Aldrich,P9130-500MG,PPL-SPE only
-Pyridoxal phosphate,248.032402,[M+H],RP,0.78,0.0025,Sigma-Aldrich,P9255-1G,PPL-SPE only
-Pyridoxamine,169.097703,[M+H],RP,0.65,0.0025,Sigma-Aldrich,P9380-1G,CX-SPE only
-Pyridoxine,170.081719,[M+H],RP,0.88,0.0025,Sigma-Aldrich,P6280-10G,PPL-SPE only
-Riboflavin,377.146111,[M+H],RP,4.39,0.0025,Sigma-Aldrich,R9504-25G,PPL-SPE only
-Thiamine,265.112308,[M],RP,0.69,0.0025,Sigma-Aldrich,T4625-5G,PPL-SPE only
-Thiamine diphosphate,425.044974,[M],HILIC,13.765,0.03121875,Spectrum Chemical,700011-508,Neither Method
-Thiamine monophosphate,345.078641,[M],HILIC,11.5,0.03121875,Spectrum Chemical,T1208-5GM,Neither Method
-Choline,104.107539,[M],HILIC,15.265,0.03121875,Sigma-Aldrich,C7017-10MG,Neither Method
-Adenosylcobalamin,790.3367,[2M+H],RP,5.4,0.0025,Sigma-Aldrich,C0884-25MG,Neither Method
-Cyanocobalamin,678.2894,[2M+H],RP,5.02,0.0025,Sigma-Aldrich,PHR1234-1G,Neither Method
-Hydroxocobalamin,664.7861,[2M-OH],RP,4.35,0.0025,Sigma-Aldrich,H1428000,Neither Method
-Methylcobalamin,672.8011,[2M+H],RP,6.29,0.0025,Sigma-Aldrich,M9756-25MG,Neither Method
-Dimethylbenzimidazole,147.092223,[M+H],RP,3.38,0.0025,Sigma-Aldrich,D147206-25G,Neither Method
+Compound,m/z,Ionization form,Column,Retention Time,Spike Concentration (nM),Supplier,Part Number,Status
+(3-Carboxypropyl)trimethylammonium,146.118104,[M],HILIC,9.91,25.1,Sigma-Aldrich,403245-1G,CX-SPE only
+"(R)-2,3-Dihydroxypropane-1-sulfonate",155.001422,[M-H],HILIC,10.7,25.0,"A. Bourdon and S. Champagna, University of Tennessee, Knoxville",NA,Neither Method
+(S)-3-Hydroxybutyryl-CoA,852.144174,[M-H],HILIC,11.5,25.0,Sigma-Aldrich,H0261-10MG,Neither Method
+1-Propanesulfonate,123.011592,[M],HILIC,2.81,31.3,Santa Cruz Biotechnology,sc-272474,Neither Method
+"2-(3,5-Dichlorophenylcarbamoyl)-1,2-dimethylcyclopropane-1-carboxylic acid",232.097369,[M+H],RP,6.42,2.50,"C. Harwood laboratory, University of Washington",NA,PPL-SPE only
+2-Heptyl-3-hydroxy-quinolone,260.165054,[M+H],HILIC,2.16,31.2,Sigma-Aldrich,94398-10MG,Neither Method
+2-Heptyl-4(1H)-quinolone,244.170139,[M+H],RP,11.0,2.50,Sigma-Aldrich,SML0747-10mg,Neither Method
+2-Hydroxy-4-(methylthio)butyric acid,149.027242,[M-H],HILIC,2.69,31.3,Cambridge Chemicals,CHM0094455,Neither Method
+2-keto-4-methylthiobutyric acid,147.011592,[M],HILIC,2.59,31.3,Sigma-Aldrich,K6000-10MG,Neither Method
+2-Ketoglutaric acid,145.0137,[M-H],HILIC,10.8,25.0,Sigma-Aldrich,75890-25G,Neither Method
+2-O-alpha-D-Glucosylglycerol,255.107995,[M+H],HILIC,10.1,25.0,Santa Cruz Biotechnology,sc-211562,Neither Method
+"2,3-Pyridinedicarboxylic acid",168.029684,[M+H],HILIC,10.2,31.3,Sigma-Aldrich,P63808-25G,Neither Method
+"2,5-Dihydroxybenzoic acid",153.018785,[M-H],HILIC,4.08,30.0,Sigma-Aldrich,149357-10G,PPL-SPE only
+3-Indoleacetonitrile,157.076573,[M+H],RP,7.09,7.50,Sigma-Aldrich,129453-5G,Neither Method
+3-Indolepropionic acid,190.08626,[M+H],RP,6.66,2.50,Sigma-Aldrich,220027-1G,Neither Method
+3-Phosphoglycerate,184.985118,[M-H],HILIC,14.8,62.4,Sigma-Aldrich,P8877-10MG,Neither Method
+3-Phosphoglycerate,184.985118,[M-H],HILIC,14.8,31.3,Sigma-Aldrich,P8877-10MG,Neither Method
+3-Sulfopyruvic acid,166.965037,[M-H],HILIC,12.9,25.0,Sigma-Aldrich,39584-10MG,Neither Method
+"3',5'-Cyclic AMP",328.044698,[M-H],HILIC,4.06,31.3,Sigma-Aldrich,A6885-25MG,CX-SPE and PPL-SPE
+"3',5'-Cyclic diGMP",689.087051,[M-H],HILIC,13.7,25.0,Sigma-Aldrich,SML1228-1UMO,Neither Method
+"3',5'-Cyclic GMP",344.039613,[M-H],HILIC,8.80,31.3,Sigma-Aldrich,G6129-25MG,PPL-SPE only
+4-Aminobenzoic acid,138.055503,[M+H],RP,2.00,2.50,Sigma-Aldrich,A9878-5G,Neither Method
+4-Aminobutyric acid,104.071154,[M+H],HILIC,11.2,31.2,Sigma-Aldrich,A2129-25G,CX-SPE only
+5-(2-Hydroxyethyl)-4-methylthiazole,144.048311,[M+H],RP,1.00,2.50,Sigma-Aldrich,PHR3365-50MG,PPL-SPE only
+5-Hydroxyectoine,159.076968,[M+H],HILIC,11.1,0.782,Sigma-Aldrich,70709-1G-F,CX-SPE only
+5-Methylcytosine,126.066737,[M+H],HILIC,5.53,25.1,Sigma-Aldrich,M6751-250MG,CX-SPE only
+5-Oxoproline,128.034768,[M-H],HILIC,7.97,25.0,Sigma-Aldrich,83160-25G,CX-SPE and PPL-SPE
+Abscisic acid,247.13342,[M-OH],RP,6.70,2.50,Sigma-Aldrich,A1049-100MG,CX-SPE and PPL-SPE
+Acetoacetyl-CoA,850.128524,[M-H],HILIC,10.6,25.0,Sigma-Aldrich,A1625-5MG,Neither Method
+Acetosyringone,197.081385,[M+H],RP,5.76,2.50,Sigma-Aldrich,D134406-1G,PPL-SPE only
+Acetovanillone,167.07082,[M+H],RP,5.38,2.50,Sigma-Aldrich,73536-100MG,PPL-SPE only
+Acetyl-CoA,808.117959,[M-H],HILIC,10.8,25.0,Sigma-Aldrich,A2056-5MG,Neither Method
+Acetylcholine,146.118104,[M],HILIC,13.4,25.1,Sigma-Aldrich,A6625-10MG,Neither Method
+Acetylglycine,116.034769,[M-H],HILIC,7.81,31.3,Sigma-Aldrich,A16300-5G,Neither Method
+Adenine,136.06232,[M+H],HILIC,4.72,25.0,Sigma-Aldrich,104965-5G,CX-SPE and PPL-SPE
+Adenosine,268.10458,[M+H],HILIC,4.46,31.3,Sigma-Aldrich,A9251-1G,CX-SPE and PPL-SPE
+Adenosine diphosphate,426.021596,[M-H],HILIC,12.1,31.3,Sigma-Aldrich,01905-250MG-F,Neither Method
+Adenosine monophosphate,346.055262,[M-H],HILIC,11.6,31.3,Sigma-Aldrich,01930-5G,CX-SPE only
+Adenosine triphosphate,505.987929,[M-H],HILIC,15.4,31.3,Sigma-Aldrich,A2383-1G,Neither Method
+Adenosylcobalamin,790.3367,[2M+H],RP,5.40,2.50,Sigma-Aldrich,C0884-25MG,Neither Method
+Allopurinol,135.030686,[M-H],HILIC,4.16,25.0,Sigma-Aldrich,A8003-5G,CX-SPE and PPL-SPE
+Anserine,241.130066,[M+H],HILIC,8.55,25.1,Santa Cruz Biotechnology,sc-207792A,Neither Method
+Arsenobetaine,179.005326,[M+H],HILIC,7.06,25.0,Santa Cruz Biotechnology,sc-227279,CX-SPE only
+beta-Alanine,90.055504,[M+H],HILIC,11.4,25.0,Sigma-Aldrich,A9920-10MG,CX-SPE only
+beta-Alaninebetaine,132.1018,[M+H],HILIC,9.38,25.1,Ingalls Lab,NA,CX-SPE only
+beta-Glutamic acid,148.060984,[M+H],HILIC,11.9,25.1,Sigma-Aldrich,G1763-50MG,CX-SPE and PPL-SPE
+Betonicine,160.097369,[M+H],HILIC,8.45,25.0,Santa Cruz Biotechnology,sc-291986,CX-SPE only
+Biotin,245.09599,[M+H],RP,3.75,2.50,Sigma-Aldrich,B4639-1G,PPL-SPE only
+Butyrylcarnitine,232.154884,[M+H],HILIC,4.47,25.0,Sigma-Aldrich,42623-10MG,CX-SPE and PPL-SPE
+Butyrylglycine,144.066069,[M-H],HILIC,2.92,25.1,Sigma-Aldrich,94274-10MG,PPL-SPE only
+Caffeine,195.088201,[M+H],RP,3.85,2.50,Sigma-Aldrich,C0750-5G,Neither Method
+Camalexin,201.048645,[M+H],RP,6.96,2.50,Sigma-Aldrich,SML1016-5MG,Neither Method
+Carnitine,162.113019,[M+H],HILIC,10.2,6.26,Sigma-Aldrich,C0283-10MG,PPL-SPE only
+Carnosine,227.114416,[M+H],HILIC,10.5,25.1,Sigma-Aldrich,C9625-10MG,Neither Method
+Chitobiose,425.177138,[M+H],HILIC,10.2,25.0,Sigma-Aldrich,D1523-100MG,Neither Method
+Choline,104.107539,[M],HILIC,15.3,31.2,Sigma-Aldrich,C7017-10MG,Neither Method
+cis-Aconitic acid,173.008615,[M-H],HILIC,14.2,25.0,Sigma-Aldrich,A3412-1G,PPL-SPE only
+Citric acid,191.01918,[M-H],HILIC,15.6,31.3,Sigma-Aldrich,W302600-SAMPLE-K,Neither Method
+Citrulline,176.103517,[M+H],HILIC,12.2,25.1,Sigma-Aldrich,C7629-10MG,CX-SPE only
+Coenzyme Q1,251.128335,[M+H],RP,9.35,2.50,Sigma-Aldrich,C7956-2MG,Neither Method
+Creatine,132.077302,[M+H],HILIC,11.3,31.2,Sigma-Aldrich,C0780-10MG,CX-SPE only
+Crotonoyl-CoA,834.133609,[M-H],HILIC,8.45,25.0,Sigma-Aldrich,28007-5MG,Neither Method
+Cyanocobalamin,678.2894,[2M+H],RP,5.02,2.50,Sigma-Aldrich,PHR1234-1G,Neither Method
+"Cys-Gly, oxidized",355.074605,[M+H],HILIC,11.8,25.1,Sigma-Aldrich,C9187-5MG,PPL-SPE only
+Cytidine,244.093347,[M+H],HILIC,8.55,31.3,Sigma-Aldrich,C4654-1G,CX-SPE only
+Cytosine,112.051087,[M+H],HILIC,7.41,31.3,Sigma-Aldrich,C3506-1G,CX-SPE only
+D-Fructose 6-phosphate,259.021897,[M-H],HILIC,13.5,25.0,Sigma-Aldrich,F3627-10MG,Neither Method
+D-Gluconic acid,195.05048,[M-H],HILIC,10.8,25.0,Sigma-Aldrich,G9005-10MG,Neither Method
+D-Glucose 1-phosphate,259.021897,[M-H],HILIC,13.4,31.3,Sigma-Aldrich,G7000-1G,Neither Method
+D-Glucose 6-phosphate,259.021897,[M-H],HILIC,14.1,25.0,Sigma-Aldrich,G7879-500MG,Neither Method
+D-Methylmalonyl-CoA,866.123439,[M-H],HILIC,13.2,25.0,Sigma-Aldrich,M1762-1MG,Neither Method
+D-Ribose 5-phosphate,229.011333,[M-H],HILIC,13.3,31.3,Sigma-Aldrich,R7750-10MG,Neither Method
+Deoxyadenosine,252.109665,[M+H],HILIC,3.44,25.0,Sigma-Aldrich,D7400-500MG,Neither Method
+Desthiobiotin,215.139568,[M+H],RP,4.50,2.50,Sigma-Aldrich,D1411-500MG,CX-SPE and PPL-SPE
+Dihydroxyacetone phosphate,168.990203,[M-H],HILIC,12.9,31.3,Sigma-Aldrich,D7137-5MG,Neither Method
+Dimethylbenzimidazole,147.092223,[M+H],RP,3.38,2.50,Sigma-Aldrich,D147206-25G,Neither Method
+Dimethylglycine,104.071154,[M+H],HILIC,8.97,31.2,Sigma-Aldrich,D1156-5G,CX-SPE only
+Dimethylsulfonioacetate,121.032327,[M],HILIC,8.39,12.5,"Dr. Georg Pohnert, Germany",NA,CX-SPE only
+Dimethylsulfoniopropionate,135.047977,[M+H],HILIC,9.32,25.0,Sigma-Aldrich,80828-100MG,CX-SPE only
+Domoic acid,312.144714,[M+H],RP,2.72,2.50,Sigma-Aldrich,D6152-5MG,PPL-SPE only
+Ectoine,143.082053,[M+H],HILIC,9.25,50.0,Sigma-Aldrich,81619-1G-F,CX-SPE only
+Ectoine,143.082053,[M+H],HILIC,9.25,31.3,Sigma-Aldrich,81619-1G-F,CX-SPE only
+Ergothioneine,230.096324,[M+H],HILIC,11.3,25.1,Santa Cruz Biotechnology,sc-200814,Neither Method
+Ethanesulfonic acid,108.995942,[M-H],HILIC,4.29,31.3,Sigma-Aldrich,186260-5G,Neither Method
+Ethyl aminobenzoate,166.086804,[M+H],RP,3.36,2.50,Sigma-Aldrich,E10505-5G,Neither Method
+Ethyl dihydroxybenzoate,181.050085,[M-H],HILIC,2.08,25.0,Sigma-Aldrich,541052-1G,PPL-SPE only
+Ferulic acid,195.065735,[M+H],RP,5.97,2.50,Sigma-Aldrich,1270311-25MG,Neither Method
+Flavin adenine dinucleotide,784.149317,[M-H],HILIC,7.58,31.3,Sigma-Aldrich,F6625-10MG,Neither Method
+Folic acid,442.147508,[M+H],RP,4.51,2.50,Sigma-Aldrich,F8758-5G,PPL-SPE only
+Fumaric acid,115.003135,[M-H],HILIC,12.7,25.0,Sigma-Aldrich,47910-5G,Neither Method
+Glucosamine,180.087199,[M+H],HILIC,9.97,31.2,Sigma-Aldrich,PHR1199-500MG,CX-SPE only
+Glutamylphenylalanine,295.129398,[M+H],HILIC,9.55,25.1,Santa Cruz Biotechnology,sc-488719,CX-SPE and PPL-SPE
+Glutathione,308.091634,[M+H],HILIC,12.0,31.2,Sigma-Aldrich,PHR1359-500MG,Neither Method
+Glutathione disulfide,613.159793,[M+H],HILIC,15.0,31.3,Sigma-Aldrich,G4376-500MG,PPL-SPE only
+Glycerophosphocholine,258.110652,[M],HILIC,10.9,25.0,Sigma-Aldrich,G5291-10MG,CX-SPE only
+Glycerophosphoric acid,171.005853,[M-H],HILIC,13.1,25.0,Sigma-Aldrich,94124-10MG,Neither Method
+Glycerophosphoric acid,171.005853,[M-H],HILIC,13.1,62.4,Sigma-Aldrich,94124-10MG,Neither Method
+Glycine,76.039854,[M+H],HILIC,11.5,31.2,Sigma-Aldrich,4059-00,Neither Method
+Glycine betaine,118.086804,[M+H],HILIC,7.86,31.2,Sigma-Aldrich,B2629-50G,CX-SPE only
+Gonyol,179.074191,[M+H],HILIC,10.7,12.5,"Dr. Georg Pohnert, Germany",NA,CX-SPE and PPL-SPE
+Guanine,152.057235,[M+H],HILIC,8.61,25.0,Sigma-Aldrich,G11950-10G,CX-SPE and PPL-SPE
+Guanosine,284.099495,[M+H],HILIC,9.06,31.3,Sigma-Aldrich,G6752-1G,CX-SPE and PPL-SPE
+Guanosine monophosphate,362.050178,[M-H],HILIC,13.8,25.0,Sigma-Aldrich,G8377-500MG,Neither Method
+Guanosine triphosphate,521.982844,[M-H],HILIC,16.6,25.0,Sigma-Aldrich,G8877-10MG,Neither Method
+Homarine,138.055503,[M+H],HILIC,6.19,25.0,Santa Cruz Biotechnology,sc-470671,CX-SPE only
+Homocysteine thiolactone,118.032661,[M+H],HILIC,2.78,25.1,Sigma-Aldrich,H6503-100MG,Neither Method
+Hordenine,166.123189,[M+H],HILIC,3.34,25.0,Santa Cruz Biotechnology,sc-279195,CX-SPE and PPL-SPE
+Hydroxocobalamin,664.7861,[2M-OH],RP,4.35,2.50,Sigma-Aldrich,H1428000,Neither Method
+Hydroxyisoleucine,148.097369,[M+H],HILIC,8.34,25.0,Sigma-Aldrich,49549-10MG,CX-SPE and PPL-SPE
+Hydroxyproline,132.066069,[M+H],HILIC,10.1,31.2,Sigma-Aldrich,H54409-2.5G,CX-SPE only
+Hypotaurine,110.027576,[M+H],HILIC,11.4,31.3,Sigma-Aldrich,H1384-10MG,Neither Method
+Hypoxanthine,137.046336,[M+H],HILIC,5.51,25.1,Sigma-Aldrich,H9377-1G,CX-SPE only
+Indole-3-acetamide,175.087138,[M+H],RP,4.02,2.50,Sigma-Aldrich,286281-5G,Neither Method
+Indole-3-acetic acid,176.071154,[M+H],RP,5.41,2.50,Sigma-Aldrich,I2886-5G,Neither Method
+Indole-3-carbinol,146.060589,[M-H],HILIC,2.40,25.0,Sigma-Aldrich,I7256-1G,Neither Method
+Indole-3-carboxylic acid,162.055503,[M+H],RP,5.44,2.50,Sigma-Aldrich,284734-1G,Neither Method
+Indole-3-methyl acetate,190.086804,[M+H],RP,7.31,2.50,Sigma-Aldrich,I9770-1G,Neither Method
+Indolebutyric acid,204.10191,[M+H],RP,7.45,2.50,Sigma-Aldrich,I5386-1G,Neither Method
+Indolelactate,206.081719,[M+H],RP,4.65,2.50,Sigma-Aldrich,I5508-250MG-A,Neither Method
+Indolepyruvic acid,202.050419,[M-H],HILIC,2.38,25.0,Sigma-Aldrich,I7017-1G,Neither Method
+Inosine,267.072946,[M-H],HILIC,7.57,25.0,Sigma-Aldrich,I4125-1G,CX-SPE and PPL-SPE
+Isethionic acid,124.990857,[M-H],HILIC,7.20,25.0,Sigma-Aldrich,220078-25G,Neither Method
+Isocitric acid,191.01918,[M-H],HILIC,15.6,25.0,Sigma-Aldrich,I1252-1G,Neither Method
+Kinetin,216.088535,[M+H],RP,3.37,2.50,Sigma-Aldrich,K3378-1G,Neither Method
+L-Alanine,90.055504,[M+H],HILIC,11.3,31.2,Sigma-Aldrich,A7627-100G,CX-SPE only
+L-Arginine,175.119501,[M+H],HILIC,17.9,31.2,Sigma-Aldrich,A5006-100G,Neither Method
+L-Arginosuccinic acid,291.13046,[M+H],HILIC,13.7,25.1,Sigma-Aldrich,A5707-10MG,Neither Method
+L-Asparagine,133.061318,[M+H],HILIC,11.9,31.2,Sigma-Aldrich,A0884-10MG,CX-SPE only
+L-Aspartic acid,134.045334,[M+H],HILIC,12.9,31.2,Sigma-Aldrich,A9256-100G,CX-SPE only
+L-Cystathionine,223.075255,[M+H],HILIC,13.1,25.0,Sigma-Aldrich,C7505-10MG,Neither Method
+L-Cysteic acid,167.996671,[M-H],HILIC,12.2,25.0,Sigma-Aldrich,30170-10G,Neither Method
+L-Cysteine,122.027576,[M+H],HILIC,7.00,25.0,Sigma-Aldrich,168149-2.5G,Neither Method
+L-Cysteinesulfinic acid,152.001756,[M-H],HILIC,10.7,31.4,Sigma-Aldrich,C4418-100MG,Neither Method
+L-Cysteinylglycine,179.04904,[M+H],RP,0.720,2.50,Sigma-Aldrich,C0166-25MG,Neither Method
+L-Cystine,241.031677,[M+H],HILIC,13.1,31.2,Sigma-Aldrich,AA-SRM-NIST-2389a,Neither Method
+L-Glutamic acid,148.060984,[M+H],HILIC,12.4,31.2,Sigma-Aldrich,G1251-100G,CX-SPE only
+L-Glutamine,147.076968,[M+H],HILIC,11.7,31.2,Sigma-Aldrich,G8540-25G,CX-SPE only
+L-Histidine,156.077302,[M+H],HILIC,11.4,31.2,Sigma-Aldrich,H8000-10G,CX-SPE only
+L-Homocysteine,136.043226,[M+H],HILIC,8.70,25.0,Sigma-Aldrich,69453-10MG,Neither Method
+L-Homocystine,269.062977,[M+H],HILIC,12.6,25.1,Sigma-Aldrich,H6010-100MG,Neither Method
+L-Homoserine,120.066069,[M+H],HILIC,11.3,25.1,Sigma-Aldrich,H6515-10MG,CX-SPE only
+L-Hydroxylysine,163.108268,[M+H],HILIC,16.4,31.2,Sigma-Aldrich,H0377-100MG,CX-SPE only
+L-Isoleucine,132.102454,[M+H],HILIC,8.17,31.2,Sigma-Aldrich,I2752-10G,Neither Method
+L-Kynurenine,209.092618,[M+H],RP,1.27,2.50,Sigma-Aldrich,K8625-25MG,PPL-SPE only
+L-Leucine,132.102454,[M+H],HILIC,7.63,31.2,Sigma-Aldrich,L8000-25G,Neither Method
+L-Lysine,147.113353,[M+H],HILIC,17.5,31.2,Sigma-Aldrich,L5501-25G,CX-SPE only
+L-Methionine,150.058876,[M+H],HILIC,7.96,31.2,Sigma-Aldrich,M9625-5G,PPL-SPE only
+L-Methionine S-oxide,166.053791,[M+H],HILIC,9.73,25.1,Sigma-Aldrich,M1126-1G,CX-SPE only
+L-Ornithine,133.097703,[M+H],HILIC,16.8,31.3,Sigma-Aldrich,O2375-10MG,CX-SPE only
+L-Phenylalanine,166.086804,[M+H],RP,1.15,2.50,Sigma-Aldrich,P2126-100G,CX-SPE only
+L-Proline,116.071154,[M+H],HILIC,9.49,31.2,Sigma-Aldrich,P0380-100G,CX-SPE only
+L-Serine,106.050419,[M+H],HILIC,11.9,31.2,Sigma-Aldrich,S4500-100G,CX-SPE only
+L-Threonine,120.066069,[M+H],HILIC,10.9,31.2,Sigma-Aldrich,T8625-10G,CX-SPE only
+L-Tryptophan,205.097703,[M+H],RP,2.07,2.50,Sigma-Aldrich,T0254-25G,PPL-SPE only
+L-Tyrosine,182.081719,[M+H],HILIC,9.76,31.2,Sigma-Aldrich,T3754-50G,CX-SPE and PPL-SPE
+L-Valine,118.086804,[M+H],HILIC,9.09,31.2,Sigma-Aldrich,1B1102-500G,Neither Method
+Lactose,341.10839,[M-H],HILIC,12.5,25.0,Sigma-Aldrich,PHR1025-1G,Neither Method
+Lipoic acid,205.035699,[M-H],HILIC,2.42,25.0,Sigma-Aldrich,T5625-500MG,Neither Method
+Malic acid,133.0137,[M-H],HILIC,12.0,25.0,Sigma-Aldrich,PHR1273-1G,Neither Method
+Malonyl-CoA,852.107789,[M-H],HILIC,13.5,25.0,Sigma-Aldrich,M4263-5MG,Neither Method
+Maltose,341.10839,[M-H],HILIC,12.3,25.0,Sigma-Aldrich,PHR1497-1G,Neither Method
+Melamine,127.073219,[M+H],HILIC,6.68,25.0,Sigma-Aldrich,M2659-5G,CX-SPE and PPL-SPE
+Melatonin,233.129003,[M+H],RP,6.51,2.50,Sigma-Aldrich,M5250-250MG,Neither Method
+Methyl indole-3-carboxylate,176.071154,[M+H],RP,7.25,2.50,Sigma-Aldrich,395307-25G,Neither Method
+Methylcobalamin,672.8011,[2M+H],RP,6.29,2.50,Sigma-Aldrich,M9756-25MG,Neither Method
+Methylthioadenosine,298.097387,[M+H],RP,2.10,2.50,Sigma-Aldrich,D5011-25MG,PPL-SPE only
+Monesin,693.418985,[M+H],RP,11.8,2.50,Sigma-Aldrich,M5273-500MG,Neither Method
+Muramic acid,252.108329,[M+H],HILIC,11.0,31.2,Sigma-Aldrich,M2503-5MG,CX-SPE only
+N-(3-Oxodecanoyl)homoserine lactone,270.170534,[M+H],RP,8.26,2.50,Sigma-Aldrich,O9014-10MG,Neither Method
+N-(3-Oxododecanoyl)homoserine lactone,298.201834,[M+H],RP,9.75,2.50,Sigma-Aldrich,O9139-10MG,Neither Method
+N-(3-Oxohexanoyl)homoserine lactone,214.107934,[M+H],RP,1.96,2.50,Sigma-Aldrich,K3007-10MG,PPL-SPE only
+N-(3-Oxooctanoyl)homoserine lactone,242.139234,[M+H],RP,5.28,2.50,Sigma-Aldrich,O1639-25MG,PPL-SPE only
+N-(4-Coumaroyl)-L-homoserine lactone,248.092284,[M+H],RP,5.46,2.50,Sigma-Aldrich,07077-50MG,PPL-SPE only
+N-Acetyl-D-glucosamine,222.097764,[M+H],HILIC,8.55,37.6,Sigma-Aldrich,A8625-10MG,Neither Method
+N-Acetyl-L-glutamic acid,188.055899Ãƒâ€šÃ‚Â ,[M-H],HILIC,11.8,25.1,Sigma-Aldrich,855642-25G,PPL-SPE only
+N-Acetylmuramic acid,294.118894,[M+H],HILIC,3.35,31.4,Sigma-Aldrich,A3007-10MG,PPL-SPE only
+N-Acetyltaurine,166.017406,[M-H],HILIC,3.74,25.0,"A. Cook and K. Denger, University of Konstanz, Germany",NA,Neither Method
+N-Butyryl-L-homoserine lactone,172.097369,[M+H],RP,1.47,2.50,Sigma-Aldrich,09945-25MG,PPL-SPE only
+N-Decanoyl-L-homoserine lactone,256.191269,[M+H],RP,9.21,2.50,Sigma-Aldrich,07028-10MG,Neither Method
+N-Hexanoyl-L-homoserine lactone,200.128669,[M+H],RP,4.06,2.50,Sigma-Aldrich,56395-10MG,PPL-SPE only
+N-Methyltaurine,140.038141,[M+H],HILIC,6.06,31.3,Santa Cruz Biotechnology,sc-487851,Neither Method
+N-Octanoyl-L-homoserine lactone,228.159969,[M+H],RP,7.36,2.50,Sigma-Aldrich,44558-10MG,PPL-SPE only
+N-Tetradecanoyl-DL-homoserine lactone,312.253869,[M+H],RP,11.4,2.50,Sigma-Aldrich,10937-25MG,Neither Method
+N6-Acetyl-L-lysine,189.123918,[M+H],HILIC,9.71,25.1,Sigma-Aldrich,A4021-1G,CX-SPE only
+N6-Methyladenine,150.07797,[M+H],HILIC,3.97,25.1,Santa Cruz Biotechnology,sc-236150,CX-SPE and PPL-SPE
+"N6,N6,N6-Trimethyl-L-lysine",189.160303,[M+H],HILIC,17.1,25.1,Sigma-Aldrich,T1660-25MG,Neither Method
+"NAD",662.101304,[M-H],HILIC,10.6,31.3,Sigma-Aldrich,N7004-250MG,Neither Method
+"NADH",664.116954,[M-H],HILIC,11.3,25.0,Sigma-Aldrich,10 107 735 001 500mg,Neither Method
+"NADP",742.067637,[M-2H],HILIC,12.7,25.0,Sigma-Aldrich,10 128 031 001 100mg,Neither Method
+"NADPH",744.083287,[M],HILIC,13.3,31.3,Sigma-Aldrich,N1630-25MG,Neither Method
+Nicotinic acid,124.039854,[M+H],RP,0.880,2.50,Sigma-Aldrich,N4126-5G,CX-SPE and PPL-SPE
+O-Acetyl-L-serine,148.060984,[M+H],HILIC,6.27,25.1,Sigma-Aldrich,A6262-10MG,Neither Method
+O-Acetylcarnitine,204.123584,[M+H],HILIC,7.22,25.0,Sigma-Aldrich,A6706-1G,PPL-SPE only
+O-Methylmalonyl-L-carnitine,262.129063,[M+H],HILIC,9.67,25.0,Toronto Research Chemicals,M318900,CX-SPE and PPL-SPE
+O-Propionylcarnitine,218.139234,[M+H],HILIC,5.63,25.0,Sigma-Aldrich,42602-10MG,PPL-SPE only
+Ophthalmic acid,290.135212,[M+H],HILIC,10.7,31.2,Sigma-Aldrich,91351-10MG,CX-SPE and PPL-SPE
+Orotic acid,155.009283,[M-H],HILIC,4.20,25.0,Sigma-Aldrich,O2750-10G,Neither Method
+Oxalic acid,88.987485,[M-H],HILIC,13.2,25.0,Sigma-Aldrich,194131-5G,Neither Method
+p-Coumaric acid,165.05517,[M+H],RP,5.38,2.50,Sigma-Aldrich,C9008-1G,Neither Method
+Pantothenic acid,220.118498,[M+H],RP,1.17,2.50,Sigma-Aldrich,21210-5G-F,PPL-SPE only
+Phosphoenolpyruvic acid,166.974553,[M-H],HILIC,13.9,25.0,Sigma-Aldrich,P7127-100MG,Neither Method
+Proline betaine,144.102454,[M+H],HILIC,7.18,3.13,Santa Cruz Biotechnology,sc-296420,CX-SPE only
+Propionyl-CoA,822.133609,[M-H],HILIC,8.83,25.0,Sigma-Aldrich,P5397-5MG,Neither Method
+Propionylglycine,130.050419,[M-H],HILIC,5.52,31.3,Sigma-Aldrich,92986-10MG,PPL-SPE only
+Pyridoxal,168.066069,[M+H],RP,0.860,2.50,Sigma-Aldrich,P9130-500MG,Neither Method
+Pyridoxal phosphate,248.032402,[M+H],RP,0.780,2.50,Sigma-Aldrich,P9255-1G,PPL-SPE only
+Pyridoxamine,169.097703,[M+H],RP,0.650,2.50,Sigma-Aldrich,P9380-1G,Neither Method
+Pyridoxine,170.081719,[M+H],RP,0.880,2.50,Sigma-Aldrich,P6280-10G,PPL-SPE only
+Riboflavin,377.146111,[M+H],RP,4.39,2.50,Sigma-Aldrich,R9504-25G,PPL-SPE only
+Riboflavin-5-phosphate,457.112444,[M+H],HILIC,8.60,31.3,Sigma-Aldrich,F2253-10MG,PPL-SPE only
+S-Adenosylhomocysteine,385.129416,[M+H],RP,0.960,2.50,Sigma-Aldrich,A9384-10MG,Neither Method
+S-Adenosylmethionine,399.145066,[M+H],RP,0.710,2.50,Sigma-Aldrich,A7007-5MG,Neither Method
+Salicylic acid,137.02387,[M-H],HILIC,2.20,25.0,Sigma-Aldrich,PHR1013-1G,PPL-SPE only
+Sarcosine,90.055504,[M+H],HILIC,10.6,25.0,Sigma-Aldrich,S7672-10MG,CX-SPE only
+Shikimic acid,173.045,[M-H],HILIC,11.0,31.2,Sigma-Aldrich,S5375-10MG,Neither Method
+Sinapic acid,225.0763,[M+H],RP,5.98,2.50,Sigma-Aldrich,D7927-1G,Neither Method
+Sodium 2-mercaptoethanesulfonate,140.968013,[M],HILIC,2.67,25.0,Sigma-Aldrich,M1511-5G,Neither Method
+Succinic acid,117.018785,[M-H],HILIC,11.9,25.0,Sigma-Aldrich,W327700-SAMPLE-K,PPL-SPE only
+Succinic semialdehyde,101.02387,[M-H],HILIC,6.51,25.0,Santa Cruz Biotechnology,sc-281158�,PPL-SPE only
+Succinyl-CoA,866.123439,[M-H],HILIC,13.0,25.0,Sigma-Aldrich,S1129-5MG,Neither Method
+Succinylglycine,176.055899,[M+H],HILIC,12.6,25.1,Sigma-Aldrich,01883-10MG,PPL-SPE only
+Sucrose,341.10839,[M-H],HILIC,11.9,31.3,Sigma-Aldrich,S0389-500G,Neither Method
+Sulfanilic acid,172.006841,[M-H],HILIC,7.23,25.0,Santa Cruz Biotechnology,sc-212977,PPL-SPE only
+Sulfoacetic acid,138.970122,[M-H],HILIC,13.9,25.0,Sigma-Aldrich,242802-5G,Neither Method
+Syringaldehyde,183.065735,[M+H],RP,5.48,2.50,Sigma-Aldrich,S7602-5G,PPL-SPE only
+Syringic acid,199.06065,[M+H],RP,4.88,2.50,Sigma-Aldrich,S6881-5G,Neither Method
+Taurine,124.006841,[M-H],HILIC,11.1,25.0,Sigma-Aldrich,T0625-10G,Neither Method
+Thiamine,265.112308,[M],RP,0.690,2.50,Sigma-Aldrich,T4625-5G,PPL-SPE only
+Thiamine diphosphate,425.044974,[M],HILIC,13.8,31.2,Spectrum Chemical,700011-508,Neither Method
+Thiamine monophosphate,345.078641,[M],HILIC,11.5,31.2,Spectrum Chemical,T1208-5GM,Neither Method
+Thiotropocin,212.968013,[M+H],RP,6.47,2.50,Sigma-Aldrich,SML0735-5MG,Neither Method
+Threonic acid,135.02935,[M-H],HILIC,10.4,25.1,Sigma-Aldrich,79272-10MG,Neither Method
+Thymidine,241.082448,[M-H],HILIC,3.27,25.0,Sigma-Aldrich,89270-1G,PPL-SPE only
+Thymine,125.035103,[M-H],HILIC,3.02,31.3,Sigma-Aldrich,T0376-5G,PPL-SPE only
+trans-Cinnamic acid,131.04969,[M-OH],RP,6.20,2.50,Sigma-Aldrich,C80857-5G,Neither Method
+Trehalose,341.10839,[M-H],HILIC,13.0,25.0,Sigma-Aldrich,PHR1344-500MG,Neither Method
+Trigonelline,138.055503,[M+H],HILIC,8.36,3.13,Sigma-Aldrich,T5509-1G,CX-SPE only
+Trimethylamine,60.081324,[M+H],HILIC,5.96,62.4,Sigma-Aldrich,41284-100MG,Neither Method
+Trimethylamine N-oxide,76.076239,[M+H],HILIC,6.59,25.0,Sigma-Aldrich,317594-1G,CX-SPE only
+Tryptamine,161.107872,[M+H],RP,2.55,2.50,Sigma-Aldrich,193747-10G,PPL-SPE only
+Tryptophol,162.091889,[M+H],RP,5.33,2.50,Sigma-Aldrich,T90301-5G,Neither Method
+UDP-glucose,565.047204,[M-H],HILIC,13.6,25.0,Santa Cruz Biotechnology,sc-222402A,Neither Method
+UDP-N-acetylglucosamine,606.073753,[M-H],HILIC,12.8,25.0,Sigma-Aldrich,U4375-25MG,Neither Method
+Uracil,111.019453,[M-H],HILIC,4.00,31.3,Sigma-Aldrich,U0750-5G,Neither Method
+Uridine,243.061713,[M-H],HILIC,6.02,31.3,Sigma-Aldrich,U3750-1G,PPL-SPE only
+Urocanic acid,137.035103,[M-H],HILIC,8.16,25.0,Sigma-Aldrich,859796-5G,CX-SPE only
+Vanillic acid,169.050085,[M+H],RP,4.12,2.50,Sigma-Aldrich,94770-10G,Neither Method
+Vanillin,153.05517,[M+H],RP,4.69,2.50,Sigma-Aldrich,V1104-2G,PPL-SPE only
+Xanthine,153.041251,[M+H],RP,1.11,2.50,Sigma-Aldrich,X7375-10G,CX-SPE and PPL-SPE

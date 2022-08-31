@@ -60,12 +60,12 @@ conc.dat.2 <- left_join(conc.dat, Ing.name.dat, by = "Compound.Name_old") %>%
 
 ####tidy up data for supplemental table including sig figs
 supp.dat <- conc.dat.2 %>%
-  mutate(mean.conc = print(formatC(signif(mean.conc,digits=3), digits=3,format="fg", flag="#"))) %>%
-  mutate(sd.mean.conc = print(formatC(signif(sd.mean.conc,digits=3), digits=3,format="fg", flag="#"))) %>%
-  mutate(mean.Nmol.C = print(formatC(signif(mean.Nmol.C,digits=3), digits=3,format="fg", flag="#"))) %>%
-  mutate(sd.Nmol.C = print(formatC(signif(sd.Nmol.C,digits=3), digits=3,format="fg", flag="#"))) %>%
-  mutate(mean.Nmol.N= print(formatC(signif(mean.Nmol.N,digits=3), digits=3,format="fg", flag="#"))) %>%
-  mutate(sd.Nmol.N= print(formatC(signif(sd.Nmol.N,digits=3), digits=3,format="fg", flag="#"))) %>%
+  mutate(mean.conc = print(formatC(signif(mean.conc,digits=2), digits=2,format="fg", flag="#"))) %>%
+  mutate(sd.mean.conc = print(formatC(signif(sd.mean.conc,digits=2), digits=2,format="fg", flag="#"))) %>%
+  mutate(mean.Nmol.C = print(formatC(signif(mean.Nmol.C,digits=2), digits=2,format="fg", flag="#"))) %>%
+  mutate(sd.Nmol.C = print(formatC(signif(sd.Nmol.C,digits=2), digits=2,format="fg", flag="#"))) %>%
+  mutate(mean.Nmol.N= print(formatC(signif(mean.Nmol.N,digits=2), digits=2,format="fg", flag="#"))) %>%
+  mutate(sd.Nmol.N= print(formatC(signif(sd.Nmol.N,digits=2), digits=2,format="fg", flag="#"))) %>%
   select(-C, -N) %>%
   mutate(sample = str_replace(.$sample, "Alohaloha", "Aloha")) %>%
   rename("Sample" = sample,
@@ -79,5 +79,30 @@ supp.dat <- conc.dat.2 %>%
          
 #export:
 write_csv(supp.dat, file = "Tables/Output/CX_EnviroConc_supptable6.csv")
+
+
+
+###CX-SPE summary:
+sum <- supp.dat %>%
+  select(Compound, Sample) %>%
+  group_by(Sample) %>%
+  summarize(count = n())
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

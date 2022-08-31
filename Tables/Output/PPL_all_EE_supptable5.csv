@@ -1,143 +1,143 @@
 Compound,Fraction,Sample,Mean EE (%),Standard Deviation of EE (%)
-Hydroxyisoleucine,HILIC Pos,A,45.1,1.22
+Hydroxyisoleucine,HILIC Pos,Aloha,45.1,1.22
 Hydroxyisoleucine,HILIC Pos,PS,42.8,1.98
-N6-Methyladenine,HILIC Pos,A,85.3,8.63
+N6-Methyladenine,HILIC Pos,Aloha,85.3,8.63
 N6-Methyladenine,HILIC Pos,PS,97.0,5.11
-O-Acetylcarnitine,HILIC Pos,A,32.5,4.43
+O-Acetylcarnitine,HILIC Pos,Aloha,32.5,4.43
 O-Acetylcarnitine,HILIC Pos,PS,37.9,1.28
-N-Acetyl-L-glutamic acid,HILIC Neg,A,15.6,1.19
+N-Acetyl-L-glutamic acid,HILIC Neg,Aloha,15.6,1.19
 N-Acetyl-L-glutamic acid,HILIC Neg,PS,28.1,1.55
-cis-Aconitic acid,HILIC Neg,A,3.98,0.494
+cis-Aconitic acid,HILIC Neg,Aloha,3.98,0.494
 cis-Aconitic acid,HILIC Neg,PS,9.14,0.690
-Adenine,HILIC Pos,A,76.0,13.1
+Adenine,HILIC Pos,Aloha,76.0,13.1
 Adenine,HILIC Pos,PS,78.1,18.0
-Adenosine,HILIC Pos,A,65.5,1.99
+Adenosine,HILIC Pos,Aloha,65.5,1.99
 Adenosine,HILIC Pos,PS,72.8,6.11
-Allopurinol,HILIC Neg,A,40.3,1.20
+Allopurinol,HILIC Neg,Aloha,40.3,1.20
 Allopurinol,HILIC Neg,PS,62.1,31.9
-beta-Glutamic acid,HILIC Pos,A,1.16,0.383
+beta-Glutamic acid,HILIC Pos,Aloha,1.16,0.383
 beta-Glutamic acid,HILIC Pos,PS,2.34,0.624
-Butyrylcarnitine,HILIC Pos,A,78.3,13.2
+Butyrylcarnitine,HILIC Pos,Aloha,78.3,13.2
 Butyrylcarnitine,HILIC Pos,PS,89.8,8.26
-Butyrylglycine,HILIC Neg,A,81.2,4.83
+Butyrylglycine,HILIC Neg,Aloha,81.2,4.83
 Butyrylglycine,HILIC Neg,PS,77.5,4.59
-"3',5'-Cyclic Adenosine Monophosphate",HILIC Neg,A,51.3,2.25
+"3',5'-Cyclic Adenosine Monophosphate",HILIC Neg,Aloha,51.3,2.25
 "3',5'-Cyclic Adenosine Monophosphate",HILIC Neg,PS,63.0,2.30
-Carnitine,HILIC Pos,A,9.56,1.56
+Carnitine,HILIC Pos,Aloha,9.56,1.56
 Carnitine,HILIC Pos,PS,8.27,0.326
-"3',5'-Cyclic Guanosine Monophosphate",HILIC Neg,A,44.2,2.83
+"3',5'-Cyclic Guanosine Monophosphate",HILIC Neg,Aloha,44.2,2.83
 "3',5'-Cyclic Guanosine Monophosphate",HILIC Neg,PS,43.8,1.27
-"Cys-Gly, oxidized",HILIC Pos,A,2.42,0.278
+"Cys-Gly, oxidized",HILIC Pos,Aloha,2.42,0.278
 "Cys-Gly, oxidized",HILIC Pos,PS,2.05,0.755
-Ethyl dihydroxybenzoate,HILIC Neg,A,19.3,12.5
+Ethyl dihydroxybenzoate,HILIC Neg,Aloha,19.3,12.5
 Ethyl dihydroxybenzoate,HILIC Neg,PS,27.3,3.15
-Glutamylphenylalanine,HILIC Pos,A,80.5,6.17
+Glutamylphenylalanine,HILIC Pos,Aloha,80.5,6.17
 Glutamylphenylalanine,HILIC Pos,PS,93.5,12.0
-Glutathione disulfide,HILIC Pos,A,55.9,19.4
+Glutathione disulfide,HILIC Pos,Aloha,55.9,19.4
 Glutathione disulfide,HILIC Pos,PS,68.9,3.36
-Gonyol,HILIC Pos,A,3.51,0.330
+Gonyol,HILIC Pos,Aloha,3.51,0.330
 Gonyol,HILIC Pos,PS,2.48,0.101
-Guanine,HILIC Pos,A,20.2,9.50
+Guanine,HILIC Pos,Aloha,20.2,9.50
 Guanine,HILIC Pos,PS,12.8,5.24
-Guanosine,HILIC Pos,A,60.0,7.09
+Guanosine,HILIC Pos,Aloha,60.0,7.09
 Guanosine,HILIC Pos,PS,74.4,8.60
-Hordenine,HILIC Pos,A,112.,13.2
+Hordenine,HILIC Pos,Aloha,112.,13.2
 Hordenine,HILIC Pos,PS,132.,7.03
-Inosine,HILIC Neg,A,127.,14.7
+Inosine,HILIC Neg,Aloha,127.,14.7
 Inosine,HILIC Neg,PS,130.,8.13
-(Iso)leucine,HILIC Pos,A,53.7,0.591
+(Iso)leucine,HILIC Pos,Aloha,53.7,0.591
 (Iso)leucine,HILIC Pos,PS,62.7,2.14
-5-Oxoproline,HILIC Neg,A,9.06,2.54
+5-Oxoproline,HILIC Neg,Aloha,9.06,2.54
 5-Oxoproline,HILIC Neg,PS,14.7,1.07
-Melamine,HILIC Pos,A,2.64,0.118
+Melamine,HILIC Pos,Aloha,2.64,0.118
 Melamine,HILIC Pos,PS,3.05,0.273
-L-Methionine,HILIC Pos,A,4.65,0.298
+L-Methionine,HILIC Pos,Aloha,4.65,0.298
 L-Methionine,HILIC Pos,PS,5.44,1.43
-O-Methylmalonyl-L-carnitine,HILIC Pos,A,128.,5.32
+O-Methylmalonyl-L-carnitine,HILIC Pos,Aloha,128.,5.32
 O-Methylmalonyl-L-carnitine,HILIC Pos,PS,136.,10.1
-N-Acetylmuramic acid,HILIC Pos,A,54.4,4.54
+N-Acetylmuramic acid,HILIC Pos,Aloha,54.4,4.54
 N-Acetylmuramic acid,HILIC Pos,PS,66.9,8.51
-Ophthalmic acid,HILIC Pos,A,18.4,0.659
+Ophthalmic acid,HILIC Pos,Aloha,18.4,0.659
 Ophthalmic acid,HILIC Pos,PS,29.8,2.41
-O-Propionylcarnitine,HILIC Pos,A,83.6,11.2
+O-Propionylcarnitine,HILIC Pos,Aloha,83.6,11.2
 O-Propionylcarnitine,HILIC Pos,PS,92.0,5.96
-Propionylglycine,HILIC Neg,A,25.5,1.74
+Propionylglycine,HILIC Neg,Aloha,25.5,1.74
 Propionylglycine,HILIC Neg,PS,30.6,1.19
-"2,5-Dihydroxybenzoic acid",HILIC Neg,A,105.,12.0
+"2,5-Dihydroxybenzoic acid",HILIC Neg,Aloha,105.,12.0
 "2,5-Dihydroxybenzoic acid",HILIC Neg,PS,87.3,29.2
-Riboflavin-5-phosphate,HILIC Pos,A,32.7,16.2
+Riboflavin-5-phosphate,HILIC Pos,Aloha,32.7,16.2
 Riboflavin-5-phosphate,HILIC Pos,PS,39.1,17.0
-Salicylic acid,HILIC Neg,A,23.0,19.6
+Salicylic acid,HILIC Neg,Aloha,23.0,19.6
 Salicylic acid,HILIC Neg,PS,31.7,0.780
-Succinic acid,HILIC Neg,A,12.3,0.976
+Succinic acid,HILIC Neg,Aloha,12.3,0.976
 Succinic acid,HILIC Neg,PS,22.3,0.747
-Succinic semialdehyde,HILIC Neg,A,3.47,1.26
+Succinic semialdehyde,HILIC Neg,Aloha,3.47,1.26
 Succinic semialdehyde,HILIC Neg,PS,6.78,1.93
-Succinylglycine,HILIC Pos,A,2.20,0.233
+Succinylglycine,HILIC Pos,Aloha,2.20,0.233
 Succinylglycine,HILIC Pos,PS,4.60,0.113
-Sulfanilic acid,HILIC Neg,A,2.45,0.224
+Sulfanilic acid,HILIC Neg,Aloha,2.45,0.224
 Sulfanilic acid,HILIC Neg,PS,3.99,2.03
-Thymidine,HILIC Neg,A,66.7,2.81
+Thymidine,HILIC Neg,Aloha,66.7,2.81
 Thymidine,HILIC Neg,PS,89.4,38.5
-Thymine,HILIC Neg,A,60.9,2.54
+Thymine,HILIC Neg,Aloha,60.9,2.54
 Thymine,HILIC Neg,PS,86.1,46.1
-L-Tyrosine,HILIC Pos,A,36.3,2.15
+L-Tyrosine,HILIC Pos,Aloha,36.3,2.15
 L-Tyrosine,HILIC Pos,PS,51.1,4.34
-Uridine,HILIC Neg,A,29.3,1.50
+Uridine,HILIC Neg,Aloha,29.3,1.50
 Uridine,HILIC Neg,PS,29.6,2.65
-N-(3-Oxohexanoyl)homoserine lactone,RP,A,80.0,10.6
+N-(3-Oxohexanoyl)homoserine lactone,RP,Aloha,80.0,10.6
 N-(3-Oxohexanoyl)homoserine lactone,RP,PS,68.0,21.4
-N-(3-Oxooctanoyl)homoserine lactone,RP,A,94.4,38.9
+N-(3-Oxooctanoyl)homoserine lactone,RP,Aloha,94.4,38.9
 N-(3-Oxooctanoyl)homoserine lactone,RP,PS,98.5,10.4
-Abscisic acid,RP,A,73.0,7.30
+Abscisic acid,RP,Aloha,73.0,7.30
 Abscisic acid,RP,PS,73.2,16.3
-Acetosyringone,RP,A,50.1,33.3
+Acetosyringone,RP,Aloha,50.1,33.3
 Acetosyringone,RP,PS,83.1,10.8
-Acetovanillone,RP,A,37.1,24.8
+Acetovanillone,RP,Aloha,37.1,24.8
 Acetovanillone,RP,PS,57.7,2.10
-N-Butyryl-L-homoserine lactone,RP,A,93.8,7.46
+N-Butyryl-L-homoserine lactone,RP,Aloha,93.8,7.46
 N-Butyryl-L-homoserine lactone,RP,PS,79.0,16.9
-N-Hexanoyl-L-homoserine lactone,RP,A,92.6,10.8
+N-Hexanoyl-L-homoserine lactone,RP,Aloha,92.6,10.8
 N-Hexanoyl-L-homoserine lactone,RP,PS,81.8,13.2
-N-Octanoyl-L-homoserine lactone,RP,A,72.5,44.8
+N-Octanoyl-L-homoserine lactone,RP,Aloha,72.5,44.8
 N-Octanoyl-L-homoserine lactone,RP,PS,77.4,12.6
-"2-(3,5-Dichlorophenylcarbamoyl)-1,2-dimethylcyclopropane-1-carboxylic acid",RP,A,62.5,46.7
+"2-(3,5-Dichlorophenylcarbamoyl)-1,2-dimethylcyclopropane-1-carboxylic acid",RP,Aloha,62.5,46.7
 "2-(3,5-Dichlorophenylcarbamoyl)-1,2-dimethylcyclopropane-1-carboxylic acid",RP,PS,61.3,10.3
-Desthiobiotin,RP,A,76.7,14.6
+Desthiobiotin,RP,Aloha,76.7,14.6
 Desthiobiotin,RP,PS,88.3,14.1
-Domoic acid,RP,A,101.,23.6
+Domoic acid,RP,Aloha,101.,23.6
 Domoic acid,RP,PS,101.,11.8
-L-Kynurenine,RP,A,46.7,7.41
+L-Kynurenine,RP,Aloha,46.7,7.41
 L-Kynurenine,RP,PS,41.9,2.37
-Methylthioadenosine,RP,A,134.,47.4
+Methylthioadenosine,RP,Aloha,134.,47.4
 Methylthioadenosine,RP,PS,139.,25.8
-N-(4-Coumaroyl)-L-homoserine lactone,RP,A,90.7,10.1
+N-(4-Coumaroyl)-L-homoserine lactone,RP,Aloha,90.7,10.1
 N-(4-Coumaroyl)-L-homoserine lactone,RP,PS,80.1,16.9
-Pyridoxal phosphate,RP,A,42.9,17.3
+Pyridoxal phosphate,RP,Aloha,42.9,17.3
 Pyridoxal phosphate,RP,PS,54.1,24.8
-5-(2-Hydroxyethyl)-4-methylthiazole,RP,A,98.1,16.4
+5-(2-Hydroxyethyl)-4-methylthiazole,RP,Aloha,98.1,16.4
 5-(2-Hydroxyethyl)-4-methylthiazole,RP,PS,96.3,16.1
-Syringaldehyde,RP,A,37.6,26.4
+Syringaldehyde,RP,Aloha,37.6,26.4
 Syringaldehyde,RP,PS,72.3,14.7
-Tryptamine,RP,A,22.3,9.95
+Tryptamine,RP,Aloha,22.3,9.95
 Tryptamine,RP,PS,41.5,10.5
-L-Tryptophan,RP,A,108.,22.3
+L-Tryptophan,RP,Aloha,108.,22.3
 L-Tryptophan,RP,PS,134.,14.0
-Vanillin,RP,A,28.9,17.1
+Vanillin,RP,Aloha,28.9,17.1
 Vanillin,RP,PS,49.7,7.01
-Thiamine,RP,A,3.04,1.12
+Thiamine,RP,Aloha,3.04,1.12
 Thiamine,RP,PS,4.44,0.281
-Riboflavin,RP,A,80.4,11.7
+Riboflavin,RP,Aloha,80.4,11.7
 Riboflavin,RP,PS,79.8,18.6
-Nicotinic acid,RP,A,61.8,3.51
+Nicotinic acid,RP,Aloha,61.8,3.51
 Nicotinic acid,RP,PS,92.8,40.2
-Pantothenic acid,RP,A,68.1,8.90
+Pantothenic acid,RP,Aloha,68.1,8.90
 Pantothenic acid,RP,PS,77.8,13.9
-Pyridoxine,RP,A,57.0,9.79
+Pyridoxine,RP,Aloha,57.0,9.79
 Pyridoxine,RP,PS,91.5,30.0
-Biotin,RP,A,77.9,18.4
+Biotin,RP,Aloha,77.9,18.4
 Biotin,RP,PS,86.3,13.9
-Folic acid,RP,A,68.8,8.54
+Folic acid,RP,Aloha,68.8,8.54
 Folic acid,RP,PS,63.8,11.0
-Xanthine,RP,A,2.81,0.387
+Xanthine,RP,Aloha,2.81,0.387
 Xanthine,RP,PS,7.17,0.529

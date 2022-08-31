@@ -93,6 +93,8 @@ PPL.A.QC.2 <- PPL.A.QC %>%
 write_csv(PPL.A.QC.2, file = "Intermediates/Analytical_Validation/AV_PPL_HQ_dat.csv")
 
 
+both <- full_join(CX.A.QC.2, PPL.A.QC.2, by = "MF")
+
 
 
 

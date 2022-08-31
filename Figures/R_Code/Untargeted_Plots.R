@@ -78,6 +78,8 @@ ggarrange(rt.plot, mz.plot, labels = c("A", "B"), legend = "none", common.legend
 #save
 ggsave(filename = "Figures/Outputs/untargeted_maintext_fig.pdf", height = 5, width = 5)
 
+ggsave(filename = "Figures/Outputs/untargeted_maintext_fig.jpg", height = 5, width = 5, dpi = 300)
+
 
 ###Summary VENN DIAGRAM for Supplemental Figures
 
@@ -93,7 +95,7 @@ dat.1.wide.RP <- dat.1 %>%
 dat.CXC.A <- dat.1.wide.RP %>%
   filter(CatEx_A == 1) %>%
   select(MF) %>%
-  rename(`CX Aloha` = MF)
+  rename(`CX ALOHA` = MF)
 
 dat.CXC.PS <- dat.1.wide.RP %>%
   filter(CatEx_PS == 1) %>%
@@ -103,7 +105,7 @@ dat.CXC.PS <- dat.1.wide.RP %>%
 dat.PPL.A <- dat.1.wide.RP %>%
   filter(PPL_A == 1) %>%
   select(MF) %>%
-  rename(`PPL Aloha` = MF)
+  rename(`PPL ALOHA` = MF)
 
 dat.PPL.PS <- dat.1.wide.RP %>%
   filter(PPL_PS == 1) %>%
@@ -138,7 +140,7 @@ dat.1.wide.HILIC <- dat.1 %>%
 dat.CXC.A <- dat.1.wide.HILIC %>%
   filter(CatEx_A == 1) %>%
   select(MF) %>%
-  rename(`CX Aloha` = MF)
+  rename(`CX ALOHA` = MF)
 
 dat.CXC.PS <- dat.1.wide.HILIC %>%
   filter(CatEx_PS == 1) %>%
@@ -148,7 +150,7 @@ dat.CXC.PS <- dat.1.wide.HILIC %>%
 dat.PPL.A <- dat.1.wide.HILIC %>%
   filter(PPL_A == 1) %>%
   select(MF) %>%
-  rename(`PPL Aloha` = MF)
+  rename(`PPL ALOHA` = MF)
 
 dat.PPL.PS <- dat.1.wide.HILIC %>%
   filter(PPL_PS == 1) %>%

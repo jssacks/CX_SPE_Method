@@ -59,17 +59,22 @@ All.dat.2$Fraction <- relevel(All.dat.2$Fraction, "HILIC Pos")
 
 #figure data
 Figure.dat <- All.dat.2 %>%
-  mutate(MF = str_replace_all(.$MF, "Trimethylamine N-oxide", "TMAO"))
+  mutate(MF = str_replace_all(.$MF, "Trimethylamine N-oxide", "TMAO")) %>%
+  mutate(MF = str_replace_all(.$MF, "Betaine", "Glycine betaine")) %>%
+  mutate(MF = str_replace_all(.$MF, "Dimethylsulfonioacetate ", "DMS-Ac")) %>%
+  mutate(MF = str_replace_all(.$MF, "\\(DMS-Ac\\)", ""))
+  
 
 #figure palette
 pal <- wes_palette("Zissou1", 100, type = "continuous")
 
 #figure lables
 label.comps <- tibble(MF = c("TMAO",
-                               "Homarine",
-                             "Serine",
-                             "Alanine",
-                             "Glutamic acid"
+                             "Glutamic acid",
+                             "Glycine betaine",
+                             "DMSP",
+                             "Gonyol"
+                             #"DMS-Ac"
                            #  "Aspartic acid",
                            #  "Proline",
                            #  "DMSP",
@@ -93,7 +98,7 @@ EE.fig <- ggplot(data = Figure.dat, aes(x = RT, y = m.z)) +
   ylab("m/z") +
   labs(color = "Extraction Efficiency (%)") +
   geom_text_repel(data = Figure.labels, aes(x = RT, y = m.z, label = MF), 
-                  box.padding = 1.3, min.segment.length = 0, ylim = 400, 
+                  box.padding = 0.5, min.segment.length = 1, ylim = 500, 
                   size = 2, 
                   segment.size = 0.2, 
                   segment.curvature = -1e-20) +
@@ -102,6 +107,8 @@ EE.fig <- ggplot(data = Figure.dat, aes(x = RT, y = m.z)) +
 #  guides(color = guide_colourbar(nbin = 2, ticks = 8))
 EE.fig
 ggsave(filename = "Figures/Outputs/EE_Plot.pdf", width = 5, height = 4)
+
+ggsave(filename = "Figures/Outputs/EE_Plot.jpg", width = 5, height = 4, dpi = 300)
 
 
 

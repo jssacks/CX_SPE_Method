@@ -49,6 +49,7 @@ HQ.all.EE.2 <- left_join(HQ.all.EE, Ing.name.dat, by = "Compound.Name_old") %>%
 
 ###Rename and tidy up table for export
 supp.table.5 <- HQ.all.EE.2 %>%
+  mutate(sample = str_replace(.$sample, "A", "Aloha")) %>%
   mutate(Sample.Mean.EE = print(formatC(signif(as.numeric(Sample.Mean.EE), digits=3), digits=3,format="fg", flag="#"))) %>%
   mutate(Sample.SD.EE = print(formatC(signif(as.numeric(Sample.SD.EE), digits=3), digits=3,format="fg", flag="#"))) %>%
   mutate(Fraction = case_when(Fraction == "Pos" ~ "HILIC Pos",
@@ -63,3 +64,4 @@ supp.table.5 <- HQ.all.EE.2 %>%
 
 #export
 write_csv(supp.table.5, file = "Tables/Output/PPL_all_EE_supptable5.csv")
+

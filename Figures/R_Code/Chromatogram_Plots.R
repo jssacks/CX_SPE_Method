@@ -27,7 +27,7 @@ GBT.mass <- 118.086804
 TMAO.mass <- 76.076
 DMSAc.mass <- 121.032327
 
-mzs.eic <- c(`Homarine and Trigonelline`=homarine.mass, `Gylcine Betaine and Valine`=GBT.mass, TMAO=TMAO.mass, `DMS-Ac`=DMSAc.mass)
+mzs.eic <- c(`Trigonelline`=homarine.mass, `Gylcine Betaine and Valine`=GBT.mass, TMAO=TMAO.mass, `DMS-Ac`=DMSAc.mass)
 eic.dat <- imap_dfr(mzs.eic, function(mz_i, name){
   cbind(ms.dat$MS1[mz%between%pmppm(mz_i, ppm=10)], name)
 })
@@ -45,7 +45,7 @@ eic.dat.2 <- eic.dat %>%
 
 ###Add additional DMS-Ac data as there is no signal at this mass for 
 # most of the chromatograms (especially the Blank)
-rt <- c(450:804, 950:1000)
+rt <- c(450:804, 900:910)
 DMSAc.dat <- data.frame(rt) %>%
   mutate(rt = rt/100,
          name = "DMS-Ac",
@@ -59,7 +59,9 @@ DMSAc.Add <- full_join(DMSAc.filenames, DMSAc.dat)
 
 ##Add supplemental DMS-Ac data into the overall data frame
 eic.dat.3 <- rbind(eic.dat.2, DMSAc.Add, fill = TRUE) %>%
-  mutate(Spike_Concentration = as.factor(Spike_Concentration))
+  mutate(Spike_Concentration = as.factor(Spike_Concentration)) %>%
+  filter(rt > 6) %>%
+  filter(rt < 9.1)
 
 ##Add in ordering to Spike Concentration
 eic.dat.3$Spike_Concentration <- ordered(eic.dat.3$Spike_Concentration, 
@@ -71,10 +73,10 @@ eic.dat.3$Spike_Concentration <- ordered(eic.dat.3$Spike_Concentration,
   
 ###Define Palette 
 cbPalette <- c("#0072B2", "#CC79A7", "#009E73", "#E69F00", "#999999")
-lab.df <- tibble(x = c(5.5, 9, 6, 8.25),
-                 y = c(1.5e6, 3e6, 4e7, 1e7),
-                 text = c("Homarine", "Trigonelline", "Glycine\nBetaine", "Valine"),
-                 name = c("Homarine and Trigonelline", "Homarine and Trigonelline", "Gylcine Betaine and Valine", "Gylcine Betaine and Valine"))
+lab.df <- tibble(x = c(6.7, 8.25),
+                 y = c(4e7, 1e7),
+                 text = c("Glycine\nBetaine", "Valine"),
+                 name = c("Gylcine Betaine and Valine", "Gylcine Betaine and Valine"))
 
 ###Create Plot and save as a pdf
 Chrom.Plot.1 <- ggplot(eic.dat.3)  +
@@ -98,7 +100,7 @@ Chrom.Plot.1 <- ggplot(eic.dat.3)  +
         axis.line = element_line(size = 0.3))
 Chrom.Plot.1
 ggsave(filename = "Figures/Outputs/MainTextFig1_chomatogram.pdf", height = 5, width = 5)
-
+ggsave(filename = "Figures/Outputs/MainTextFig1_chomatogram.jpg", height = 5, width = 5, dpi = 300)
 
 
 # Supplementary Figure 1 - CXC Chromatograms -------------------------------
@@ -115,10 +117,16 @@ wash.gbt <- ms.dat.wash$MS1[mz%between%pmppm(GBT.mass, ppm = 10)] %>%
   mutate(Sample = case_when(str_detect(.$filename, "MQ") ~ "MQ-H2O", 
                             str_detect(.$filename, "W1") ~ "CXC-H2O"))
 
+CXC.labs <- c(bquote("MQ-"~H[2]*"O"), bquote("CXC-"~H[2]*"O"))
+
+CXC.labels <- c(paste(MQ-H[2]O), paste(CXC-H[2]O))
+
 ###Make Figure and Save to Outputs
 CXC.fig <- ggplot(wash.gbt) +
-  geom_line(aes(x=rt, y=int, color=Sample), size=1, alpha = 0.8) +
+  geom_line(aes(x=rt, y=int, color=Sample), size=1, alpha = 0.5) +
+  scale_color_manual(values = c("blue", "red"), labels = CXC.labs) +
   theme_classic() +
   xlab("Retention Time (min)") +
   ylab("Intensity")
+CXC.fig
 ggsave(filename = "Figures/Outputs/SupFig1_CXC_chromatogram.pdf", height = 6, width = 5)
