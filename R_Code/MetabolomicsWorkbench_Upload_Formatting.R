@@ -19,7 +19,8 @@ CX.HILIC.file <- "Intermediates/Environmental_Samples/ES_CatEx_HILIC_BMISed_BlkQ
 PPL.HILIC.file <- "Intermediates/Environmental_Samples/ES_PPL_HILIC_BMISed_BlkQCed_dat.csv"
 
 #RP
-
+CX.RP.file <- "Intermediates/Environmental_Samples/ES_CX_RP_BMISed_BlkQCed_dat.csv"
+PPL.RP.file <- "Intermediates/Environmental_Samples/ES_PPL_RP_BMISed_BlkQCed_dat.csv"
 
 
 
@@ -42,7 +43,7 @@ hilic.pos.dat <- rbind(cx.hilic.dat, ppl.hilic.dat) %>%
   mutate(MF = str_replace_all(.$MF, "_Pos", "")) %>%
   mutate(SampName = str_replace_all(.$SampID, "210322_Smp_", "")) %>%
   mutate(SampName = str_replace_all(.$SampName, "210322_Poo_", "")) %>%
-  mutate(SampName = str_replace_all(.$SampName, "Aloha", "ALOHA")) %>%
+ # mutate(SampName = str_replace_all(.$SampName, "Aloha", "ALOHA")) %>%
   select(MF, SampName, Adjusted_Area) %>%
   pivot_wider(id_cols = MF, names_from = SampName, values_from = Adjusted_Area)
 
@@ -61,14 +62,20 @@ write_tsv(hilic.pos.stds, file = "Intermediates/Environmental_Samples/CXSPE_MW_M
 
 
 #HILIC neg org
+
+##have to add NP_A,B,C data manually since no compounds HILIC Neg compounds
+# were successfully measured in those samples.
 hilic.neg.dat <- rbind(cx.hilic.dat, ppl.hilic.dat) %>%
   filter(!str_detect(.$MF, "_Pos")) %>%
   mutate(MF = str_replace_all(.$MF, "_Neg", "")) %>%
   mutate(SampName = str_replace_all(.$SampID, "210322_Smp_", "")) %>%
   mutate(SampName = str_replace_all(.$SampName, "210322_Poo_", "")) %>%
-  mutate(SampName = str_replace_all(.$SampName, "Aloha", "ALOHA")) %>%
+ # mutate(SampName = str_replace_all(.$SampName, "Aloha", "ALOHA")) %>%
   select(MF, SampName, Adjusted_Area) %>%
-  pivot_wider(id_cols = MF, names_from = SampName, values_from = Adjusted_Area)
+  pivot_wider(id_cols = MF, names_from = SampName, values_from = Adjusted_Area) %>%
+  add_column(NP_A = NA) %>%
+  add_column(NP_B = NA) %>%
+  add_column(NP_C = NA)
 
 write_tsv(hilic.neg.dat, file = "Intermediates/Environmental_Samples/CXSPE_MetabWorkbench_HILICNeg.tsv")
 
@@ -81,6 +88,29 @@ hilic.neg.stds <- stds.1 %>%
 write_tsv(hilic.neg.stds, file = "Intermediates/Environmental_Samples/CXSPE_MW_MetabMetadata_HILICNeg.tsv")
 
 
+
+####RP Org
+cx.rp.dat <- read_csv(CX.RP.file) %>%
+  select(MF, SampID, Adjusted_Area)
+ppl.rp.dat <- read_csv(PPL.RP.file) %>%
+  select(MF, SampID, Adjusted_Area)
+
+rp.dat <- rbind(cx.rp.dat, ppl.rp.dat) %>%
+  filter(!str_detect(.$SampID, "Mort")) %>%
+  mutate(SampName = str_replace_all(.$SampID, "210329_Smp_", "")) %>%
+  mutate(SampName = str_replace_all(.$SampName, "210329_Poo_", "")) %>%
+#  mutate(SampName = str_replace_all(.$SampName, "Aloha", "ALOHA")) %>%
+  select(MF, SampName, Adjusted_Area) %>%
+  pivot_wider(id_cols = MF, names_from = SampName, values_from = Adjusted_Area)
+
+write_tsv(rp.dat, file = "Intermediates/Environmental_Samples/CXSPE_MetabWorkbench_RP.tsv")
+
+###make hilic pos standards tsv
+rp.stds <- stds.1 %>%
+  filter(.$Metabolite_name %in% rp.dat$MF) %>%
+  filter(Column == "RP")
+
+write_tsv(rp.stds, file = "Intermediates/Environmental_Samples/CXSPE_MW_MetabMetadata_RP.tsv")
 
 
 
